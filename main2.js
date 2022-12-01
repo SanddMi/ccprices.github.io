@@ -82,9 +82,8 @@ $(".sections h1").click(function() {
     //window.location.href = window.location.origin + "/section?section=" + encodeURI($(this).text().toLowerCase());
     //let music = encodeURIComponent($(this).text());
     
-    const queryString = window.location.search;
-    const urlParams = new URLSearchParams(queryString);
-    const realm = urlParams.get('realm')
+    const url = new URL('https://ccprices.github.io?foo=1&bar=2');
+    const params = new URLSearchParams(url.search);
 
     //let url = `https://ccprices.github.io/${music}`;
     //window.location.href = url
