@@ -79,8 +79,12 @@ for (item in basic) {
 
 $(".sections h1").click(function() {
     //window.location.href += encodeURI($(this).text().toLowerCase());
-    window.location.href = window.location.origin + "/section?section=" + encodeURI($(this).text().toLowerCase());
+    //window.location.href = window.location.origin + "/section?section=" + encodeURI($(this).text().toLowerCase());
     //let music = encodeURIComponent($(this).text());
+    
+    const queryString = window.location.search;
+    const urlParams = new URLSearchParams(queryString);
+    const realm = urlParams.get('realm')
 
     //let url = `https://ccprices.github.io/${music}`;
     //window.location.href = url
