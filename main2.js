@@ -79,7 +79,7 @@ for (item in basic) {
 
 $(".sections h1").click(function() {
     //window.location.href += encodeURI($(this).text().toLowerCase());
-    window.location.href = window.location.origin + "/prices/cctest/section?section=" + encodeURI($(this).text().toLowerCase());
+    window.location.href = window.location.origin + "/section?section=" + encodeURI($(this).text().toLowerCase());
     //let music = encodeURIComponent($(this).text());
 
     //let url = `https://ccprices.github.io/${music}`;
