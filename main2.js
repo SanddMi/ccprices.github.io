@@ -79,7 +79,7 @@ for (item in basic) {
 
 $(".sections h1").click(function() {
     //window.location.href += encodeURI($(this).text().toLowerCase());
-    window.location.href = window.location.origin + "?" + encodeURI($(this).text().toLowerCase());
+    //window.location.href = window.location.origin + "?" + encodeURI($(this).text().toLowerCase());
     //let music = encodeURIComponent($(this).text());
     
     //url_section = new URLSearchParams(window.location.search).get("section");
@@ -96,7 +96,7 @@ $(".sections h1").click(function() {
         img = basic[section]["item"]["url"];        
         if (basic[section]["type"]["section"] == $(this).text().toUpperCase()) {
             $("#"+id_section).append(`<div style="border-bottom: ${color[basic[item]["item"]["state"]]}" class='item'><span class='${img} sprite'></span><p>${name}</p></div>`);
-            //window.location.pathname += "/"+$(this).text().toLowerCase()
+            window.location.pathname += "/"+$(this).text().toLowerCase()
             $(".sections").hide();
             $("#wearables_prices").hide();
             $("#cars_prices").hide();
