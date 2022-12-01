@@ -2,12 +2,12 @@ body {
 	margin: 0px;
 	padding: 0px;
 	background-color: rgb(0, 0, 44);
-	background-image: url(../cctest/stars.png);
+	background-image: url(./stars.png);
 }
 
 @font-face {
 	font-family: Luckiest Guy;
-	src: url('../cctest/luckiest-guy.ttf') format('truetype');
+	src: url('./luckiest-guy.ttf') format('truetype');
 }
 
 @media screen and (max-width: 767px) {
