@@ -86,4 +86,4 @@ async def on_message(message):
         #print(f)
 
 
-client.run("NDg4Mzc3MDYyMzI3ODQ0ODg0.GKGABF.lugrw1jX0Yzbov-rDqeO8G9qBfdwTQ1w3Q1Y6c")
+client.run("NDg4Mzc3MDYyMzI3ODQ0ODg0.GYO-hk._3R_JWFsMoqR4-vx1N9L5q6ZIiuzEdhhG5rV_U")
