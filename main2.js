@@ -79,15 +79,15 @@ for (item in basic) {
 
 $(".sections h1").click(function() {
     tittle_section = $(this).text();
-    id_section = $(this).text().toLowerCase().replace(" ","").replace("'","_");
-    $(".all_prices").append(`<div id="test" class="list"><h1 class="header">${tittle_section}</h1></div>`);
+    id_section = $(this).text().toLowerCase().replace(/ /gi,"_").replace(/'s/gi,"").replace("' ","_").replace(" ","_");
+    $(".all_prices").append(`<div id=${id_section} class="list"><h1 class="header">${tittle_section}</h1></div>`);
     $(".searchbar span").show();
     for (section in basic) {
         color = {"Stable":"5px solid #ffffff","Increasing":"5px solid #1fc44b","Decreasing":"5px solid #c41a1a"};
         name = basic[section]["item"]["name"]+"<br>"+basic[section]["item"]["price"]["min"].toLocaleString()+"<b> - </b>"+basic[section]["item"]["price"]["max"].toLocaleString()
         img = basic[section]["item"]["url"].replace("wearables/","").replace("cars/","");        
         if (basic[section]["type"]["section"] == $(this).text().toUpperCase()) {
-            $("#test").append(`<div style="border-bottom: ${color[basic[item]["item"]["state"]]}" class='item'><span class='${img} sprite'></span><p>${name}</p></div>`);
+            $("#"+id_section).append(`<div style="border-bottom: ${color[basic[item]["item"]["state"]]}" class='item'><span class='${img} sprite'></span><p>${name}</p></div>`);
             $(".sections").hide();
             $("#wearables_prices").hide();
             $("#cars_prices").hide();
@@ -98,7 +98,7 @@ $(".sections h1").click(function() {
     if ($(this).text() == "Back") {
         $("#wearables_prices").show();
         $("#cars_prices").show();
-        $("#test").remove();
+        $("#"+id_section).remove();
         $(".searchbar p").hide();
         $(".sections").hide();
         $("#blurred").hide();
