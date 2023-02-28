@@ -79,7 +79,7 @@ for (item in basic) {
 
 $(".sections h1").click(function() {
     tittle_section = $(this).text();
-    id_section = $(this).text().toLowerCase().replace(/ /gi,"_").replace(/'s/gi,"").replace("'","_").replace(" ","_");
+    id_section = $(this).text().toLowerCase().replace(/ /gi,"_").replace(/'s/gi,"").replace("' ","_").replace(" ","_");
     $(".all_prices").append(`<div id=${id_section} class="list"><h1 class="header">${tittle_section}</h1></div>`);
     $(".searchbar span").show();
     for (section in basic) {
