@@ -85,7 +85,7 @@ $(".sections h1").click(function() {
     for (section in basic) {
         color = {"Stable":"5px solid #ffffff","Increasing":"5px solid #1fc44b","Decreasing":"5px solid #c41a1a"};
         name = basic[section]["item"]["name"]+"<br>"+basic[section]["item"]["price"]["min"].toLocaleString()+"<b> - </b>"+basic[section]["item"]["price"]["max"].toLocaleString()
-        img = basic[section]["item"]["url"];        
+        img = basic[section]["item"]["url"].replace("wearables/","").replace("cars/","");        
         if (basic[section]["type"]["section"] == $(this).text().toUpperCase()) {
             $("#"+id_section).append(`<div style="border-bottom: ${color[basic[item]["item"]["state"]]}" class='item'><span class='${img} sprite'></span><p>${name}</p></div>`);
             $(".sections").hide();
