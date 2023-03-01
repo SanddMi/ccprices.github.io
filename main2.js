@@ -16,7 +16,7 @@ $(".searchbar span").on("click", function(event) {
 
 
 $(".searchbar span").on("click", function(event) {
-    $(".sections").css({"display":"block"});
+    $(".sections").css({"opacity":"1"});
     $(".searchbar span").hide();
 })
 
@@ -25,7 +25,7 @@ $(document).mouseup(function(event) {
     var blurred = $(".blurred");
     var menu = $(".searchbar span");
     if (!sections.is(event.target) && sections.has(event.target).length === 0) {
-        sections.hide();
+        sections.css({"opacity":"0"});
         blurred.hide();
         menu.show();
     }
@@ -88,7 +88,7 @@ $(".sections h1").click(function() {
         img = basic[section]["item"]["url"].replace("wearables/","").replace("cars/","");        
         if (basic[section]["type"]["section"] == $(this).text().toUpperCase()) {
             $("#"+id_section).append(`<div style="border-bottom: ${color[basic[item]["item"]["state"]]}" class='item'><span class='${img} sprite'></span><p>${name}</p></div>`);
-            $(".sections").hide();
+            $(".sections").css({"opacity":"0"});
             $("#wearables_prices").hide();
             $("#cars_prices").hide();
             $("#blurred").hide();
@@ -100,7 +100,7 @@ $(".sections h1").click(function() {
         $("#cars_prices").show();
         $("#"+id_section).remove();
         $(".searchbar p").hide();
-        $(".sections").hide();
+        $(".sections").css({"opacity":"0"});
         $("#blurred").hide();
     }
 
