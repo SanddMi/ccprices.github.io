@@ -60,6 +60,7 @@ body {
 		transform: translate(-50%,-50%) !important;
 		top: 54%;
 		left: 50% !important;
+		transition-duration: 0.5s;
 	}
 
 	.sections h1 {
@@ -114,6 +115,7 @@ body {
 	scrollbar-width: none;
 	border-radius: 10px;
 	transform: translate(3%,-50%);
+	transition-duration: 0.5s;
 	top: 54%;
 }
 
