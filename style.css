@@ -53,14 +53,13 @@ body {
 		height: 85%;
 		background: rgba(0, 0, 44, 0.95);
 		box-shadow:  2px 2px rgb(0, 0, 44), 5px 5px rgb(0 0 0 / 50%);
-		opacity: 0;
+		display: none;
 		overflow-y: scroll;
 		scrollbar-width: none;
 		border-radius: 10px;
 		transform: translate(-50%,-50%) !important;
 		top: 54%;
 		left: 50% !important;
-		transition-duration: 0.5s;
 	}
 
 	.sections h1 {
@@ -110,12 +109,11 @@ body {
 	height: 85%;
 	background: rgba(0, 0, 44, 0.95);
 	box-shadow:  2px 2px rgb(0, 0, 44), 5px 5px rgb(0 0 0 / 50%);
-	opacity: 0;
+	display: none;
 	overflow-y: scroll;
 	scrollbar-width: none;
 	border-radius: 10px;
 	transform: translate(3%,-50%);
-	transition-duration: 0.5s;
 	top: 54%;
 }
 
