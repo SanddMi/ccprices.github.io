@@ -8848,11 +8848,11 @@
             "section": "Fan",
             "name": "Qbeets Headphone",
             "price": {
-                "min": 6000,
-                "max": 8000
+                "min": 5500,
+                "max": 6500
             },
             "state": "Stable",
-            "last_updated": "21/Jan/2023",
+            "last_updated": "02/Mar/2023",
             "url": "wearables/IMG_696"
         }
     },
