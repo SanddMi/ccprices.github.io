@@ -124,6 +124,7 @@ body {
 
 .sections h1:hover {
 	transform: scale(1.05);
+	user-select: none;
 }
 
 .searchbar {
