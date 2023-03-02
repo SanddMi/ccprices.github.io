@@ -41,24 +41,12 @@ $(document).ready(function() {
 });
 
 
-sections = ["Hat Pack","Wing Pack","Critter Suit Pack","Accessories Pack","Clothes Pack","Clothes Item","Quest","Virus","Dungeon Pack","Track Pack","Kitchen Pack","Ocean Pack","Sci-fi Pack","Steampunk Pack","Adventure Pack","Fishing Pack","April Fools' Day","Easter","Valentine's Day","Summer","Fan","Halloween","Thanksgiving","Christmas","Farm Pack","Wands","New Year's Day"]
+sections = ["Hat Pack","Wing Pack","Critter Suit Pack","Accessories Pack","Clothes Pack","Clothes Item","Quest","Virus","Dungeon Pack","Track Pack","Kitchen Pack","Ocean Pack","Sci-fi Pack","Steampunk Pack","Adventure Pack","Fishing Pack","April Fools' Day","Easter","Valentine's Day","Summer","Fan","Halloween","Thanksgiving","Christmas","Farm Pack","Wands","New Year's Day","Slymecorp Pack","Chess Pack"];
+sections.sort()
 
 for (section in sections) {
     $(".sections").append(`<h1>${sections[section]}</h1>`);
 }
-
-/*$(".sections h1").on("click", function(event) {
-    window.location.href = window.location.origin + "/prices/cctest/section?section=" + encodeURI($(this).text().toLowerCase());
-    for (section in basic) {
-        color = {"Stable":"5px solid #ffffff","Increasing":"5px solid #1fc44b","Decreasing":"5px solid #c41a1a"};
-        names = basic[section]["item"]["name"]+"<br>"+basic[section]["item"]["price"]["min"]+" - "+basic[section]["item"]["price"]["max"];
-        imgs = "https://www.cubiccastles.com/recipe_html/"+basic[section]["item"]["url"]+".png";
-        if (basic[section]["type"]["section"] == $(this).text().toUpperCase()) {
-            $("#section2").append(`<div style="border-bottom: ${color[basic[section]["item"]["state"]]}" class='item'><span class='${img} sprite'></span><p>${name}</p></div>`);
-            console.log(basic[section]["item"]["name"]);
-        };
-    }
-})*/
 
 wearables = ["Hat Pack","Wing Pack","Critter Suit Pack","Accessories Pack","Clothes Pack","Clothes Item","Quest","Virus","Dungeon Pack","Track Pack","Kitchen Pack","Ocean Pack","Sci-fi Pack","Steampunk Pack","Adventure Pack","Fishing Pack","April Fools' Day","Easter","Valentine's Day'","Summer","Fan","Halloween","Thanksgiving","Christmas","Farm Pack","Wands","New Year's Day"]
 
