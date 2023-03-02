@@ -16,7 +16,7 @@ $(".searchbar span").on("click", function(event) {
 
 
 $(".searchbar span").on("click", function(event) {
-    $(".sections").css({"display":"block"});
+    $(".sections").css({"display":"inline-block"});
     $(".searchbar span").hide();
 })
 
