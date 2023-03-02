@@ -85,14 +85,11 @@ body {
 }
 
 #menu {
-	overflow: hidden;
 	text-align: center;
 	scroll-behavior: smooth;
     position: absolute;
-    width: 100%;
     height: Calc(100% - 50px);
     bottom: 0px;
-    left: 0px;
     overflow-y: scroll;
 }
 
