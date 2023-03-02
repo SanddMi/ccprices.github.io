@@ -13149,11 +13149,11 @@
             "section": "New Year's Day",
             "name": "Cube Balloon",
             "price": {
-                "min": 4000,
-                "max": 5000
+                "min": 2000,
+                "max": 3000
             },
             "state": "Stable",
-            "last_updated": "12/Feb/2023",
+            "last_updated": "02/Mar/2023",
             "url": "wearables/IMG_632"
         }
     },
