@@ -3323,11 +3323,11 @@
             "section": "Quest",
             "name": "Sun Crown",
             "price": {
-                "min": 750,
-                "max": 1250
+                "min": 600,
+                "max": 800
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "02/Mar/2023",
             "url": "wearables/IMG_269"
         }
     },
