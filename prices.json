@@ -7539,11 +7539,11 @@
             "section": "Valentine's Day",
             "name": "Red Tuxedo Top",
             "price": {
-                "min": 7500,
-                "max": 10000
+                "min": 17500,
+                "max": 22500
             },
             "state": "Stable",
-            "last_updated": "05/Feb/2023",
+            "last_updated": "02/Mar/2023",
             "url": "wearables/IMG_768"
         }
     },
