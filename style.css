@@ -55,7 +55,6 @@ body {
 		transition-duration: .5s;
 		display: none;
 		margin: 5px;
-		top: 20%;
 		border: solid 1px white;
 	}
 
@@ -88,6 +87,13 @@ body {
 #menu {
 	overflow: hidden;
 	text-align: center;
+	scroll-behavior: smooth;
+    position: absolute;
+    width: 100%;
+    height: Calc(100% - 50px);
+    bottom: 0px;
+    left: 0px;
+    overflow-y: scroll;
 }
 
 .sections {
