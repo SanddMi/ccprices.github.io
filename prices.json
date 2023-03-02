@@ -7556,11 +7556,11 @@
             "section": "Valentine's Day",
             "name": "Red Tuxedo Pants",
             "price": {
-                "min": 4500,
-                "max": 5500
+                "min": 17500,
+                "max": 22500
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "02/Mar/2023",
             "url": "wearables/IMG_769"
         }
     },
