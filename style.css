@@ -67,6 +67,7 @@ body {
 		text-shadow: -1px -1px 0 rgb(0 0 0), -1px 0px 0 rgb(0 0 0), 1px -1px 0 rgb(0 0 0), 1px 0px 0 rgb(0 0 0), -1px 1px 0 rgb(0 0 0), 0px 1px 0 rgb(0 0 0), 0px -1px rgb(0 0 0), 1px 1px 0 rgb(0 0 0);
 		cursor: pointer;
 		transition-duration: .4s;
+		user-select: none;
 		padding: 3px;
 	}
 
@@ -117,6 +118,7 @@ body {
 	text-shadow: -1px -1px 0 rgb(0 0 0), -1px 0px 0 rgb(0 0 0), 1px -1px 0 rgb(0 0 0), 1px 0px 0 rgb(0 0 0), -1px 1px 0 rgb(0 0 0), 0px 1px 0 rgb(0 0 0), 0px -1px rgb(0 0 0), 1px 1px 0 rgb(0 0 0);
 	cursor: pointer;
 	transition-duration: .4s;
+	user-select: none;
 	padding: 3px;
 }
 
