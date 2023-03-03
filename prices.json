@@ -3408,11 +3408,11 @@
             "section": "Dungeon Pack",
             "name": "Iron Mask",
             "price": {
-                "min": 2750,
-                "max": 3250
+                "min": 2500,
+                "max": 3000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "03/Mar/2023",
             "url": "wearables/IMG_171"
         }
     },
@@ -7556,11 +7556,11 @@
             "section": "Valentine's Day",
             "name": "Red Tuxedo Pants",
             "price": {
-                "min": 17500,
-                "max": 22500
+                "min": 12500,
+                "max": 15000
             },
             "state": "Stable",
-            "last_updated": "02/Mar/2023",
+            "last_updated": "03/Mar/2023",
             "url": "wearables/IMG_769"
         }
     },
