@@ -11330,11 +11330,11 @@
             "section": "Thanksgiving",
             "name": "Turkey Leg Balloon",
             "price": {
-                "min": 4000,
-                "max": 5000
+                "min": 2500,
+                "max": 3500
             },
             "state": "Stable",
-            "last_updated": "5/Jan/2023",
+            "last_updated": "03/Mar/2023",
             "url": "wearables/turkey_leg_balloon"
         }
     },
