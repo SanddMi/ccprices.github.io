@@ -9307,8 +9307,8 @@
             "section": "Halloween",
             "name": "Monster Head",
             "price": {
-                "min": 175000,
-                "max": 200000
+                "min": 140000,
+                "max": 160000
             },
             "state": "Stable",
             "last_updated": "04/Mar/2023",
