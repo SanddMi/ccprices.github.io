@@ -9460,11 +9460,11 @@
             "section": "Halloween",
             "name": "Dark Visitor",
             "price": {
-                "min": 15000,
-                "max": 20000
+                "min": 10000,
+                "max": 15000
             },
             "state": "Stable",
-            "last_updated": "25/Feb/2023",
+            "last_updated": "07/Mar/2023",
             "url": "wearables/IMG_389"
         }
     },
