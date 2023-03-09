@@ -12843,11 +12843,11 @@
             "section": "Christmas",
             "name": "Snowman Balloon",
             "price": {
-                "min": 3000,
-                "max": 4000
+                "min": 2500,
+                "max": 3500
             },
             "state": "Stable",
-            "last_updated": "5/Jan/2023",
+            "last_updated": "09/Mar/2023",
             "url": "wearables/snowman_balloon"
         }
     },
