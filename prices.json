@@ -3408,11 +3408,11 @@
             "section": "Dungeon Pack",
             "name": "Iron Mask",
             "price": {
-                "min": 2500,
-                "max": 3000
+                "min": 2250,
+                "max": 2750
             },
             "state": "Stable",
-            "last_updated": "03/Mar/2023",
+            "last_updated": "09/Mar/2023",
             "url": "wearables/IMG_171"
         }
     },
@@ -9033,7 +9033,7 @@
         },
         "item": {
             "section": "Halloween",
-            "name": "Spriderbrella",
+            "name": "Spiderbrella",
             "price": {
                 "min": 1750,
                 "max": 2500
