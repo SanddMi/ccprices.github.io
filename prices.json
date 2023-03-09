@@ -13558,10 +13558,10 @@
             "name": "Dracu Mobile Key",
             "price": {
                 "min": 25000,
-                "max": 30000
+                "max": 27500
             },
             "state": "Stable",
-            "last_updated": "26/Feb/2023",
+            "last_updated": "09/Mar/2023",
             "url": "cars/255"
         }
     },
