@@ -9596,8 +9596,8 @@
             "section": "Halloween",
             "name": "Pumpkin Head",
             "price": {
-                "min": 2000,
-                "max": 3000
+                "min": 1500,
+                "max": 2500
             },
             "state": "Decreasing",
             "last_updated": "11/Mar/2023",
