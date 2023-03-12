@@ -6944,11 +6944,11 @@
             "section": "Valentine's Day",
             "name": "Love Balloon",
             "price": {
-                "min": 425000,
-                "max": 475000
+                "min": 200000,
+                "max": 250000
             },
             "state": "Stable",
-            "last_updated": "09/Mar/2023",
+            "last_updated": "12/Mar/2023",
             "url": "wearables/IMG_295"
         }
     },
