@@ -11415,11 +11415,11 @@
             "section": "Thanksgiving",
             "name": "Monochrome Turkey Tail",
             "price": {
-                "min": 800000,
-                "max": 900000
+                "min": 700000,
+                "max": 750000
             },
             "state": "Stable",
-            "last_updated": "05/Feb/2023",
+            "last_updated": "12/Mar/2023",
             "url": "wearables/monochrome_turkey_tail"
         }
     },
