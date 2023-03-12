@@ -41,7 +41,7 @@ $(document).ready(function() {
 });
 
 $(".item").on("click", function(){
-    clipboard = document.getElementsByClassName(".item p")
+    clipboard = document.getElementsByClassName("item p");
     clipboard.select();
     clipboard.setSelectionRange(0, 99999);
 })
