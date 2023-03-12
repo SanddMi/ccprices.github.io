@@ -41,7 +41,7 @@ $(document).ready(function() {
 });
 
 $(".item").on("click", function(){
-    clipboard = document.getElementById('item p');
+    clipboard = document.getElementById($(this).text());
     clipboard.select();
     clipboard.setSelectionRange(0, 99999);
     document.execCommand("copy");
