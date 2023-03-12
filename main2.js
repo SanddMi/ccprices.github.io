@@ -41,8 +41,9 @@ $(document).ready(function() {
 });
 
 $(".item").on("click", function(){
-    $(".item p").select();
-    $(".item p").setSelectionRange(0, 99999);
+    clipboard = document.getElementsByClassName(".item p")
+    clipboard.select();
+    clipboard.setSelectionRange(0, 99999);
 })
 
 sections = ["Back","Hat Pack","Wing Pack","Critter Suit Pack","Accessories Pack","Clothes Pack","Clothes Item","Quest","Virus","Dungeon Pack","Track Pack","Kitchen Pack","Ocean Pack","Sci-fi Pack","Steampunk Pack","Adventure Pack","Fishing Pack","April Fools' Day","Easter","Valentine's Day","Summer","Fan","Halloween","Thanksgiving","Christmas","Farm Pack","Wands","New Year's Day","Slymecorp Pack","Chess Pack"];
