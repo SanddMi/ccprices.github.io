@@ -11418,7 +11418,7 @@
                 "min": 700000,
                 "max": 750000
             },
-            "state": "Stable",
+            "state": "Decreasing",
             "last_updated": "12/Mar/2023",
             "url": "wearables/monochrome_turkey_tail"
         }
