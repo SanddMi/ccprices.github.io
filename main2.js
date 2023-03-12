@@ -41,7 +41,14 @@ $(document).ready(function() {
 });
 
 $(".item").on("click", function(){
-    clipboard = document.getElementsByClassName("item p");
+    outputText = "";
+    targets = document.getElementsByClassName('item p');
+
+    for(var i = 0; i < targets.length; i++ ) {
+        outputText += targets[i].innerText;
+    }
+
+    output = document.getElementById('output');
     clipboard.select();
     clipboard.setSelectionRange(0, 99999);
 })
