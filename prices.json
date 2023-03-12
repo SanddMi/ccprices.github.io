@@ -11398,11 +11398,11 @@
             "section": "Thanksgiving",
             "name": "Rainbow Turkey Tail",
             "price": {
-                "min": 400000,
-                "max": 450000
+                "min": 380000,
+                "max": 420000
             },
             "state": "Stable",
-            "last_updated": "5/Jan/2023",
+            "last_updated": "12/Mar/2023",
             "url": "wearables/rainbow_turkey_tail"
         }
     },
