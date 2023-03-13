@@ -8372,11 +8372,11 @@
             "section": "Summer",
             "name": "Blue Backpack",
             "price": {
-                "min": 10000,
-                "max": 12500
+                "min": 8000,
+                "max": 10000
             },
             "state": "Stable",
-            "last_updated": "25/Feb/2023",
+            "last_updated": "13/Mar/2023",
             "url": "wearables/IMG_359"
         }
     },
