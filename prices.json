@@ -9511,11 +9511,11 @@
             "section": "Halloween",
             "name": "Plague Doctor",
             "price": {
-                "min": 250,
-                "max": 450
+                "min": 400,
+                "max": 600
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/IMG_376"
         }
     },
