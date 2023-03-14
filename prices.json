@@ -6452,10 +6452,10 @@
             "name": "Cupid's Halo",
             "price": {
                 "min": 2000000,
-                "max": 2250000
+                "max": 2150000
             },
             "state": "Decreasing",
-            "last_updated": "17/Feb/2023",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/IMG_149"
         }
     },
