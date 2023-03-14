@@ -5499,11 +5499,11 @@
             "section": "Easter",
             "name": "Duck Hat",
             "price": {
-                "min": 20000,
-                "max": 22500
+                "min": 17500,
+                "max": 20000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/IMG_347"
         }
     },
