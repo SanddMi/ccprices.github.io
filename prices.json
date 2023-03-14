@@ -14152,11 +14152,11 @@
             "section": "Stamps",
             "name": "Halloween Night",
             "price": {
-                "min": 5000,
-                "max": 7500
+                "min": 4000,
+                "max": 5000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "14/Mar/2023",
             "url": "stamps/IMG_073"
         }
     },
