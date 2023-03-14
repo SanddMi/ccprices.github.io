@@ -12537,11 +12537,11 @@
             "section": "Christmas",
             "name": "Shiny Nose",
             "price": {
-                "min": 10000,
-                "max": 12500
+                "min": 8000,
+                "max": 10000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/IMG_135"
         }
     },
