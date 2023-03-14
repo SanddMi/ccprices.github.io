@@ -8,11 +8,11 @@
             "section": "Hat Pack",
             "name": "Top Hat",
             "price": {
-                "min": 1,
-                "max": 2
+                "min": 100,
+                "max": 200
             },
             "state": "Stable",
-            "last_updated": "14/Mar/2023",
+            "last_updated": "28/Feb/2023",
             "url": "wearables/IMG_001"
         }
     },
@@ -603,11 +603,11 @@
             "section": "Hat Pack",
             "name": "Cheese Head",
             "price": {
-                "min": 3500,
-                "max": 4500
+                "min": 3000,
+                "max": 4000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/IMG_108"
         }
     },
@@ -5227,11 +5227,11 @@
             "section": "Easter",
             "name": "Red Cherry Blossom Umbrella",
             "price": {
-                "min": 12500,
-                "max": 15000
+                "min": 8000,
+                "max": 12000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/IMG_670"
         }
     },
@@ -5244,11 +5244,11 @@
             "section": "Easter",
             "name": "Pink Cherry Blossom Umbrella",
             "price": {
-                "min": 10000,
-                "max": 12500
+                "min": 8000,
+                "max": 12000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/IMG_671"
         }
     },
@@ -5261,11 +5261,11 @@
             "section": "Easter",
             "name": "Red Traditional Umbrella",
             "price": {
-                "min": 45000,
-                "max": 55000
+                "min": 40000,
+                "max": 50000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "12/Mar/2023",
             "url": "wearables/IMG_669"
         }
     },
@@ -5499,11 +5499,11 @@
             "section": "Easter",
             "name": "Duck Hat",
             "price": {
-                "min": 20000,
-                "max": 22500
+                "min": 17500,
+                "max": 20000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/IMG_347"
         }
     },
@@ -5550,11 +5550,11 @@
             "section": "Easter",
             "name": "Mushroom Hat",
             "price": {
-                "min": 35000,
-                "max": 40000
+                "min": 30000,
+                "max": 35000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/IMG_568"
         }
     },
@@ -5567,11 +5567,11 @@
             "section": "Easter",
             "name": "Snail Backpack",
             "price": {
-                "min": 30000,
-                "max": 35000
+                "min": 25000,
+                "max": 30000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/IMG_567"
         }
     },
@@ -5687,10 +5687,10 @@
             "name": "Egg Cap",
             "price": {
                 "min": 1500,
-                "max": 2500
+                "max": 2000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/IMG_349"
         }
     },
@@ -5754,11 +5754,11 @@
             "section": "Easter",
             "name": "Carrot Hat",
             "price": {
-                "min": 350,
-                "max": 550
+                "min": 500,
+                "max": 1000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/IMG_346"
         }
     },
@@ -6196,11 +6196,11 @@
             "section": "Easter",
             "name": "Blue Kimono Skirt",
             "price": {
-                "min": 1750,
-                "max": 2500
+                "min": 1250,
+                "max": 2000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/IMG_660"
         }
     },
@@ -6230,11 +6230,11 @@
             "section": "Easter",
             "name": "Pink Kimono Skirt",
             "price": {
-                "min": 1750,
-                "max": 2500
+                "min": 1250,
+                "max": 2000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/IMG_662"
         }
     },
@@ -6315,11 +6315,11 @@
             "section": "Easter",
             "name": "Egg Head",
             "price": {
-                "min": 7500,
-                "max": 9000
+                "min": 6000,
+                "max": 8000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/IMG_775"
         }
     },
@@ -6452,10 +6452,10 @@
             "name": "Cupid's Halo",
             "price": {
                 "min": 2000000,
-                "max": 2250000
+                "max": 2150000
             },
             "state": "Decreasing",
-            "last_updated": "17/Feb/2023",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/IMG_149"
         }
     },
@@ -6570,11 +6570,11 @@
             "section": "Valentine's Day",
             "name": "Stuff Toy BackPack",
             "price": {
-                "min": 150,
-                "max": 250
+                "min": 200,
+                "max": 300
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/IMG_420"
         }
     },
@@ -6791,11 +6791,11 @@
             "section": "Valentine's Day",
             "name": "Panda Hat",
             "price": {
-                "min": 12000,
-                "max": 16000
+                "min": 17500,
+                "max": 20000
             },
-            "state": "Stable",
-            "last_updated": "26/Feb/2023",
+            "state": "Increasing",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/IMG_418"
         }
     },
@@ -6944,11 +6944,11 @@
             "section": "Valentine's Day",
             "name": "Love Balloon",
             "price": {
-                "min": 425000,
-                "max": 475000
+                "min": 250000,
+                "max": 350000
             },
-            "state": "Stable",
-            "last_updated": "09/Mar/2023",
+            "state": "Decreasing",
+            "last_updated": "13/Mar/2023",
             "url": "wearables/IMG_295"
         }
     },
@@ -7709,11 +7709,11 @@
             "section": "Valentine's Day",
             "name": "Heart Headphones",
             "price": {
-                "min": 3500,
-                "max": 4500
+                "min": 3000,
+                "max": 4000
             },
             "state": "Stable",
-            "last_updated": "02/Mar/2023",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/error"
         }
     },
@@ -8338,11 +8338,11 @@
             "section": "Summer",
             "name": "Leather Backpack",
             "price": {
-                "min": 10000,
-                "max": 12500
+                "min": 8000,
+                "max": 10000
             },
             "state": "Stable",
-            "last_updated": "07/Feb/2023",
+            "last_updated": "13/Mar/2023",
             "url": "wearables/IMG_360"
         }
     },
@@ -8355,11 +8355,11 @@
             "section": "Summer",
             "name": "Camo Backpack",
             "price": {
-                "min": 10000,
-                "max": 12500
+                "min": 8000,
+                "max": 10000
             },
             "state": "Stable",
-            "last_updated": "08/Feb/2023",
+            "last_updated": "13/Mar/2023",
             "url": "wearables/IMG_361"
         }
     },
@@ -8372,11 +8372,11 @@
             "section": "Summer",
             "name": "Blue Backpack",
             "price": {
-                "min": 10000,
-                "max": 12500
+                "min": 8000,
+                "max": 10000
             },
             "state": "Stable",
-            "last_updated": "25/Feb/2023",
+            "last_updated": "13/Mar/2023",
             "url": "wearables/IMG_359"
         }
     },
@@ -8576,11 +8576,11 @@
             "section": "Fan",
             "name": "Walking Cane",
             "price": {
-                "min": 8000,
-                "max": 10000
+                "min": 6000,
+                "max": 8000
             },
             "state": "Decreasing",
-            "last_updated": "02/Mar/2023",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/IMG_698"
         }
     },
@@ -9358,11 +9358,11 @@
             "section": "Halloween",
             "name": "Pyramid Head",
             "price": {
-                "min": 15000,
-                "max": 20000
+                "min": 12500,
+                "max": 17500
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/IMG_504"
         }
     },
@@ -9477,11 +9477,11 @@
             "section": "Halloween",
             "name": "Black Plague Doctor",
             "price": {
-                "min": 4000,
-                "max": 6000
+                "min": 4500,
+                "max": 5500
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/IMG_392"
         }
     },
@@ -9495,10 +9495,10 @@
             "name": "Grey Plague Doctor",
             "price": {
                 "min": 4000,
-                "max": 5500
+                "max": 5000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/IMG_393"
         }
     },
@@ -9511,11 +9511,11 @@
             "section": "Halloween",
             "name": "Plague Doctor",
             "price": {
-                "min": 250,
-                "max": 450
+                "min": 400,
+                "max": 600
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/IMG_376"
         }
     },
@@ -9613,11 +9613,11 @@
             "section": "Halloween",
             "name": "Robot Head",
             "price": {
-                "min": 150,
-                "max": 250
+                "min": 200,
+                "max": 400
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/IMG_105"
         }
     },
@@ -9630,11 +9630,11 @@
             "section": "Halloween",
             "name": "Skull Head",
             "price": {
-                "min": 150,
-                "max": 300
+                "min": 200,
+                "max": 400
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/IMG_107"
         }
     },
@@ -9691,18 +9691,18 @@
     },
     {
         "type": {
-            "name": "MAD SCIENTIS WIG",
+            "name": "MAD SCIENTIST WIG",
             "section": "HALLOWEEN"
         },
         "item": {
             "section": "Halloween",
-            "name": "Mad Scientis Wig",
+            "name": "Mad Scientist Wig",
             "price": {
-                "min": 250,
-                "max": 450
+                "min": 300,
+                "max": 500
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "12/Mar/2023",
             "url": "wearables/IMG_595"
         }
     },
@@ -9715,11 +9715,11 @@
             "section": "Halloween",
             "name": "Lagoon Lurker",
             "price": {
-                "min": 150,
-                "max": 250
+                "min": 200,
+                "max": 300
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/IMG_378"
         }
     },
@@ -10259,11 +10259,11 @@
             "section": "Halloween",
             "name": "Katanda on Back",
             "price": {
-                "min": 4000,
-                "max": 6000
+                "min": 3000,
+                "max": 4000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "12/Mar/2023",
             "url": "wearables/IMG_738"
         }
     },
@@ -10463,11 +10463,11 @@
             "section": "Halloween",
             "name": "Knife",
             "price": {
-                "min": 10000,
-                "max": 12500
+                "min": 9000,
+                "max": 11000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/error"
         }
     },
@@ -10497,11 +10497,11 @@
             "section": "Halloween",
             "name": "Candle Hat",
             "price": {
-                "min": 1000,
-                "max": 1500
+                "min": 800,
+                "max": 1200
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/error"
         }
     },
@@ -11398,11 +11398,11 @@
             "section": "Thanksgiving",
             "name": "Rainbow Turkey Tail",
             "price": {
-                "min": 400000,
-                "max": 450000
+                "min": 380000,
+                "max": 420000
             },
             "state": "Stable",
-            "last_updated": "5/Jan/2023",
+            "last_updated": "12/Mar/2023",
             "url": "wearables/rainbow_turkey_tail"
         }
     },
@@ -11415,11 +11415,11 @@
             "section": "Thanksgiving",
             "name": "Monochrome Turkey Tail",
             "price": {
-                "min": 800000,
-                "max": 900000
+                "min": 600000,
+                "max": 700000
             },
-            "state": "Stable",
-            "last_updated": "05/Feb/2023",
+            "state": "Decreasing",
+            "last_updated": "13/Mar/2023",
             "url": "wearables/monochrome_turkey_tail"
         }
     },
@@ -12129,11 +12129,11 @@
             "section": "Christmas",
             "name": "Orange & Yellow Scarf",
             "price": {
-                "min": 125000,
-                "max": 150000
+                "min": 120000,
+                "max": 140000
             },
             "state": "Stable",
-            "last_updated": "05/Feb/2023",
+            "last_updated": "13/Mar/2023",
             "url": "wearables/IMG_139"
         }
     },
@@ -12231,11 +12231,11 @@
             "section": "Christmas",
             "name": "Winter Scarf",
             "price": {
-                "min": 2000,
-                "max": 3000
+                "min": 1500,
+                "max": 2500
             },
             "state": "Stable",
-            "last_updated": "26/Feb/2023",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/IMG_757"
         }
     },
@@ -12299,11 +12299,11 @@
             "section": "Christmas",
             "name": "Icy Wings",
             "price": {
-                "min": 1000,
-                "max": 1500
+                "min": 750,
+                "max": 1250
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/IMG_750"
         }
     },
@@ -12316,11 +12316,11 @@
             "section": "Christmas",
             "name": "Winter Umbrella",
             "price": {
-                "min": 30000,
-                "max": 35000
+                "min": 27500,
+                "max": 32500
             },
             "state": "Stable",
-            "last_updated": "29/Jan/2023",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/IMG_524"
         }
     },
@@ -12537,11 +12537,11 @@
             "section": "Christmas",
             "name": "Shiny Nose",
             "price": {
-                "min": 10000,
-                "max": 12500
+                "min": 8000,
+                "max": 10000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/IMG_135"
         }
     },
@@ -13506,11 +13506,11 @@
             "section": "Valentine's Day",
             "name": "Luvmobile Key",
             "price": {
-                "min": 400000,
-                "max": 450000
+                "min": 380000,
+                "max": 430000
             },
             "state": "Stable",
-            "last_updated": "02/Mar/2023",
+            "last_updated": "14/Mar/2023",
             "url": "cars/178"
         }
     },
@@ -13625,11 +13625,11 @@
             "section": "Car",
             "name": "Rocket Sled",
             "price": {
-                "min": 150000,
-                "max": 175000
+                "min": 80000,
+                "max": 100000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "14/Mar/2023",
             "url": "cars/228"
         }
     },
@@ -14152,11 +14152,11 @@
             "section": "Stamps",
             "name": "Halloween Night",
             "price": {
-                "min": 5000,
-                "max": 7500
+                "min": 4000,
+                "max": 5000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "14/Mar/2023",
             "url": "stamps/IMG_073"
         }
     },
