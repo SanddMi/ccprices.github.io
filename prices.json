@@ -10463,11 +10463,11 @@
             "section": "Halloween",
             "name": "Knife",
             "price": {
-                "min": 10000,
-                "max": 12500
+                "min": 9000,
+                "max": 11000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/error"
         }
     },
