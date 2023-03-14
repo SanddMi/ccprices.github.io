@@ -9715,11 +9715,11 @@
             "section": "Halloween",
             "name": "Lagoon Lurker",
             "price": {
-                "min": 150,
-                "max": 250
+                "min": 200,
+                "max": 300
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/IMG_378"
         }
     },
