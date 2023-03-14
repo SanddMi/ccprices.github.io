@@ -12299,11 +12299,11 @@
             "section": "Christmas",
             "name": "Icy Wings",
             "price": {
-                "min": 1000,
-                "max": 1500
+                "min": 750,
+                "max": 1250
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "14/Mar/2023",
             "url": "wearables/IMG_750"
         }
     },
