@@ -8049,11 +8049,11 @@
             "section": "Valentine's Day",
             "name": "Heart Eyes",
             "price": {
-                "min": 14000,
-                "max": 18000
+                "min": 10000,
+                "max": 15000
             },
             "state": "Stable",
-            "last_updated": "25/Feb/2023",
+            "last_updated": "16/Mar/2023",
             "url": "wearables/IMG_853"
         }
     },
