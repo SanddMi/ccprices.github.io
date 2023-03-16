@@ -4620,7 +4620,7 @@
             },
             "state": "Stable",
             "last_updated": "09/Jan/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_802"
         }
     },
     {
@@ -4637,7 +4637,7 @@
             },
             "state": "Stable",
             "last_updated": "09/Jan/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_805"
         }
     },
     {
@@ -4654,7 +4654,7 @@
             },
             "state": "Stable",
             "last_updated": "09/Jan/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_806"
         }
     },
     {
@@ -4671,7 +4671,7 @@
             },
             "state": "Stable",
             "last_updated": "09/Jan/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_803"
         }
     },
     {
@@ -4688,7 +4688,7 @@
             },
             "state": "Stable",
             "last_updated": "09/Jan/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_801"
         }
     },
     {
@@ -4705,7 +4705,7 @@
             },
             "state": "Stable",
             "last_updated": "09/Jan/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_804"
         }
     },
     {
@@ -4722,7 +4722,7 @@
             },
             "state": "Stable",
             "last_updated": "09/Jan/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_796"
         }
     },
     {
@@ -4739,7 +4739,7 @@
             },
             "state": "Stable",
             "last_updated": "09/Jan/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_799"
         }
     },
     {
@@ -4756,7 +4756,7 @@
             },
             "state": "Stable",
             "last_updated": "09/Jan/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_800"
         }
     },
     {
@@ -4773,7 +4773,7 @@
             },
             "state": "Stable",
             "last_updated": "09/Jan/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_797"
         }
     },
     {
@@ -4790,7 +4790,7 @@
             },
             "state": "Stable",
             "last_updated": "09/Jan/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_795"
         }
     },
     {
@@ -4807,7 +4807,7 @@
             },
             "state": "Stable",
             "last_updated": "09/Jan/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_798"
         }
     },
     {
@@ -6427,6 +6427,329 @@
     },
     {
         "type": {
+            "name": "RAINBOW HAT",
+            "section": "NEW_WEARABLES"
+        },
+        "item": {
+            "section": "Easter",
+            "name": "Rainbow Hat",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "soon",
+            "url": "wearables/IMG_861"
+        }
+    },
+    {
+        "type": {
+            "name": "RAINBOW PAJAMA SHIRT",
+            "section": "NEW_WEARABLES"
+        },
+        "item": {
+            "section": "Easter",
+            "name": "Rainbow Pajama Shirt",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "soon",
+            "url": "wearables/IMG_863"
+        }
+    },
+    {
+        "type": {
+            "name": "RAINBOW PAJAMA PANTS",
+            "section": "NEW_WEARABLES"
+        },
+        "item": {
+            "section": "Easter",
+            "name": "Rainbow Pajama Pants",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "soon",
+            "url": "wearables/IMG_864"
+        }
+    },
+    {
+        "type": {
+            "name": "RAINBOW WINGS",
+            "section": "NEW_WEARABLES"
+        },
+        "item": {
+            "section": "Easter",
+            "name": "Rainbow Wings",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "soon",
+            "url": "wearables/IMG_865"
+        }
+    },
+    {
+        "type": {
+            "name": "RAINBOW HEADBAND",
+            "section": "NEW_WEARABLES"
+        },
+        "item": {
+            "section": "Easter",
+            "name": "Rainbow Headband",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "soon",
+            "url": "wearables/IMG_862"
+        }
+    },
+    {
+        "type": {
+            "name": "EASTER EGG STAFF",
+            "section": "NEW_WEARABLES"
+        },
+        "item": {
+            "section": "Easter",
+            "name": "Easter Egg Staff",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "soon",
+            "url": "wearables/IMG_860"
+        }
+    },
+    {
+        "type": {
+            "name": "CHICK HEAD",
+            "section": "NEW_WEARABLES"
+        },
+        "item": {
+            "section": "Easter",
+            "name": "Chick Head",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "soon",
+            "url": "wearables/IMG_857"
+        }
+    },
+    {
+        "type": {
+            "name": "CHICK SHIRT",
+            "section": "NEW_WEARABLES"
+        },
+        "item": {
+            "section": "Easter",
+            "name": "Chick Shirt",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "soon",
+            "url": "wearables/IMG_858"
+        }
+    },
+    {
+        "type": {
+            "name": "CHICK PANTS",
+            "section": "NEW_WEARABLES"
+        },
+        "item": {
+            "section": "Easter",
+            "name": "Chick Pants",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "soon",
+            "url": "wearables/IMG_859"
+        }
+    },
+    {
+        "type": {
+            "name": "BUNNY UMBRELLA",
+            "section": "NEW_WEARABLES"
+        },
+        "item": {
+            "section": "Easter",
+            "name": "Bunny Umbrella",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "soon",
+            "url": "wearables/IMG_856"
+        }
+    },
+    {
+        "type": {
+            "name": "RAINBOW HALO",
+            "section": "NEW_WEARABLES"
+        },
+        "item": {
+            "section": "Easter",
+            "name": "Rainbow Halo",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "soon",
+            "url": "wearables/IMG_870"
+        }
+    },
+    {
+        "type": {
+            "name": "RAINBOW GLASSES",
+            "section": "NEW_WEARABLES"
+        },
+        "item": {
+            "section": "Easter",
+            "name": "Rainbow Glasses",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "soon",
+            "url": "wearables/IMG_869"
+        }
+    },
+    {
+        "type": {
+            "name": "EASTER SWEATER",
+            "section": "NEW_WEARABLES"
+        },
+        "item": {
+            "section": "Easter",
+            "name": "Easter Sweater",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "soon",
+            "url": "wearables/IMG_867"
+        }
+    },
+    {
+        "type": {
+            "name": "RAINBOW BACKPACK",
+            "section": "NEW_WEARABLES"
+        },
+        "item": {
+            "section": "Easter",
+            "name": "Rainbow Backpack",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "soon",
+            "url": "wearables/IMG_868"
+        }
+    },
+    {
+        "type": {
+            "name": "CARROT HEADPHONES",
+            "section": "NEW_WEARABLES"
+        },
+        "item": {
+            "section": "Easter",
+            "name": "Carrot Headphones",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "soon",
+            "url": "wearables/IMG_872"
+        }
+    },
+    {
+        "type": {
+            "name": "EASTER SCARF",
+            "section": "NEW_WEARABLES"
+        },
+        "item": {
+            "section": "Easter",
+            "name": "Easter Scarf",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "soon",
+            "url": "wearables/IMG_873"
+        }
+    },
+    {
+        "type": {
+            "name": "HOLDABLE EASTER BASKET",
+            "section": "NEW_WEARABLES"
+        },
+        "item": {
+            "section": "Easter",
+            "name": "Holdable Easter Basket",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "soon",
+            "url": "wearables/IMG_874"
+        }
+    },
+    {
+        "type": {
+            "name": "RABBIT GLASSES",
+            "section": "NEW_WEARABLES"
+        },
+        "item": {
+            "section": "Easter",
+            "name": "Rabbit Glasses",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "soon",
+            "url": "wearables/error"
+        }
+    },
+    {
+        "type": {
+            "name": "RABBIT BACKPACK",
+            "section": "NEW_WEARABLES"
+        },
+        "item": {
+            "section": "Easter",
+            "name": "Rabbit Backpack",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "soon",
+            "url": "wearables/IMG_875"
+        }
+    },
+    {
+        "type": {
             "name": "CUBIT HAT",
             "section": "QUEST"
         },
@@ -7714,7 +8037,7 @@
             },
             "state": "Stable",
             "last_updated": "14/Mar/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_854"
         }
     },
     {
@@ -7731,7 +8054,7 @@
             },
             "state": "Stable",
             "last_updated": "25/Feb/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_853"
         }
     },
     {
@@ -7748,7 +8071,7 @@
             },
             "state": "Stable",
             "last_updated": "25/Feb/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_855"
         }
     },
     {
@@ -7765,7 +8088,7 @@
             },
             "state": "Stable",
             "last_updated": "25/Feb/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_849"
         }
     },
     {
@@ -7782,7 +8105,7 @@
             },
             "state": "Stable",
             "last_updated": "25/Feb/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_850"
         }
     },
     {
@@ -7799,7 +8122,7 @@
             },
             "state": "Stable",
             "last_updated": "25/Feb/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_851"
         }
     },
     {
@@ -7816,7 +8139,7 @@
             },
             "state": "Stable",
             "last_updated": "25/Feb/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_852"
         }
     },
     {
@@ -7833,7 +8156,7 @@
             },
             "state": "Stable",
             "last_updated": "25/Feb/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_846"
         }
     },
     {
@@ -7850,7 +8173,7 @@
             },
             "state": "Stable",
             "last_updated": "25/Feb/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_847"
         }
     },
     {
@@ -7867,7 +8190,7 @@
             },
             "state": "Stable",
             "last_updated": "25/Feb/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_848"
         }
     },
     {
@@ -7884,7 +8207,7 @@
             },
             "state": "Stable",
             "last_updated": "25/Feb/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_841"
         }
     },
     {
@@ -7901,7 +8224,7 @@
             },
             "state": "Stable",
             "last_updated": "25/Feb/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_842"
         }
     },
     {
@@ -7918,7 +8241,7 @@
             },
             "state": "Stable",
             "last_updated": "25/Feb/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_843"
         }
     },
     {
@@ -7935,7 +8258,7 @@
             },
             "state": "Stable",
             "last_updated": "25/Feb/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_844"
         }
     },
     {
@@ -7952,7 +8275,7 @@
             },
             "state": "Stable",
             "last_updated": "25/Feb/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_845"
         }
     },
     {
@@ -9086,11 +9409,11 @@
             "section": "Halloween",
             "name": "Trick or Treat Bag",
             "price": {
-                "min": 1000,
-                "max": 1500
+                "min": 750,
+                "max": 1250
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "16/Mar/2023",
             "url": "wearables/IMG_387"
         }
     },
@@ -10451,7 +10774,7 @@
             },
             "state": "Stable",
             "last_updated": "17/Dec/2022",
-            "url": "wearables/error"
+            "url": "wearables/IMG_816"
         }
     },
     {
@@ -10468,7 +10791,7 @@
             },
             "state": "Stable",
             "last_updated": "14/Mar/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_812"
         }
     },
     {
@@ -10485,7 +10808,7 @@
             },
             "state": "Stable",
             "last_updated": "17/Dec/2022",
-            "url": "wearables/error"
+            "url": "wearables/IMG_809"
         }
     },
     {
@@ -10502,7 +10825,7 @@
             },
             "state": "Stable",
             "last_updated": "14/Mar/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_807"
         }
     },
     {
@@ -10519,7 +10842,7 @@
             },
             "state": "Stable",
             "last_updated": "17/Dec/2022",
-            "url": "wearables/error"
+            "url": "wearables/IMG_815"
         }
     },
     {
@@ -10536,7 +10859,7 @@
             },
             "state": "Stable",
             "last_updated": "14/Feb/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_811"
         }
     },
     {
@@ -10553,7 +10876,7 @@
             },
             "state": "Increasing",
             "last_updated": "03/Mar/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_810"
         }
     },
     {
@@ -10570,7 +10893,7 @@
             },
             "state": "Stable",
             "last_updated": "17/Dec/2022",
-            "url": "wearables/error"
+            "url": "wearables/IMG_813"
         }
     },
     {
@@ -10587,7 +10910,7 @@
             },
             "state": "Stable",
             "last_updated": "17/Dec/2022",
-            "url": "wearables/error"
+            "url": "wearables/IMG_814"
         }
     },
     {
@@ -10604,7 +10927,7 @@
             },
             "state": "Stable",
             "last_updated": "09/Mar/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_808"
         }
     },
     {
@@ -10621,7 +10944,7 @@
             },
             "state": "Stable",
             "last_updated": "10/Jan/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_817"
         }
     },
     {
@@ -10910,7 +11233,7 @@
             },
             "state": "Stable",
             "last_updated": "17/Dec/2022",
-            "url": "wearables/error"
+            "url": "wearables/IMG_517"
         }
     },
     {
@@ -11216,7 +11539,7 @@
             },
             "state": "Stable",
             "last_updated": "5/Jan/2023",
-            "url": "wearables/autumn_hat"
+            "url": "wearables/IMG_823"
         }
     },
     {
@@ -11233,7 +11556,7 @@
             },
             "state": "Stable",
             "last_updated": "5/Jan/2023",
-            "url": "wearables/autumn_hawaiian"
+            "url": "wearables/IMG_824"
         }
     },
     {
@@ -11250,7 +11573,7 @@
             },
             "state": "Stable",
             "last_updated": "5/Jan/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_826"
         }
     },
     {
@@ -11267,7 +11590,7 @@
             },
             "state": "Stable",
             "last_updated": "5/Jan/2023",
-            "url": "wearables/boy_scout_shirt"
+            "url": "wearables/IMG_827"
         }
     },
     {
@@ -11284,7 +11607,7 @@
             },
             "state": "Stable",
             "last_updated": "5/Jan/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_828"
         }
     },
     {
@@ -11301,7 +11624,7 @@
             },
             "state": "Stable",
             "last_updated": "5/Jan/2023",
-            "url": "wearables/acorn_mask"
+            "url": "wearables/IMG_821"
         }
     },
     {
@@ -11318,7 +11641,7 @@
             },
             "state": "Stable",
             "last_updated": "5/Jan/2023",
-            "url": "wearables/acorn_shirt"
+            "url": "wearables/IMG_822"
         }
     },
     {
@@ -11335,7 +11658,7 @@
             },
             "state": "Stable",
             "last_updated": "03/Mar/2023",
-            "url": "wearables/turkey_leg_balloon"
+            "url": "wearables/IMG_829"
         }
     },
     {
@@ -11352,7 +11675,7 @@
             },
             "state": "Stable",
             "last_updated": "5/Jan/2023",
-            "url": "wearables/autumn_umbrella"
+            "url": "wearables/IMG_825"
         }
     },
     {
@@ -11369,7 +11692,7 @@
             },
             "state": "Stable",
             "last_updated": "5/Jan/2023",
-            "url": "wearables/error"
+            "url": "wearables/IMG_830"
         }
     },
     {
@@ -11386,7 +11709,7 @@
             },
             "state": "Stable",
             "last_updated": "5/Jan/2023",
-            "url": "wearables/amethyst_turkey_tail"
+            "url": "wearables/IMG_819"
         }
     },
     {
@@ -11403,7 +11726,7 @@
             },
             "state": "Stable",
             "last_updated": "12/Mar/2023",
-            "url": "wearables/rainbow_turkey_tail"
+            "url": "wearables/IMG_820"
         }
     },
     {
@@ -11420,7 +11743,7 @@
             },
             "state": "Decreasing",
             "last_updated": "13/Mar/2023",
-            "url": "wearables/monochrome_turkey_tail"
+            "url": "wearables/IMG_840"
         }
     },
     {
@@ -12746,7 +13069,7 @@
             },
             "state": "Stable",
             "last_updated": "5/Jan/2023",
-            "url": "wearables/penguin_hood"
+            "url": "wearables/IMG_832"
         }
     },
     {
@@ -12763,7 +13086,7 @@
             },
             "state": "Stable",
             "last_updated": "5/Jan/2023",
-            "url": "wearables/penguin_shirt"
+            "url": "wearables/IMG_833"
         }
     },
     {
@@ -12780,7 +13103,7 @@
             },
             "state": "Stable",
             "last_updated": "5/Jan/2023",
-            "url": "wearables/penguin_pants"
+            "url": "wearables/IMG_834"
         }
     },
     {
@@ -12797,7 +13120,7 @@
             },
             "state": "Stable",
             "last_updated": "5/Jan/2023",
-            "url": "wearables/peppermint_hat"
+            "url": "wearables/IMG_835"
         }
     },
     {
@@ -12814,7 +13137,7 @@
             },
             "state": "Stable",
             "last_updated": "5/Jan/2023",
-            "url": "wearables/peppermint_shirt"
+            "url": "wearables/IMG_836"
         }
     },
     {
@@ -12831,7 +13154,7 @@
             },
             "state": "Stable",
             "last_updated": "5/Jan/2023",
-            "url": "wearables/peppermint_umbrella"
+            "url": "wearables/IMG_837"
         }
     },
     {
@@ -12848,7 +13171,7 @@
             },
             "state": "Stable",
             "last_updated": "09/Mar/2023",
-            "url": "wearables/snowman_balloon"
+            "url": "wearables/IMG_839"
         }
     },
     {
@@ -12865,7 +13188,7 @@
             },
             "state": "Stable",
             "last_updated": "24/Feb/2023",
-            "url": "wearables/snowflake_umbrella"
+            "url": "wearables/IMG_838"
         }
     },
     {
@@ -12882,7 +13205,7 @@
             },
             "state": "Stable",
             "last_updated": "5/Jan/2023",
-            "url": "wearables/cup_of_cocoa"
+            "url": "wearables/IMG_831"
         }
     },
     {
@@ -13171,7 +13494,7 @@
             },
             "state": "Stable",
             "last_updated": "17/Dec/2022",
-            "url": "wearables/error"
+            "url": "wearables/IMG_788"
         }
     },
     {
@@ -13188,7 +13511,7 @@
             },
             "state": "Stable",
             "last_updated": "17/Dec/2022",
-            "url": "wearables/error"
+            "url": "wearables/IMG_785"
         }
     },
     {
@@ -13205,7 +13528,7 @@
             },
             "state": "Stable",
             "last_updated": "17/Dec/2022",
-            "url": "wearables/error"
+            "url": "wearables/IMG_784"
         }
     },
     {
@@ -13222,7 +13545,7 @@
             },
             "state": "Stable",
             "last_updated": "17/Dec/2022",
-            "url": "wearables/error"
+            "url": "wearables/IMG_787"
         }
     },
     {
@@ -13239,7 +13562,7 @@
             },
             "state": "Stable",
             "last_updated": "17/Dec/2022",
-            "url": "wearables/error"
+            "url": "wearables/IMG_786"
         }
     },
     {
@@ -13256,7 +13579,7 @@
             },
             "state": "Stable",
             "last_updated": "17/Dec/2022",
-            "url": "wearables/error"
+            "url": "wearables/IMG_790"
         }
     },
     {
@@ -13273,7 +13596,7 @@
             },
             "state": "Stable",
             "last_updated": "17/Dec/2022",
-            "url": "wearables/error"
+            "url": "wearables/IMG_793"
         }
     },
     {
@@ -13290,7 +13613,7 @@
             },
             "state": "Stable",
             "last_updated": "17/Dec/2022",
-            "url": "wearables/error"
+            "url": "wearables/IMG_790"
         }
     },
     {
@@ -13307,7 +13630,7 @@
             },
             "state": "Stable",
             "last_updated": "17/Dec/2022",
-            "url": "wearables/error"
+            "url": "wearables/IMG_789"
         }
     },
     {
@@ -13324,7 +13647,7 @@
             },
             "state": "Stable",
             "last_updated": "17/Dec/2022",
-            "url": "wearables/error"
+            "url": "wearables/IMG_794"
         }
     },
     {
@@ -13341,7 +13664,7 @@
             },
             "state": "Stable",
             "last_updated": "17/Dec/2022",
-            "url": "wearables/error"
+            "url": "wearables/IMG_792"
         }
     },
     {
@@ -13358,7 +13681,7 @@
             },
             "state": "Stable",
             "last_updated": "17/Dec/2022",
-            "url": "wearables/error"
+            "url": "wearables/IMG_783"
         }
     },
     {
