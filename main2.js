@@ -57,8 +57,9 @@ wearables = ["Hat Pack","Wing Pack","Critter Suit Pack","Accessories Pack","Clot
 
 for (item in basic) {
     color = {"Stable":"5px solid #ffffff","Increasing":"5px solid #1fc44b","Decreasing":"5px solid #c41a1a"};
+    replacewords = {"wearables/":"","cars/":""}
     name = basic[item]["item"]["name"]+"<br>"+basic[item]["item"]["price"]["min"].toLocaleString()+"<b> - </b>"+basic[item]["item"]["price"]["max"].toLocaleString()
-    img = basic[item]["item"]["url"].replace("wearables/","").replace("cars/","");
+    img = replaceAll(basic[item]["item"]["url"],replacewords);
 
     for (wearable in wearables) {
         if (basic[item]["type"]["section"] == wearables[wearable].toUpperCase()) {
