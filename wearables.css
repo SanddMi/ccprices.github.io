@@ -1,7 +1,7 @@
 /* -----------------------------------------------------
    created with https://www.codeandweb.com/texturepacker 
    -----------------------------------------------------
-   $TexturePacker:SmartUpdate:7d1eb77b7b5d28a8d3d80fce8cb073fb:4cd4a215cc1139e2c6c0a073b4f3cd15:feb9534de59fae9a86b6e28f71026ee4$
+   $TexturePacker:SmartUpdate:ed6c513ee34395082f61bfcf0d8f60e9:6841b75e2920fca8a4603e124615bcac:feb9534de59fae9a86b6e28f71026ee4$
    -----------------------------------------------------
 
    usage: <span class="{-spritename-} sprite"></span>
@@ -12,22 +12,23 @@
 
 .sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(wearables.png);}
 
-.142 {width:75px; height:75px; background-position: -918px -2228px}
-.143 {width:75px; height:75px; background-position: -0px -2303px}
-.144 {width:75px; height:75px; background-position: -75px -2303px}
-.145 {width:75px; height:75px; background-position: -150px -2303px}
-.146 {width:75px; height:75px; background-position: -225px -2303px}
-.148 {width:75px; height:75px; background-position: -300px -2303px}
-.158 {width:75px; height:75px; background-position: -375px -2303px}
-.177 {width:75px; height:75px; background-position: -450px -2303px}
-.178 {width:75px; height:75px; background-position: -525px -2303px}
-.195 {width:64px; height:64px; background-position: -261px -1769px}
-.228 {width:75px; height:75px; background-position: -600px -2303px}
-.230 {width:40px; height:44px; background-position: -717px -551px}
-.255 {width:48px; height:54px; background-position: -759px -1194px}
-.256 {width:37px; height:57px; background-position: -64px -1469px}
-.257 {width:63px; height:57px; background-position: -101px -1469px}
-.351 {width:60px; height:75px; background-position: -675px -2303px}
+.car_139 {width:73px; height:77px; background-position: -0px -2379px}
+.car_142 {width:75px; height:75px; background-position: -918px -2228px}
+.car_143 {width:75px; height:75px; background-position: -0px -2303px}
+.car_144 {width:75px; height:75px; background-position: -75px -2303px}
+.car_145 {width:75px; height:75px; background-position: -150px -2303px}
+.car_146 {width:75px; height:75px; background-position: -225px -2303px}
+.car_148 {width:75px; height:75px; background-position: -300px -2303px}
+.car_158 {width:75px; height:75px; background-position: -375px -2303px}
+.car_177 {width:75px; height:75px; background-position: -450px -2303px}
+.car_178 {width:75px; height:75px; background-position: -525px -2303px}
+.car_195 {width:64px; height:64px; background-position: -261px -1769px}
+.car_228 {width:75px; height:75px; background-position: -600px -2303px}
+.car_230 {width:40px; height:44px; background-position: -717px -551px}
+.car_255 {width:48px; height:54px; background-position: -759px -1194px}
+.car_256 {width:37px; height:57px; background-position: -64px -1469px}
+.car_257 {width:63px; height:57px; background-position: -101px -1469px}
+.car_351 {width:60px; height:75px; background-position: -675px -2303px}
 .IMG_001 {width:49px; height:64px; background-position: -325px -1769px}
 .IMG_003 {width:52px; height:55px; background-position: -748px -1248px}
 .IMG_004 {width:60px; height:45px; background-position: -730px -595px}
@@ -838,5 +839,4 @@
 .IMG_873 {width:55px; height:66px; background-position: -454px -2090px}
 .IMG_874 {width:65px; height:53px; background-position: -694px -1194px}
 .IMG_875 {width:56px; height:55px; background-position: -383px -1413px}
-.car_139 {width:73px; height:77px; background-position: -0px -2379px}
 .error {width:37px; height:36px; background-position: -64px -159px}
