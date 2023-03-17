@@ -1,7 +1,7 @@
 /* -----------------------------------------------------
    created with https://www.codeandweb.com/texturepacker 
    -----------------------------------------------------
-   $TexturePacker:SmartUpdate:3fcf6575dbef9b4b838367f4d1290083:6841b75e2920fca8a4603e124615bcac:feb9534de59fae9a86b6e28f71026ee4$
+   $TexturePacker:SmartUpdate:7d1eb77b7b5d28a8d3d80fce8cb073fb:4cd4a215cc1139e2c6c0a073b4f3cd15:feb9534de59fae9a86b6e28f71026ee4$
    -----------------------------------------------------
 
    usage: <span class="{-spritename-} sprite"></span>
@@ -12,7 +12,6 @@
 
 .sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(wearables.png);}
 
-.139 {width:73px; height:77px; background-position: -0px -2379px}
 .142 {width:75px; height:75px; background-position: -918px -2228px}
 .143 {width:75px; height:75px; background-position: -0px -2303px}
 .144 {width:75px; height:75px; background-position: -75px -2303px}
@@ -839,4 +838,5 @@
 .IMG_873 {width:55px; height:66px; background-position: -454px -2090px}
 .IMG_874 {width:65px; height:53px; background-position: -694px -1194px}
 .IMG_875 {width:56px; height:55px; background-position: -383px -1413px}
+.car_139 {width:73px; height:77px; background-position: -0px -2379px}
 .error {width:37px; height:36px; background-position: -64px -159px}
