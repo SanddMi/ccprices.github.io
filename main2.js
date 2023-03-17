@@ -66,6 +66,7 @@ for (item in basic) {
         }
     }
     if (basic[item]["type"]["section"] == "CARS") {
+        img = basic[item]["item"]["url"].replace("wearables/","").replace("cars/","");
         $("#cars_prices").append(`<div style="border-bottom: ${color[basic[item]["item"]["state"]]}" class='item'><span class='${img} sprite'></span><p>${name}</p></div>`)
     }
 }
