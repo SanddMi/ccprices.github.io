@@ -7506,10 +7506,10 @@
             "name": "Rainbow Unicorn Tail",
             "price": {
                 "min": 1000,
-                "max": 2000
+                "max": 1500
             },
             "state": "Stable",
-            "last_updated": "16/Feb/2023",
+            "last_updated": "17/Mar/2023",
             "url": "wearables/IMG_655"
         }
     },
