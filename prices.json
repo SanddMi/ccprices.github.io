@@ -4870,11 +4870,11 @@
             "section": "April Fools' Day",
             "name": "Motley Shirt",
             "price": {
-                "min": 300000,
-                "max": 350000
+                "min": 200000,
+                "max": 250000
             },
             "state": "Decreasing",
-            "last_updated": "17/Mar/2023",
+            "last_updated": "18/Mar/2023",
             "url": "wearables/IMG_212"
         }
     },
@@ -8287,11 +8287,11 @@
             "section": "Summer",
             "name": "UV Shades",
             "price": {
-                "min": 750000,
-                "max": 850000
+                "min": 450000,
+                "max": 550000
             },
             "state": "Decreasing",
-            "last_updated": "15/Mar/2023",
+            "last_updated": "18/Mar/2023",
             "url": "wearables/IMG_312"
         }
     },
@@ -8712,11 +8712,11 @@
             "section": "Fan",
             "name": "Devil's Halo",
             "price": {
-                "min": 60000,
-                "max": 65000
+                "min": 50000,
+                "max": 60000
             },
             "state": "Decreasing",
-            "last_updated": "17/Mar/2023",
+            "last_updated": "18/Mar/2023",
             "url": "wearables/IMG_711"
         }
     },
@@ -9596,11 +9596,11 @@
             "section": "Halloween",
             "name": "Slyme Costume",
             "price": {
-                "min": 190000,
-                "max": 210000
+                "min": 125000,
+                "max": 150000
             },
             "state": "Decreasing",
-            "last_updated": "15/Mar/2023",
+            "last_updated": "18/Mar/2023",
             "url": "wearables/IMG_177"
         }
     },
