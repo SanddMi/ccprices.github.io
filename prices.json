@@ -5230,8 +5230,8 @@
                 "min": 8000,
                 "max": 12000
             },
-            "state": "Stable",
-            "last_updated": "14/Mar/2023",
+            "state": "Decreasing",
+            "last_updated": "17/Mar/2023",
             "url": "wearables/IMG_670"
         }
     },
