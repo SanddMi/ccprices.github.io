@@ -8050,10 +8050,10 @@
             "name": "Heart Eyes",
             "price": {
                 "min": 10000,
-                "max": 15000
+                "max": 12500
             },
             "state": "Decreasing",
-            "last_updated": "16/Mar/2023",
+            "last_updated": "18/Mar/2023",
             "url": "wearables/IMG_853"
         }
     },
