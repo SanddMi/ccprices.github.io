@@ -8729,11 +8729,11 @@
             "section": "Fan",
             "name": "Red Angel Wings",
             "price": {
-                "min": 3000,
-                "max": 4000
+                "min": 2000,
+                "max": 2500
             },
             "state": "Decreasing",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "18/Mar/2023",
             "url": "wearables/IMG_684"
         }
     },
