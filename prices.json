@@ -6791,11 +6791,11 @@
             "section": "Valentine's Day",
             "name": "Cupid's Wings",
             "price": {
-                "min": 130000,
-                "max": 150000
+                "min": 100000,
+                "max": 120000
             },
             "state": "Decreasing",
-            "last_updated": "25/Feb/2023",
+            "last_updated": "18/Mar/2023",
             "url": "wearables/IMG_150"
         }
     },
