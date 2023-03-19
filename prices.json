@@ -8831,11 +8831,11 @@
             "section": "Fan",
             "name": "Violet Angel Wings",
             "price": {
-                "min": 2500,
-                "max": 3500
+                "min": 2000,
+                "max": 2500
             },
             "state": "Decreasing",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "18/Mar/2023",
             "url": "wearables/IMG_685"
         }
     },
