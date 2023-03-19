@@ -6316,7 +6316,7 @@
             "name": "Egg Head",
             "price": {
                 "min": 4000,
-                "max": 60000
+                "max": 6000
             },
             "state": "Decreasing",
             "last_updated": "18/Mar/2023",
