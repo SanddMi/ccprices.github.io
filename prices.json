@@ -7981,11 +7981,11 @@
             "section": "Valentine's Day",
             "name": "Cupid Wings 2",
             "price": {
-                "min": 2000,
-                "max": 3000
+                "min": 1500,
+                "max": 2000
             },
             "state": "Decreasing",
-            "last_updated": "24/Feb/2023",
+            "last_updated": "18/Mar/2023",
             "url": "wearables/IMG_763"
         }
     },
