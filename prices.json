@@ -5686,11 +5686,11 @@
             "section": "Easter",
             "name": "Egg Cap",
             "price": {
-                "min": 1500,
-                "max": 2000
+                "min": 1000,
+                "max": 1500
             },
             "state": "Decreasing",
-            "last_updated": "14/Mar/2023",
+            "last_updated": "18/Mar/2023",
             "url": "wearables/IMG_349"
         }
     },
