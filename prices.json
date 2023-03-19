@@ -9103,11 +9103,11 @@
             "section": "Fan",
             "name": "Safety Vest",
             "price": {
-                "min": 1000,
-                "max": 1500
+                "min": 1500,
+                "max": 2500
             },
             "state": "Decreasing",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "19/Mar/2023",
             "url": "wearables/IMG_707"
         }
     },
