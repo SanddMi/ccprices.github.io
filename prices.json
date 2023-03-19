@@ -9579,11 +9579,11 @@
             "section": "Halloween",
             "name": "Ghost Costume",
             "price": {
-                "min": 800000,
-                "max": 850000
+                "min": 400000,
+                "max": 450000
             },
             "state": "Decreasing",
-            "last_updated": "17/Mar/2023",
+            "last_updated": "19/Mar/2023",
             "url": "wearables/IMG_178"
         }
     },
@@ -11752,7 +11752,7 @@
             "section": "THANKSGIVING"
         },
         "item": {
-            "section": "Thanks++egiving Pack",
+            "section": "Thanksgiving",
             "name": "Hunting Net",
             "price": {
                 "min": 1,
