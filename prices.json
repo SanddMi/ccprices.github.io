@@ -8304,11 +8304,11 @@
             "section": "Summer",
             "name": "Scuba Mask",
             "price": {
-                "min": 240000,
-                "max": 280000
+                "min": 200000,
+                "max": 225000
             },
             "state": "Decreasing",
-            "last_updated": "26/Feb/2023",
+            "last_updated": "19/Mar/2023",
             "url": "wearables/IMG_313"
         }
     },
