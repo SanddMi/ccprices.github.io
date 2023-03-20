@@ -10327,11 +10327,11 @@
             "section": "Halloween",
             "name": "Dark Traveller Pants",
             "price": {
-                "min": 7500,
-                "max": 9500
+                "min": 6000,
+                "max": 8000
             },
             "state": "Decreasing",
-            "last_updated": "15/Mar/2023",
+            "last_updated": "20/Mar/2023",
             "url": "wearables/IMG_498"
         }
     },
