@@ -5142,11 +5142,11 @@
             "section": "Easter",
             "name": "Red Balloon",
             "price": {
-                "min": 95000,
-                "max": 105000
+                "min": 90000,
+                "max": 10000
             },
             "state": "Decreasing",
-            "last_updated": "24/Feb/2023",
+            "last_updated": "20/Mar/2023",
             "url": "wearables/IMG_208"
         }
     },
@@ -6593,6 +6593,23 @@
             "state": "Decreasing",
             "last_updated": "20/Mar/2023",
             "url": "wearables/IMG_856"
+        }
+    },
+    {
+        "type": {
+            "name": "EASTER STAFF",
+            "section": "NEW_WEARABLES"
+        },
+        "item": {
+            "section": "Easter",
+            "name": "Easter Staff",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Decreasing",
+            "last_updated": "soon",
+            "url": "wearables/IMG_866"
         }
     },
     {
