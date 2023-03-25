@@ -6485,11 +6485,11 @@
             "section": "Easter",
             "name": "Rainbow Wings",
             "price": {
-                "min": 0,
-                "max": 0
+                "min": 10000,
+                "max": 15000
             },
             "state": "Decreasing",
-            "last_updated": "soon",
+            "last_updated": "20/Mar/2023",
             "url": "wearables/IMG_865"
         }
     },
