@@ -5143,7 +5143,7 @@
             "name": "Red Balloon",
             "price": {
                 "min": 90000,
-                "max": 10000
+                "max": 100000
             },
             "state": "Decreasing",
             "last_updated": "20/Mar/2023",
