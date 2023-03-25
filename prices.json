@@ -4921,11 +4921,11 @@
             "section": "April Fools' Day",
             "name": "Jester's Cane",
             "price": {
-                "min": 70000,
-                "max": 80000
+                "min": 60000,
+                "max": 70000
             },
             "state": "Decreasing",
-            "last_updated": "25/Feb/2023",
+            "last_updated": "20/Mar/2023",
             "url": "wearables/IMG_358"
         }
     },
