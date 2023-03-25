@@ -5125,11 +5125,11 @@
             "section": "Easter",
             "name": "RoboSlyme Costume",
             "price": {
-                "min": 350000,
-                "max": 400000
+                "min": 300000,
+                "max": 350000
             },
             "state": "Decreasing",
-            "last_updated": "17/Mar/2023",
+            "last_updated": "20/Mar/2023",
             "url": "wearables/IMG_782"
         }
     },
@@ -5907,11 +5907,11 @@
             "section": "Easter",
             "name": "Bunny Pyjamas",
             "price": {
-                "min": 250000,
-                "max": 300000
+                "min": 300000,
+                "max": 400000
             },
             "state": "Decreasing",
-            "last_updated": "18/Mar/2023",
+            "last_updated": "20/Mar/2023",
             "url": "wearables/IMG_196"
         }
     },
@@ -6485,11 +6485,11 @@
             "section": "Easter",
             "name": "Rainbow Wings",
             "price": {
-                "min": 0,
-                "max": 0
+                "min": 10000,
+                "max": 15000
             },
             "state": "Decreasing",
-            "last_updated": "soon",
+            "last_updated": "20/Mar/2023",
             "url": "wearables/IMG_865"
         }
     },
@@ -6536,11 +6536,11 @@
             "section": "Easter",
             "name": "Chick Head",
             "price": {
-                "min": 0,
-                "max": 0
+                "min": 5000,
+                "max": 6000
             },
             "state": "Decreasing",
-            "last_updated": "soon",
+            "last_updated": "20/Mar/2023",
             "url": "wearables/IMG_857"
         }
     },
@@ -6553,11 +6553,11 @@
             "section": "Easter",
             "name": "Chick Shirt",
             "price": {
-                "min": 0,
-                "max": 0
+                "min": 4000,
+                "max": 5000
             },
             "state": "Decreasing",
-            "last_updated": "soon",
+            "last_updated": "20/Mar/2023",
             "url": "wearables/IMG_858"
         }
     },
@@ -6570,11 +6570,11 @@
             "section": "Easter",
             "name": "Chick Pants",
             "price": {
-                "min": 0,
-                "max": 0
+                "min": 4000,
+                "max": 5000
             },
             "state": "Decreasing",
-            "last_updated": "soon",
+            "last_updated": "20/Mar/2023",
             "url": "wearables/IMG_859"
         }
     },
@@ -6587,11 +6587,11 @@
             "section": "Easter",
             "name": "Bunny Umbrella",
             "price": {
-                "min": 0,
-                "max": 0
+                "min": 4500,
+                "max": 7000
             },
             "state": "Decreasing",
-            "last_updated": "soon",
+            "last_updated": "20/Mar/2023",
             "url": "wearables/IMG_856"
         }
     },
@@ -7080,11 +7080,11 @@
             "section": "Valentine's Day",
             "name": "Queen's Crown",
             "price": {
-                "min": 7500,
-                "max": 10000
+                "min": 6000,
+                "max": 8000
             },
             "state": "Decreasing",
-            "last_updated": "18/Feb/2023",
+            "last_updated": "20/Mar/2023",
             "url": "wearables/IMG_417"
         }
     },
@@ -8304,11 +8304,11 @@
             "section": "Summer",
             "name": "Scuba Mask",
             "price": {
-                "min": 240000,
-                "max": 280000
+                "min": 200000,
+                "max": 225000
             },
             "state": "Decreasing",
-            "last_updated": "26/Feb/2023",
+            "last_updated": "19/Mar/2023",
             "url": "wearables/IMG_313"
         }
     },
@@ -8712,11 +8712,11 @@
             "section": "Fan",
             "name": "Devil's Halo",
             "price": {
-                "min": 50000,
-                "max": 60000
+                "min": 45000,
+                "max": 55000
             },
             "state": "Decreasing",
-            "last_updated": "18/Mar/2023",
+            "last_updated": "19/Mar/2023",
             "url": "wearables/IMG_711"
         }
     },
@@ -9103,11 +9103,11 @@
             "section": "Fan",
             "name": "Safety Vest",
             "price": {
-                "min": 1000,
-                "max": 1500
+                "min": 1500,
+                "max": 2500
             },
             "state": "Decreasing",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "19/Mar/2023",
             "url": "wearables/IMG_707"
         }
     },
@@ -9239,11 +9239,11 @@
             "section": "Fan",
             "name": "Fish Head",
             "price": {
-                "min": 1000,
-                "max": 1500
+                "min": 1500,
+                "max": 2500
             },
             "state": "Decreasing",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "19/Mar/2023",
             "url": "wearables/IMG_691"
         }
     },
@@ -9579,11 +9579,11 @@
             "section": "Halloween",
             "name": "Ghost Costume",
             "price": {
-                "min": 800000,
-                "max": 850000
+                "min": 400000,
+                "max": 450000
             },
             "state": "Decreasing",
-            "last_updated": "17/Mar/2023",
+            "last_updated": "19/Mar/2023",
             "url": "wearables/IMG_178"
         }
     },
@@ -10293,11 +10293,11 @@
             "section": "Halloween",
             "name": "Dark Traveller Head",
             "price": {
-                "min": 2000,
-                "max": 2500
+                "min": 1000,
+                "max": 1500
             },
             "state": "Decreasing",
-            "last_updated": "16/Feb/2023",
+            "last_updated": "20/Mar/2023",
             "url": "wearables/IMG_497"
         }
     },
@@ -10310,11 +10310,11 @@
             "section": "Halloween",
             "name": "Dark Traveller Top",
             "price": {
-                "min": 7500,
-                "max": 9500
+                "min": 6000,
+                "max": 8000
             },
             "state": "Decreasing",
-            "last_updated": "15/Mar/2023",
+            "last_updated": "20/Mar/2023",
             "url": "wearables/IMG_499"
         }
     },
@@ -10327,11 +10327,11 @@
             "section": "Halloween",
             "name": "Dark Traveller Pants",
             "price": {
-                "min": 7500,
-                "max": 9500
+                "min": 6000,
+                "max": 8000
             },
             "state": "Decreasing",
-            "last_updated": "15/Mar/2023",
+            "last_updated": "20/Mar/2023",
             "url": "wearables/IMG_498"
         }
     },
@@ -10875,7 +10875,7 @@
                 "max": 40000
             },
             "state": "Decreasing",
-            "last_updated": "17/Mar/2023",
+            "last_updated": "20/Mar/2023",
             "url": "wearables/IMG_810"
         }
     },
@@ -11721,11 +11721,11 @@
             "section": "Thanksgiving",
             "name": "Rainbow Turkey Tail",
             "price": {
-                "min": 380000,
-                "max": 420000
+                "min": 300000,
+                "max": 350000
             },
             "state": "Decreasing",
-            "last_updated": "17/Mar/2023",
+            "last_updated": "20/Mar/2023",
             "url": "wearables/IMG_820"
         }
     },
@@ -11752,7 +11752,7 @@
             "section": "THANKSGIVING"
         },
         "item": {
-            "section": "Thanks++egiving Pack",
+            "section": "Thanksgiving",
             "name": "Hunting Net",
             "price": {
                 "min": 1,
