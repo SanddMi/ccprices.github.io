@@ -6587,11 +6587,11 @@
             "section": "Easter",
             "name": "Bunny Umbrella",
             "price": {
-                "min": 0,
-                "max": 0
+                "min": 4500,
+                "max": 7000
             },
             "state": "Decreasing",
-            "last_updated": "soon",
+            "last_updated": "20/Mar/2023",
             "url": "wearables/IMG_856"
         }
     },
