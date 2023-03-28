@@ -6621,11 +6621,11 @@
             "section": "Easter",
             "name": "Rainbow Halo",
             "price": {
-                "min": 150000,
-                "max": 200000
+                "min": 250000,
+                "max": 350000
             },
             "state": "Decreasing",
-            "last_updated": "20/Mar/2023",
+            "last_updated": "27/Mar/2023",
             "url": "wearables/IMG_870"
         }
     },
