@@ -2,7 +2,7 @@ $.ajax({
     'type': "Get",
     'async': false,
     'global': true,
-    'url': "prices.json",
+    'url': "prices.json".hide(),
     'dataType': "json",
     'success': function(data) {
         basic = data
