@@ -1,8 +1,13 @@
+<?php
+$myfile = fopen("prices.json", "r") or die("Unable to open file!");
+fclose($myfile);
+?>
+
 $.ajax({
     'type': "Get",
     'async': false,
     'global': true,
-    'url': "prices.json".hide(),
+    'url': $myfile,
     'dataType': "json",
     'success': function(data) {
         basic = data
