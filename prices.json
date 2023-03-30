@@ -6434,11 +6434,11 @@
             "section": "Easter",
             "name": "Rainbow Hat",
             "price": {
-                "min": 0,
-                "max": 0
+                "min": 2500,
+                "max": 3500
             },
             "state": "Decreasing",
-            "last_updated": "soon",
+            "last_updated": "27/Mar/2023",
             "url": "wearables/IMG_861"
         }
     },
