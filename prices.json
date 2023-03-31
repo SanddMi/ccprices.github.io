@@ -10005,10 +10005,10 @@
             "name": "Goblin Head",
             "price": {
                 "min": 150,
-                "max": 350
+                "max": 250
             },
             "state": "Decreasing",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "27/Mar/2023",
             "url": "wearables/IMG_589"
         }
     },
