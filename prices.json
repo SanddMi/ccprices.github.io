@@ -6757,11 +6757,11 @@
             "section": "Easter",
             "name": "Rabbit Backpack",
             "price": {
-                "min": 0,
-                "max": 0
+                "min": 20000,
+                "max": 15000
             },
             "state": "Decreasing",
-            "last_updated": "soon",
+            "last_updated": "27/Mar/2023",
             "url": "wearables/IMG_875"
         }
     },
