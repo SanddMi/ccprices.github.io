@@ -6825,11 +6825,11 @@
             "section": "Valentine's Day",
             "name": "Valentine Wings",
             "price": {
-                "min": 35000,
-                "max": 40000
+                "min": 30000,
+                "max": 35000
             },
             "state": "Decreasing",
-            "last_updated": "15/Jan/2023",
+            "last_updated": "27/Mar/2023",
             "url": "wearables/IMG_343"
         }
     },
