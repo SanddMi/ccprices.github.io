@@ -9273,11 +9273,11 @@
             "section": "Fan",
             "name": "Blue Viking Helmet",
             "price": {
-                "min": 250,
-                "max": 450
+                "min": 500,
+                "max": 750
             },
             "state": "Decreasing",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "27/Mar/2023",
             "url": "wearables/IMG_678"
         }
     },
