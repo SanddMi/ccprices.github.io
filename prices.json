@@ -8593,11 +8593,11 @@
             "section": "Summer",
             "name": "Grilling Tongs",
             "price": {
-                "min": 15000,
-                "max": 20000
+                "min": 12500,
+                "max": 17500
             },
             "state": "Decreasing",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "27/Mar/2023",
             "url": "wearables/IMG_367"
         }
     },
