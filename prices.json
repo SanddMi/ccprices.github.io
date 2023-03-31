@@ -5907,11 +5907,11 @@
             "section": "Easter",
             "name": "Bunny Pyjamas",
             "price": {
-                "min": 300000,
+                "min": 350000,
                 "max": 400000
             },
             "state": "Decreasing",
-            "last_updated": "20/Mar/2023",
+            "last_updated": "27/Mar/2023",
             "url": "wearables/IMG_196"
         }
     },
