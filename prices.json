@@ -6758,7 +6758,7 @@
             "name": "Rabbit Backpack",
             "price": {
                 "min": 20000,
-                "max": 15000
+                "max": 25000
             },
             "state": "Decreasing",
             "last_updated": "27/Mar/2023",
