@@ -4394,11 +4394,11 @@
             "section": "Fishing Pack",
             "name": "Fishmaster Rod",
             "price": {
-                "min": 7500,
-                "max": 8500
+                "min": 7000,
+                "max": 8000
             },
             "state": "Decreasing",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "27/Mar/2023",
             "url": "wearables/IMG_606"
         }
     },
