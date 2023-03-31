@@ -3408,11 +3408,11 @@
             "section": "Dungeon Pack",
             "name": "Iron Mask",
             "price": {
-                "min": 2250,
-                "max": 2750
+                "min": 2000,
+                "max": 2500
             },
             "state": "Decreasing",
-            "last_updated": "09/Mar/2023",
+            "last_updated": "27/Mar/2023",
             "url": "wearables/IMG_171"
         }
     },
