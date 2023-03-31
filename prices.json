@@ -9579,11 +9579,11 @@
             "section": "Halloween",
             "name": "Headlessness",
             "price": {
-                "min": 825000,
-                "max": 875000
+                "min": 800000,
+                "max": 850000
             },
             "state": "Decreasing",
-            "last_updated": "24/Feb/2023",
+            "last_updated": "27/Mar/2023",
             "url": "wearables/IMG_272"
         }
     },
