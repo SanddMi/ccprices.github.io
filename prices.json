@@ -7165,11 +7165,11 @@
             "section": "Valentine's Day",
             "name": "Fake Halo",
             "price": {
-                "min": 150,
-                "max": 300
+                "min": 200,
+                "max": 400
             },
             "state": "Decreasing",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "27/Mar/2023",
             "url": "wearables/IMG_424"
         }
     },
