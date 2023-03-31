@@ -13523,11 +13523,11 @@
             "section": "Slymecorp Pack",
             "name": "Slymegood Head",
             "price": {
-                "min": 200,
-                "max": 400
+                "min": 150,
+                "max": 250
             },
             "state": "Decreasing",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "27/Mar/2023",
             "url": "wearables/IMG_788"
         }
     },
