@@ -9647,11 +9647,11 @@
             "section": "Halloween",
             "name": "Monster Head",
             "price": {
-                "min": 140000,
-                "max": 160000
+                "min": 130000,
+                "max": 150000
             },
             "state": "Decreasing",
-            "last_updated": "04/Mar/2023",
+            "last_updated": "27/Mar/2023",
             "url": "wearables/IMG_092"
         }
     },
