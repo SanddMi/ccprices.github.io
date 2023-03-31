@@ -5159,11 +5159,11 @@
             "section": "Easter",
             "name": "RoboZilla Head",
             "price": {
-                "min": 10000,
-                "max": 12500
+                "min": 8000,
+                "max": 12000
             },
             "state": "Decreasing",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "27/Mar/2023",
             "url": "wearables/IMG_675"
         }
     },
@@ -11710,6 +11710,23 @@
             "state": "Decreasing",
             "last_updated": "5/Jan/2023",
             "url": "wearables/IMG_830"
+        }
+    },
+    {
+        "type": {
+            "name": "POOPER SCOOPER",
+            "section": "THANKSGIVING"
+        },
+        "item": {
+            "section": "Thanksgiving",
+            "name": "Pooper Scooper",
+            "price": {
+                "min": 75,
+                "max": 150
+            },
+            "state": "Decreasing",
+            "last_updated": "31/03/2023",
+            "url": "wearables/IMG_818"
         }
     },
     {
