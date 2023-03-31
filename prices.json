@@ -8695,11 +8695,11 @@
             "section": "Summer",
             "name": "Camo Backpack",
             "price": {
-                "min": 5000,
-                "max": 6000
+                "min": 4000,
+                "max": 5000
             },
             "state": "Decreasing",
-            "last_updated": "18/Mar/2023",
+            "last_updated": "27/Mar/2023",
             "url": "wearables/IMG_361"
         }
     },
