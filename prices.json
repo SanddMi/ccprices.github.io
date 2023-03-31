@@ -12112,11 +12112,11 @@
             "section": "Christmas",
             "name": "Toy Soldier Gun",
             "price": {
-                "min": 5000,
-                "max": 6000
+                "min": 2000,
+                "max": 3000
             },
             "state": "Decreasing",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "27/Mar/2023",
             "url": "wearables/IMG_625"
         }
     },
