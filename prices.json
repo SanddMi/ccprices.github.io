@@ -8916,11 +8916,11 @@
             "section": "Fan",
             "name": "Walking Cane",
             "price": {
-                "min": 4500,
-                "max": 5500
+                "min": 3500,
+                "max": 4500
             },
             "state": "Decreasing",
-            "last_updated": "17/Mar/2023",
+            "last_updated": "27/Mar/2023",
             "url": "wearables/IMG_698"
         }
     },
