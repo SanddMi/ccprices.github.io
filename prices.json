@@ -2779,11 +2779,11 @@
             "section": "Accessories Pack",
             "name": "Round Sunglasses",
             "price": {
-                "min": 500,
-                "max": 750
+                "min": 400,
+                "max": 500
             },
             "state": "Decreasing",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "27/Mar/2023",
             "url": "wearables/IMG_043"
         }
     },
