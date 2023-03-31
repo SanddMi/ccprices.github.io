@@ -8610,11 +8610,11 @@
             "section": "Summer",
             "name": "Ranger Hat",
             "price": {
-                "min": 10000,
-                "max": 12500
+                "min": 8000,
+                "max": 10000
             },
             "state": "Decreasing",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "27/Mar/2023",
             "url": "wearables/IMG_366"
         }
     },
