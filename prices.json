@@ -5125,11 +5125,11 @@
             "section": "Easter",
             "name": "RoboSlyme Costume",
             "price": {
-                "min": 300000,
-                "max": 350000
+                "min": 250000,
+                "max": 300000
             },
             "state": "Decreasing",
-            "last_updated": "20/Mar/2023",
+            "last_updated": "27/Mar/2023",
             "url": "wearables/IMG_782"
         }
     },
