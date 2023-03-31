@@ -4972,11 +4972,11 @@
             "section": "April Fools' Day",
             "name": "Banana Split Hat",
             "price": {
-                "min": 18000,
+                "min": 15000,
                 "max": 20000
             },
             "state": "Decreasing",
-            "last_updated": "26/Feb/2023",
+            "last_updated": "27/Mar/2023",
             "url": "wearables/IMG_558"
         }
     },
