@@ -9,10 +9,10 @@
             "name": "Top Hat",
             "price": {
                 "min": 100,
-                "max": 200
+                "max": 150
             },
             "state": "Stable",
-            "last_updated": "28/Feb/2023",
+            "last_updated": "01/Apr/2023",
             "url": "wearables/IMG_001"
         }
     },
