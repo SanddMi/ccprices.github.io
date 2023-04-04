@@ -6553,11 +6553,11 @@
             "section": "Easter",
             "name": "Chick Shirt",
             "price": {
-                "min": 4000,
-                "max": 5000
+                "min": 2000,
+                "max": 2500
             },
             "state": "Stable",
-            "last_updated": "20/Mar/2023",
+            "last_updated": "04/Apr/2023",
             "url": "wearables/IMG_858"
         }
     },
