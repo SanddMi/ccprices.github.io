@@ -6451,11 +6451,11 @@
             "section": "Easter",
             "name": "Rainbow Pajama Shirt",
             "price": {
-                "min": 0,
-                "max": 0
+                "min": 2500,
+                "max": 3500
             },
             "state": "Stable",
-            "last_updated": "soon",
+            "last_updated": "04/Apr/2023",
             "url": "wearables/IMG_863"
         }
     },
