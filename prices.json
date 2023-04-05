@@ -6689,11 +6689,11 @@
             "section": "Easter",
             "name": "Carrot Headphones",
             "price": {
-                "min": 15000,
-                "max": 20000
+                "min": 12500,
+                "max": 17500
             },
             "state": "Stable",
-            "last_updated": "27/Mar/2023",
+            "last_updated": "05/Apr/2023",
             "url": "wearables/IMG_872"
         }
     },
