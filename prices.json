@@ -6332,8 +6332,8 @@
             "section": "Easter",
             "name": "Blue Rabbit Hood",
             "price": {
-                "min": 3000,
-                "max": 3500
+                "min": 1500,
+                "max": 2000
             },
             "state": "Stable",
             "last_updated": "04/Apr/2023",
