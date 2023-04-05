@@ -6366,8 +6366,8 @@
             "section": "Easter",
             "name": "Blue Rabbit Pants",
             "price": {
-                "min": 3000,
-                "max": 3500
+                "min": 1000,
+                "max": 1500
             },
             "state": "Stable",
             "last_updated": "04/Apr/2023",
