@@ -6247,11 +6247,11 @@
             "section": "Easter",
             "name": "Easter Pattern Shirt",
             "price": {
-                "min": 500,
-                "max": 1000
+                "min": 300,
+                "max": 600
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "04/Apr/2023",
             "url": "wearables/IMG_664"
         }
     },
