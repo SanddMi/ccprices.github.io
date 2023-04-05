@@ -6519,11 +6519,11 @@
             "section": "Easter",
             "name": "Easter Egg Staff",
             "price": {
-                "min": 0,
-                "max": 0
+                "min": 3500,
+                "max": 5500
             },
             "state": "Stable",
-            "last_updated": "soon",
+            "last_updated": "04/Apr/2023",
             "url": "wearables/IMG_860"
         }
     },
