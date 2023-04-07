@@ -5516,11 +5516,11 @@
             "section": "Easter",
             "name": "Rabbit Head",
             "price": {
-                "min": 450,
-                "max": 750
+                "min": 350,
+                "max": 550
             },
             "state": "Stable",
-            "last_updated": "04/Apr/2023",
+            "last_updated": "07/Apr/2023",
             "url": "wearables/IMG_432"
         }
     },
