@@ -6656,10 +6656,10 @@
             "name": "Easter Sweater",
             "price": {
                 "min": 20000,
-                "max": 30000
+                "max": 25000
             },
             "state": "Stable",
-            "last_updated": "27/Mar/2023",
+            "last_updated": "07/Apr/2023",
             "url": "wearables/IMG_867"
         }
     },
