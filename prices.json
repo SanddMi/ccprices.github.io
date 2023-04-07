@@ -6740,11 +6740,11 @@
             "section": "Easter",
             "name": "Rabbit Glasses",
             "price": {
-                "min": 0,
-                "max": 0
+                "min": 15000,
+                "max": 20000
             },
             "state": "Stable",
-            "last_updated": "soon",
+            "last_updated": "07/Apr/2023",
             "url": "wearables/error"
         }
     },
