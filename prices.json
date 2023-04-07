@@ -5720,8 +5720,8 @@
             "section": "Easter",
             "name": "Chick Hat",
             "price": {
-                "min": 2500,
-                "max": 3000
+                "min": 1000,
+                "max": 2000
             },
             "state": "Stable",
             "last_updated": "07/Apr/2023",
