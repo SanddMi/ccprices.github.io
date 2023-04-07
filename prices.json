@@ -12572,10 +12572,10 @@
             "name": "Xmas Scarf",
             "price": {
                 "min": 450,
-                "max": 650
+                "max": 750
             },
             "state": "Stable",
-            "last_updated": "24/Feb/2023",
+            "last_updated": "07/Apr/2023",
             "url": "wearables/IMG_287"
         }
     },
