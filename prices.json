@@ -13081,11 +13081,11 @@
             "section": "Christmas",
             "name": "Holly Crown",
             "price": {
-                "min": 350,
-                "max": 550
+                "min": 200,
+                "max": 350
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "07/Apr/2023",
             "url": "wearables/IMG_747"
         }
     },
