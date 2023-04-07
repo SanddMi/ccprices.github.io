@@ -11959,11 +11959,11 @@
             "section": "Christmas",
             "name": "Ice Head",
             "price": {
-                "min": 150000,
-                "max": 200000
+                "min": 140000,
+                "max": 160000
             },
             "state": "Stable",
-            "last_updated": "09/Mar/2023",
+            "last_updated": "07/Apr/2023",
             "url": "wearables/IMG_530"
         }
     },
