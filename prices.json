@@ -6655,8 +6655,8 @@
             "section": "Easter",
             "name": "Easter Sweater",
             "price": {
-                "min": 20000,
-                "max": 25000
+                "min": 17500,
+                "max": 22500
             },
             "state": "Stable",
             "last_updated": "07/Apr/2023",
