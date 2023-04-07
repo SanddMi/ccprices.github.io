@@ -14584,5 +14584,855 @@
             "last_updated": "17/Dec/2022",
             "url": "stamps/IMG_086"
         }
+    },
+    {
+        "type": {
+            "name": "CLANSTONE",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Clanstone",
+            "price": {
+                "min": 13000,
+                "max": 15000
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/clanstone"
+        }
+    },
+    {
+        "type": {
+            "name": "PORTALS",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Portals",
+            "price": {
+                "min": 200,
+                "max": 225
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/IMG_001"
+        }
+    },
+    {
+        "type": {
+            "name": "EVENT BUMPER",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Event Bumper",
+            "price": {
+                "min": 20000,
+                "max": 23000
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/01019_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "NAMETAG",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Nametag",
+            "price": {
+                "min": 8500,
+                "max": 9500
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/nametag"
+        }
+    },
+    {
+        "type": {
+            "name": "OFFICIAL PAPER",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Official Paper",
+            "price": {
+                "min": 2250,
+                "max": 2750
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/paper"
+        }
+    },
+    {
+        "type": {
+            "name": "NUKE",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Nuke",
+            "price": {
+                "min": 425,
+                "max": 500
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00305_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "MANNEQUIN",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Mannequin",
+            "price": {
+                "min": 450,
+                "max": 550
+            },
+            "state": "Stable",
+            "last_updated": "07/Apr/2023",
+            "url": "stores/00438_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "VENDING MACHINE",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Vending Machine",
+            "price": {
+                "min": 425,
+                "max": 450
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00769_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "MAILBOX",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Mailbox",
+            "price": {
+                "min": 2000,
+                "max": 2250
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00514_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "PRIZE DISPENSER",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Prize Dispenser",
+            "price": {
+                "min": 750,
+                "max": 850
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00179_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "DONATION TABLE",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Donation Table",
+            "price": {
+                "min": 65,
+                "max": 85
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00437_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "TIP PIGGY",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Tip Piggy",
+            "price": {
+                "min": 125,
+                "max": 200
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00175_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "INFO BUMPER",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Info Bumper",
+            "price": {
+                "min": 900,
+                "max": 1200
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00701_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "GUESTBOOK",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Guestbook",
+            "price": {
+                "min": 500,
+                "max": 700
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00681_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "MUTE BUMPER",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Mute Bumper",
+            "price": {
+                "min": 450,
+                "max": 550
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00512_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "NO LITTERING!",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "No Littering!",
+            "price": {
+                "min": 1800,
+                "max": 2200
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00967_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "GATHER BUMPER",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Gather Bumper",
+            "price": {
+                "min": 2250,
+                "max": 2750
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00700_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "TROPHY STAND",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Trophy Stand",
+            "price": {
+                "min": 150,
+                "max": 225
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/01629_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "HIDEY BUMPER",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Hidey Bumper",
+            "price": {
+                "min": 400,
+                "max": 450
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00448_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "SEEKER BUMPER",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Seeker Bumper",
+            "price": {
+                "min": 700,
+                "max": 900
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00834_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "SHRINK BUMPER",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Shrink Bumper",
+            "price": {
+                "min": 1000,
+                "max": 1250
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00518_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "FINISH LINE BUMPER",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Finish Line Bumper",
+            "price": {
+                "min": 400,
+                "max": 450
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00662_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "START TIMER BUMPER",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Start Timer Bumper",
+            "price": {
+                "min": 400,
+                "max": 450
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00663_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "NO BALLS ALLOWED!",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Clanstone",
+            "price": {
+                "min": 175,
+                "max": 225
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00885_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "POP! BUMPER",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Pop! Bumper",
+            "price": {
+                "min": 175,
+                "max": 225
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00886_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "START PISTOL BUMPER",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Start Pistol Bumper",
+            "price": {
+                "min": 400,
+                "max": 450
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00794_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "FLASH BUMPER",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Flash Bumper",
+            "price": {
+                "min": 350,
+                "max": 450
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00702_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "CLAIM BUMPER",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Claim Bumper",
+            "price": {
+                "min": 350,
+                "max": 450
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00703_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "TIMED CLAIM BUMPER",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Timed Claim Bumper",
+            "price": {
+                "min": 350,
+                "max": 450
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00704_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "CUBIT CLAIM BUMPER",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Cubit Claim Bumper",
+            "price": {
+                "min": 300,
+                "max": 400
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00705_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "1 WEEK BUMPER",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Claim 1 Week Bumper",
+            "price": {
+                "min": 300,
+                "max": 400
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00717_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "1 DAY BUMPER",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Claim 1 Day Bumper",
+            "price": {
+                "min": 300,
+                "max": 400
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00716_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "1 HOUR BUMPER",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Claim 1 Hour Bumper",
+            "price": {
+                "min": 300,
+                "max": 400
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00715_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "FOUNDATION BLOCK",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Foundation Block",
+            "price": {
+                "min": 2,
+                "max": 3
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/foundation"
+        }
+    },
+    {
+        "type": {
+            "name": "WARP CRUNCH BUMPER",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Warp Crunch Bumper",
+            "price": {
+                "min": 1500,
+                "max": 2000
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00516_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "TRANS-PICKLE BUMPER",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Trans-Pickle Bumper",
+            "price": {
+                "min": 650,
+                "max": 750
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00696_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "TELEFRANK BUMPER",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Telefrank Bumper",
+            "price": {
+                "min": 600,
+                "max": 700
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00695_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "WARP COLA BUMPER",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Warp Cola Bumper",
+            "price": {
+                "min": 550,
+                "max": 650
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00694_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "QUANTUM FRIES BUMPER",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Quantum Fries Bumper",
+            "price": {
+                "min": 450,
+                "max": 550
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00697_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "BEAM BURGER BUMPER",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Beam Burger Bumper",
+            "price": {
+                "min": 400,
+                "max": 500
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00523_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "TELETACO BUMPER",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Teletaco Bumper",
+            "price": {
+                "min": 400,
+                "max": 500
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00522_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "WARP PIZZA BUMPER",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Warp Pizza Bumper",
+            "price": {
+                "min": 400,
+                "max": 500
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00520_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "OMNI WIND MACHINE",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Omni Wind Machine",
+            "price": {
+                "min": 2500,
+                "max": 3500
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00533_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "PULSE BLOCK",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "1x Pulse Block",
+            "price": {
+                "min": 60,
+                "max": 85
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/00404_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "CABBAGE PATCH DANCE",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Cabbage Patch Dance",
+            "price": {
+                "min": 7500,
+                "max": 8500
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/248"
+        }
+    },
+    {
+        "type": {
+            "name": "ANTS INDA PANTS DANCE",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Ants Inda Pants Dance",
+            "price": {
+                "min": 7500,
+                "max": 8500
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/251"
+        }
+    },
+    {
+        "type": {
+            "name": "WAVERLY DANCE",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Waverly Dance",
+            "price": {
+                "min": 3000,
+                "max": 4000
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/250"
+        }
+    },
+    {
+        "type": {
+            "name": "PANDULUM DANCE",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Pandulum Dance",
+            "price": {
+                "min": 3000,
+                "max": 4000
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/252"
+        }
+    },
+    {
+        "type": {
+            "name": "RUNNING MAN DANCE",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "Running Man Dance",
+            "price": {
+                "min": 1500,
+                "max": 2000
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/249"
+        }
+    },
+    {
+        "type": {
+            "name": "PLAYERNPC",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Cubit Store",
+            "name": "PlayerNPC",
+            "price": {
+                "min": 700,
+                "max": 900
+            },
+            "state": "Stable",
+            "last_updated": "16/03/2023",
+            "url": "stores/01533_cropped"
+        }
     }
 ]
