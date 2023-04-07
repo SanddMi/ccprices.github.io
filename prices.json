@@ -12605,11 +12605,11 @@
             "section": "Christmas",
             "name": "Gift BackPack 2",
             "price": {
-                "min": 4500,
-                "max": 5500
+                "min": 5000,
+                "max": 6000
             },
             "state": "Stable",
-            "last_updated": "27/Mar/2023",
+            "last_updated": "07/Apr/2023",
             "url": "wearables/IMG_527"
         }
     },
