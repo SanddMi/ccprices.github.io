@@ -6706,8 +6706,8 @@
             "section": "Easter",
             "name": "Easter Scarf",
             "price": {
-                "min": 40000,
-                "max": 50000
+                "min": 50000,
+                "max": 60000
             },
             "state": "Increasing",
             "last_updated": "07/Apr/2023",
