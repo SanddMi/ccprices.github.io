@@ -6428,7 +6428,7 @@
     {
         "type": {
             "name": "RAINBOW HAT",
-            "section": "NEW_WEARABLES"
+            "section": "EASTER"
         },
         "item": {
             "section": "Easter",
@@ -6445,7 +6445,7 @@
     {
         "type": {
             "name": "RAINBOW PAJAMA SHIRT",
-            "section": "NEW_WEARABLES"
+            "section": "EASTER"
         },
         "item": {
             "section": "Easter",
@@ -6462,7 +6462,7 @@
     {
         "type": {
             "name": "RAINBOW PAJAMA PANTS",
-            "section": "NEW_WEARABLES"
+            "section": "EASTER"
         },
         "item": {
             "section": "Easter",
@@ -6479,7 +6479,7 @@
     {
         "type": {
             "name": "RAINBOW WINGS",
-            "section": "NEW_WEARABLES"
+            "section": "EASTER"
         },
         "item": {
             "section": "Easter",
@@ -6496,7 +6496,7 @@
     {
         "type": {
             "name": "RAINBOW HEADBAND",
-            "section": "NEW_WEARABLES"
+            "section": "EASTER"
         },
         "item": {
             "section": "Easter",
@@ -6513,7 +6513,7 @@
     {
         "type": {
             "name": "EASTER EGG STAFF",
-            "section": "NEW_WEARABLES"
+            "section": "EASTER"
         },
         "item": {
             "section": "Easter",
@@ -6530,7 +6530,7 @@
     {
         "type": {
             "name": "CHICK HEAD",
-            "section": "NEW_WEARABLES"
+            "section": "EASTER"
         },
         "item": {
             "section": "Easter",
@@ -6547,7 +6547,7 @@
     {
         "type": {
             "name": "CHICK SHIRT",
-            "section": "NEW_WEARABLES"
+            "section": "EASTER"
         },
         "item": {
             "section": "Easter",
@@ -6564,7 +6564,7 @@
     {
         "type": {
             "name": "CHICK PANTS",
-            "section": "NEW_WEARABLES"
+            "section": "EASTER"
         },
         "item": {
             "section": "Easter",
@@ -6581,7 +6581,7 @@
     {
         "type": {
             "name": "BUNNY UMBRELLA",
-            "section": "NEW_WEARABLES"
+            "section": "EASTER"
         },
         "item": {
             "section": "Easter",
@@ -6598,7 +6598,7 @@
     {
         "type": {
             "name": "EASTER STAFF",
-            "section": "NEW_WEARABLES"
+            "section": "EASTER"
         },
         "item": {
             "section": "Easter",
@@ -6615,7 +6615,7 @@
     {
         "type": {
             "name": "RAINBOW HALO",
-            "section": "NEW_WEARABLES"
+            "section": "EASTER"
         },
         "item": {
             "section": "Easter",
@@ -6632,7 +6632,7 @@
     {
         "type": {
             "name": "RAINBOW GLASSES",
-            "section": "NEW_WEARABLES"
+            "section": "EASTER"
         },
         "item": {
             "section": "Easter",
@@ -6649,7 +6649,7 @@
     {
         "type": {
             "name": "EASTER SWEATER",
-            "section": "NEW_WEARABLES"
+            "section": "EASTER"
         },
         "item": {
             "section": "Easter",
@@ -6666,7 +6666,7 @@
     {
         "type": {
             "name": "RAINBOW BACKPACK",
-            "section": "NEW_WEARABLES"
+            "section": "EASTER"
         },
         "item": {
             "section": "Easter",
@@ -6683,7 +6683,7 @@
     {
         "type": {
             "name": "CARROT HEADPHONES",
-            "section": "NEW_WEARABLES"
+            "section": "EASTER"
         },
         "item": {
             "section": "Easter",
@@ -6700,7 +6700,7 @@
     {
         "type": {
             "name": "EASTER SCARF",
-            "section": "NEW_WEARABLES"
+            "section": "EASTER"
         },
         "item": {
             "section": "Easter",
@@ -6717,24 +6717,24 @@
     {
         "type": {
             "name": "HOLDABLE EASTER BASKET",
-            "section": "NEW_WEARABLES"
+            "section": "EASTER"
         },
         "item": {
             "section": "Easter",
             "name": "Holdable Easter Basket",
             "price": {
-                "min": 20000,
-                "max": 25000
+                "min": 17500,
+                "max": 22500
             },
             "state": "Stable",
-            "last_updated": "27/Mar/2023",
+            "last_updated": "07/Apr/2023",
             "url": "wearables/IMG_874"
         }
     },
     {
         "type": {
             "name": "RABBIT GLASSES",
-            "section": "NEW_WEARABLES"
+            "section": "EASTER"
         },
         "item": {
             "section": "Easter",
@@ -6751,7 +6751,7 @@
     {
         "type": {
             "name": "RABBIT BACKPACK",
-            "section": "NEW_WEARABLES"
+            "section": "EASTER"
         },
         "item": {
             "section": "Easter",
