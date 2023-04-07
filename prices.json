@@ -5874,10 +5874,10 @@
             "name": "Fab Yellow Bunny Ears",
             "price": {
                 "min": 250,
-                "max": 350
+                "max": 450
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "07/Apr/2023",
             "url": "wearables/IMG_202"
         }
     },
