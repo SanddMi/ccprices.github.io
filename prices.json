@@ -6009,11 +6009,11 @@
             "section": "Easter",
             "name": "Garden Backpack",
             "price": {
-                "min": 750,
-                "max": 1500
+                "min": 450,
+                "max": 750
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "07/Apr/2023",
             "url": "wearables/IMG_429"
         }
     },
