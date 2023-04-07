@@ -5567,11 +5567,11 @@
             "section": "Easter",
             "name": "Snail Backpack",
             "price": {
-                "min": 25000,
-                "max": 30000
+                "min": 15000,
+                "max": 20000
             },
             "state": "Stable",
-            "last_updated": "14/Mar/2023",
+            "last_updated": "07/Apr/2023",
             "url": "wearables/IMG_567"
         }
     },
