@@ -6706,11 +6706,11 @@
             "section": "Easter",
             "name": "Easter Scarf",
             "price": {
-                "min": 0,
-                "max": 0
+                "min": 40000,
+                "max": 50000
             },
             "state": "Stable",
-            "last_updated": "soon",
+            "last_updated": "07/Apr/2023",
             "url": "wearables/IMG_873"
         }
     },
