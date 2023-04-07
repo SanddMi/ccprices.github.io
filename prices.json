@@ -6264,11 +6264,11 @@
             "section": "Easter",
             "name": "Easter Egg Shirt",
             "price": {
-                "min": 300,
-                "max": 600
+                "min": 250,
+                "max": 450
             },
             "state": "Stable",
-            "last_updated": "05/Apr/2023",
+            "last_updated": "07/Apr/2023",
             "url": "wearables/IMG_663"
         }
     },
