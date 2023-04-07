@@ -12520,11 +12520,11 @@
             "section": "Christmas",
             "name": "Red & Green Scarf",
             "price": {
-                "min": 9000,
+                "min": 10000,
                 "max": 12000
             },
             "state": "Stable",
-            "last_updated": "02/Mar/2023",
+            "last_updated": "07/Apr/2023",
             "url": "wearables/IMG_137"
         }
     },
