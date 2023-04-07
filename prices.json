@@ -6196,8 +6196,8 @@
             "section": "Easter",
             "name": "Blue Kimono Skirt",
             "price": {
-                "min": 1500,
-                "max": 2000
+                "min": 1000,
+                "max": 1500
             },
             "state": "Stable",
             "last_updated": "07/Apr/2023",
