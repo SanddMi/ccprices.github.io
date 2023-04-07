@@ -12470,7 +12470,7 @@
             "name": "Christmas Glasses",
             "price": {
                 "min": 100,
-                "max": 180
+                "max": 200
             },
             "state": "Stable",
             "last_updated": "07/Apr/2023",
