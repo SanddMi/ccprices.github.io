@@ -6162,11 +6162,11 @@
             "section": "Easter",
             "name": "Pink Rabbit Pants",
             "price": {
-                "min": 750,
-                "max": 1250
+                "min": 350,
+                "max": 550
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "07/Apr/2023",
             "url": "wearables/IMG_668"
         }
     },
