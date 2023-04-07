@@ -12469,11 +12469,11 @@
             "section": "Christmas",
             "name": "Christmas Glasses",
             "price": {
-                "min": 150,
-                "max": 250
+                "min": 100,
+                "max": 180
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "07/Apr/2023",
             "url": "wearables/IMG_518"
         }
     },
