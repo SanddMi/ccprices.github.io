@@ -6213,11 +6213,11 @@
             "section": "Easter",
             "name": "Pink Kimono Shirt",
             "price": {
-                "min": 500,
-                "max": 1000
+                "min": 1000,
+                "max": 1500
             },
             "state": "Stable",
-            "last_updated": "18/Mar/2023",
+            "last_updated": "07/Apr/2023",
             "url": "wearables/IMG_661"
         }
     },
