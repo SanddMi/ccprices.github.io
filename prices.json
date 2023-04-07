@@ -5091,11 +5091,11 @@
             "section": "Easter",
             "name": "Golden Egg Costume",
             "price": {
-                "min": 400000,
-                "max": 425000
+                "min": 370000,
+                "max": 400000
             },
             "state": "Stable",
-            "last_updated": "05/Feb/2023",
+            "last_updated": "07/Apr/2023",
             "url": "wearables/IMG_673"
         }
     },
