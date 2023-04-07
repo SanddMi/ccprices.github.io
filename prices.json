@@ -5754,11 +5754,11 @@
             "section": "Easter",
             "name": "Carrot Hat",
             "price": {
-                "min": 500,
-                "max": 1000
+                "min": 300,
+                "max": 450
             },
             "state": "Stable",
-            "last_updated": "14/Mar/2023",
+            "last_updated": "07/Apr/2023",
             "url": "wearables/IMG_346"
         }
     },
