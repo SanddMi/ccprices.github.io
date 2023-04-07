@@ -5108,11 +5108,11 @@
             "section": "Easter",
             "name": "Rainbow Umbrella",
             "price": {
-                "min": 900000,
-                "max": 1000000
+                "min": 1000000,
+                "max": 1100000
             },
             "state": "Stable",
-            "last_updated": "17/Mar/2023",
+            "last_updated": "07/Apr/2023",
             "url": "wearables/IMG_781"
         }
     },
