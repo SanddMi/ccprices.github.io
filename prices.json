@@ -5329,11 +5329,11 @@
             "section": "Easter",
             "name": "Carrot Wand",
             "price": {
-                "min": 3000,
-                "max": 4000
+                "min": 4000,
+                "max": 5000
             },
             "state": "Stable",
-            "last_updated": "24/Feb/2023",
+            "last_updated": "07/Apr/2023",
             "url": "wearables/IMG_774"
         }
     },
