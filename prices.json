@@ -11976,11 +11976,11 @@
             "section": "Christmas",
             "name": "Ice Shirt",
             "price": {
-                "min": 450,
-                "max": 750
+                "min": 300,
+                "max": 400
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "07/Apr/2023",
             "url": "wearables/IMG_528"
         }
     },
