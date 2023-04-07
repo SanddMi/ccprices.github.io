@@ -13031,10 +13031,10 @@
             "name": "Toy Soldier Cap",
             "price": {
                 "min": 75,
-                "max": 150
+                "max": 125
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "07/Apr/2023",
             "url": "wearables/IMG_407"
         }
     },
