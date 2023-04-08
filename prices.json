@@ -11755,11 +11755,11 @@
             "section": "Thanksgiving",
             "name": "Rainbow Turkey Tail",
             "price": {
-                "min": 300000,
-                "max": 350000
+                "min": 200000,
+                "max": 250000
             },
             "state": "Stable",
-            "last_updated": "20/Mar/2023",
+            "last_updated": "08/Apr/2023",
             "url": "wearables/IMG_820"
         }
     },
@@ -14599,17 +14599,17 @@
             },
             "state": "Stable",
             "last_updated": "16/03/2023",
-            "url": "stores/clanstone"
+            "url": "stores/00432_cropped"
         }
     },
     {
         "type": {
-            "name": "PORTALS",
+            "name": "DOORWAY",
             "section": "STORE"
         },
         "item": {
             "section": "Cubit Store",
-            "name": "Portals",
+            "name": "Doorway",
             "price": {
                 "min": 200,
                 "max": 225
@@ -14983,7 +14983,7 @@
         },
         "item": {
             "section": "Cubit Store",
-            "name": "Clanstone",
+            "name": "No Balls Allowed!",
             "price": {
                 "min": 175,
                 "max": 225
@@ -15160,7 +15160,7 @@
             },
             "state": "Stable",
             "last_updated": "16/03/2023",
-            "url": "stores/foundation"
+            "url": "stores/00706_cropped"
         }
     },
     {
@@ -15323,7 +15323,7 @@
         },
         "item": {
             "section": "Cubit Store",
-            "name": "1x Pulse Block",
+            "name": "Pulse Block",
             "price": {
                 "min": 60,
                 "max": 85
