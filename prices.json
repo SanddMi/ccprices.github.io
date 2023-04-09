@@ -6638,11 +6638,11 @@
             "section": "Easter",
             "name": "Rainbow Glasses",
             "price": {
-                "min": 35000,
+                "min": 30000,
                 "max": 40000
             },
-            "state": "Increasing",
-            "last_updated": "07/Apr/2023",
+            "state": "Stable",
+            "last_updated": "08/Apr/2023",
             "url": "wearables/IMG_869"
         }
     },
@@ -6672,11 +6672,11 @@
             "section": "Easter",
             "name": "Rainbow Backpack",
             "price": {
-                "min": 30000,
-                "max": 40000
+                "min": 35000,
+                "max": 45000
             },
             "state": "Stable",
-            "last_updated": "04/Apr/2023",
+            "last_updated": "08/Apr/2023",
             "url": "wearables/IMG_868"
         }
     },
