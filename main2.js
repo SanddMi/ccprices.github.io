@@ -14,8 +14,6 @@ $(".searchbar span").on("click", function(event) {
     $("#blurred").css("display","block")
 })
 
-"hideExpression": "true"
-
 $(".searchbar span").on("click", function(event) {
     $(".sections").css({"display":"inline-block"});
     $(".searchbar span").hide();
