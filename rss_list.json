@@ -1,0 +1,965 @@
+[
+	{
+		"item": {
+			"name": "Stone",
+			"buying": "YES",
+			"multi": "/",
+			"price": 5,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Iron",
+			"buying": "YES",
+			"multi": "/",
+			"price": 12,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Coal",
+			"buying": "YES",
+			"multi": "/",
+			"price": 15,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Silver",
+			"buying": "YES",
+			"multi": "/",
+			"price": 6,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Gold",
+			"buying": "YES",
+			"multi": "/",
+			"price": 3,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Sunberries",
+			"buying": "YES",
+			"multi": "/",
+			"price": 7,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Yumberries",
+			"buying": "YES",
+			"multi": "/",
+			"price": 7,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Chiliberries",
+			"buying": "YES",
+			"multi": "/",
+			"price": 7,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Frostberries",
+			"buying": "YES",
+			"multi": "/",
+			"price": 7,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Rubber",
+			"buying": "YES",
+			"multi": "/",
+			"price": 6,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Cotton",
+			"buying": "YES",
+			"multi": "/",
+			"price": 6,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Beeswax",
+			"buying": "YES",
+			"multi": "/",
+			"price": 1,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Honey",
+			"buying": "YES",
+			"multi": "/",
+			"price": 6,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Oil",
+			"buying": "YES",
+			"multi": "/",
+			"price": 4,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Green Goop",
+			"buying": "YES",
+			"multi": "/",
+			"price": 6,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "White Flower",
+			"buying": "YES",
+			"multi": "/",
+			"price": 1,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Red Flower",
+			"buying": "YES",
+			"multi": "/",
+			"price": 1,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Yellow Flower",
+			"buying": "YES",
+			"multi": "/",
+			"price": 2,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Blue Flower",
+			"buying": "YES",
+			"multi": "/",
+			"price": 2,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Pink Flower",
+			"buying": "YES",
+			"multi": "/",
+			"price": 2,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Wild Red Flower",
+			"buying": "YES",
+			"multi": "/",
+			"price": 2,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Wild Blue Flower",
+			"buying": "YES",
+			"multi": "/",
+			"price": 2,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Wild White Flower",
+			"buying": "YES",
+			"multi": "/",
+			"price": 2,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Sulfur",
+			"buying": "YES",
+			"multi": "/",
+			"price": 1,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Mineral Deposit",
+			"buying": "YES",
+			"multi": "/",
+			"price": 1,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Mushroom",
+			"buying": "YES",
+			"multi": "/",
+			"price": 4,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Mushroom Patch",
+			"buying": "YES",
+			"multi": "/",
+			"price": 4,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Lily Pad",
+			"buying": "YES",
+			"multi": "/",
+			"price": 5,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Water Lily",
+			"buying": "YES",
+			"multi": "/",
+			"price": 4,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Bones",
+			"buying": "YES",
+			"multi": "/",
+			"price": 1,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Shell",
+			"buying": "YES",
+			"multi": "/",
+			"price": 5,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Slow Geyser",
+			"buying": "YES",
+			"multi": "/",
+			"price": 4,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Fast Geyser",
+			"buying": "YES",
+			"multi": "/",
+			"price": 4,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Slimeball",
+			"buying": "YES",
+			"multi": "/",
+			"price": 3,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Slime Splat",
+			"buying": "YES",
+			"multi": "/",
+			"price": 5,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Crystal",
+			"buying": "YES",
+			"multi": "*",
+			"price": 3,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Deep Mushroom",
+			"buying": "YES",
+			"multi": "*",
+			"price": 3,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "MegaStalagmite",
+			"buying": "YES",
+			"multi": "/",
+			"price": 1,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Big OI' Stalagmite",
+			"buying": "YES",
+			"multi": "/",
+			"price": 1,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Buncha Stalagmites",
+			"buying": "YES",
+			"multi": "/",
+			"price": 1,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Stone Lava Cracks",
+			"buying": "YES",
+			"multi": "/",
+			"price": 2,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Cave Lava Cracks",
+			"buying": "YES",
+			"multi": "/",
+			"price": 2,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Deep Cave Wall",
+			"buying": "YES",
+			"multi": "/",
+			"price": 5,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Cave Wall",
+			"buying": "YES",
+			"multi": "/",
+			"price": 4,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Blue Magic Dust",
+			"buying": "YES",
+			"multi": "/",
+			"price": 4,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Purple Magic Dust",
+			"buying": "YES",
+			"multi": "/",
+			"price": 4,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Yellow Magic Dust",
+			"buying": "YES",
+			"multi": "/",
+			"price": 4,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Red Magic Dust",
+			"buying": "YES",
+			"multi": "/",
+			"price": 4,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Tomato",
+			"buying": "YES",
+			"multi": "/",
+			"price": 4,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Potato",
+			"buying": "YES",
+			"multi": "/",
+			"price": 3,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Eggplant",
+			"buying": "YES",
+			"multi": "/",
+			"price": 2,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Corn",
+			"buying": "YES",
+			"multi": "/",
+			"price": 2,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Wheat",
+			"buying": "YES",
+			"multi": "/",
+			"price": 1,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Dirt",
+			"buying": "YES",
+			"multi": "/",
+			"price": 15,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Mud",
+			"buying": "YES",
+			"multi": "/",
+			"price": 10,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Top Mesa",
+			"buying": "YES",
+			"multi": "/",
+			"price": 15,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Mesa",
+			"buying": "YES",
+			"multi": "/",
+			"price": 15,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Sand",
+			"buying": "YES",
+			"multi": "/",
+			"price": 10,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Mountain",
+			"buying": "YES",
+			"multi": "/",
+			"price": 15,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Soil",
+			"buying": "YES",
+			"multi": "/",
+			"price": 5,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Lava",
+			"buying": "YES",
+			"multi": "/",
+			"price": 4,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Mountain Grass",
+			"buying": "YES",
+			"multi": "/",
+			"price": 10,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Grass",
+			"buying": "YES",
+			"multi": "/",
+			"price": 10,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Forest Grass",
+			"buying": "YES",
+			"multi": "/",
+			"price": 10,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Tropical Grass",
+			"buying": "YES",
+			"multi": "/",
+			"price": 8,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Water",
+			"buying": "YES",
+			"multi": "/",
+			"price": 12,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Pink Coral",
+			"buying": "YES",
+			"multi": "/",
+			"price": 2,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Snow",
+			"buying": "YES",
+			"multi": "/",
+			"price": 10,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Ice",
+			"buying": "YES",
+			"multi": "/",
+			"price": 5,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Dark Raw Stone",
+			"buying": "YES",
+			"multi": "*",
+			"price": 2,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "White Marble",
+			"buying": "YES",
+			"multi": "/",
+			"price": 1,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Blue Marble",
+			"buying": "YES",
+			"multi": "/",
+			"price": 1,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Black Marble",
+			"buying": "YES",
+			"multi": "*",
+			"price": 2,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Diamond",
+			"buying": "YES",
+			"multi": "*",
+			"price": 8,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Emerald",
+			"buying": "YES",
+			"multi": "*",
+			"price": 8,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Ruby",
+			"buying": "YES",
+			"multi": "*",
+			"price": 35,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Ice Boulder",
+			"buying": "YES",
+			"multi": "/",
+			"price": 3,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Mountain Boulder",
+			"buying": "YES",
+			"multi": "/",
+			"price": 3,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Boulder",
+			"buying": "YES",
+			"multi": "/",
+			"price": 3,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Tree Trunk",
+			"buying": "YES",
+			"multi": "/",
+			"price": 4,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Palm Trunk",
+			"buying": "YES",
+			"multi": "/",
+			"price": 4,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Pine Trunk",
+			"buying": "YES",
+			"multi": "/",
+			"price": 4,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Dead Trunk",
+			"buying": "YES",
+			"multi": "/",
+			"price": 3,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Rubber Trunk",
+			"buying": "YES",
+			"multi": "/",
+			"price": 3,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Mossy Tree Trunk",
+			"buying": "YES",
+			"multi": "/",
+			"price": 3,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Any Leaves",
+			"buying": "YES",
+			"multi": "/",
+			"price": 20,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Sticks",
+			"buying": "YES",
+			"multi": "/",
+			"price": 40,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Wild Egg",
+			"buying": "YES",
+			"multi": "/",
+			"price": 15,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Sunberry Bush",
+			"buying": "YES",
+			"multi": "/",
+			"price": 1,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Yumberry Bush",
+			"buying": "YES",
+			"multi": "/",
+			"price": 1,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Frostberry Bush",
+			"buying": "YES",
+			"multi": "/",
+			"price": 1,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Cotton Bush",
+			"buying": "YES",
+			"multi": "/",
+			"price": 1,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Chiliberry Bush",
+			"buying": "YES",
+			"multi": "/",
+			"price": 1,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Sugarcane",
+			"buying": "YES",
+			"multi": "/",
+			"price": 4,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Bush",
+			"buying": "YES",
+			"multi": "/",
+			"price": 2,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Thorny Vines",
+			"buying": "YES",
+			"multi": "/",
+			"price": 3,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Wild Grass",
+			"buying": "YES",
+			"multi": "/",
+			"price": 4,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Fern",
+			"buying": "YES",
+			"multi": "/",
+			"price": 4,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Cactus",
+			"buying": "YES",
+			"multi": "/",
+			"price": 10,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Thorns",
+			"buying": "YES",
+			"multi": "/",
+			"price": 20,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Forest Leaves",
+			"buying": "YES",
+			"multi": "/",
+			"price": 15,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Greenie Polka Tree Trunk",
+			"buying": "YES",
+			"multi": "/",
+			"price": 10,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Greenie Polka Tree Base",
+			"buying": "YES",
+			"multi": "/",
+			"price": 10,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Giant Mushroom Stalk",
+			"buying": "YES",
+			"multi": "/",
+			"price": 4,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Giant Mushroom Stalk Base",
+			"buying": "YES",
+			"multi": "/",
+			"price": 4,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Giant Mushroom Cap",
+			"buying": "YES",
+			"multi": "/",
+			"price": 3,
+			"image": ""
+		}
+	},
+	{
+		"item": {
+			"name": "Half Forest Grass",
+			"buying": "YES",
+			"multi": "/",
+			"price": 12,
+			"image": ""
+		}
+	}
+]
