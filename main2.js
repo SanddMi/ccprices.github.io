@@ -1,8 +1,10 @@
+var list   = process.env.PRICES
+
 $.ajax({
     'type': "Get",
     'async': false,
     'global': true,
-    'url': "prices.json",
+    'url': list,
     'dataType': "json",
     'success': function(data) {
         basic = data
