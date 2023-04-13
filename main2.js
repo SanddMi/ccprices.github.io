@@ -1,4 +1,5 @@
-require("dotenv").config();
+const = dotenv = require("dotenv")
+dotenv.config();
 var list   = process.env.PRICES
 
 $.ajax({
