@@ -1,6 +1,3 @@
-require("dotenv").config();
-var list   = process.env.PRICES
-
 $.ajax({
     'type': "Get",
     'async': false,
