@@ -1,6 +1,4 @@
-const dotenv = require("dotenv");
-dotenv.config();
-var list   = process.env.PRICES
+console.log(process.env.PRICES)
 
 $.ajax({
     'type': "Get",
