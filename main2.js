@@ -1,4 +1,6 @@
-console.log(process.env.PRICES)
+require("dotenv").config();
+
+console.log(process.env)
 
 $.ajax({
     'type': "Get",
