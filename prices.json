@@ -15434,5 +15434,396 @@
             "last_updated": "16/03/2023",
             "url": "stores/01533_cropped"
         }
+    },
+    {
+        "type": {
+            "name": "CLAN STONE LEVEL 2",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Store",
+            "name": "Clan Stone Level 2",
+            "price": {
+                "min": 50,
+                "max": 100
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "stores/00433_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "CLAN STONE LEVEL 3",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Store",
+            "name": "Clan Stone Level 3",
+            "price": {
+                "min": 50,
+                "max": 100
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "stores/00434_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "CLAN STONE LEVEL 4",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Store",
+            "name": "Clan Stone Level 4",
+            "price": {
+                "min": 50,
+                "max": 100
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "stores/00435_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "CLAN STONE LEVEL 5",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Store",
+            "name": "Clan Stone Level 5",
+            "price": {
+                "min": 50,
+                "max": 100
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "stores/00436_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "CLAN SENTRY",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Store",
+            "name": "Clan Sentry",
+            "price": {
+                "min": 800,
+                "max": 900
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "stores/IMG_076"
+        }
+    },
+    {
+        "type": {
+            "name": "SEEKER SENTRY",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Store",
+            "name": "Seeker Sentry",
+            "price": {
+                "min": 400,
+                "max": 500
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "stores/IMG_074"
+        }
+    },
+    {
+        "type": {
+            "name": "WARP SUGAR",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Store",
+            "name": "Warp Sugar",
+            "price": {
+                "min": 2,
+                "max": 4
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "stores/109"
+        }
+    },
+    {
+        "type": {
+            "name": "SLIME-INNA-BOX",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Store",
+            "name": "Slime-Inna-Box",
+            "price": {
+                "min": 350,
+                "max": 450
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "stores/00536_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "SPUDBUG-INNA-BOX",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Store",
+            "name": "Spudbug-Inna-Box",
+            "price": {
+                "min": 350,
+                "max": 450
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "stores/00537_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "SILVER CHEST",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Store",
+            "name": "Silver Chest",
+            "price": {
+                "min": 250,
+                "max": 350
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "stores/00560_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "GOLD CHEST",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Store",
+            "name": "Gold Chest",
+            "price": {
+                "min": 350,
+                "max": 450
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "stores/00561_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "QUANTUM CHEST",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Store",
+            "name": "Quantum Chest",
+            "price": {
+                "min": 1500,
+                "max": 2000
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "stores/00563_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "PHAROAH'S CHEST",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Store",
+            "name": "Pharoah'S Chest",
+            "price": {
+                "min": 2000,
+                "max": 2500
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "stores/00562_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "ID CARD",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Store",
+            "name": "Id Card",
+            "price": {
+                "min": 40,
+                "max": 50
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "stores/116"
+        }
+    },
+    {
+        "type": {
+            "name": "GOLD KEY",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Store",
+            "name": "Gold Key",
+            "price": {
+                "min": 40,
+                "max": 50
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "stores/117"
+        }
+    },
+    {
+        "type": {
+            "name": "STAR",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Store",
+            "name": "Star",
+            "price": {
+                "min": 40,
+                "max": 50
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "stores/118"
+        }
+    },
+    {
+        "type": {
+            "name": "FOOTPRINT",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Store",
+            "name": "Footprint",
+            "price": {
+                "min": 5,
+                "max": 7
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "stores/00568_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "COMPUTER",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Store",
+            "name": "Computer",
+            "price": {
+                "min": 30,
+                "max": 40
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "stores/00361_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "CITATION",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Store",
+            "name": "Citation",
+            "price": {
+                "min": 3,
+                "max": 5
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "stores/114"
+        }
+    },
+    {
+        "type": {
+            "name": "TICKET",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Store",
+            "name": "Ticket",
+            "price": {
+                "min": 1,
+                "max": 2
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "stores/115"
+        }
+    },
+    {
+        "type": {
+            "name": "SEEKER SKULL MARKER",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Store",
+            "name": "Seeker Skull Marker",
+            "price": {
+                "min": 50,
+                "max": 100
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "stores/00831_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "SEEKER COIN MARKER",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Store",
+            "name": "Seeker Coin Marker",
+            "price": {
+                "min": 50,
+                "max": 100
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "stores/00833_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "SEEKER KEY MARKER",
+            "section": "STORE"
+        },
+        "item": {
+            "section": "Store",
+            "name": "Seeker Key Marker",
+            "price": {
+                "min": 50,
+                "max": 100
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "stores/00832_cropped"
+        }
     }
 ]
