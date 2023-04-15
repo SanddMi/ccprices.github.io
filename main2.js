@@ -1,12 +1,8 @@
-require("dotenv").config();
-
-console.log(process.env)
-
 $.ajax({
     'type': "Get",
     'async': false,
     'global': true,
-    'url': list,
+    'url': "prices.json",
     'dataType': "json",
     'success': function(data) {
         basic = data
