@@ -1,8 +1,7 @@
 $.ajax({
-    'type': "Get",
     'async': false,
     'global': true,
-    'url': "prices.json",
+    'url': "https://ccprices.github.io/list/prices.json",
     'dataType': "json",
     'success': function(data) {
         basic = data
