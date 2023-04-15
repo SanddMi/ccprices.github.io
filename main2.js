@@ -1,7 +1,11 @@
+import config from './config';
+
+const { apiURL } = config;
+
 $.ajax({
     'async': false,
     'global': true,
-    'url': "prices.json",
+    'url': apiURL,
     'dataType': "json",
     'success': function(data) {
         basic = data
