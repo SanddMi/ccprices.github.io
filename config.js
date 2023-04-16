@@ -1,5 +1,5 @@
 import 'dotenv/config';
-dotenv.config();
+//dotenv.config();
 
 const { API_DATA_URL } = process.env;
 
