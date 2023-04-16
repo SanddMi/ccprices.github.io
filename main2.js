@@ -1,11 +1,12 @@
 import config from './config.js';
 
-const { API_DATA_URL } = config;
+let x = process.env.API_DATA_URL
+console.log(x)
 
 $.ajax({
     'async': false,
     'global': true,
-    'url': API_DATA_URL,
+    'url': x,
     'dataType': "json",
     'success': function(data) {
         basic = data
