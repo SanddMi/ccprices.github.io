@@ -1,5 +1,5 @@
-import dotenv from 'dotenv';
-dotenv.config({ path: path.join(__dirname, '.env') });
+import 'dotenv/config';
+dotenv.config();
 
 const { API_DATA_URL } = process.env;
 
