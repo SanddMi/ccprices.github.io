@@ -7,4 +7,6 @@ const { API_DATA_URL } = process.env;
 	apiURL: API_DATA_URL
 }*/
 
-console.log(API_DATA_URL)
+console.log(API_DATA_URL);
+
+import './main2.js';
