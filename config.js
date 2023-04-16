@@ -1,5 +1,5 @@
 import dotenv from 'dotenv';
-dotenv.config();
+dotenv.config({ path: path.join(__dirname, '.env') });
 
 const { API_DATA_URL } = process.env;
 
@@ -8,5 +8,3 @@ const { API_DATA_URL } = process.env;
 }*/
 
 console.log(API_DATA_URL);
-
-import './main2.js';
