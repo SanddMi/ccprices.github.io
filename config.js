@@ -1,4 +1,4 @@
-import dotenv from 'dotenv';
+import "./node_modules/dotenv/config.js";
 dotenv.config();
 
 const { API_DATA_URL } = process.env;
