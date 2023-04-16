@@ -1,11 +1,11 @@
 import config from './config.js';
 
-const { apiURL } = config;
+const { API_DATA_URL } = config;
 
 $.ajax({
     'async': false,
     'global': true,
-    'url': apiURL,
+    'url': API_DATA_URL,
     'dataType': "json",
     'success': function(data) {
         basic = data

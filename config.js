@@ -1,8 +1,10 @@
-import {} from 'dotenv/config';
-//dotenv.config();
+import dotenv from 'dotenv';
+dotenv.config();
 
-const { API_DATA_URL } = process.env
+const { API_DATA_URL } = process.env;
 
-module.exports = {
+/*module.exports = {
 	apiURL: API_DATA_URL
-}
+}*/
+
+console.log(API_DATA_URL)
