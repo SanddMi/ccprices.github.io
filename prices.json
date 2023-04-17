@@ -6638,11 +6638,11 @@
             "section": "Easter",
             "name": "Rainbow Glasses",
             "price": {
-                "min": 30000,
-                "max": 40000
+                "min": 35000,
+                "max": 45000
             },
             "state": "Stable",
-            "last_updated": "08/Apr/2023",
+            "last_updated": "17/Apr/2023",
             "url": "wearables/IMG_869"
         }
     },
