@@ -9599,8 +9599,8 @@
                 "min": 500000,
                 "max": 600000
             },
-            "state": "Stable",
-            "last_updated": "27/Mar/2023",
+            "state": "Decreasing",
+            "last_updated": "19/Apr/2023",
             "url": "wearables/IMG_178"
         }
     },
