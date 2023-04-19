@@ -9596,8 +9596,8 @@
             "section": "Halloween",
             "name": "Ghost Costume",
             "price": {
-                "min": 500000,
-                "max": 600000
+                "min": 450000,
+                "max": 550000
             },
             "state": "Decreasing",
             "last_updated": "19/Apr/2023",
