@@ -5084,6 +5084,40 @@
     },
     {
         "type": {
+            "name": "TURNER HEAD",
+            "section": "APRIL FOOLS' DAY"
+        },
+        "item": {
+            "section": "April Fools' Day",
+            "name": "Turner Head",
+            "price": {
+                "min": 8000,
+                "max": 12000
+            },
+            "state": "Stable",
+            "last_updated": "22/Apr/2023",
+            "url": "wearables/error"
+        }
+    },
+    {
+        "type": {
+            "name": "MUSHROOM UMBRELLA",
+            "section": "APRIL FOOLS' DAY"
+        },
+        "item": {
+            "section": "April Fools' Day",
+            "name": "Mushroom Umbrella",
+            "price": {
+                "min": 1500,
+                "max": 2500
+            },
+            "state": "Stable",
+            "last_updated": "19/Apr/2022",
+            "url": "wearables/error"
+        }
+    },
+    {
+        "type": {
             "name": "GOLDEN EGG COSTUME",
             "section": "EASTER"
         },
@@ -6332,11 +6366,11 @@
             "section": "Easter",
             "name": "Blue Rabbit Hood",
             "price": {
-                "min": 1500,
-                "max": 2000
+                "min": 750,
+                "max": 1500
             },
             "state": "Stable",
-            "last_updated": "04/Apr/2023",
+            "last_updated": "17/Apr/2023",
             "url": "wearables/IMG_771"
         }
     },
@@ -6349,11 +6383,11 @@
             "section": "Easter",
             "name": "Blue Rabbit Shirt",
             "price": {
-                "min": 1000,
-                "max": 1500
+                "min": 750,
+                "max": 1250
             },
             "state": "Stable",
-            "last_updated": "04/Apr/2023",
+            "last_updated": "17/Apr/2023",
             "url": "wearables/IMG_772"
         }
     },
@@ -6366,11 +6400,11 @@
             "section": "Easter",
             "name": "Blue Rabbit Pants",
             "price": {
-                "min": 1000,
-                "max": 1500
+                "min": 750,
+                "max": 1250
             },
             "state": "Stable",
-            "last_updated": "04/Apr/2023",
+            "last_updated": "17/Apr/2023",
             "url": "wearables/IMG_773"
         }
     },
@@ -6638,11 +6672,11 @@
             "section": "Easter",
             "name": "Rainbow Glasses",
             "price": {
-                "min": 30000,
-                "max": 40000
+                "min": 40000,
+                "max": 50000
             },
             "state": "Stable",
-            "last_updated": "08/Apr/2023",
+            "last_updated": "19/Apr/2023",
             "url": "wearables/IMG_869"
         }
     },
@@ -7420,11 +7454,11 @@
             "section": "Valentine's Day",
             "name": "Teddy Bear Head",
             "price": {
-                "min": 160000,
-                "max": 180000
+                "min": 125000,
+                "max": 150000
             },
             "state": "Decreasing",
-            "last_updated": "01/Apr/2023",
+            "last_updated": "19/Apr/2023",
             "url": "wearables/IMG_545"
         }
     },
@@ -9596,11 +9630,11 @@
             "section": "Halloween",
             "name": "Ghost Costume",
             "price": {
-                "min": 500000,
-                "max": 600000
+                "min": 450000,
+                "max": 550000
             },
-            "state": "Stable",
-            "last_updated": "27/Mar/2023",
+            "state": "Decreasing",
+            "last_updated": "19/Apr/2023",
             "url": "wearables/IMG_178"
         }
     },
@@ -10973,11 +11007,11 @@
             "section": "Thanksgiving",
             "name": "Trumpet Hat",
             "price": {
-                "min": 160000,
-                "max": 200000
+                "min": 150000,
+                "max": 180000
             },
             "state": "Decreasing",
-            "last_updated": "14/Apr/2023",
+            "last_updated": "19/Apr/2023",
             "url": "wearables/IMG_516"
         }
     },
@@ -14033,11 +14067,11 @@
             "section": "Car",
             "name": "Golden Rocket Key",
             "price": {
-                "min": 32500,
-                "max": 37500
+                "min": 30000,
+                "max": 35000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "18/Apr/2023",
             "url": "cars/232"
         }
     },
