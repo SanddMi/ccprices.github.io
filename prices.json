@@ -4326,11 +4326,11 @@
             "section": "Adventure Pack",
             "name": "Bull Whip",
             "price": {
-                "min": 3000,
-                "max": 4000
+                "min": 2500,
+                "max": 3500
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "23/Apr/2023",
             "url": "wearables/IMG_723"
         }
     },
