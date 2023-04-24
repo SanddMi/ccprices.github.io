@@ -13268,11 +13268,11 @@
             "section": "Christmas",
             "name": "Cup of Cocoa",
             "price": {
-                "min": 7500,
-                "max": 8500
+                "min": 6000,
+                "max": 8000
             },
             "state": "Stable",
-            "last_updated": "16/Mar/2023",
+            "last_updated": "24/Apr/2023",
             "url": "wearables/IMG_831"
         }
     },
