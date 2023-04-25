@@ -6604,11 +6604,11 @@
             "section": "Easter",
             "name": "Chick Pants",
             "price": {
-                "min": 750,
-                "max": 1250
+                "min": 1000,
+                "max": 1500
             },
             "state": "Stable",
-            "last_updated": "07/Apr/2023",
+            "last_updated": "25/Apr/2023",
             "url": "wearables/IMG_859"
         }
     },
