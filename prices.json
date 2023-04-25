@@ -10021,11 +10021,11 @@
             "section": "Halloween",
             "name": "Dragon Head",
             "price": {
-                "min": 2000,
-                "max": 3000
+                "min": 1500,
+                "max": 2500
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "25/Apr/2023",
             "url": "wearables/IMG_592"
         }
     },
