@@ -5499,11 +5499,11 @@
             "section": "Easter",
             "name": "Blue Ant Cap",
             "price": {
-                "min": 450,
-                "max": 750
+                "min": 200,
+                "max": 400
             },
             "state": "Stable",
-            "last_updated": "04/Apr/2023",
+            "last_updated": "28/Apr/2023",
             "url": "wearables/IMG_564"
         }
     },
