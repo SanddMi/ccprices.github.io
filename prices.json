@@ -10820,11 +10820,11 @@
             "section": "Halloween",
             "name": "Wizard's Spellbook",
             "price": {
-                "min": 15000,
-                "max": 20000
+                "min": 12500,
+                "max": 17500
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "28/Apr/2023",
             "url": "wearables/IMG_816"
         }
     },
