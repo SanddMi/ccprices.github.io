@@ -5176,11 +5176,11 @@
             "section": "Easter",
             "name": "Red Balloon",
             "price": {
-                "min": 90000,
-                "max": 100000
+                "min": 85000,
+                "max": 95000
             },
             "state": "Stable",
-            "last_updated": "20/Mar/2023",
+            "last_updated": "24/Apr/2023",
             "url": "wearables/IMG_208"
         }
     },
@@ -5210,11 +5210,11 @@
             "section": "Easter",
             "name": "Easter Umbrella",
             "price": {
-                "min": 1600000,
-                "max": 1700000
+                "min": 1500000,
+                "max": 1600000
             },
             "state": "Stable",
-            "last_updated": "07/Apr/2023",
+            "last_updated": "26/Apr/2023",
             "url": "wearables/IMG_197"
         }
     },
@@ -6570,11 +6570,11 @@
             "section": "Easter",
             "name": "Chick Head",
             "price": {
-                "min": 1000,
-                "max": 1500
+                "min": 1500,
+                "max": 2000
             },
             "state": "Stable",
-            "last_updated": "07/Apr/2023",
+            "last_updated": "25/Apr/2023",
             "url": "wearables/IMG_857"
         }
     },
@@ -6587,11 +6587,11 @@
             "section": "Easter",
             "name": "Chick Shirt",
             "price": {
-                "min": 750,
-                "max": 1250
+                "min": 1000,
+                "max": 1500
             },
             "state": "Stable",
-            "last_updated": "07/Apr/2023",
+            "last_updated": "25/Apr/2023",
             "url": "wearables/IMG_858"
         }
     },
@@ -6604,11 +6604,11 @@
             "section": "Easter",
             "name": "Chick Pants",
             "price": {
-                "min": 750,
-                "max": 1250
+                "min": 1000,
+                "max": 1500
             },
             "state": "Stable",
-            "last_updated": "07/Apr/2023",
+            "last_updated": "25/Apr/2023",
             "url": "wearables/IMG_859"
         }
     },
@@ -9970,11 +9970,11 @@
             "section": "Halloween",
             "name": "Pumpkin Head",
             "price": {
-                "min": 1500,
-                "max": 2500
+                "min": 1000,
+                "max": 1500
             },
             "state": "Stable",
-            "last_updated": "11/Mar/2023",
+            "last_updated": "24/Apr/2023",
             "url": "wearables/IMG_176"
         }
     },
@@ -10021,11 +10021,11 @@
             "section": "Halloween",
             "name": "Dragon Head",
             "price": {
-                "min": 2000,
-                "max": 3000
+                "min": 1500,
+                "max": 2500
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "25/Apr/2023",
             "url": "wearables/IMG_592"
         }
     },
@@ -13268,11 +13268,11 @@
             "section": "Christmas",
             "name": "Cup of Cocoa",
             "price": {
-                "min": 7500,
-                "max": 8500
+                "min": 6000,
+                "max": 8000
             },
             "state": "Stable",
-            "last_updated": "16/Mar/2023",
+            "last_updated": "24/Apr/2023",
             "url": "wearables/IMG_831"
         }
     },
