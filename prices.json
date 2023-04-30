@@ -8202,11 +8202,11 @@
             "section": "Valentine's Day",
             "name": "Mime Head",
             "price": {
-                "min": 1000,
-                "max": 1500
+                "min": 1500,
+                "max": 2000
             },
             "state": "Stable",
-            "last_updated": "25/Feb/2023",
+            "last_updated": "30/Apr/2023",
             "url": "wearables/IMG_846"
         }
     },
