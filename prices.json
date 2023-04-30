@@ -8389,11 +8389,11 @@
             "section": "Summer",
             "name": "Black Hawaiian Shirt",
             "price": {
-                "min": 55000,
-                "max": 60000
+                "min": 50000,
+                "max": 55000
             },
             "state": "Stable",
-            "last_updated": "18/Feb/2023",
+            "last_updated": "30/Apr/2023",
             "url": "wearables/IMG_310"
         }
     },
