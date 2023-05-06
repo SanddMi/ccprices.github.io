@@ -9222,11 +9222,11 @@
             "section": "Fan",
             "name": "Qbeets Headphone",
             "price": {
-                "min": 3000,
-                "max": 4000
+                "min": 2500,
+                "max": 3500
             },
             "state": "Stable",
-            "last_updated": "27/Mar/2023",
+            "last_updated": "06/May/2023",
             "url": "wearables/IMG_696"
         }
     },
