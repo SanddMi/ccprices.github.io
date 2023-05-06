@@ -8,11 +8,11 @@
             "section": "Hat Pack",
             "name": "Top Hat",
             "price": {
-                "min": 100,
-                "max": 150
+                "min": 1,
+                "max": 100
             },
             "state": "Stable",
-            "last_updated": "05/Apr/2023",
+            "last_updated": "06/May/2023",
             "url": "wearables/IMG_001"
         }
     },
@@ -9222,11 +9222,11 @@
             "section": "Fan",
             "name": "Qbeets Headphone",
             "price": {
-                "min": 2500,
-                "max": 3500
+                "min": 3000,
+                "max": 4000
             },
             "state": "Stable",
-            "last_updated": "06/May/2023",
+            "last_updated": "27/Mar/2023",
             "url": "wearables/IMG_696"
         }
     },
