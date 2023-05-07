@@ -6,3 +6,4 @@ Sandd typed /price Fur Hat
 1 Sandd found the price of the Top Hat
 1 Sandd found the price of the Top Hat
 [07/05/2023] Sandd found the price of the Top Hat
+[07/05/2023] Sandd found the price of the Redwood Forest Cap
