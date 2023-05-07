@@ -121,3 +121,59 @@ Sandd typed /price Fur Hat
 [07/05/2023 20:56:43] Sandd found the price of the Level 49 Model F Station
 [07/05/2023 20:56:43] Sandd found the price of the Level 0 Model C Station
 [07/05/2023 20:56:43] Sandd found the price of the Level 49 Model C Station
+[07/05/2023 20:56:56] Sandd found the price of the Level 0 Ram Kennel
+[07/05/2023 20:56:56] Sandd found the price of the Level 49 Ram Kennel
+[07/05/2023 20:56:56] Sandd found the price of the Level 0 Dragon Lair
+[07/05/2023 20:56:56] Sandd found the price of the Level 49 Dragon Lair
+[07/05/2023 20:56:56] Sandd found the price of the Level 0 Bunny Kennel
+[07/05/2023 20:56:56] Sandd found the price of the Level 49 Bunny Kennel
+[07/05/2023 20:56:56] Sandd found the price of the Level 0 Dog Kennel
+[07/05/2023 20:56:56] Sandd found the price of the Level 49 Dog Kennel
+[07/05/2023 20:56:56] Sandd found the price of the Level 0 Kitty Kennel
+[07/05/2023 20:56:56] Sandd found the price of the Level 49 Kitty Kennel
+[07/05/2023 20:56:56] Sandd found the price of the Level 0 Wuvva Pig Kennel
+[07/05/2023 20:56:56] Sandd found the price of the Level 49 Wuvva Pig Kennel
+[07/05/2023 20:56:56] Sandd found the price of the Level 0 Chick Coop
+[07/05/2023 20:56:56] Sandd found the price of the Level 49 Chick Coop
+[07/05/2023 20:56:56] Sandd found the price of the Level 0 Black Cat Kennel
+[07/05/2023 20:56:56] Sandd found the price of the Level 49 Black Cat Kennel
+[07/05/2023 20:56:56] Sandd found the price of the Level 0 Pumpkin Kennel
+[07/05/2023 20:56:56] Sandd found the price of the Level 49 Pumpkin Kennel
+[07/05/2023 20:56:56] Sandd found the price of the Level 0 Spider Den
+[07/05/2023 20:56:56] Sandd found the price of the Level 49 Spider Den
+[07/05/2023 20:56:56] Sandd found the price of the Level 0 Mutant Hopper
+[07/05/2023 20:56:56] Sandd found the price of the Level 49 Mutant Hopper
+[07/05/2023 20:56:56] Sandd found the price of the Level 0 Mutant MeeMew
+[07/05/2023 20:56:56] Sandd found the price of the Level 49 Mutant MeeMew
+[07/05/2023 20:56:56] Sandd found the price of the Level 0 Mutant Doog
+[07/05/2023 20:56:56] Sandd found the price of the Level 49 Mutant Doog
+[07/05/2023 20:56:56] Sandd found the price of the Level 0 Mutant Ram Kennel
+[07/05/2023 20:56:56] Sandd found the price of the Level 49 Mutant Ram Kennel
+[07/05/2023 20:56:56] Sandd found the price of the Level 0 Mutant Wuvva Pig Kennel
+[07/05/2023 20:56:56] Sandd found the price of the Level 49 Mutant Wuvva Pig Kennel
+[07/05/2023 20:56:56] Sandd found the price of the Level 0 Ostrich Pit
+[07/05/2023 20:56:56] Sandd found the price of the Level 49 Ostrich Pit
+[07/05/2023 20:56:56] Sandd found the price of the Level 0 Kangaroo Kennel
+[07/05/2023 20:56:56] Sandd found the price of the Level 49 Kangaroo Kennel
+[07/05/2023 20:56:56] Sandd found the price of the Level 0 Turkey Kennel
+[07/05/2023 20:56:56] Sandd found the price of the Level 49 Turkey Kennel
+[07/05/2023 20:56:56] Sandd found the price of the Level 0 Elf Hut
+[07/05/2023 20:56:56] Sandd found the price of the Level 49 Elf Hut
+[07/05/2023 20:56:56] Sandd found the price of the Level 0 Reindeer Kennel
+[07/05/2023 20:56:56] Sandd found the price of the Level 49 Reindeer Kennel
+[07/05/2023 20:56:56] Sandd found the price of the Level 0 Snowman Kennel
+[07/05/2023 20:56:56] Sandd found the price of the Level 49 Snowman Kennel
+[07/05/2023 20:56:56] Sandd found the price of the Level 0 Penguin Pad
+[07/05/2023 20:56:56] Sandd found the price of the Level 49 Penguin Pad
+[07/05/2023 20:56:56] Sandd found the price of the Level 0 Husky Kennel
+[07/05/2023 20:56:56] Sandd found the price of the Level 49 Husky Kennel
+[07/05/2023 20:56:56] Sandd found the price of the Level 0 Mini Grouch Kennel
+[07/05/2023 20:56:56] Sandd found the price of the Level 49 Mini Grouch Kennel
+[07/05/2023 20:56:56] Sandd found the price of the Level 0 Mini Krampus Kennel
+[07/05/2023 20:56:56] Sandd found the price of the Level 49 Mini Krampus Kennel
+[07/05/2023 20:56:56] Sandd found the price of the Level 0 Model N Station
+[07/05/2023 20:56:56] Sandd found the price of the Level 49 Model N Station
+[07/05/2023 20:56:56] Sandd found the price of the Level 0 Model F Station
+[07/05/2023 20:56:56] Sandd found the price of the Level 49 Model F Station
+[07/05/2023 20:56:56] Sandd found the price of the Level 0 Model C Station
+[07/05/2023 20:56:56] Sandd found the price of the Level 49 Model C Station
