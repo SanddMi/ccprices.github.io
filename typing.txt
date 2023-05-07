@@ -3,3 +3,4 @@ Sandd typed /price top hat
 Sandd typed /price Fur Hat
 0 Sandd found the price of the Top Hat
 0 Sandd found the price of the Top Hat
+1 Sandd found the price of the Top Hat
