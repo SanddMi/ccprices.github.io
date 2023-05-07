@@ -1,2 +1,3 @@
 Test
 Sandd typed /price top hat
+Sandd typed /price Fur Hat
