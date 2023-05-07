@@ -8,11 +8,11 @@
             "section": "Hat Pack",
             "name": "Top Hat",
             "price": {
-                "min": 1,
-                "max": 100
+                "min": 100,
+                "max": 150
             },
             "state": "Stable",
-            "last_updated": "07/May/2023",
+            "last_updated": "06/May/2023",
             "url": "wearables/IMG_001"
         }
     },
@@ -79,8 +79,8 @@
                 "min": 500,
                 "max": 800
             },
-            "state": "Increasing",
-            "last_updated": "07/May/2023",
+            "state": "Stable",
+            "last_updated": "01/May/2023",
             "url": "wearables/IMG_145"
         }
     },
@@ -725,8 +725,8 @@
                 "min": 250,
                 "max": 450
             },
-            "state": "Decreasing",
-            "last_updated": "07/May/2023",
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
             "url": "wearables/IMG_035"
         }
     },
@@ -1776,11 +1776,11 @@
             "section": "Wing Pack",
             "name": "Dark Angel Wings",
             "price": {
-                "min": 8500,
-                "max": 9000
+                "min": 7250,
+                "max": 8250
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "07/May/2023",
             "url": "wearables/IMG_143"
         }
     },
@@ -9222,11 +9222,11 @@
             "section": "Fan",
             "name": "Qbeets Headphone",
             "price": {
-                "min": 3000,
-                "max": 4000
+                "min": 2500,
+                "max": 3500
             },
             "state": "Stable",
-            "last_updated": "27/Mar/2023",
+            "last_updated": "06/May/2023",
             "url": "wearables/IMG_696"
         }
     },
