@@ -1,3 +1,4 @@
 Test
 Sandd typed /price top hat
 Sandd typed /price Fur Hat
+0 Sandd found the price of the Top Hat
