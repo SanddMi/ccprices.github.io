@@ -178,3 +178,4 @@ Sandd typed /price Fur Hat
 [07/05/2023 20:56:56] Sandd found the price of the Level 0 Model C Station
 [07/05/2023 20:56:56] Sandd found the price of the Level 49 Model C Station
 [07/05/2023 20:59:25] Sandd found the price of the Top Hat
+[07/05/2023 21:00:52] Sandd found the price of the Red Flower
