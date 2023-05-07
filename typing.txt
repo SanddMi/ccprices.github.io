@@ -180,3 +180,4 @@ Sandd typed /price Fur Hat
 [07/05/2023 20:59:25] Sandd found the price of the Top Hat
 [07/05/2023 21:00:52] Sandd found the price of the Red Flower
 [07/05/2023 21:01:07] Sandd found the price of the Level 0 Spider Den
+[07/05/2023 21:01:18] Sandd found the price of the Blue Viking Helmet
