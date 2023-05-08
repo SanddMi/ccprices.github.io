@@ -11823,11 +11823,11 @@
             "section": "Thanksgiving",
             "name": "Hunting Net",
             "price": {
-                "min": 1,
+                "min": 2,
                 "max": 5
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "08/May/2023",
             "url": "wearables/IMG_602"
         }
     },
