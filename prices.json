@@ -10038,11 +10038,11 @@
             "section": "Halloween",
             "name": "Goblin Head",
             "price": {
-                "min": 150,
-                "max": 250
+                "min": 300,
+                "max": 500
             },
             "state": "Stable",
-            "last_updated": "27/Mar/2023",
+            "last_updated": "08/May/2023",
             "url": "wearables/IMG_589"
         }
     },
