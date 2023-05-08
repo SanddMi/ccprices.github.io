@@ -9444,10 +9444,10 @@
             "name": "Jack-O-Brella",
             "price": {
                 "min": 1250,
-                "max": 2000
+                "max": 1750
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "08/May/2023",
             "url": "wearables/IMG_502"
         }
     },
