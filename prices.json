@@ -6332,8 +6332,8 @@
             "section": "Easter",
             "name": "Sunflower Glasses",
             "price": {
-                "min": 300,
-                "max": 400
+                "min": 350,
+                "max": 450
             },
             "state": "Increasing",
             "last_updated": "08/May/2023",
