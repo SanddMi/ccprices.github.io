@@ -6995,11 +6995,11 @@
             "section": "Valentine's Day",
             "name": "Pink Wuvva Shirt",
             "price": {
-                "min": 1500,
-                "max": 2000
+                "min": 1000,
+                "max": 1500
             },
             "state": "Stable",
-            "last_updated": "03/Mar/2023",
+            "last_updated": "08/May/2023",
             "url": "wearables/IMG_192"
         }
     },
