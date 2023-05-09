@@ -7420,11 +7420,11 @@
             "section": "Valentine's Day",
             "name": "Knight's Helmet",
             "price": {
-                "min": 17500,
-                "max": 22500
+                "min": 10000,
+                "max": 15000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "09/May/2023",
             "url": "wearables/IMG_550"
         }
     },
@@ -7930,11 +7930,11 @@
             "section": "Valentine's Day",
             "name": "Red Tuxedo Pants",
             "price": {
-                "min": 12500,
+                "min": 10000,
                 "max": 15000
             },
             "state": "Stable",
-            "last_updated": "04/Apr/2023",
+            "last_updated": "09/May/2023",
             "url": "wearables/IMG_769"
         }
     },
