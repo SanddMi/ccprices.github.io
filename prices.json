@@ -59,11 +59,11 @@
             "section": "Hat Pack",
             "name": "Viking Helm",
             "price": {
-                "min": 25,
-                "max": 75
+                "min": 50,
+                "max": 100
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "17/May/2023",
             "url": "wearables/IMG_004"
         }
     },
