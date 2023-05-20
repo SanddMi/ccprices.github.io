@@ -8,8 +8,8 @@
             "section": "Hat Pack",
             "name": "Top Hat",
             "price": {
-                "min": 999,
-                "max": 99999
+                "min": 22,
+                "max": 223
             },
             "state": "Stable",
             "last_updated": "20/May/2023",
