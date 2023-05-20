@@ -76,11 +76,11 @@
             "section": "Quest",
             "name": "Redwood Forest Cap",
             "price": {
-                "min": 500,
-                "max": 800
+                "min": 2,
+                "max": 22
             },
             "state": "Increasing",
-            "last_updated": "07/May/2023",
+            "last_updated": "20/May/2023",
             "url": "wearables/IMG_145"
         }
     },
