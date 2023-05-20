@@ -13455,11 +13455,11 @@
             "section": "New Year's Day",
             "name": "StrawBerry CakeHat",
             "price": {
-                "min": 1750,
-                "max": 2500
+                "min": 1000,
+                "max": 2000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "20/May/2023",
             "url": "wearables/IMG_532"
         }
     },
