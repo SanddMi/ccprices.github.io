@@ -8,8 +8,8 @@
             "section": "Hat Pack",
             "name": "Top Hat",
             "price": {
-                "min": 22,
-                "max": 23
+                "min": 999,
+                "max": 99999
             },
             "state": "Stable",
             "last_updated": "20/May/2023",
@@ -79,7 +79,7 @@
                 "min": 2,
                 "max": 3232
             },
-            "state": "Increasing",
+            "state": "Stable",
             "last_updated": "20/May/2023",
             "url": "wearables/IMG_145"
         }
@@ -725,7 +725,7 @@
                 "min": 250,
                 "max": 450
             },
-            "state": "Decreasing",
+            "state": "Stable",
             "last_updated": "07/May/2023",
             "url": "wearables/IMG_035"
         }
@@ -5179,7 +5179,7 @@
                 "min": 85000,
                 "max": 95000
             },
-            "state": "Decreasing",
+            "state": "Stable",
             "last_updated": "29/Apr/2023",
             "url": "wearables/IMG_208"
         }
@@ -5587,7 +5587,7 @@
                 "min": 22500,
                 "max": 27500
             },
-            "state": "Decreasing",
+            "state": "Stable",
             "last_updated": "07/Apr/2023",
             "url": "wearables/IMG_568"
         }
@@ -5604,7 +5604,7 @@
                 "min": 15000,
                 "max": 20000
             },
-            "state": "Decreasing",
+            "state": "Stable",
             "last_updated": "07/Apr/2023",
             "url": "wearables/IMG_567"
         }
@@ -6743,7 +6743,7 @@
                 "min": 80000,
                 "max": 100000
             },
-            "state": "Increasing",
+            "state": "Stable",
             "last_updated": "08/Apr/2023",
             "url": "wearables/IMG_873"
         }
@@ -6760,7 +6760,7 @@
                 "min": 17500,
                 "max": 22500
             },
-            "state": "Decreasing",
+            "state": "Stable",
             "last_updated": "07/Apr/2023",
             "url": "wearables/IMG_874"
         }
@@ -6777,7 +6777,7 @@
                 "min": 20000,
                 "max": 25000
             },
-            "state": "Decreasing",
+            "state": "Stable",
             "last_updated": "07/Apr/2023",
             "url": "wearables/error"
         }
@@ -6794,7 +6794,7 @@
                 "min": 15000,
                 "max": 20000
             },
-            "state": "Decreasing",
+            "state": "Stable",
             "last_updated": "07/Apr/2023",
             "url": "wearables/IMG_875"
         }
@@ -7457,7 +7457,7 @@
                 "min": 125000,
                 "max": 150000
             },
-            "state": "Decreasing",
+            "state": "Stable",
             "last_updated": "19/Apr/2023",
             "url": "wearables/IMG_545"
         }
@@ -8358,7 +8358,7 @@
                 "min": 175000,
                 "max": 200000
             },
-            "state": "Decreasing",
+            "state": "Stable",
             "last_updated": "30/Apr/2023",
             "url": "wearables/IMG_313"
         }
@@ -9633,7 +9633,7 @@
                 "min": 425000,
                 "max": 500000
             },
-            "state": "Decreasing",
+            "state": "Stable",
             "last_updated": "29/Apr/2023",
             "url": "wearables/IMG_178"
         }
@@ -10925,7 +10925,7 @@
                 "min": 12500,
                 "max": 17500
             },
-            "state": "Decreasing",
+            "state": "Stable",
             "last_updated": "05/Apr/2023",
             "url": "wearables/IMG_810"
         }
@@ -12880,7 +12880,7 @@
                 "min": 40000,
                 "max": 60000
             },
-            "state": "Decreasing",
+            "state": "Stable",
             "last_updated": "05/May/2023",
             "url": "wearables/IMG_525"
         }
