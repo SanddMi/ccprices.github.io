@@ -11058,11 +11058,11 @@
             "section": "Thanksgiving",
             "name": "Turkey Head",
             "price": {
-                "min": 15000,
-                "max": 20000
+                "min": 12500,
+                "max": 17500
             },
             "state": "Stable",
-            "last_updated": "26/Feb/2023",
+            "last_updated": "21/May/2023",
             "url": "wearables/IMG_321"
         }
     },
