@@ -5465,8 +5465,8 @@
             "section": "Easter",
             "name": "Purple Easter Hat",
             "price": {
-                "min": 11000,
-                "max": 16000
+                "min": 10000,
+                "max": 15000
             },
             "state": "Decreasing",
             "last_updated": "23/May/2023",
