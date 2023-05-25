@@ -7165,11 +7165,11 @@
             "section": "Valentine's Day",
             "name": "Panda Hat",
             "price": {
-                "min": 15000,
-                "max": 18000
+                "min": 12500,
+                "max": 17500
             },
             "state": "Stable",
-            "last_updated": "27/Mar/2023",
+            "last_updated": "25/May/2023",
             "url": "wearables/IMG_418"
         }
     },
