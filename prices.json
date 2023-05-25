@@ -11738,11 +11738,11 @@
             "section": "Thanksgiving",
             "name": "Turkey Umbrella",
             "price": {
-                "min": 4000,
-                "max": 5000
+                "min": 2500,
+                "max": 4500
             },
             "state": "Stable",
-            "last_updated": "5/Jan/2023",
+            "last_updated": "25/May/2023",
             "url": "wearables/IMG_830"
         }
     },
