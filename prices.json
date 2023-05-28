@@ -5091,11 +5091,11 @@
             "section": "April Fools' Day",
             "name": "Turner Head",
             "price": {
-                "min": 6000,
-                "max": 10000
+                "min": 4500,
+                "max": 6500
             },
             "state": "Stable",
-            "last_updated": "21/May/2023",
+            "last_updated": "28/May/2023",
             "url": "wearables/error"
         }
     },
