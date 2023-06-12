@@ -1,107 +1,45 @@
 People found the price from Discord Bot.
 
-
-[03/06/2023] Remo found the price of Winter Knit Cap
-[03/06/2023] Sax0 found the price of Doc's Mirror
-[03/06/2023] Sandd found the price of Gentlefish
+[11/05/2023] Sandd found the price of Level 0 Dog Kennel
+[11/05/2023] Sandd found the price of Stone
+[11/05/2023] Sandd found the price of Stone
+[11/05/2023] Sandd found the price of Stone
+[11/05/2023] Sandd found the price of Stone
+[16/05/2023] Sandd found the price of Top Hat
+[16/05/2023] Sandd found the price of Redwood Forest Cap
+[16/05/2023] Sandd found the price of Level 0 Dog Kennel
+[16/05/2023] Sandd found the price of Level 0 Dog Kennel
+[16/05/2023] Sandd found the price of Krampus Mask
+[16/05/2023] Sandd found the price of Krampus Mask
+[16/05/2023] Sandd found the price of Krampus Mask
+[16/05/2023] Sandd found the price of Cupid's Halo
+[16/05/2023] Sandd found the price of Cupid Wig
+[20/05/2023] Sandd found the price of Top Hat
+[21/05/2023] Sandd found the price of Level 0 Dog Kennel
+[21/05/2023] Sandd found the price of Blue Baseball Cap
+[21/05/2023] Sandd found the price of Top Hat
+[27/05/2023] Sandd found the price of Torch
+[27/05/2023] Sandd found the price of Torch
+[02/06/2023] Sandd found the price of Gentlefish
 [03/06/2023] Sandd found the price of Phagee
-[03/06/2023] Sandd found the price of QBolee
-[03/06/2023] Sandd found the price of Bonefish
-[03/06/2023] Remo found the price of Chick Shirt
-[03/06/2023] Remo found the price of Hotdog Head
-[03/06/2023] Chubby found the price of Hairy Guy On The Beach Chest
-[03/06/2023] Sandd found the price of Beany
-[03/06/2023] Sandd found the price of Minty Hollow
-[03/06/2023] W0CKST4R found the price of Panda Hat
-[04/06/2023] Panda Cheese found the price of Bunny Pyjamas
-[04/06/2023] Panda Cheese found the price of Doc's Mirror
-[04/06/2023] Panda Cheese found the price of Ghost Costume
-[04/06/2023] Kaito found the price of Fox Ears
-[04/06/2023] Kaito found the price of Fox Tail
-[04/06/2023] Kaito found the price of Dinosaur Shirt
-[04/06/2023] Kaito found the price of Umbrella
-[04/06/2023] Kaito found the price of Devil's Halo
-[04/06/2023] Sir.LorgillRai found the price of Umbrella
-[04/06/2023] Chubby found the price of Monochrome Turkey Tail
-[04/06/2023] Chubby found the price of Rainbow Turkey Tail
-[05/06/2023] Kaito found the price of Panda Hat
-[05/06/2023] Kaito found the price of Bucket Head
-[05/06/2023] Kaito found the price of Floral Hat
-[05/06/2023] Kaito found the price of Floral Shirt
-[05/06/2023] Kaito found the price of Floral Pants
-[05/06/2023] Kaito found the price of Running Man Dance
-[05/06/2023] Kaito found the price of Executioner's Mask
-[05/06/2023] Kaito found the price of Yellow Party Hat
-[05/06/2023] Kaito found the price of Blue Party Hat
-[05/06/2023] Kaito found the price of Ninja Mask
-[05/06/2023] Kaito found the price of Ninja Shirt
-[05/06/2023] Kaito found the price of Ninja Pants
-[05/06/2023] Kaito found the price of Katanda on Back
-[05/06/2023] Kaito found the price of Cubit Hat
-[05/06/2023] Kaito found the price of Duck Hat
-[05/06/2023] Kaito found the price of N95 Mask
-[05/06/2023] Kaito found the price of Eyepatch
-[05/06/2023] Kaito found the price of Chick Head
-[05/06/2023] Kaito found the price of Blue Backpack
-[05/06/2023] Kaito found the price of Dinosaur Pants
-[05/06/2023] Kaito found the price of Dinosaur Tail
-[05/06/2023] Kaito found the price of Dinosaur Hood
-[05/06/2023] Kaito found the price of Red Cherry Blossom Umbrella
-[05/06/2023] Kaito found the price of Frog Head
-[05/06/2023] Kaito found the price of Level 0 Bunny Kennel
-[05/06/2023] Kaito found the price of Carrot Hat
-[05/06/2023] Kaito found the price of Starfish on Face
-[05/06/2023] Kaito found the price of Pin Wheel
-[05/06/2023] Kaito found the price of Heart Beads
-[05/06/2023] Kaito found the price of Heart Headphones
-[05/06/2023] Kaito found the price of Frankenstein Head
-[05/06/2023] Kaito found the price of Wuvva Umbrella
-[05/06/2023] Kaito found the price of Alien Hat
-[05/06/2023] Kaito found the price of Alien Mask
-[05/06/2023] Kaito found the price of Level 0 Husky Kennel
-[05/06/2023] Kaito found the price of Fool's Cap
-[05/06/2023] Kaito found the price of Suit Jacket
-[05/06/2023] Kaito found the price of Beakbee Head
-[05/06/2023] Kaito found the price of Hamburger Head
-[05/06/2023] Kaito found the price of Gas Mask
-[05/06/2023] Kaito found the price of Mushroom Hat
-[05/06/2023] Kaito found the price of Blizzard Bottomless
-[05/06/2023] Kaito found the price of Purple Easter Hat
-[05/06/2023] Kaito found the price of Pink Balloon
-[05/06/2023] Kaito found the price of Pink Bikini Top
-[05/06/2023] Kaito found the price of Rabbit Glasses
-[05/06/2023] Kaito found the price of Rabbit Backpack
-[05/06/2023] Kaito found the price of Chocolate CakeHat
-[05/06/2023] Kaito found the price of Jester's Cane
-[05/06/2023] Kaito found the price of Rainbow Glasses
-[05/06/2023] Kaito found the price of Yeti Head
-[05/06/2023] Kaito found the price of Red Balloon
-[05/06/2023] Kaito found the price of Level 0 Dragon Lair
-[05/06/2023] Kaito found the price of Red Traditional Umbrella
-[05/06/2023] Kaito found the price of Premium 2019 New Year's Hat
-[05/06/2023] Kaito found the price of N95 Mask
-[05/06/2023] Kaito found the price of Simple Mask
-[05/06/2023] Kaito found the price of Gas Mask
-[05/06/2023] Kaito found the price of Jester Pack
-[05/06/2023] Kaito found the price of Knife
-[05/06/2023] Kaito found the price of Chick Hat
-[05/06/2023] Kaito found the price of Candle Hat
-[05/06/2023] Kaito found the price of Paper Bag
-[05/06/2023] Kaito found the price of Telefrank Bumper
-[05/06/2023] Kaito found the price of Angel Wings
-[05/06/2023] Kaito found the price of Mouth Head
-[05/06/2023] Kaito found the price of Yeti Head
-[05/06/2023] Kaito found the price of Coke-Bottle Glasses
-[05/06/2023] Kaito found the price of Cup of Cocoa
-[05/06/2023] Kaito found the price of Roman Helmet
-[05/06/2023] Kaito found the price of Werewolf Head
-[05/06/2023] Kaito found the price of Banana Split Hat
-[05/06/2023] Kaito found the price of Duck Hat
-[05/06/2023] Kaito found the price of Easter Tophat
-[05/06/2023] Sandd found the price of Red Balloon
-[05/06/2023] Sandd found the price of Krampus Mask 2020
-[05/06/2023] Sandd found the price of Official Paper
-[05/06/2023] Sandd found the price of Nametag
-[05/06/2023] Sandd found the price of Nametag
-[05/06/2023] Sandd found the price of Nametag
-[05/06/2023] Sandd found the price of Nametag
+[03/06/2023] Sandd found the price of Gentlefish
+[03/06/2023] Sandd found the price of Top Hat
+[03/06/2023] Sandd found the price of Redwood Forest Cap
+[03/06/2023] Sandd found the price of Top Hat
+[03/06/2023] Sandd found the price of Redwood Forest Cap
+[03/06/2023] Sandd found the price of Gentlefish
+[03/06/2023] Sandd found the price of Top Hat
+[03/06/2023] Sandd found the price of Gentlefish
+[03/06/2023] Sandd found the price of Ultimate Candy 2
+[03/06/2023] Sandd found the price of Ultimate Candy 2
+[03/06/2023] Sandd found the price of Ultimate Candy 2
+[03/06/2023] Sandd found the price of Knight's Helmet
+[03/06/2023] Sandd found the price of Ultimate Candy 2
+[03/06/2023] Sandd found the price of Ultimate Candy 2
+[03/06/2023] Sandd found the price of Ultimate Candy 2
+[04/06/2023] Sandd found the price of Minty Hollow
+[11/06/2023] Sandd found the price of Top Hat
+[11/06/2023] Sandd found the price of Top Hat
+[12/06/2023] Slab_Prof found the price of Top Hat
+[12/06/2023] Slab_Prof found the price of Top Hat
+[12/06/2023] Sandd found the price of Top Hat
