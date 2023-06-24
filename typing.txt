@@ -682,3 +682,4 @@ People found the price from Discord Bot.
 [24/06/2023] uhm- found the price of Mannequin
 [24/06/2023] uhm- found the price of PlayerNPC
 [24/06/2023] uhm- found the price of Floating Witch's Broom Key
+[24/06/2023] uhm- found the price of Info Bumper
