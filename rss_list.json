@@ -133,7 +133,7 @@
         "item":{
             "name":"Oil",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":4,
             "image":"resources/00230_cropped"
