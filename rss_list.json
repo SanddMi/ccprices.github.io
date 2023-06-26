@@ -695,7 +695,7 @@
 	{
 		"item": {
 			"name": "Mountain Boulder",
-			"buy": "YES",
+			"buy": "NO",
 			"operator": "/",
 			"price": 3,
 			"image": "resources/00220_cropped"
