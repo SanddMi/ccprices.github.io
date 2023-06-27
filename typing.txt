@@ -772,3 +772,4 @@ People found the price from Discord Bot.
 [27/06/2023] RUSDK found the price of Crown
 [27/06/2023] RUSDK found the price of Butterfly Wings
 [27/06/2023] RUSDK found the price of Nerd Glasses
+[27/06/2023] RUSDK found the price of Elf Hat
