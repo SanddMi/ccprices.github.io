@@ -53,7 +53,7 @@
         "item":{
             "name":"Sunberries",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":7,
             "image":"resources/i_034"
@@ -63,7 +63,7 @@
         "item":{
             "name":"Yumberries",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":7,
             "image":"resources/i_032"
@@ -73,7 +73,7 @@
         "item":{
             "name":"Chiliberries",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":7,
             "image":"resources/i_035"
@@ -83,7 +83,7 @@
         "item":{
             "name":"Frostberries",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":7,
             "image":"resources/i_033"
@@ -93,7 +93,7 @@
         "item":{
             "name":"Rubber",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":6,
             "image":"resources/i_037"
@@ -103,7 +103,7 @@
         "item":{
             "name":"Cotton",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":6,
             "image":"resources/i_036"
@@ -113,7 +113,7 @@
         "item":{
             "name":"Beeswax",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":1,
             "image":"resources/i_061"
@@ -123,7 +123,7 @@
         "item":{
             "name":"Honey",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":6,
             "image":"resources/i_170"
@@ -233,7 +233,7 @@
         "item":{
             "name":"Sulfur",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":1,
             "image":"resources/01030_cropped"
@@ -243,7 +243,7 @@
         "item":{
             "name":"Mineral Deposit",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":1,
             "image":"resources/01028_cropped"
@@ -293,7 +293,7 @@
         "item":{
             "name":"Bones",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":1,
             "image":"resources/00372_cropped"
@@ -562,7 +562,7 @@
     {
         "item":{
             "name":"Mesa",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"/",
             "price":15,
@@ -603,7 +603,7 @@
         "item":{
             "name":"Lava",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":4,
             "image":"resources/00240_cropped"
@@ -653,7 +653,7 @@
         "item":{
             "name":"Water",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":12,
             "image":"resources/00138_cropped"
@@ -663,7 +663,7 @@
         "item":{
             "name":"Pink Coral",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":2,
             "image":"resources/00223_cropped"
@@ -723,7 +723,7 @@
         "item":{
             "name":"Black Marble",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"*",
             "price":2,
             "image":"resources/00579_cropped"
@@ -742,7 +742,7 @@
     {
         "item":{
             "name":"Emerald",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"*",
             "price":8,
@@ -772,7 +772,7 @@
     {
         "item":{
             "name":"Mountain Boulder",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"/",
             "price":3,
@@ -782,7 +782,7 @@
     {
         "item":{
             "name":"Boulder",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"/",
             "price":3,
@@ -793,7 +793,7 @@
         "item":{
             "name":"Tree Trunk",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":4,
             "image":"resources/00224_cropped"
@@ -803,7 +803,7 @@
         "item":{
             "name":"Palm Trunk",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":4,
             "image":"resources/00217_cropped"
@@ -813,7 +813,7 @@
         "item":{
             "name":"Pine Trunk",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":4,
             "image":"resources/00221_cropped"
@@ -823,7 +823,7 @@
         "item":{
             "name":"Dead Trunk",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":3,
             "image":"resources/00229_cropped"
@@ -833,7 +833,7 @@
         "item":{
             "name":"Rubber Trunk",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":3,
             "image":"resources/00249_cropped"
@@ -852,7 +852,7 @@
     {
         "item":{
             "name":"Any Leaves",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"/",
             "price":20,
@@ -883,7 +883,7 @@
         "item":{
             "name":"Sunberry Bush",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":1,
             "image":"resources/00243_cropped"
@@ -893,7 +893,7 @@
         "item":{
             "name":"Yumberry Bush",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":1,
             "image":"resources/00238_cropped"
@@ -903,7 +903,7 @@
         "item":{
             "name":"Frostberry Bush",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":1,
             "image":"resources/00241_cropped"
@@ -911,22 +911,22 @@
     },
     {
         "item":{
-            "name":"Cotton Bush",
+            "name":"Chiliberry Bush",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":1,
-            "image":"resources/00247_cropped"
+            "image":"resources/00245_cropped"
         }
     },
     {
         "item":{
-            "name":"Chiliberry Bush",
+            "name":"Cotton Bush",
             "buy":"YES",
-            "double_point":"no",
+            "double_point":"yes",
             "operator":"/",
             "price":1,
-            "image":"resources/00245_cropped"
+            "image":"resources/00247_cropped"
         }
     },
     {
@@ -982,7 +982,7 @@
     {
         "item":{
             "name":"Cactus",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"/",
             "price":10,
@@ -992,7 +992,7 @@
     {
         "item":{
             "name":"Thorns",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"/",
             "price":20,
