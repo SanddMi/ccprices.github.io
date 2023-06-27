@@ -770,3 +770,4 @@ People found the price from Discord Bot.
 [27/06/2023] RUSDK found the price of Bee Wings
 [27/06/2023] RUSDK found the price of Bat Wings
 [27/06/2023] RUSDK found the price of Crown
+[27/06/2023] RUSDK found the price of Butterfly Wings
