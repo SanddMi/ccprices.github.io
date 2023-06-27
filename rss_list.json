@@ -206,7 +206,7 @@
             "double_point":"no",
             "operator":"/",
             "price":2,
-            "image":"resources/01042_cropped"
+            "image":"resources/i_01042_cropped"
         }
     },
     {
@@ -216,7 +216,7 @@
             "double_point":"no",
             "operator":"/",
             "price":2,
-            "image":"resources/01041_cropped"
+            "image":"resources/i_01041_cropped"
         }
     },
     {
@@ -226,7 +226,7 @@
             "double_point":"no",
             "operator":"/",
             "price":2,
-            "image":"resources/01043_cropped"
+            "image":"resources/i_01043_cropped"
         }
     },
     {
@@ -236,7 +236,7 @@
             "double_point":"yes",
             "operator":"/",
             "price":1,
-            "image":"resources/01030_cropped"
+            "image":"resources/i_01030_cropped"
         }
     },
     {
@@ -246,7 +246,7 @@
             "double_point":"yes",
             "operator":"/",
             "price":1,
-            "image":"resources/01028_cropped"
+            "image":"resources/i_01028_cropped"
         }
     },
     {
@@ -306,7 +306,7 @@
             "double_point":"no",
             "operator":"/",
             "price":5,
-            "image":"resources/01029_cropped"
+            "image":"resources/i_01029_cropped"
         }
     },
     {
@@ -336,7 +336,7 @@
             "double_point":"no",
             "operator":"/",
             "price":3,
-            "image":"resources/01026_cropped"
+            "image":"resources/i_01026_cropped"
         }
     },
     {
@@ -346,7 +346,7 @@
             "double_point":"no",
             "operator":"/",
             "price":5,
-            "image":"resources/01026_cropped"
+            "image":"resources/i_01026_cropped"
         }
     },
     {
@@ -596,7 +596,7 @@
             "double_point":"no",
             "operator":"/",
             "price":10,
-            "image":"resources/01038_cropped"
+            "image":"resources/i_01038_cropped"
         }
     },
     {
@@ -916,7 +916,7 @@
             "double_point":"no",
             "operator":"/",
             "price":3,
-            "image":"resources/01032_cropped"
+            "image":"resources/i_01032_cropped"
         }
     },
     {
@@ -926,7 +926,7 @@
             "double_point":"no",
             "operator":"/",
             "price":4,
-            "image":"resources/01037_cropped"
+            "image":"resources/i_01037_cropped"
         }
     },
     {
@@ -966,7 +966,7 @@
             "double_point":"no",
             "operator":"/",
             "price":15,
-            "image":"resources/01040_cropped"
+            "image":"resources/i_01040_cropped"
         }
     },
     {
@@ -1026,7 +1026,7 @@
             "double_point":"no",
             "operator":"/",
             "price":12,
-            "image":"resources/01039_cropped"
+            "image":"resources/i_01039_cropped"
         }
     },
     {
@@ -1036,7 +1036,7 @@
             "double_point":"no",
             "operator":"/",
             "price":4,
-            "image":"resources/160"
+            "image":"resources/i_160"
         }
     },
     {
@@ -1046,7 +1046,7 @@
             "double_point":"no",
             "operator":"/",
             "price":3,
-            "image":"resources/159"
+            "image":"resources/i_159"
         }
     },
     {
@@ -1056,7 +1056,7 @@
             "double_point":"no",
             "operator":"/",
             "price":2,
-            "image":"resources/147"
+            "image":"resources/i_147"
         }
     },
     {
@@ -1066,7 +1066,7 @@
             "double_point":"no",
             "operator":"/",
             "price":2,
-            "image":"resources/149"
+            "image":"resources/i_149"
         }
     },
     {
@@ -1076,7 +1076,7 @@
             "double_point":"no",
             "operator":"/",
             "price":1,
-            "image":"resources/161"
+            "image":"resources/i_161"
         }
     },
     {
@@ -1086,7 +1086,7 @@
             "double_point":"no",
             "operator":"*",
             "price":5,
-            "image":"resources/130"
+            "image":"resources/i_130"
         }
     },
     {
@@ -1096,7 +1096,7 @@
             "double_point":"no",
             "operator":"*",
             "price":15,
-            "image":"resources/131"
+            "image":"resources/i_131"
         }
     },
     {
@@ -1106,7 +1106,7 @@
             "double_point":"no",
             "operator":"*",
             "price":200,
-            "image":"resources/132"
+            "image":"resources/i_132"
         }
     },
     {
@@ -1116,7 +1116,7 @@
             "double_point":"no",
             "operator":"*",
             "price":800,
-            "image":"resources/133"
+            "image":"resources/i_133"
         }
     },
     {
@@ -1126,7 +1126,7 @@
             "double_point":"no",
             "operator":"*",
             "price":2000,
-            "image":"resources/134"
+            "image":"resources/i_134"
         }
     }
 ]
