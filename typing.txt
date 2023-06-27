@@ -762,3 +762,4 @@ People found the price from Discord Bot.
 [27/06/2023] liboris found the price of Festival Hat
 [27/06/2023] .sandd found the price of Slimeball
 [27/06/2023] .sandd found the price of Wild Grass
+[27/06/2023] RUSDK found the price of Cowl
