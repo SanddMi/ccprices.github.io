@@ -822,7 +822,7 @@
     {
         "item":{
             "name":"Sticks",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"/",
             "price":40,
