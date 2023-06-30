@@ -26,8 +26,16 @@
 		border-radius: 10px 10px;
 		overflow: hidden;
 		display: inline-block;
+		transition-duration: .4s;
 		box-shadow: 5px 8px 5px rgba(0, 0, 0, .5);
 		text-shadow: -1px -1px 0 rgb(0 0 0), -1px 0px 0 rgb(0 0 0), 1px -1px 0 rgb(0 0 0), 1px 0px 0 rgb(0 0 0), -1px 1px 0 rgb(0 0 0), 0px 1px 0 rgb(0 0 0), 0px -1px rgb(0 0 0), 1px 1px 0 rgb(0 0 0), 2px 2px 0 rgb(0 0 0), 1px 2px 0 rgb(0 0 0), 0px 2px 0 rgb(0 0 0), -1px 2px 0 rgb(0 0 0), 2px 1px 0 rgb(0 0 0), 2px 0px 0 rgb(0 0 0), 2px -1px 0 rgb(0 0 0);
+	}
+
+	.button:hover {
+		border-radius: 10px 10px;
+		z-index: 1;
+		background: rgb(0, 44, 121);
+		box-shadow: 0px 0px 30px rgba(255, 255, 255, .5);
 	}
 
 	.item {
@@ -315,7 +323,7 @@
 		chiliberries = Math.round($('#chiliberries').val()/7)
 		cotton = Math.round($('#cotton').val()/6)
 		rubber = Math.round($('#rubber').val()/6)
-		beeswax = Math.round($('#beeswax').val()/2)
+		beeswax = Math.round($('#beeswax').val()*2)
 		honey = Math.round($('#honey').val()/6)
 		green_goop = Math.round($('#green_goop').val()/6)
 		red_flower = Math.round($('#red_flower').val()/1)
