@@ -10,7 +10,7 @@
 
 */
 
-.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(texture.png);}
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(../texture.png);}
 
 .anyleaves {width:60px; height:60px; background-position: -297px -273px}
 .i_001 {width:36px; height:53px; background-position: -424px -162px}
