@@ -203,6 +203,16 @@
 		color: white;
 	}
 
+	#time {
+		position: absolute;
+		font-size: 30px;
+		color: white;
+		font-family: Luckiest Guy;
+		text-shadow: -1px -1px 0 rgb(0 0 0), -1px 0px 0 rgb(0 0 0), 1px -1px 0 rgb(0 0 0), 1px 0px 0 rgb(0 0 0), -1px 1px 0 rgb(0 0 0), 0px 1px 0 rgb(0 0 0), 0px -1px rgb(0 0 0), 1px 1px 0 rgb(0 0 0), 2px 2px 0 rgb(0 0 0), 1px 2px 0 rgb(0 0 0), 0px 2px 0 rgb(0 0 0), -1px 2px 0 rgb(0 0 0), 2px 1px 0 rgb(0 0 0), 2px 0px 0 rgb(0 0 0), 2px -1px 0 rgb(0 0 0);
+		top: 95px;
+		left: 85%;
+	}
+
 </style>
 
 <body>
@@ -226,6 +236,7 @@
 		</div>
 	</form>
 	<input type="reset" value="Reset" class="Button" onclick="Reset()">
+	<span id="time"></span>
 </body>
 	
 	<script src="jquery.js"></script>
@@ -287,6 +298,13 @@
 			}
 		}
 	}
+
+	var d = new Date();
+	var year = d.getFullYear();
+	var month = d.getMonth() + 1;
+	var day = d.getDate();
+
+	$("#time").html([day, month, year].join('.'))
 
 	$(document).mouseup(function(event) {
 		var sections = $("#OldPoint, #other");
