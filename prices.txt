@@ -1,4 +1,4 @@
-Top Hat: 2c - 99c
+Top Hat: 22c - 1,000c
 Feather Hat: 200c - 500c
 Beany: 50c - 100c
 Viking Helm: 50c - 100c
@@ -986,4 +986,3 @@ Level 49 Model N Station: 45,000c - 50,000c
 Level 0 Model F Station: 15,000c - 20,000c
 Level 49 Model F Station: 25,000c - 30,000c
 Level 0 Model C Station: 7,000c - 8,000c
-Level 49 Model C Station: 12,000c - 15,000c
