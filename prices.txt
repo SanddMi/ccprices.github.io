@@ -1,5 +1,5 @@
-Top Hat: 2c - 99c
-Feather Hat: 200c - 500c
+Top Hat: 100c - 150c
+Feather Hat: 100c - 150c
 Beany: 50c - 100c
 Viking Helm: 50c - 100c
 Redwood Forest Cap: 500c - 800c
@@ -12,7 +12,7 @@ Red Hip-Hop Cap: 40c - 80c
 Stunt Helmet: 150c - 250c
 Mortarboard: 350c - 450c
 Flamenco Hat: 150c - 250c
-Valkyrie Helm: 400c - 700c
+Valkyrie Helm: 900c - 1,500c
 Knight's Helmet: 250c - 450c
 Welding Mask: 150c - 250c
 Chief Hat: 150c - 250c
@@ -32,7 +32,7 @@ Fez: 1,000c - 1,500c
 High Hat: 1,000c - 1,250c
 Leprechaun Cap: 500c - 750c
 Bomber Hat: 1,000c - 1,500c
-Roman Helmet: 3,000c - 3,500c
+Roman Helmet: 2,000c - 3,000c
 Cheese Head: 3,000c - 4,000c
 Paper Bag: 500c - 1,000c
 Rice Hat: 600c - 800c
@@ -147,7 +147,7 @@ Ladybug Shell: 100c - 200c
 Beetle Horn: 100c - 150c
 Beetle Shell: 100c - 150c
 Bear Ears: 200c - 350c
-Ram Horns: 250c - 350c
+Ram Horns: 600c - 1,000c
 Unicorn Horn: 150c - 250c
 Bull Horns: 150c - 250c
 Rhino Horn: 100c - 200c
@@ -187,7 +187,7 @@ Pants: 1c - 5c
 Invisibility Cloak: 1,000c - 1,500c
 Suit Jacket: 1,000c - 1,500c
 Chef's Coat: 150c - 250c
-Camo Shirt: 100c - 150c
+Camo Shirt: 75c - 125c
 Camo Pants: 50c - 100c
 Nurse's Hat: 850,000c - 900,000c
 Doc's Mirror: 280,000c - 320,000c
@@ -286,7 +286,7 @@ Lesser Fool's Cap: 20,000c - 25,000c
 Least Fool's Cap: 8,500c - 10,000c
 Motley Shirt: 200,000c - 250,000c
 Motley Pants: 250,000c - 300,000c
-Jester Pack: 16,000c - 18,000c
+Jester Pack: 14,000c - 16,000c
 Jester's Cane: 55,000c - 65,000c
 Clown Mask: 35,000c - 42,500c
 Dirt Block Hat: 5,000c - 7,000c
@@ -309,7 +309,7 @@ Umbrella: 85,000c - 95,000c
 New Easter Umbrella: 12,000c - 16,000c
 Red Cherry Blossom Umbrella: 4,000c - 6,000c
 Pink Cherry Blossom Umbrella: 4,000c - 6,000c
-Red Traditional Umbrella: 35,000c - 45,000c
+Red Traditional Umbrella: 45,000c - 55,000c
 Easter Wand: 10,000c - 12,500c
 Green Flower Wand: 150c - 250c
 Orange Flower Wand: 150c - 250c
@@ -347,12 +347,12 @@ Purplelicous Bunny Ears: 250c - 450c
 Pinktastic Bunny Ears: 250c - 450c
 Fab Yellow Bunny Ears: 250c - 450c
 Keen Green Bunny Ears: 250c - 450c
-Bunny Pyjamas: 380,000c - 420,000c
-Blue Floral Crown: 500c - 800c
-Purple Floral Crown: 500c - 800c
-Yellow Floral Crown: 500c - 800c
-Pink Floral Crown: 500c - 800c
-Green Floral Crown: 500c - 800c
+Bunny Pyjamas: 350,000c - 400,000c
+Blue Floral Crown: 350c - 550c
+Purple Floral Crown: 350c - 550c
+Yellow Floral Crown: 350c - 550c
+Pink Floral Crown: 350c - 550c
+Green Floral Crown: 350c - 550c
 Garden Backpack: 300c - 600c
 Cookie Backpack: 30,000c - 35,000c
 Bunny Backpack: 500c - 1,000c
@@ -363,9 +363,9 @@ Red Easter BackPack: 500c - 1,000c
 Pink Rabbit Hood: 350c - 550c
 Pink Rabbit Shirt: 350c - 550c
 Pink Rabbit Pants: 350c - 550c
-Blue Kimono Shirt: 500c - 1,000c
+Blue Kimono Shirt: 350c - 550c
 Blue Kimono Skirt: 1,000c - 1,500c
-Pink Kimono Shirt: 1,000c - 1,500c
+Pink Kimono Shirt: 350c - 550c
 Pink Kimono Skirt: 1,250c - 1,750c
 Easter Pattern Shirt: 250c - 450c
 Easter Egg Shirt: 250c - 450c
@@ -378,13 +378,13 @@ Blue Rabbit Pants: 750c - 1,250c
 Floral Hat: 8,000c - 10,000c
 Floral Shirt: 8,000c - 10,000c
 Floral Pants: 8,000c - 10,000c
-Rainbow Hat: 3,000c - 4,000c
+Rainbow Hat: 2,500c - 3,500c
 Rainbow Pajama Shirt: 3,000c - 4,000c
 Rainbow Pajama Pants: 3,000c - 4,000c
 Rainbow Wings: 5,000c - 7,000c
-Rainbow Headband: 3,000c - 4,000c
+Rainbow Headband: 2,000c - 3,000c
 Easter Egg Staff: 1,000c - 2,000c
-Chick Head: 1,500c - 2,000c
+Chick Head: 2,000c - 3,000c
 Chick Shirt: 1,000c - 1,500c
 Chick Pants: 1,000c - 1,500c
 Bunny Umbrella: 4,500c - 5,500c
@@ -419,7 +419,7 @@ Green Princess Top: 150c - 250c
 Green Princess Dress: 150c - 250c
 Queen's Crown: 6,000c - 8,000c
 King's Crown: 250c - 350c
-Panda Hat: 12,500c - 17,500c
+Panda Hat: 12,500c - 15,000c
 Alien Hat: 100c - 200c
 Fake Halo: 250c - 450c
 Heart Hat: 150c - 250c
@@ -428,15 +428,15 @@ Heart Beads: 150c - 250c
 Romantic Flower: 150c - 250c
 Heart Ears: 100c - 200c
 Heart Tail: 100c - 200c
-Love Balloon: 250,000c - 300,000c
+Love Balloon: 275,000c - 325,000c
 Pink Balloon: 4,000c - 5,000c
 Wuvva Umbrella: 1,000c - 1,500c
 Take This Flower: 1,000c - 1,500c
 Love Wand: 150c - 250c
 Knight's Sword: 1,500c - 2,500c
-Knight's Helmet: 10,000c - 15,000c
+Knight's Helmet: 6,000c - 10,000c
 Knight's Shield: 250c - 550c
-Teddy Bear Head: 125,000c - 150,000c
+Teddy Bear Head: 180,000c - 200,000c
 Teddy Bear Shirt: 450c - 750c
 Teddy Bear Pants: 450c - 750c
 Rainbow Unicorn Top: 1,000c - 1,500c
@@ -494,7 +494,7 @@ Blue Hawaiian Shirt: 80,000c - 90,000c
 Black Hawaiian Shirt: 30,000c - 40,000c
 Hairy Guy On The Beach Chest: 50,000c - 60,000c
 Hairy Guy On The Beach Thong: 90,000c - 100,000c
-Black Bikini Top: 30,000c - 35,000c
+Black Bikini Top: 25,000c - 30,000c
 Black Bikini Bottoms: 45,000c - 55,000c
 Pink Bikini Top: 3,500c - 4,500c
 Pink Bikini Bottoms: 3,500c - 4,500c
@@ -551,31 +551,31 @@ Princess Tiara: 350c - 550c
 Tincan Helmet: 250c - 450c
 Scythe: 600,000c - 700,000c
 Skull Balloon: 40,000c - 45,000c
-Spiderbrella: 1,750c - 2,500c
+Spiderbrella: 1,500c - 2,000c
 Pumpkin Balloon: 1,750c - 2,500c
 Jack-O-Brella: 1,250c - 1,750c
 Trick or Treat Bag: 750c - 1,250c
-Pumpkin Pack: 100,000c - 150,000c
+Pumpkin Pack: 140,000c - 160,000c
 Egyptian Staff: 250c - 450c
 Pitchfork: 250c - 450c
 Wizard's Wand: 150c - 300c
 Nature's Staff: 150c - 350c
 Witch's Broom: 150c - 300c
-Head Vampire Outfit: 200,000c - 225,000c
+Head Vampire Outfit: 350,000c - 450,000c
 Vampire's Cloak: 3,000c - 4,000c
 Headlessness: 700,000c - 800,000c
 Ghost Costume: 400,000c - 450,000c
-Slyme Costume: 125,000c - 150,000c
+Slyme Costume: 140,000c - 180,000c
 Dino Head: 190,000c - 210,000c
 Monster Head: 130,000c - 150,000c
 Shark Head: 100,000c - 110,000c
-Werewolf Head: 65,000c - 75,000c
+Werewolf Head: 55,000c - 65,000c
 Pyramid Head: 12,500c - 17,500c
 Twobee Head: 10,000c - 12,500c
 Beakbee Head: 7,000c - 8,000c
 Toothbee Head: 7,500c - 10,000c
 Cyclobee Head: 7,000c - 8,000c
-Alien Mask: 12,500c - 15,000c
+Alien Mask: 8,000c - 10,000c
 Dark Visitor: 10,000c - 12,500c
 Black Plague Doctor: 4,500c - 5,500c
 Grey Plague Doctor: 4,000c - 5,000c
@@ -584,9 +584,9 @@ Psychic Revalation Cap: 1,500c - 2,500c
 Psychic Repulsion Cap: 1,500c - 2,500c
 Sub-Vampire Outfit: 5,000c - 7,500c
 Frankenstein Head: 750c - 1,250c
-Pumpkin Head: 800c - 1,200c
-Robot Head: 200c - 400c
-Skull Head: 250c - 500c
+Pumpkin Head: 10,000c - 15,000c
+Robot Head: 2,000c - 3,000c
+Skull Head: 1,500c - 3,000c
 Dragon Head: 1,500c - 2,500c
 Goblin Head: 300c - 500c
 Mouth Head: 250c - 450c
@@ -646,8 +646,8 @@ Pumpkin Pants: 750c - 1,250c
 Demon Mask: 3,000c - 5,000c
 Golden Demon Mask: 750c - 1,250c
 Trumpet Hat: 150,000c - 180,000c
-Beard: 450,000c - 500,000c
-Plaid Hunting Cap: 140,000c - 160,000c
+Beard: 300,000c - 350,000c
+Plaid Hunting Cap: 160,000c - 180,000c
 Turkey Head: 12,500c - 17,500c
 Turkey Bolo: 20,000c - 25,000c
 Pumpkin Hat: 15,000c - 20,000c
@@ -665,7 +665,7 @@ Pilgrim Hat Bush: 250c - 350c
 Pilgrim's Hat: 250c - 350c
 Pilgrim's Coat: 5,000c - 7,000c
 Pilgrim Pants: 3,500c - 5,000c
-Pilgrim Bonnet: 750c - 1,250c
+Pilgrim Bonnet: 2,000c - 3,000c
 Pilgrim Skirt: 750c - 1,250c
 Turkey Beak: 150c - 250c
 Turkey Tail: 300c - 500c
@@ -690,8 +690,8 @@ Turkey Leg Balloon: 2,000c - 3,000c
 Autumn Umbrella: 4,000c - 5,000c
 Turkey Umbrella: 2,500c - 4,500c
 Pooper Scooper: 75c - 150c
-Amethyst Turkey Tail: 8,500c - 13,500c
-Rainbow Turkey Tail: 200,000c - 250,000c
+Amethyst Turkey Tail: 7,000c - 9,000c
+Rainbow Turkey Tail: 175,000c - 225,000c
 Monochrome Turkey Tail: 600,000c - 700,000c
 Hunting Net: 2c - 5c
 Mr. Christmas Costume: 120,000c - 130,000c
@@ -755,10 +755,10 @@ Red Ski Goggles: 150c - 250c
 Blue Ski Mask: 150c - 250c
 Red Ski Mask: 150c - 250c
 Christmas Grouch: 5,000c - 7,000c
-Yeti Head: 40,000c - 60,000c
+Yeti Head: 25,000c - 35,000c
 Reindeer Cap: 150c - 250c
 Antlers: 100c - 200c
-Shiny Nose: 6,000c - 9,000c
+Shiny Nose: 6,000c - 8,000c
 Carrot Nose: 150c - 250c
 Winter Knit Cap: 150c - 250c
 Winter Cap: 100c - 200c
@@ -770,9 +770,9 @@ Toy Soldier Cap: 75c - 125c
 Yule Xmas Hat: 50c - 100c
 Mistletoe Lure: 150c - 250c
 Holly Crown: 200c - 350c
-Penguin Hood: 3,500c - 4,500c
-Penguin Shirt: 3,000c - 4,000c
-Penguin Pants: 3,000c - 4,000c
+Penguin Hood: 2,000c - 2,500c
+Penguin Shirt: 2,000c - 2,500c
+Penguin Pants: 2,000c - 2,500c
 Peppermint Hat: 1,000c - 1,500c
 Peppermint Shirt: 1,000c - 1,500c
 Peppermint Umbrella: 1,500c - 2,500c
@@ -783,7 +783,7 @@ Yellow Party Hat: 500c - 1,000c
 Blue Party Hat: 2,000c - 3,000c
 Purple Party Hat: 3,000c - 3,500c
 Short Party Hat: 750c - 1,250c
-Tall Party Hat: 3,000c - 4,000c
+Tall Party Hat: 2,500c - 3,500c
 Yellow Orange Party Trumpet: 1,000c - 1,500c
 Blue Green Party Trumpet: 1,000c - 1,500c
 Red Purple Party Trumpet: 1,000c - 1,500c
@@ -823,7 +823,7 @@ Floating Witch's Broom Key: 75,000c - 85,000c
 Haunted Carriage: 90,000c - 100,000c
 Sled Key: 45,000c - 55,000c
 Rocket Sled: 80,000c - 100,000c
-Christmas Key: 10,000c - 12,500c
+Christmas Key: 8,000c - 12,000c
 Rocket Key: 18,000c - 22,000c
 Golden Rocket Key: 30,000c - 35,000c
 Fizzled Wand: 15c - 30c
@@ -969,8 +969,8 @@ Level 0 Turkey Kennel: 20,000c - 25,000c
 Level 49 Turkey Kennel: 30,000c - 35,000c
 Level 0 Elf Hut: 80,000c - 90,000c
 Level 49 Elf Hut: 70,000c - 80,000c
-Level 0 Reindeer Kennel: 20,000c - 25,000c
-Level 49 Reindeer Kennel: 25,000c - 30,000c
+Level 0 Reindeer Kennel: 15,000c - 20,000c
+Level 49 Reindeer Kennel: 20,000c - 25,000c
 Level 0 Snowman Kennel: 40,000c - 50,000c
 Level 49 Snowman Kennel: 45,000c - 55,000c
 Level 0 Penguin Pad: 17,500c - 22,500c
