@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<style>
+	body {
+		margin: 0px;
+		padding: 0px;
+		background-color: rgb(0, 0, 44);
+		background-image: url(stars.png);
+	}
+
+	.prices {
+		position: absolute;
+		overflow-y: scroll;
+		height: 100%;
+		width: 100%;
+		bottom: 0px;
+	}
+
+	.prices p {
+		color: white;
+		font-family: Arial;
+		background: rgba(255, 255, 255, 0.1);
+		border-radius: 5px 5px;
+		font-size: 16px;
+		padding: 5px;
+		text-shadow: -1px -1px 0 rgb(0 0 0), -1px 0px 0 rgb(0 0 0), 1px -1px 0 rgb(0 0 0), 1px 0px 0 rgb(0 0 0), -1px 1px 0 rgb(0 0 0), 0px 1px 0 rgb(0 0 0), 0px -1px rgb(0 0 0), 1px 1px 0 rgb(0 0 0), 2px 2px 0 rgb(0 0 0), 1px 2px 0 rgb(0 0 0), 0px 2px 0 rgb(0 0 0), -1px 2px 0 rgb(0 0 0), 2px 1px 0 rgb(0 0 0), 2px 0px 0 rgb(0 0 0), 2px -1px 0 rgb(0 0 0);
+		margin-bottom: -5px;
+		width: Calc(100% - 50px);
+		font-weight: bold;
+		padding-left: 15px;
+		left: 15px;
+		position: relative;
+		transition-duration: 2s;
+		user-select: none;
+		opacity: 0;
+		bottom: 10px;
+	}
+
+	.list {
+		padding-top: 55px;
+	}
+
+	.searchbar {
+		position: relative;
+		display: table-cell;
+		left: 45%;
+		width: Calc(100% - 140px);
+		transform: translate(-50%);
+		padding: 5px;
+		height: 20px;
+		float: left;
+	}
+
+	.searchbar span {
+		position: absolute;
+		height: 50px;
+		width: 50px;
+		margin: 5px 2px 5px 2px;
+		filter: invert(1);
+		cursor: pointer;
+		left: -35px;
+		font-size: 30px;
+		top: 0;
+		user-select: none;
+	}
+
+	.navbar {
+		position: relative;
+		z-index: 3;
+		width: Calc(100% - 22px);
+		left: 10px;
+		height: 50px;
+		background: linear-gradient(100deg, rgb(255, 202, 27) 19%, rgb(255, 233, 31) 20%, rgb(255, 233, 31) 80%, rgba(255, 202, 27) 81%);;
+		box-shadow: 0px 0px 50px rgb(0, 0, 0);
+		border-bottom-left-radius: 20px;
+		border-bottom-right-radius: 20px;
+	}
+
+	#filterInput {
+		position: absolute;
+		padding-left: 25px;
+		background: transparent;
+		outline: none;
+		height: 100%;
+		width: 100%;
+		border: none;
+		border-bottom: solid 2px #735d17;
+		font-size: 16px;
+		left: 4%;
+	}
+
+</style>
+
+<body>
+	<div class="navbar">
+		<div class="searchbar">
+			<input type="text" id="filterInput" placeholder="Search for item...">
+		</div>
+	</div>
+	<div class="prices">
+		<div class="list"></div>
+	</div>
+</body>
+<script src="jquery.js"></script>
+<script type="text/javascript">
+	$.ajax({
+		'type': "Get",
+		'async': false,
+		'global': true,
+		'url': "https://ccprices.github.io/prices.txt",
+		'dataType': "text",
+		'success': function(data) {
+			basic = data
+		}
+	});
+
+	prices = basic.replace(/(\: )*(\ - )*(\d,\d*,\d+c)/g,"").replace(/(\: )*(\ - )*(\d+,\d+c)/g,"").replace(/(\: )*(\ - )*(\d+c)/g,"")
+	list = basic.split("\n")
+	search = prices.split("\n")
+
+	index = list.indexOf("");
+	if (index > -1) {
+	  list.splice(index, 1);
+	}
+
+	$(document).ready(function() {
+		$("#filterInput").on("keyup", function() {
+			var value = $(this).val().toLowerCase();
+			$("p").filter(function() {
+				$(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+			});
+		});
+	});
+
+	for (name in list) {
+		$('.list').append(`<p>${list[name]}</p>`)
+	}
+
+	//$("p").css("opacity",1)
+	setTimeout(`$("p").css("opacity",1)`, 1)
+
+</script>
+</html>
