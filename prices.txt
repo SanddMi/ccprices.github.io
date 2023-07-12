@@ -578,7 +578,7 @@ Cyclobee Head: 5,000c - 8,000c
 Alien Mask: 8,000c - 10,000c
 Dark Visitor: 10,000c - 12,500c
 Black Plague Doctor: 4,500c - 5,500c
-Grey Plague Doctor: 4,000c - 5,000c
+Grey Plague Doctor: 3,000c - 4,500c
 Plague Doctor: 400c - 600c
 Psychic Revalation Cap: 1,500c - 2,500c
 Psychic Repulsion Cap: 1,500c - 2,500c
