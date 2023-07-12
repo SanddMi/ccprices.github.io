@@ -574,7 +574,7 @@ Pyramid Head: 12,500c - 17,500c
 Twobee Head: 10,000c - 12,500c
 Beakbee Head: 5,000c - 8,000c
 Toothbee Head: 7,500c - 10,000c
-Cyclobee Head: 7,000c - 8,000c
+Cyclobee Head: 5,000c - 8,000c
 Alien Mask: 8,000c - 10,000c
 Dark Visitor: 10,000c - 12,500c
 Black Plague Doctor: 4,500c - 5,500c
