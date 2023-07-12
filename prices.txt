@@ -283,7 +283,7 @@ Black Bishop Head: 150c - 250c
 Black Pawn Head: 150c - 250c
 Fool's Cap: 25,000c - 35,000c
 Lesser Fool's Cap: 17,500c - 22,500c
-Least Fool's Cap: 8,500c - 10,000c
+Least Fool's Cap: 7,000c - 10,000c
 Motley Shirt: 200,000c - 250,000c
 Motley Pants: 250,000c - 300,000c
 Jester Pack: 14,000c - 16,000c
