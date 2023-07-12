@@ -650,7 +650,7 @@ Beard: 300,000c - 350,000c
 Plaid Hunting Cap: 150,000c - 170,000c
 Turkey Head: 12,500c - 17,500c
 Turkey Bolo: 20,000c - 25,000c
-Pumpkin Hat: 15,000c - 20,000c
+Pumpkin Hat: 13,000c - 17,000c
 Pumpkin Staff: 2,500c - 4,500c
 Turkey Staff: 4,500c - 7,500c
 Dry Leaf Staff: 450c - 750c
