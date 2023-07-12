@@ -403,7 +403,7 @@ Cupid's Halo: 2,200,000c - 2,400,000c
 Cupid's Wings: 90,000c - 100,000c
 Valentine Wings: 30,000c - 35,000c
 Heart Wings: 3,000c - 4,000c
-Wuvva Scarf: 8,000c - 10,000c
+Wuvva Scarf: 6,000c - 10,000c
 Heart BackPack: 1,000c - 1,500c
 Mouse BackPack: 350c - 550c
 Stuff Toy BackPack: 200c - 300c
