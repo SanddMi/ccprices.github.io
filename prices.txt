@@ -699,7 +699,7 @@ Snowman Costume: 17,500c - 20,000c
 Christmas Giftbox Costume: 3,500c - 4,500c
 Krampus Mask: 1,000,000c - 1,100,000c
 Krampus Mask 2018: 40,000c - 50,000c
-Cheap fake Krampus: 12,500c - 17,500c
+Cheap fake Krampus: 10,000c - 13,000c
 Krampus Mask 2020: 3,000c - 4,000c
 Krampus Shirt: 500c - 1,000c
 Krampus Pants: 500c - 1,000c
