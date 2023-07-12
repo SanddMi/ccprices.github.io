@@ -359,7 +359,7 @@ Bunny Backpack: 500c - 1,000c
 Green Easter BackPack: 1,500c - 2,000c
 Yellow Easter BackPack: 1,500c - 2,000c
 Blue Easter BackPack: 400c - 800c
-Red Easter BackPack: 500c - 1,000c
+Red Easter BackPack: 400c - 800c
 Pink Rabbit Hood: 350c - 550c
 Pink Rabbit Shirt: 350c - 550c
 Pink Rabbit Pants: 350c - 550c
