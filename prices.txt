@@ -572,7 +572,7 @@ Shark Head: 100,000c - 110,000c
 Werewolf Head: 55,000c - 65,000c
 Pyramid Head: 12,500c - 17,500c
 Twobee Head: 10,000c - 12,500c
-Beakbee Head: 7,000c - 8,000c
+Beakbee Head: 5,000c - 8,000c
 Toothbee Head: 7,500c - 10,000c
 Cyclobee Head: 7,000c - 8,000c
 Alien Mask: 8,000c - 10,000c
