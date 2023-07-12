@@ -318,7 +318,7 @@ Epic Greek Orthodox Easter Crown: 10,000c - 15,000c
 Bunny Tophat: 30,000c - 40,000c
 Easter Tophat: 7,000c - 9,000c
 Easter Bonnet: 4,000c - 5,000c
-Easter Hat: 17,500c - 20,000c
+Easter Hat: 13,000c - 18,000c
 Purple Easter Hat: 10,000c - 15,000c
 White Boater Hat: 4,000c - 6,000c
 Blue Ant Cap: 200c - 400c
