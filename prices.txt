@@ -550,7 +550,7 @@ Anime Pigtail Hairstyle: 450c - 750c
 Princess Tiara: 350c - 550c
 Tincan Helmet: 250c - 450c
 Scythe: 550,000c - 650,000c
-Skull Balloon: 40,000c - 45,000c
+Skull Balloon: 35,000c - 42,500c
 Spiderbrella: 1,500c - 2,000c
 Pumpkin Balloon: 1,750c - 2,500c
 Jack-O-Brella: 1,250c - 1,750c
