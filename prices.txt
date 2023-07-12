@@ -474,7 +474,7 @@ Cupid Wings 2: 1,500c - 2,000c
 Cupid Top: 500c - 1,000c
 Cupid Pants: 500c - 1,000c
 Heart Headphones: 3,000c - 4,000c
-Heart Eyes: 10,000c - 12,500c
+Heart Eyes: 7,000c - 10,000c
 Heart Tiara: 1,000c - 1,500c
 White Dress Top: 750c - 1,250c
 White Dress Bottom: 750c - 1,250c
