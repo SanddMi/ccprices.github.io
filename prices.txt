@@ -647,7 +647,7 @@ Demon Mask: 2,000c - 4,000c
 Golden Demon Mask: 750c - 1,250c
 Trumpet Hat: 150,000c - 180,000c
 Beard: 300,000c - 350,000c
-Plaid Hunting Cap: 160,000c - 180,000c
+Plaid Hunting Cap: 150,000c - 170,000c
 Turkey Head: 12,500c - 17,500c
 Turkey Bolo: 20,000c - 25,000c
 Pumpkin Hat: 15,000c - 20,000c
