@@ -643,7 +643,7 @@ Hair Over Face: 800c - 1,200c
 Ghost Designed Jacket: 4,000c - 8,000c
 Pumpkin Shirt: 750c - 1,250c
 Pumpkin Pants: 750c - 1,250c
-Demon Mask: 3,000c - 5,000c
+Demon Mask: 2,000c - 4,000c
 Golden Demon Mask: 750c - 1,250c
 Trumpet Hat: 150,000c - 180,000c
 Beard: 300,000c - 350,000c
