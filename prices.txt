@@ -395,7 +395,7 @@ Easter Sweater: 17,500c - 22,500c
 Rainbow Backpack: 35,000c - 45,000c
 Carrot Headphones: 12,500c - 17,500c
 Easter Scarf: 80,000c - 100,000c
-Holdable Easter Basket: 15,000c - 20,000c
+Holdable Easter Basket: 30,000c - 40,000c
 Rabbit Glasses: 20,000c - 25,000c
 Rabbit Backpack: 15,000c - 20,000c
 Cubit Hat: 1,000c - 1,500c
