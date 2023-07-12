@@ -665,7 +665,7 @@ Pilgrim Hat Bush: 250c - 350c
 Pilgrim's Hat: 250c - 350c
 Pilgrim's Coat: 5,000c - 7,000c
 Pilgrim Pants: 3,500c - 5,000c
-Pilgrim Bonnet: 2,000c - 3,000c
+Pilgrim Bonnet: 4,000c - 7,000c
 Pilgrim Skirt: 750c - 1,250c
 Turkey Beak: 150c - 250c
 Turkey Tail: 300c - 500c
