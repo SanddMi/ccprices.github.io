@@ -314,7 +314,7 @@ Easter Wand: 10,000c - 12,500c
 Green Flower Wand: 150c - 250c
 Orange Flower Wand: 150c - 250c
 Carrot Wand: 4,000c - 5,000c
-Epic Greek Orthodox Easter Crown: 10,000c - 15,000c
+Epic Greek Orthodox Easter Crown: 8,000c - 13,000c
 Bunny Tophat: 30,000c - 40,000c
 Easter Tophat: 7,000c - 9,000c
 Easter Bonnet: 4,000c - 5,000c
