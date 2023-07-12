@@ -626,7 +626,7 @@ Ninja Mask: 750c - 1,250c
 Katanda on Back: 2,500c - 3,500c
 Ninja Shirt: 1,000c - 1,500c
 Ninja Pants: 1,500c - 2,000c
-Dinosaur Hood: 1,500c - 2,500c
+Dinosaur Hood: 1,500c - 3,000c
 Dinosaur Shirt: 1,500c - 2,500c
 Dinosaur Pants: 1,500c - 2,500c
 Dinosaur Tail: 1,500c - 2,500c
