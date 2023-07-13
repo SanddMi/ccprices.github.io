@@ -274,3 +274,4 @@ People found the price from Discord Bot.
 [13/07/2023] rusdk found the price of Santa Shirt
 [13/07/2023] rusdk found the price of Santa Pants
 [13/07/2023] rusdk found the price of Santa Hat
+[13/07/2023] lowguima found the price of Mrs. Claus Skirt
