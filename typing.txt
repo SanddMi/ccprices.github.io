@@ -328,3 +328,4 @@ People found the price from Discord Bot.
 [13/07/2023] rusdk found the price of SteamPunk Goggles 2
 [13/07/2023] rusdk found the price of Shield Sunglasses
 [13/07/2023] rusdk found the price of Shako
+[13/07/2023] rusdk found the price of Purple Scarf
