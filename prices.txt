@@ -967,7 +967,7 @@ Level 0 Kangaroo Kennel: 170,000c - 190,000c
 Level 49 Kangaroo Kennel: 165,000c - 185,000c
 Level 0 Turkey Kennel: 20,000c - 25,000c
 Level 49 Turkey Kennel: 30,000c - 35,000c
-Level 0 Elf Hut: 80,000c - 90,000c
+Level 0 Elf Hut: 75,000c - 85,000c
 Level 49 Elf Hut: 70,000c - 80,000c
 Level 0 Reindeer Kennel: 15,000c - 20,000c
 Level 49 Reindeer Kennel: 20,000c - 25,000c
