@@ -312,3 +312,4 @@ People found the price from Discord Bot.
 [13/07/2023] rusdk found the price of Witch's Broom
 [13/07/2023] rusdk found the price of Pirate Hat
 [13/07/2023] .sandd found the price of Top Hat
+[13/07/2023] .sandd found the price of Rainbow Glasses
