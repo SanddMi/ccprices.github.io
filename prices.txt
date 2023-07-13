@@ -488,7 +488,7 @@ Chocolate Shirt: 1,000c - 1,500c
 Chocolate Pants: 1,000c - 1,500c
 Chocolate Staff: 1,000c - 1,500c
 Chocolate Wings: 2,000c - 3,000c
-UV Shades: 600,000c - 700,000c
+UV Shades: 650,000c - 750,000c
 Scuba Mask: 150,000c - 200,000c
 Blue Hawaiian Shirt: 80,000c - 90,000c
 Black Hawaiian Shirt: 30,000c - 40,000c
