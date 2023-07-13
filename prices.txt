@@ -492,7 +492,7 @@ UV Shades: 600,000c - 700,000c
 Scuba Mask: 150,000c - 200,000c
 Blue Hawaiian Shirt: 80,000c - 90,000c
 Black Hawaiian Shirt: 30,000c - 40,000c
-Hairy Guy On The Beach Chest: 50,000c - 60,000c
+Hairy Guy On The Beach Chest: 30,000c - 40,000c
 Hairy Guy On The Beach Thong: 90,000c - 100,000c
 Black Bikini Top: 25,000c - 30,000c
 Black Bikini Bottoms: 45,000c - 55,000c
