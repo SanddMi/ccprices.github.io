@@ -940,7 +940,7 @@ Level 49 Bunny Kennel: 22,500c - 27,500c
 Level 0 Dog Kennel: 2,500c - 3,500c
 Level 49 Dog Kennel: 8,000c - 10,000c
 Level 0 Kitty Kennel: 2,500c - 3,500c
-Level 49 Kitty Kennel: 8,000c - 10,000c
+Level 49 Kitty Kennel: 7,000c - 10,000c
 Level 0 Wuvva Pig Kennel: 400,000c - 450,000c
 Level 49 Wuvva Pig Kennel: 400,000c - 450,000c
 Level 0 Chick Coop: 175,000c - 195,000c
