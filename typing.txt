@@ -279,3 +279,4 @@ People found the price from Discord Bot.
 [13/07/2023] rusdk found the price of Santa Beard
 [13/07/2023] rusdk found the price of Sun Crown
 [13/07/2023] lowguima found the price of Suit Jacket
+[13/07/2023] rusdk found the price of Black Wizard's Hat
