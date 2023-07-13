@@ -519,7 +519,7 @@ Orange Angel Wings: 1,500c - 2,500c
 Yellow Angel Wings: 3,000c - 6,000c
 Green Angel Wings: 1,500c - 2,500c
 Cyan Angel Wings: 6,000c - 7,000c
-Blue Angel Wings: 2,000c - 2,500c
+Blue Angel Wings: 1,500c - 2,500c
 Violet Angel Wings: 2,000c - 2,500c
 Pink Angel Wings: 6,000c - 8,000c
 Double Sword Back: 1,000c - 1,500c
