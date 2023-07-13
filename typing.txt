@@ -282,3 +282,4 @@ People found the price from Discord Bot.
 [13/07/2023] rusdk found the price of Black Wizard's Hat
 [13/07/2023] lowguima found the price of Wuvva Umbrella
 [13/07/2023] lowguima found the price of Wizard's Spellbook
+[13/07/2023] rusdk found the price of Broken Glasses
