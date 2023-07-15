@@ -32,7 +32,7 @@
     {
         "item":{
             "name":"Silver",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"/",
             "price":6,
