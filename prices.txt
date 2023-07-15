@@ -288,7 +288,7 @@ Motley Shirt: 200,000c - 250,000c
 Motley Pants: 250,000c - 300,000c
 Jester Pack: 14,000c - 20,000c
 Jester's Cane: 55,000c - 65,000c
-Clown Mask: 33,000c - 40,000c
+Clown Mask: 60,000c - 80,000c
 Dirt Block Hat: 5,000c - 7,000c
 Banana Split Hat: 15,000c - 20,000c
 Beaglepuss: 6,000c - 8,000c
@@ -315,7 +315,7 @@ Green Flower Wand: 150c - 250c
 Orange Flower Wand: 150c - 250c
 Carrot Wand: 4,000c - 5,000c
 Epic Greek Orthodox Easter Crown: 8,000c - 13,000c
-Bunny Tophat: 30,000c - 40,000c
+Bunny Tophat: 15,000c - 20,000c
 Easter Tophat: 7,000c - 9,000c
 Easter Bonnet: 4,000c - 5,000c
 Easter Hat: 13,000c - 18,000c
