@@ -419,7 +419,7 @@ Green Princess Top: 150c - 250c
 Green Princess Dress: 150c - 250c
 Queen's Crown: 6,000c - 8,000c
 King's Crown: 250c - 350c
-Panda Hat: 12,500c - 15,000c
+Panda Hat: 10,000c - 15,000c
 Alien Hat: 100c - 200c
 Fake Halo: 250c - 450c
 Heart Hat: 150c - 250c
