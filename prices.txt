@@ -390,7 +390,7 @@ Chick Pants: 1,000c - 1,500c
 Bunny Umbrella: 4,500c - 5,500c
 Easter Staff: 20,000c - 25,000c
 Rainbow Halo: 250,000c - 350,000c
-Rainbow Glasses: 23,000c - 33,000c
+Rainbow Glasses: 35,000c - 45,000c
 Easter Sweater: 17,500c - 22,500c
 Rainbow Backpack: 60,000c - 80,000c
 Carrot Headphones: 12,500c - 17,500c
@@ -434,7 +434,7 @@ Wuvva Umbrella: 1,000c - 1,500c
 Take This Flower: 1,000c - 1,500c
 Love Wand: 150c - 250c
 Knight's Sword: 1,500c - 2,500c
-Knight's Helmet: 6,000c - 10,000c
+Knight's Helmet: 2c - 22c
 Knight's Shield: 250c - 550c
 Teddy Bear Head: 180,000c - 200,000c
 Teddy Bear Shirt: 450c - 750c
@@ -931,8 +931,8 @@ Ticket: 1c - 2c
 Seeker Skull Marker: 50c - 100c
 Seeker Coin Marker: 50c - 100c
 Seeker Key Marker: 50c - 100c
-Level 0 Ram Kennel: 4,500,000c - 5,000,000c
-Level 49 Ram Kennel: 4,000,000c - 4,500,000c
+Level 0 Ram Kennel: 3,500,000c - 4,000,000c
+Level 49 Ram Kennel: 3,000,000c - 3,500,000c
 Level 0 Dragon Lair: 17,500c - 22,500c
 Level 49 Dragon Lair: 30,000c - 35,000c
 Level 0 Bunny Kennel: 15,000c - 17,500c
@@ -940,7 +940,7 @@ Level 49 Bunny Kennel: 22,500c - 27,500c
 Level 0 Dog Kennel: 2,500c - 3,500c
 Level 49 Dog Kennel: 8,000c - 10,000c
 Level 0 Kitty Kennel: 2,500c - 3,500c
-Level 49 Kitty Kennel: 7,000c - 10,000c
+Level 49 Kitty Kennel: 8,000c - 10,000c
 Level 0 Wuvva Pig Kennel: 400,000c - 450,000c
 Level 49 Wuvva Pig Kennel: 400,000c - 450,000c
 Level 0 Chick Coop: 175,000c - 195,000c
@@ -957,7 +957,7 @@ Level 0 Mutant MeeMew: 2,750c - 3,500c
 Level 49 Mutant MeeMew: 10,000c - 12,500c
 Level 0 Mutant Doog: 2,500c - 3,000c
 Level 49 Mutant Doog: 10,000c - 12,500c
-Level 0 Mutant Ram Kennel: 90,000c - 100,000c
+Level 0 Mutant Ram Kennel: 80,000c - 90,000c
 Level 49 Mutant Ram Kennel: 100,000c - 115,000c
 Level 0 Mutant Wuvva Pig Kennel: 1,000c - 1,500c
 Level 49 Mutant Wuvva Pig Kennel: 6,000c - 8,000c
@@ -967,10 +967,10 @@ Level 0 Kangaroo Kennel: 170,000c - 190,000c
 Level 49 Kangaroo Kennel: 165,000c - 185,000c
 Level 0 Turkey Kennel: 20,000c - 25,000c
 Level 49 Turkey Kennel: 30,000c - 35,000c
-Level 0 Elf Hut: 75,000c - 85,000c
+Level 0 Elf Hut: 80,000c - 90,000c
 Level 49 Elf Hut: 70,000c - 80,000c
-Level 0 Reindeer Kennel: 15,000c - 20,000c
-Level 49 Reindeer Kennel: 20,000c - 25,000c
+Level 0 Reindeer Kennel: 20,000c - 25,000c
+Level 49 Reindeer Kennel: 25,000c - 30,000c
 Level 0 Snowman Kennel: 40,000c - 50,000c
 Level 49 Snowman Kennel: 45,000c - 55,000c
 Level 0 Penguin Pad: 17,500c - 22,500c
