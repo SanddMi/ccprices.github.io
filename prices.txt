@@ -13,7 +13,7 @@ Stunt Helmet: 150c - 250c
 Mortarboard: 350c - 450c
 Flamenco Hat: 150c - 250c
 Valkyrie Helm: 900c - 1,500c
-Knight's Helmet: 250c - 450c
+Knight's Helmet: 2c - 222c
 Welding Mask: 150c - 250c
 Chief Hat: 150c - 250c
 Brave Hat: 100c - 200c
