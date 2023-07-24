@@ -569,7 +569,7 @@ Slyme Costume: 140,000c - 180,000c
 Dino Head: 190,000c - 210,000c
 Monster Head: 130,000c - 150,000c
 Shark Head: 100,000c - 110,000c
-Werewolf Head: 50,000c - 60,000c
+Werewolf Head: 45,000c - 55,000c
 Pyramid Head: 12,500c - 17,500c
 Twobee Head: 10,000c - 12,500c
 Beakbee Head: 5,000c - 8,000c
