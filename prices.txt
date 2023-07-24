@@ -939,6 +939,7 @@ Bad Egg Shirt: 200c - 500c
 Chicken Zombie Head: 200c - 500c
 Chicken Zombie Cap: 250c - 500c
 Chicken Zombie Shirt: 250c - 500c
+Chicken Zombie Pants: 250c - 500c
 Level 0 Ram Kennel: 4,500,000c - 5,000,000c
 Level 49 Ram Kennel: 4,000,000c - 4,500,000c
 Level 0 Dragon Lair: 17,500c - 22,500c
