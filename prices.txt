@@ -934,6 +934,7 @@ Seeker Key Marker: 50c - 100c
 Pablo Hat: 2,200c - 2,700c
 Ice King Mask: 800c - 1,200c
 Eggie Bandana Mask: 2,500c - 3,200c
+Chicken Zombie Cap: 250c - 500c
 Chicken Zombie Shirt: 250c - 500c
 Level 0 Ram Kennel: 4,500,000c - 5,000,000c
 Level 49 Ram Kennel: 4,000,000c - 4,500,000c
