@@ -984,7 +984,7 @@ Level 49 Reindeer Kennel: 20,000c - 25,000c
 Level 0 Snowman Kennel: 40,000c - 50,000c
 Level 49 Snowman Kennel: 45,000c - 55,000c
 Level 0 Penguin Pad: 17,500c - 22,500c
-Level 49 Penguin Pad: 30,000c - 35,000c
+Level 49 Penguin Pad: 25,000c - 30,000c
 Level 0 Husky Kennel: 12,500c - 15,000c
 Level 49 Husky Kennel: 20,000c - 25,000c
 Level 0 Mini Grouch Kennel: 5,000c - 7,500c
