@@ -934,7 +934,7 @@ Seeker Key Marker: 50c - 100c
 Pablo Hat: 2,200c - 2,700c
 Crash Headband: 300c - 700c
 Ice King Mask: 800c - 1,200c
-Eggie Bandana Mask: 2,500c - 3,200c
+Eggie Bandana Mask: 5,000c - 8,000c
 Bad Egg Shirt: 200c - 500c
 Pablo Smile Shirt: 2,500c - 3,000c
 Chicken Zombie Head: 200c - 500c
