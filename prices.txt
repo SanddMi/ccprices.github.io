@@ -300,7 +300,7 @@ Half Hat: 1,500c - 2,000c
 Turner Head: 4,000c - 6,000c
 Mushroom Umbrella: 1,500c - 2,500c
 Golden Egg Costume: 350,000c - 400,000c
-Rainbow Umbrella: 1,500,000c - 2,000,000c
+Rainbow Umbrella: 1,200,000c - 1,500,000c
 RoboSlyme Costume: 225,000c - 250,000c
 Red Balloon: 75,000c - 85,000c
 RoboZilla Head: 8,000c - 12,000c
