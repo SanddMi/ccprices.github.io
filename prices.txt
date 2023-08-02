@@ -13,7 +13,7 @@ Stunt Helmet: 150c - 250c
 Mortarboard: 350c - 450c
 Flamenco Hat: 150c - 250c
 Valkyrie Helm: 900c - 1,500c
-Knight's Helmet: 250c - 450c
+Knight's Helmet: 100c - 200c
 Welding Mask: 150c - 250c
 Chief Hat: 150c - 250c
 Brave Hat: 100c - 200c
@@ -191,7 +191,7 @@ Camo Shirt: 75c - 125c
 Camo Pants: 50c - 100c
 Nurse's Hat: 850,000c - 900,000c
 Doc's Mirror: 280,000c - 320,000c
-Koala Hat: 200,000c - 230,000c
+Koala Hat: 210,000c - 240,000c
 Furry Delivery Hat: 2,500c - 3,000c
 Sun Crown: 450c - 750c
 Pharoah's Crown: 350c - 550c
@@ -300,9 +300,9 @@ Half Hat: 1,500c - 2,000c
 Turner Head: 4,000c - 6,000c
 Mushroom Umbrella: 1,500c - 2,500c
 Golden Egg Costume: 350,000c - 400,000c
-Rainbow Umbrella: 1,200,000c - 1,500,000c
+Rainbow Umbrella: 1,500,000c - 2,000,000c
 RoboSlyme Costume: 225,000c - 250,000c
-Red Balloon: 75,000c - 85,000c
+Red Balloon: 70,000c - 80,000c
 RoboZilla Head: 8,000c - 12,000c
 Easter Umbrella: 1,300,000c - 1,400,000c
 Umbrella: 85,000c - 95,000c
@@ -315,7 +315,7 @@ Green Flower Wand: 150c - 250c
 Orange Flower Wand: 150c - 250c
 Carrot Wand: 4,000c - 5,000c
 Epic Greek Orthodox Easter Crown: 8,000c - 13,000c
-Bunny Tophat: 18,000c - 25,000c
+Bunny Tophat: 15,000c - 20,000c
 Easter Tophat: 7,000c - 9,000c
 Easter Bonnet: 4,000c - 5,000c
 Easter Hat: 13,000c - 18,000c
@@ -390,16 +390,16 @@ Chick Pants: 1,000c - 1,500c
 Bunny Umbrella: 4,500c - 5,500c
 Easter Staff: 20,000c - 25,000c
 Rainbow Halo: 250,000c - 350,000c
-Rainbow Glasses: 23,000c - 33,000c
+Rainbow Glasses: 35,000c - 45,000c
 Easter Sweater: 17,500c - 22,500c
 Rainbow Backpack: 60,000c - 80,000c
 Carrot Headphones: 12,500c - 17,500c
 Easter Scarf: 80,000c - 100,000c
-Holdable Easter Basket: 35,000c - 45,000c
+Holdable Easter Basket: 30,000c - 40,000c
 Rabbit Glasses: 20,000c - 25,000c
 Rabbit Backpack: 20,000c - 25,000c
 Cubit Hat: 1,000c - 1,500c
-Cupid's Halo: 2,000,000c - 2,200,000c
+Cupid's Halo: 2,200,000c - 2,400,000c
 Cupid's Wings: 90,000c - 100,000c
 Valentine Wings: 30,000c - 35,000c
 Heart Wings: 3,000c - 4,000c
@@ -434,7 +434,7 @@ Wuvva Umbrella: 1,000c - 1,500c
 Take This Flower: 1,000c - 1,500c
 Love Wand: 150c - 250c
 Knight's Sword: 1,500c - 2,500c
-Knight's Helmet: 8,000c - 15,000c
+Knight's Helmet: 200c - 2,000c
 Knight's Shield: 250c - 550c
 Teddy Bear Head: 180,000c - 200,000c
 Teddy Bear Shirt: 450c - 750c
@@ -555,21 +555,21 @@ Spiderbrella: 1,500c - 2,000c
 Pumpkin Balloon: 1,750c - 2,500c
 Jack-O-Brella: 1,250c - 1,750c
 Trick or Treat Bag: 750c - 1,250c
-Pumpkin Pack: 50,000c - 80,000c
+Pumpkin Pack: 120,000c - 150,000c
 Egyptian Staff: 250c - 450c
 Pitchfork: 250c - 450c
 Wizard's Wand: 150c - 300c
 Nature's Staff: 150c - 350c
 Witch's Broom: 150c - 300c
 Head Vampire Outfit: 350,000c - 400,000c
-Vampire's Cloak: 4,000c - 5,000c
+Vampire's Cloak: 3,000c - 4,000c
 Headlessness: 700,000c - 800,000c
 Ghost Costume: 400,000c - 450,000c
 Slyme Costume: 140,000c - 180,000c
 Dino Head: 190,000c - 210,000c
 Monster Head: 130,000c - 150,000c
 Shark Head: 100,000c - 110,000c
-Werewolf Head: 45,000c - 55,000c
+Werewolf Head: 50,000c - 60,000c
 Pyramid Head: 12,500c - 17,500c
 Twobee Head: 10,000c - 12,500c
 Beakbee Head: 5,000c - 8,000c
@@ -584,7 +584,7 @@ Psychic Revalation Cap: 1,500c - 2,500c
 Psychic Repulsion Cap: 1,500c - 2,500c
 Sub-Vampire Outfit: 5,000c - 7,500c
 Frankenstein Head: 750c - 1,250c
-Pumpkin Head: 4,000c - 7,000c
+Pumpkin Head: 7,000c - 10,000c
 Robot Head: 2,000c - 3,000c
 Skull Head: 1,500c - 3,000c
 Dragon Head: 1,500c - 2,500c
@@ -703,7 +703,7 @@ Cheap fake Krampus: 10,000c - 13,000c
 Krampus Mask 2020: 3,000c - 4,000c
 Krampus Shirt: 500c - 1,000c
 Krampus Pants: 500c - 1,000c
-Ice Head: 350,000c - 400,000c
+Ice Head: 400,000c - 500,000c
 Ice Shirt: 250c - 450c
 Ice Pants: 250c - 450c
 Snow Qbee Head: 350c - 550c
@@ -931,18 +931,8 @@ Ticket: 1c - 2c
 Seeker Skull Marker: 50c - 100c
 Seeker Coin Marker: 50c - 100c
 Seeker Key Marker: 50c - 100c
-Pablo Hat: 2,200c - 2,700c
-Crash Headband: 300c - 700c
-Ice King Mask: 800c - 1,200c
-Eggie Bandana Mask: 5,000c - 8,000c
-Bad Egg Shirt: 200c - 500c
-Pablo Smile Shirt: 2,500c - 3,000c
-Chicken Zombie Head: 200c - 500c
-Chicken Zombie Cap: 250c - 500c
-Chicken Zombie Shirt: 250c - 500c
-Chicken Zombie Pants: 250c - 500c
-Level 0 Ram Kennel: 4,500,000c - 5,000,000c
-Level 49 Ram Kennel: 4,000,000c - 4,500,000c
+Level 0 Ram Kennel: 100c - 200c
+Level 49 Ram Kennel: 3,000,000c - 3,500,000c
 Level 0 Dragon Lair: 17,500c - 22,500c
 Level 49 Dragon Lair: 30,000c - 35,000c
 Level 0 Bunny Kennel: 15,000c - 17,500c
@@ -950,7 +940,7 @@ Level 49 Bunny Kennel: 22,500c - 27,500c
 Level 0 Dog Kennel: 2,500c - 3,500c
 Level 49 Dog Kennel: 8,000c - 10,000c
 Level 0 Kitty Kennel: 2,500c - 3,500c
-Level 49 Kitty Kennel: 7,000c - 10,000c
+Level 49 Kitty Kennel: 8,000c - 10,000c
 Level 0 Wuvva Pig Kennel: 400,000c - 450,000c
 Level 49 Wuvva Pig Kennel: 400,000c - 450,000c
 Level 0 Chick Coop: 175,000c - 195,000c
@@ -967,7 +957,7 @@ Level 0 Mutant MeeMew: 2,750c - 3,500c
 Level 49 Mutant MeeMew: 10,000c - 12,500c
 Level 0 Mutant Doog: 2,500c - 3,000c
 Level 49 Mutant Doog: 10,000c - 12,500c
-Level 0 Mutant Ram Kennel: 90,000c - 100,000c
+Level 0 Mutant Ram Kennel: 80,000c - 90,000c
 Level 49 Mutant Ram Kennel: 100,000c - 115,000c
 Level 0 Mutant Wuvva Pig Kennel: 1,000c - 1,500c
 Level 49 Mutant Wuvva Pig Kennel: 6,000c - 8,000c
@@ -977,14 +967,14 @@ Level 0 Kangaroo Kennel: 170,000c - 190,000c
 Level 49 Kangaroo Kennel: 165,000c - 185,000c
 Level 0 Turkey Kennel: 20,000c - 25,000c
 Level 49 Turkey Kennel: 30,000c - 35,000c
-Level 0 Elf Hut: 75,000c - 85,000c
+Level 0 Elf Hut: 80,000c - 90,000c
 Level 49 Elf Hut: 70,000c - 80,000c
-Level 0 Reindeer Kennel: 15,000c - 20,000c
-Level 49 Reindeer Kennel: 20,000c - 25,000c
+Level 0 Reindeer Kennel: 20,000c - 25,000c
+Level 49 Reindeer Kennel: 25,000c - 30,000c
 Level 0 Snowman Kennel: 40,000c - 50,000c
 Level 49 Snowman Kennel: 45,000c - 55,000c
 Level 0 Penguin Pad: 17,500c - 22,500c
-Level 49 Penguin Pad: 25,000c - 30,000c
+Level 49 Penguin Pad: 30,000c - 35,000c
 Level 0 Husky Kennel: 12,500c - 15,000c
 Level 49 Husky Kennel: 20,000c - 25,000c
 Level 0 Mini Grouch Kennel: 5,000c - 7,500c
