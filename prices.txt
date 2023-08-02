@@ -931,7 +931,7 @@ Ticket: 1c - 2c
 Seeker Skull Marker: 50c - 100c
 Seeker Coin Marker: 50c - 100c
 Seeker Key Marker: 50c - 100c
-Level 0 Ram Kennel: 3,500,000c - 4,000,000c
+Level 0 Ram Kennel: 100c - 200c
 Level 49 Ram Kennel: 3,000,000c - 3,500,000c
 Level 0 Dragon Lair: 17,500c - 22,500c
 Level 49 Dragon Lair: 30,000c - 35,000c
