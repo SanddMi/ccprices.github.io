@@ -634,7 +634,7 @@ Black Cat Hood: 750c - 1,250c
 Black Cat Shirt: 750c - 1,250c
 Black Cat Pants: 750c - 1,250c
 Black Cat Tail: 750c - 1,250c
-Wizard's Spellbook: 12,500c - 17,500c
+Wizard's Spellbook: 11,000c - 15,000c
 Knife: 7,000c - 9,000c
 Flashlight: 3,000c - 4,000c
 Candle Hat: 800c - 1,200c
