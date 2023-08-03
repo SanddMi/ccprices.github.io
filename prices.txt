@@ -933,6 +933,7 @@ Seeker Coin Marker: 50c - 100c
 Seeker Key Marker: 50c - 100c
 Elffish: 5,000c - 7,000c
 Santafish: 5,000c - 7,000c
+Camerafish: 3,000c - 4,000c
 Rainbowfish: 3,000c - 4,000c
 Pablo Hat: 2,200c - 2,700c
 Crash Headband: 300c - 700c
