@@ -936,6 +936,7 @@ Elffish: 5,000c - 7,000c
 Santafish: 5,000c - 7,000c
 Camerafish: 3,000c - 4,000c
 Rainbowfish: 3,000c - 4,000c
+Five Ring Fish: 8,000c - 120,000c
 Pablo Hat: 2,200c - 2,700c
 Crash Headband: 300c - 700c
 Ice King Mask: 800c - 1,200c
