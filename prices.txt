@@ -931,6 +931,7 @@ Ticket: 1c - 2c
 Seeker Skull Marker: 50c - 100c
 Seeker Coin Marker: 50c - 100c
 Seeker Key Marker: 50c - 100c
+Gentlefish: 6,000c - 8,000c
 Elffish: 5,000c - 7,000c
 Santafish: 5,000c - 7,000c
 Camerafish: 3,000c - 4,000c
