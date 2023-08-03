@@ -934,6 +934,7 @@ Seeker Key Marker: 50c - 100c
 Gentlefish: 6,000c - 8,000c
 Elffish: 5,000c - 7,000c
 Santafish: 5,000c - 7,000c
+Trianglefish: 5,000c - 7,000c
 Camerafish: 3,000c - 4,000c
 Rainbowfish: 3,000c - 4,000c
 Five Ring Fish: 8,000c - 12,000c
