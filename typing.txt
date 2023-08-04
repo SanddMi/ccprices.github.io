@@ -306,3 +306,4 @@ People found the price from Discord Bot.
 [04/08/2023] .sandd found the price of Level 0 Model N Station
 [04/08/2023] .sandd found the price of Ranger Hat
 [04/08/2023] .sandd found the price of Omni Wind Machine
+[04/08/2023] .sandd found the price of Pink Balloon
