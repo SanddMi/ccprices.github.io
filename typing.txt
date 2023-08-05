@@ -324,3 +324,4 @@ People found the price from Discord Bot.
 [05/08/2023] rusdk found the price of Skellie Suit Shirt
 [05/08/2023] rusdk found the price of Skellie Suit Pants
 [05/08/2023] rusdk found the price of Bee Backpack
+[05/08/2023] rusdk found the price of Dry Leaf Mask
