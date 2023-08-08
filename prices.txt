@@ -300,7 +300,7 @@ Half Hat: 1,500c - 2,000c
 Turner Head: 4,000c - 6,000c
 Mushroom Umbrella: 1,500c - 2,500c
 Golden Egg Costume: 350,000c - 400,000c
-Rainbow Umbrella: 1,200,000c - 1,500,000c
+Rainbow Umbrella: 1,200,000c - 1,400,000c
 RoboSlyme Costume: 225,000c - 250,000c
 Red Balloon: 75,000c - 85,000c
 RoboZilla Head: 8,000c - 12,000c
@@ -309,7 +309,7 @@ Umbrella: 85,000c - 95,000c
 New Easter Umbrella: 12,000c - 16,000c
 Red Cherry Blossom Umbrella: 4,000c - 6,000c
 Pink Cherry Blossom Umbrella: 4,000c - 6,000c
-Red Traditional Umbrella: 45,000c - 55,000c
+Red Traditional Umbrella: 40,000c - 50,000c
 Easter Wand: 7,500c - 10,000c
 Green Flower Wand: 150c - 250c
 Orange Flower Wand: 150c - 250c
@@ -383,7 +383,7 @@ Rainbow Pajama Shirt: 3,000c - 4,000c
 Rainbow Pajama Pants: 3,000c - 4,000c
 Rainbow Wings: 15,000c - 25,000c
 Rainbow Headband: 2,000c - 3,000c
-Easter Egg Staff: 1,000c - 2,000c
+Easter Egg Staff: 800c - 1,500c
 Chick Head: 2,000c - 3,000c
 Chick Shirt: 1,000c - 1,500c
 Chick Pants: 1,000c - 1,500c
