@@ -585,7 +585,7 @@ Psychic Repulsion Cap: 1,500c - 2,500c
 Sub-Vampire Outfit: 5,000c - 7,500c
 Frankenstein Head: 750c - 1,250c
 Pumpkin Head: 4,000c - 7,000c
-Robot Head: 1,500c - 2,000c
+Robot Head: 1,000c - 1,750c
 Skull Head: 1,500c - 3,000c
 Dragon Head: 1,500c - 2,500c
 Goblin Head: 300c - 500c
