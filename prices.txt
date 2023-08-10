@@ -384,7 +384,7 @@ Rainbow Pajama Pants: 3,000c - 4,000c
 Rainbow Wings: 15,000c - 25,000c
 Rainbow Headband: 2,000c - 3,000c
 Easter Egg Staff: 800c - 1,500c
-Chick Head: 2,000c - 3,000c
+Chick Head: 1,250c - 1,750c
 Chick Shirt: 1,000c - 1,500c
 Chick Pants: 1,000c - 1,500c
 Bunny Umbrella: 4,500c - 5,500c
