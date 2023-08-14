@@ -384,7 +384,7 @@ Rainbow Pajama Pants: 3,000c - 4,000c
 Rainbow Wings: 15,000c - 25,000c
 Rainbow Headband: 2,000c - 3,000c
 Easter Egg Staff: 800c - 1,500c
-Chick Head: 2,000c - 3,000c
+Chick Head: 1,250c - 1,750c
 Chick Shirt: 1,000c - 1,500c
 Chick Pants: 1,000c - 1,500c
 Bunny Umbrella: 4,500c - 5,500c
@@ -512,7 +512,7 @@ Fishing Vest: 4,000c - 5,000c
 Fishing Pants: 4,000c - 5,000c
 Leather Backpack: 4,000c - 5,000c
 Camo Backpack: 4,000c - 5,000c
-Blue Backpack: 15,000c - 20,000c
+Blue Backpack: 10,000c - 15,000c
 Devil's Halo: 50,000c - 60,000c
 Red Angel Wings: 3,000c - 4,000c
 Orange Angel Wings: 1,500c - 2,500c
@@ -585,7 +585,7 @@ Psychic Repulsion Cap: 1,500c - 2,500c
 Sub-Vampire Outfit: 5,000c - 7,500c
 Frankenstein Head: 750c - 1,250c
 Pumpkin Head: 4,000c - 7,000c
-Robot Head: 2,000c - 3,000c
+Robot Head: 1,000c - 1,750c
 Skull Head: 1,500c - 3,000c
 Dragon Head: 1,500c - 2,500c
 Goblin Head: 300c - 500c
