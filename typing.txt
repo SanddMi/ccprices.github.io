@@ -863,3 +863,4 @@ People found the price from Discord Bot.
 [16/08/2023] Wolve found the price of Pencil Wand
 [17/08/2023] rusdk found the price of Heart BackPack
 [17/08/2023] rusdk found the price of Rainbow Shield Sunglasses
+[17/08/2023] lang_alan found the price of Level 49 Snowman Kennel
