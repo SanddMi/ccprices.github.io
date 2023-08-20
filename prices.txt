@@ -168,7 +168,7 @@ Monacle: 250c - 450c
 Star Glasses: 350c - 450c
 Heart Glasses: 150c - 250c
 Cat's Eye Glasses: 150c - 250c
-Rainbow Shield Sunglasses: 1,500c - 2,250c
+Rainbow Shield Sunglasses: 1,000c - 2,000c
 Striped Shades: 1,500c - 2,000c
 Tinted Shield Sunglasses: 250c - 450c
 Shield Sunglasses: 250c - 350c
