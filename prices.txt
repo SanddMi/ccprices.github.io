@@ -570,7 +570,7 @@ Dino Head: 190,000c - 210,000c
 Monster Head: 130,000c - 150,000c
 Shark Head: 100,000c - 110,000c
 Werewolf Head: 45,000c - 55,000c
-Pyramid Head: 12,500c - 17,500c
+Pyramid Head: 20,000c - 30,000c
 Twobee Head: 10,000c - 12,500c
 Beakbee Head: 5,000c - 8,000c
 Toothbee Head: 5,000c - 8,000c
