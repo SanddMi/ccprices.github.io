@@ -400,7 +400,7 @@ Rabbit Glasses: 20,000c - 25,000c
 Rabbit Backpack: 20,000c - 25,000c
 Cubit Hat: 1,000c - 1,500c
 Cupid's Halo: 2,000,000c - 2,200,000c
-Cupid's Wings: 90,000c - 100,000c
+Cupid's Wings: 85,000c - 95,000c
 Valentine Wings: 30,000c - 35,000c
 Heart Wings: 3,000c - 4,000c
 Wuvva Scarf: 6,000c - 10,000c
