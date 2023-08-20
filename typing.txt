@@ -1008,3 +1008,4 @@ People found the price from Discord Bot.
 [20/08/2023] thing_s found the price of Pilgrim's Coat
 [20/08/2023] thing_s found the price of Pilgrim Pants
 [20/08/2023] thing_s found the price of Pilgrim's Hat
+[21/08/2023] Clock found the price of Clown Mask
