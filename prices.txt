@@ -975,7 +975,7 @@ Level 0 Mutant MeeMew: 2,750c - 3,500c
 Level 49 Mutant MeeMew: 10,000c - 12,500c
 Level 0 Mutant Doog: 2,500c - 3,000c
 Level 49 Mutant Doog: 10,000c - 12,500c
-Level 0 Mutant Ram Kennel: 90,000c - 100,000c
+Level 0 Mutant Ram Kennel: 65,000c - 80,000c
 Level 49 Mutant Ram Kennel: 100,000c - 115,000c
 Level 0 Mutant Wuvva Pig Kennel: 1,000c - 1,500c
 Level 49 Mutant Wuvva Pig Kennel: 6,000c - 8,000c
