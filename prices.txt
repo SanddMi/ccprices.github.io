@@ -712,7 +712,7 @@ Snow Qbee Pants: 350c - 550c
 Gingerbread Head: 4,000c - 7,000c
 Gingerbread Shirt: 150c - 250c
 Gingerbread Pants: 150c - 250c
-Toy Soldier Gun: 1,500c - 2,500c
+Toy Soldier Gun: 1,200c - 2,200c
 Toy Soldier Cap 2020: 250c - 450c
 Toy Soldier Shirt: 350c - 750c
 Toy Soldier Pants: 350c - 750c
