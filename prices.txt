@@ -736,7 +736,7 @@ Elf Glasses: 100c - 200c
 Christmas Glasses: 100c - 200c
 Orange & Yellow Scarf: 90,000c - 110,000c
 Blue & White Scarf: 12,500c - 15,000c
-Red & Green Scarf: 10,000c - 12,000c
+Red & Green Scarf: 12,500c - 15,000c
 Starry Scarf: 8,000c - 12,000c
 Purple Scarf: 750c - 1,500c
 Xmas Scarf: 450c - 750c
