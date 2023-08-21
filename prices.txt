@@ -168,8 +168,8 @@ Monacle: 250c - 450c
 Star Glasses: 350c - 450c
 Heart Glasses: 150c - 250c
 Cat's Eye Glasses: 150c - 250c
-Rainbow Shield Sunglasses: 1,500c - 2,250c
-Striped Shades: 1,500c - 2,000c
+Rainbow Shield Sunglasses: 1,000c - 2,000c
+Striped Shades: 1,000c - 1,500c
 Tinted Shield Sunglasses: 250c - 450c
 Shield Sunglasses: 250c - 350c
 Aviator Sunglasses: 200c - 300c
@@ -300,7 +300,7 @@ Half Hat: 1,500c - 2,000c
 Turner Head: 4,000c - 6,000c
 Mushroom Umbrella: 1,500c - 2,500c
 Golden Egg Costume: 350,000c - 400,000c
-Rainbow Umbrella: 1,200,000c - 1,400,000c
+Rainbow Umbrella: 1,100,000c - 1,300,000c
 RoboSlyme Costume: 225,000c - 250,000c
 Red Balloon: 75,000c - 85,000c
 RoboZilla Head: 8,000c - 12,000c
@@ -400,7 +400,7 @@ Rabbit Glasses: 20,000c - 25,000c
 Rabbit Backpack: 20,000c - 25,000c
 Cubit Hat: 1,000c - 1,500c
 Cupid's Halo: 2,000,000c - 2,200,000c
-Cupid's Wings: 90,000c - 100,000c
+Cupid's Wings: 85,000c - 95,000c
 Valentine Wings: 30,000c - 35,000c
 Heart Wings: 3,000c - 4,000c
 Wuvva Scarf: 6,000c - 10,000c
@@ -489,7 +489,7 @@ Chocolate Pants: 1,000c - 1,500c
 Chocolate Staff: 1,000c - 1,500c
 Chocolate Wings: 2,000c - 3,000c
 UV Shades: 650,000c - 750,000c
-Scuba Mask: 150,000c - 200,000c
+Scuba Mask: 130,000c - 180,000c
 Blue Hawaiian Shirt: 80,000c - 90,000c
 Black Hawaiian Shirt: 30,000c - 40,000c
 Hairy Guy On The Beach Chest: 30,000c - 40,000c
@@ -512,7 +512,7 @@ Fishing Vest: 4,000c - 5,000c
 Fishing Pants: 4,000c - 5,000c
 Leather Backpack: 4,000c - 5,000c
 Camo Backpack: 4,000c - 5,000c
-Blue Backpack: 10,000c - 15,000c
+Blue Backpack: 8,000c - 13,000c
 Devil's Halo: 50,000c - 60,000c
 Red Angel Wings: 3,000c - 4,000c
 Orange Angel Wings: 1,500c - 2,500c
@@ -555,7 +555,7 @@ Spiderbrella: 1,500c - 2,000c
 Pumpkin Balloon: 1,750c - 2,500c
 Jack-O-Brella: 1,250c - 1,750c
 Trick or Treat Bag: 750c - 1,250c
-Pumpkin Pack: 50,000c - 80,000c
+Pumpkin Pack: 60,000c - 80,000c
 Egyptian Staff: 250c - 450c
 Pitchfork: 250c - 450c
 Wizard's Wand: 150c - 300c
@@ -563,14 +563,14 @@ Nature's Staff: 150c - 350c
 Witch's Broom: 150c - 300c
 Head Vampire Outfit: 350,000c - 400,000c
 Vampire's Cloak: 4,000c - 5,000c
-Headlessness: 700,000c - 800,000c
+Headlessness: 750,000c - 850,000c
 Ghost Costume: 400,000c - 450,000c
 Slyme Costume: 140,000c - 180,000c
 Dino Head: 190,000c - 210,000c
 Monster Head: 130,000c - 150,000c
 Shark Head: 100,000c - 110,000c
 Werewolf Head: 45,000c - 55,000c
-Pyramid Head: 12,500c - 17,500c
+Pyramid Head: 20,000c - 30,000c
 Twobee Head: 10,000c - 12,500c
 Beakbee Head: 5,000c - 8,000c
 Toothbee Head: 5,000c - 8,000c
@@ -584,7 +584,7 @@ Psychic Revalation Cap: 1,500c - 2,500c
 Psychic Repulsion Cap: 1,500c - 2,500c
 Sub-Vampire Outfit: 5,000c - 7,500c
 Frankenstein Head: 750c - 1,250c
-Pumpkin Head: 4,000c - 7,000c
+Pumpkin Head: 2,500c - 5,000c
 Robot Head: 1,000c - 1,750c
 Skull Head: 1,500c - 3,000c
 Dragon Head: 1,500c - 2,500c
@@ -645,7 +645,7 @@ Pumpkin Shirt: 750c - 1,250c
 Pumpkin Pants: 750c - 1,250c
 Demon Mask: 2,000c - 4,000c
 Golden Demon Mask: 750c - 1,250c
-Trumpet Hat: 150,000c - 180,000c
+Trumpet Hat: 170,000c - 200,000c
 Beard: 300,000c - 350,000c
 Plaid Hunting Cap: 150,000c - 170,000c
 Turkey Head: 12,500c - 17,500c
@@ -697,7 +697,7 @@ Hunting Net: 2c - 5c
 Mr. Christmas Costume: 120,000c - 130,000c
 Snowman Costume: 17,500c - 20,000c
 Christmas Giftbox Costume: 3,500c - 4,500c
-Krampus Mask: 1,000,000c - 1,100,000c
+Krampus Mask: 950,000c - 1,050,000c
 Krampus Mask 2018: 35,000c - 45,000c
 Cheap fake Krampus: 10,000c - 13,000c
 Krampus Mask 2020: 3,000c - 4,000c
@@ -712,7 +712,7 @@ Snow Qbee Pants: 350c - 550c
 Gingerbread Head: 4,000c - 7,000c
 Gingerbread Shirt: 150c - 250c
 Gingerbread Pants: 150c - 250c
-Toy Soldier Gun: 1,500c - 2,500c
+Toy Soldier Gun: 1,200c - 2,200c
 Toy Soldier Cap 2020: 250c - 450c
 Toy Soldier Shirt: 350c - 750c
 Toy Soldier Pants: 350c - 750c
@@ -735,8 +735,8 @@ Christmas Outfit: 100c - 200c
 Elf Glasses: 100c - 200c
 Christmas Glasses: 100c - 200c
 Orange & Yellow Scarf: 90,000c - 110,000c
-Blue & White Scarf: 14,000c - 16,000c
-Red & Green Scarf: 10,000c - 12,000c
+Blue & White Scarf: 12,500c - 15,000c
+Red & Green Scarf: 12,500c - 15,000c
 Starry Scarf: 8,000c - 12,000c
 Purple Scarf: 750c - 1,500c
 Xmas Scarf: 450c - 750c
@@ -949,7 +949,7 @@ Chicken Zombie Head: 200c - 500c
 Chicken Zombie Cap: 250c - 500c
 Chicken Zombie Shirt: 250c - 500c
 Chicken Zombie Pants: 250c - 500c
-Level 0 Ram Kennel: 4,500,000c - 5,000,000c
+Level 0 Ram Kennel: 3,500,000c - 4,000,000c
 Level 49 Ram Kennel: 4,000,000c - 4,500,000c
 Level 0 Dragon Lair: 17,500c - 22,500c
 Level 49 Dragon Lair: 30,000c - 35,000c
@@ -975,8 +975,8 @@ Level 0 Mutant MeeMew: 2,750c - 3,500c
 Level 49 Mutant MeeMew: 10,000c - 12,500c
 Level 0 Mutant Doog: 2,500c - 3,000c
 Level 49 Mutant Doog: 10,000c - 12,500c
-Level 0 Mutant Ram Kennel: 90,000c - 100,000c
-Level 49 Mutant Ram Kennel: 100,000c - 115,000c
+Level 0 Mutant Ram Kennel: 65,000c - 80,000c
+Level 49 Mutant Ram Kennel: 85,000c - 100,000c
 Level 0 Mutant Wuvva Pig Kennel: 1,000c - 1,500c
 Level 49 Mutant Wuvva Pig Kennel: 6,000c - 8,000c
 Level 0 Ostrich Pit: 170,000c - 190,000c

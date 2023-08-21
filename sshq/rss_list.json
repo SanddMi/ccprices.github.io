@@ -1082,7 +1082,7 @@
     {
         "item":{
             "name":"Red Cube",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"*",
             "price":5,
