@@ -287,7 +287,7 @@ Least Fool's Cap: 7,000c - 10,000c
 Motley Shirt: 200,000c - 250,000c
 Motley Pants: 350,000c - 400,000c
 Jester Pack: 15,000c - 22,000c
-Jester's Cane: 55,000c - 65,000c
+Jester's Cane: 60,000c - 70,000c
 Clown Mask: 50,000c - 65,000c
 Dirt Block Hat: 5,000c - 7,000c
 Banana Split Hat: 15,000c - 20,000c
@@ -304,7 +304,7 @@ Rainbow Umbrella: 1,100,000c - 1,300,000c
 RoboSlyme Costume: 225,000c - 250,000c
 Red Balloon: 75,000c - 85,000c
 RoboZilla Head: 8,000c - 12,000c
-Easter Umbrella: 1,300,000c - 1,400,000c
+Easter Umbrella: 1,200,000c - 1,300,000c
 Umbrella: 85,000c - 95,000c
 New Easter Umbrella: 12,000c - 16,000c
 Red Cherry Blossom Umbrella: 4,000c - 6,000c
@@ -315,7 +315,7 @@ Green Flower Wand: 150c - 250c
 Orange Flower Wand: 150c - 250c
 Carrot Wand: 4,000c - 5,000c
 Epic Greek Orthodox Easter Crown: 8,000c - 13,000c
-Bunny Tophat: 18,000c - 25,000c
+Bunny Tophat: 20,000c - 30,000c
 Easter Tophat: 7,000c - 9,000c
 Easter Bonnet: 4,000c - 5,000c
 Easter Hat: 13,000c - 18,000c
@@ -347,7 +347,7 @@ Purplelicous Bunny Ears: 250c - 450c
 Pinktastic Bunny Ears: 250c - 450c
 Fab Yellow Bunny Ears: 250c - 450c
 Keen Green Bunny Ears: 250c - 450c
-Bunny Pyjamas: 350,000c - 400,000c
+Bunny Pyjamas: 380,000c - 430,000c
 Blue Floral Crown: 350c - 550c
 Purple Floral Crown: 350c - 550c
 Yellow Floral Crown: 350c - 550c
@@ -359,7 +359,7 @@ Bunny Backpack: 500c - 1,000c
 Green Easter BackPack: 1,500c - 2,000c
 Yellow Easter BackPack: 1,500c - 2,000c
 Blue Easter BackPack: 400c - 800c
-Red Easter BackPack: 400c - 800c
+Red Easter Backpack: 400c - 800c
 Pink Rabbit Hood: 350c - 550c
 Pink Rabbit Shirt: 350c - 550c
 Pink Rabbit Pants: 350c - 550c
@@ -381,7 +381,7 @@ Floral Pants: 8,000c - 10,000c
 Rainbow Hat: 2,500c - 3,500c
 Rainbow Pajama Shirt: 3,000c - 4,000c
 Rainbow Pajama Pants: 3,000c - 4,000c
-Rainbow Wings: 15,000c - 25,000c
+Rainbow Wings: 15,000c - 22,000c
 Rainbow Headband: 2,000c - 3,000c
 Easter Egg Staff: 800c - 1,500c
 Chick Head: 1,250c - 1,750c
@@ -389,7 +389,7 @@ Chick Shirt: 1,000c - 1,500c
 Chick Pants: 1,000c - 1,500c
 Bunny Umbrella: 4,500c - 5,500c
 Easter Staff: 15,000c - 20,000c
-Rainbow Halo: 220,000c - 270,000c
+Rainbow Halo: 200,000c - 250,000c
 Rainbow Glasses: 23,000c - 33,000c
 Easter Sweater: 17,500c - 22,500c
 Rainbow Backpack: 60,000c - 80,000c
@@ -585,9 +585,9 @@ Psychic Repulsion Cap: 1,500c - 2,500c
 Sub-Vampire Outfit: 5,000c - 7,500c
 Frankenstein Head: 750c - 1,250c
 Pumpkin Head: 2,500c - 5,000c
-Robot Head: 1,000c - 1,750c
+Robot Head: 750c - 1,500c
 Skull Head: 1,500c - 3,000c
-Dragon Head: 1,500c - 2,500c
+Dragon Head: 2,500c - 5,000c
 Goblin Head: 300c - 500c
 Mouth Head: 250c - 450c
 Mad Scientist Wig: 300c - 500c
@@ -703,7 +703,7 @@ Cheap fake Krampus: 10,000c - 13,000c
 Krampus Mask 2020: 3,000c - 4,000c
 Krampus Shirt: 500c - 1,000c
 Krampus Pants: 500c - 1,000c
-Ice Head: 350,000c - 400,000c
+Ice Head: 200,000c - 250,000c
 Ice Shirt: 250c - 450c
 Ice Pants: 250c - 450c
 Snow Qbee Head: 350c - 550c
@@ -949,6 +949,7 @@ Chicken Zombie Head: 200c - 500c
 Chicken Zombie Cap: 250c - 500c
 Chicken Zombie Shirt: 250c - 500c
 Chicken Zombie Pants: 250c - 500c
+Golden Easter Egg: 850,000c - 1,000,000c
 Level 0 Ram Kennel: 3,500,000c - 4,000,000c
 Level 49 Ram Kennel: 4,000,000c - 4,500,000c
 Level 0 Dragon Lair: 17,500c - 22,500c
@@ -965,8 +966,8 @@ Level 0 Chick Coop: 175,000c - 195,000c
 Level 49 Chick Coop: 165,000c - 185,000c
 Level 0 Black Cat Kennel: 550,000c - 625,000c
 Level 49 Black Cat Kennel: 550,000c - 600,000c
-Level 0 Pumpkin Kennel: 500,000c - 550,000c
-Level 49 Pumpkin Kennel: 500,000c - 550,000c
+Level 0 Pumpkin Kennel: 550,000c - 650,000c
+Level 49 Pumpkin Kennel: 550,000c - 600,000c
 Level 0 Spider Den: 90,000c - 100,000c
 Level 49 Spider Den: 95,000c - 105,000c
 Level 0 Mutant Hopper: 40,000c - 50,000c
