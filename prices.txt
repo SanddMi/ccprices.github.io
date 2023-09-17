@@ -523,7 +523,7 @@ Blue Angel Wings: 1,500c - 2,500c
 Violet Angel Wings: 2,000c - 2,500c
 Pink Angel Wings: 6,000c - 8,000c
 Double Sword Back: 1,000c - 1,500c
-Black Beard: 500c - 1,000c
+Black Beard: 6,000c - 10,000c
 Walking Cane: 3,500c - 4,500c
 Ice Cream Cone Wand: 500c - 1,000c
 Pencil Wand: 450c - 750c
