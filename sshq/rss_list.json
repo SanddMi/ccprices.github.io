@@ -62,7 +62,7 @@
     {
         "item":{
             "name":"Yumberries",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"yes",
             "operator":"/",
             "price":7,
