@@ -695,3 +695,4 @@ People found the price from Discord Bot.
 [30/09/2023] bbc_news found the price of Worn Hat
 [30/09/2023] bbc_news found the price of Red Shaman's Mask
 [30/09/2023] bbc_news found the price of Yule Bell Bow
+[30/09/2023] ‘Hero’ found the price of Rainbow Umbrella
