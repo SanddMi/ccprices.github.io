@@ -1072,7 +1072,7 @@
     {
         "item":{
             "name":"Wheat",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"/",
             "price":1,
