@@ -152,7 +152,7 @@
     {
         "item":{
             "name":"White Flower",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"/",
             "price":1,
