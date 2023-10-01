@@ -56,6 +56,7 @@ Military Beret: 100c - 150c
 Military Helmet: 50c - 100c
 Salakot: 100c - 200c
 Swabbie Hat: 75c - 150c
+Sun Hat: 50c - 100c
 Sherlock Cap: 150c - 250c
 Cowboy Hat: 50c - 100c
 Miner's Helmet: 50c - 100c
@@ -584,7 +585,7 @@ Psychic Revalation Cap: 1,500c - 2,500c
 Psychic Repulsion Cap: 1,500c - 2,500c
 Sub-Vampire Outfit: 5,000c - 7,500c
 Frankenstein Head: 750c - 1,250c
-Pumpkin Head: 2,500c - 5,000c
+Pumpkin Head: 250c - 600c
 Robot Head: 750c - 1,500c
 Skull Head: 1,500c - 3,000c
 Dragon Head: 5,000c - 8,000c
