@@ -527,7 +527,7 @@ Double Sword Back: 1,000c - 1,500c
 Black Beard: 4,000c - 6,000c
 Walking Cane: 3,500c - 4,500c
 Ice Cream Cone Wand: 500c - 1,000c
-Pencil Wand: 450c - 750c
+Pencil Wand: 750c - 1,000c
 Cow Head: 750c - 1,000c
 Cow Shirt: 1,000c - 1,500c
 Cow Pants: 1,000c - 1,500c
