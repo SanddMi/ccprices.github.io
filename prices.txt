@@ -46,7 +46,7 @@ Black Wizard's Hat: 1,250c - 1,750c
 Red Wizard's Hat: 750c - 1,250c
 Wizard Hat: 350c - 550c
 Shako: 50c - 100c
-Bowler: 500c - 1,000c
+Bowler: 250c - 500c
 Balmoral Bonnet: 50c - 100c
 Pirate Hat: 100c - 150c
 Sheik Hat: 150c - 250c
@@ -56,6 +56,7 @@ Military Beret: 100c - 150c
 Military Helmet: 50c - 100c
 Salakot: 100c - 200c
 Swabbie Hat: 75c - 150c
+Sun Hat: 50c - 100c
 Sherlock Cap: 150c - 250c
 Cowboy Hat: 50c - 100c
 Miner's Helmet: 50c - 100c
@@ -516,17 +517,17 @@ Blue Backpack: 8,000c - 13,000c
 Devil's Halo: 50,000c - 60,000c
 Red Angel Wings: 3,000c - 4,000c
 Orange Angel Wings: 1,500c - 2,500c
-Yellow Angel Wings: 4,000c - 7,000c
+Yellow Angel Wings: 1,500c - 2,000c
 Green Angel Wings: 1,500c - 2,500c
 Cyan Angel Wings: 6,000c - 7,000c
 Blue Angel Wings: 1,500c - 2,500c
 Violet Angel Wings: 2,000c - 2,500c
 Pink Angel Wings: 6,000c - 8,000c
 Double Sword Back: 1,000c - 1,500c
-Black Beard: 4,000c - 6,000c
+Black Beard: 500c - 1,000c
 Walking Cane: 3,500c - 4,500c
 Ice Cream Cone Wand: 500c - 1,000c
-Pencil Wand: 450c - 750c
+Pencil Wand: 750c - 1,000c
 Cow Head: 750c - 1,000c
 Cow Shirt: 1,000c - 1,500c
 Cow Pants: 1,000c - 1,500c
@@ -584,7 +585,7 @@ Psychic Revalation Cap: 1,500c - 2,500c
 Psychic Repulsion Cap: 1,500c - 2,500c
 Sub-Vampire Outfit: 5,000c - 7,500c
 Frankenstein Head: 750c - 1,250c
-Pumpkin Head: 2,500c - 5,000c
+Pumpkin Head: 250c - 600c
 Robot Head: 750c - 1,500c
 Skull Head: 1,500c - 3,000c
 Dragon Head: 5,000c - 8,000c
@@ -694,7 +695,7 @@ Amethyst Turkey Tail: 7,000c - 9,000c
 Rainbow Turkey Tail: 175,000c - 225,000c
 Monochrome Turkey Tail: 600,000c - 700,000c
 Hunting Net: 2c - 5c
-Mr. Christmas Costume: 120,000c - 130,000c
+Mr. Christmas Costume: 140,000c - 170,000c
 Snowman Costume: 17,500c - 20,000c
 Christmas Giftbox Costume: 3,500c - 4,500c
 Krampus Mask: 950,000c - 1,050,000c
