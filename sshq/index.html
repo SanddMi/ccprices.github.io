@@ -64,7 +64,7 @@
 		position: absolute;
 		top: 50%;
 		left: 15%;
-		transform: translate(-50%, -50%) scale(.7);
+		transform: translate(-50%, -50%) scale(.8);
 	}
 
 	.result {
@@ -111,8 +111,10 @@
 		font-weight: bold;
 		text-align: center;
 		box-shadow: inset 3px 3px 3px rgb(0 0 0 / 50%);
-		width: 110px;
-		transform: translate(-30%,30%);
+		width: 115px;
+	    transform: translate(-50%,-50%);
+	    top: 50%;
+	    left: 62%;
 	}
 
 	input::-webkit-outer-spin-button,
@@ -134,31 +136,33 @@
 
 	#OldPoint {
 		position: absolute;
-		top: 50%;
-		font-size: 20px;
-		color: #000000;
-		border: none;
-		outline: none;
-		border-radius: 5px;
-		font-weight: bold;
-		text-align: center;
-		box-shadow: inset 3px 3px 3px rgb(0 0 0 / 50%);
-		transform: translate(-50%, -50%);
-		width: 80%;
+	    top: 50%;
+	    font-size: 28px;
+	    color: #000000;
+	    border: none;
+	    outline: none;
+	    border-radius: 50px;
+	    font-weight: bold;
+	    text-align: center;
+	    box-shadow: inset 3px 3px 3px rgb(0 0 0 / 50%);
+	    transform: translate(-50%, -50%);
+	    width: 80%;
+	    height: 50px;
+	    left: 50%;
 	}
 
 	#other {
 		position: absolute;
-		top: 50%;
-		left: 50%;
-		width: 160px;
-		height: 55px;
-		border-radius: 10px 10px;
-		background: linear-gradient(100deg, rgb(255, 202, 27) 19%, rgb(255, 233, 31) 20%, rgb(255, 233, 31) 80%, rgba(255, 202, 27) 81%);
-		box-shadow: 0px 8px 5px rgba(0, 0, 0, .5);
-		display: none;
-		transform: translate(-50%, -50%);
-		z-index: 1;
+	    top: 80%;
+	    left: 50%;
+	    width: 320;
+	    height: 110;
+	    border-radius: 50px;
+	    background: linear-gradient(100deg, rgb(255, 202, 27) 19%, rgb(255, 233, 31) 20%, rgb(255, 233, 31) 80%, rgba(255, 202, 27) 81%);
+	    box-shadow: 0px 8px 5px rgba(0, 0, 0, .5);
+	    display: none;
+	    transform: translate(-50%, -50%);
+	    z-index: 1;
 	}
 
 	#blurred {
@@ -322,6 +326,8 @@
 	});
 
 	$(".result").click(function() {
+		input = document.getElementById('OldPoint');
+		position = input.selectionStart;
 		$("body").css("overflow-y","hidden")
     	$("#blurred").css("display","block")
 		const x = document.getElementById("other");
