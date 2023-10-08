@@ -102,7 +102,7 @@
     {
         "item":{
             "name":"Cotton",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"yes",
             "operator":"/",
             "price":6,
