@@ -429,7 +429,7 @@ Heart Beads: 150c - 250c
 Romantic Flower: 150c - 250c
 Heart Ears: 100c - 200c
 Heart Tail: 100c - 200c
-Love Balloon: 275,000c - 325,000c
+Love Balloon: 350,000c - 400,000c
 Pink Balloon: 4,000c - 5,000c
 Wuvva Umbrella: 1,000c - 1,500c
 Take This Flower: 1,000c - 1,500c
