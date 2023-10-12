@@ -285,6 +285,7 @@
 
 <body>
 	<label class="switch">
+		<p>Showing "Not Buying"</p>
 		<input type="checkbox" id="myCheck" onclick="Turn()" checked>
 		<span class="slider round"></span>
 	</label>
@@ -326,6 +327,24 @@
 			basic = data
 		}
 	});
+
+	function Turn() {
+		checkBox = document.getElementById("myCheck")
+
+		for (item in basic) {
+
+			name = basic[item]["item"]["name"];
+			id = name.replace(/ /gi,"_").toLowerCase();
+
+			if (basic[item]["item"]["buy"] == "NO") {
+				if (checkBox.checked) {
+					$("#"+id).show()
+				} else {
+					$("#"+id).hide()
+				}
+			}
+		}
+	};
 
 	$(document).ready(function() {
 		$("#filterInput").on("keyup", function() {
