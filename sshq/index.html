@@ -232,10 +232,21 @@
 	}
 
 	.switch {
-	  position: absolute;
-	  display: inline-block;
-	  width: 60px;
-	  height: 34px;
+		position: absolute;
+		display: inline-block;
+		width: 60px;
+		height: 34px;
+		left: 15px;
+		top: 90px;
+	}
+
+	.switch p {
+		color: white;
+	    font-family: arial;
+	    position: absolute;
+	    left: 75px;
+	    width: max-content;
+	    top: -5px;
 	}
 
 	.slider {
@@ -263,7 +274,7 @@
 	}
 
 	input:checked + .slider {
-	  background-color: #2196F3;
+	  background: rgb(100,149,237, 0.8);
 	}
 
 	input:checked + .slider:before {
@@ -286,7 +297,7 @@
 <body>
 	<label class="switch">
 		<p>Showing "Not Buying"</p>
-		<input type="checkbox" id="myCheck" onclick="Turn()" checked>
+		<input type="checkbox" id="myCheck" onclick="Turn()" style="opacity: 0;" checked>
 		<span class="slider round"></span>
 	</label>
 	<div class="navbar">
@@ -379,7 +390,7 @@
 		id = name.replace(/ /gi,"_").toLowerCase()
 
 		if (basic[item]["item"]["buy"] == "NO") {
-			$(".grid-container").append(`<div class='item' style="background: linear-gradient(165deg, rgb(255, 12, 12) 19%, rgb(255, 38, 38) 20%, rgb(255, 28, 28) 80%, rgb(255, 12, 12) 81%); box-shadow: 2px 2px rgb(106, 0, 0), 5px 5px rgba(0, 0, 0, 0.5);"><span class='${img} sprite' style="left: 50%"></span><input style="display: none;" id=${id}><p>${name}</p></div>`)
+			$(".grid-container").append(`<div class='item' id='${id}' style="background: linear-gradient(165deg, rgb(255, 12, 12) 19%, rgb(255, 38, 38) 20%, rgb(255, 28, 28) 80%, rgb(255, 12, 12) 81%); box-shadow: 2px 2px rgb(106, 0, 0), 5px 5px rgba(0, 0, 0, 0.5);"><span class='${img} sprite' style="left: 50%"></span><input style="display: none;" id=${id}><p>${name}</p></div>`)
 		}
 		if (basic[item]["item"]["buy"] == "YES") {
 			if (basic[item]["item"]["double_point"] == "no") {
