@@ -227,6 +227,7 @@
 		top: 60px;
 	    left: 50%;
 	    transform: translate(-50%,50%);
+	    user-select: none;
 	}
 
 	.switch {
@@ -320,7 +321,7 @@
 		z-index: 1;
 		border-radius: 50px;
 		box-shadow: 0px 0px 50px black;
-		display: block;
+		display: none;
 		border: solid 3px white;
 	}
 
@@ -342,14 +343,6 @@
 </style>
 
 <body>
-	<div class="settings">
-		<header>Settings</header>
-		<label class="switch">
-			<p>Showing "Not Buying"</p>
-			<input type="checkbox" id="myCheck" onclick="Turn()" style="opacity: 0;" checked>
-			<span class="slider round"></span>
-		</label>
-	</div>
 	<div class="navbar">
 		<div class="searchbar">
 			<img src="magglass.png">
@@ -374,6 +367,14 @@
 	<span id="time"></span>
 	<div class="setting_icon">
 		<img src="gear.png">
+	</div>
+	<div class="settings">
+		<header>Settings</header>
+		<label class="switch">
+			<p>Showing "Not Buying"</p>
+			<input type="checkbox" id="myCheck" onclick="Turn()" style="opacity: 0;" checked>
+			<span class="slider round"></span>
+		</label>
 	</div>
 </body>
 	
@@ -465,11 +466,19 @@
 	$(document).mouseup(function(event) {
 		var sections = $("#OldPoint, #other");
 	    var blurred = $("#blurred");
+	    var settings = $(".settings")
 	    if (!sections.is(event.target) && sections.has(event.target).length === 0) {
 	        blurred.hide();
+	        settings.hide()
 	        $("body").css("overflow-y","auto")
 	    }
 	});
+
+	$(".setting_icon").click(function() {
+		$(".settings").show()
+		$("#blurred").show()
+		$("body").css("overflow-y","hidden")
+	})
 
 	$(".result").click(function() {
 		$("body").css("overflow-y","hidden")
