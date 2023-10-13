@@ -337,6 +337,7 @@
 		width: 97%;
 		text-align: center;
 		padding: 6px;
+		user-select: none;
 	}
 
 
@@ -464,7 +465,7 @@
 	$("#time").html([day, month, year].join('.'))
 
 	$(document).mouseup(function(event) {
-		var sections = $("#OldPoint, #other");
+		var sections = $("#OldPoint, #other, .settings");
 	    var blurred = $("#blurred");
 	    var settings = $(".settings")
 	    if (!sections.is(event.target) && sections.has(event.target).length === 0) {
