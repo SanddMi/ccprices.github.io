@@ -241,11 +241,12 @@
 
 	.switch p {
 		color: white;
-	    font-family: arial;
-	    position: absolute;
-	    left: 75px;
-	    width: max-content;
-	    top: -5px;
+		font-family: arial;
+		position: absolute;
+		left: -250px;
+		width: max-content;
+		top: -7px;
+		font-weight: bold;
 	}
 
 	.slider {
@@ -291,19 +292,21 @@
 	}
 
 	.setting_icon {
-		position: relative;
+		position: absolute;
 		background: rgba(100, 149, 237, 0.8);
-		height: 60px;
-		width: 60px;
+		height: 55px;
+		width: 54px;
 		border-radius: 50px;
 		border: solid 3px white;
+		top: 10px;
+		left: 42%;
 	}
 
 	.setting_icon img {
 		position: absolute;
 		filter: invert(1);
 		transform: translate(-50%,-50%) scale(.07);
-		top: 30px;
+		top: 27px;
 	}
 
 	.settings {
@@ -311,8 +314,8 @@
 		transform: translate(-50%,-50%);
 		top: 50%;
 		left: 50%;
-		width: 40%;
-		height: 40%;
+		width: 400px;
+		height: 350px;
 		background: rgb(0, 0, 44);
 		z-index: 1;
 		border-radius: 50px;
@@ -321,11 +324,26 @@
 		border: solid 3px white;
 	}
 
+	.settings header {
+		position: absolute;
+		color: white;
+		transform: translate(-50%);
+		left: 50%;
+		font-size: 32px;
+		top: 26px;
+		font-family: Arial;
+		background: rgba(255, 255, 255, 0.1);
+		width: 97%;
+		text-align: center;
+		padding: 6px;
+	}
+
 
 </style>
 
 <body>
 	<div class="settings">
+		<header>Settings</header>
 		<label class="switch">
 			<p>Showing "Not Buying"</p>
 			<input type="checkbox" id="myCheck" onclick="Turn()" style="opacity: 0;" checked>
