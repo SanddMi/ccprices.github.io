@@ -582,7 +582,7 @@
     {
         "item":{
             "name":"Grass",
-            "buy":"YES",
+            "buy":"NO",
             "double_point":"no",
             "operator":"/",
             "price":10,
