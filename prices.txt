@@ -990,7 +990,7 @@ Level 49 Turkey Kennel: 30,000c - 35,000c
 Level 0 Elf Hut: 65,000c - 75,000c
 Level 49 Elf Hut: 70,000c - 80,000c
 Level 0 Reindeer Kennel: 15,000c - 20,000c
-Level 49 Reindeer Kennel: 20,000c - 25,000c
+Level 49 Reindeer Kennel: 21,500c - 25,000c
 Level 0 Snowman Kennel: 40,000c - 50,000c
 Level 49 Snowman Kennel: 45,000c - 55,000c
 Level 0 Penguin Pad: 17,500c - 22,500c
