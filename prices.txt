@@ -641,7 +641,7 @@ Flashlight: 3,000c - 4,000c
 Candle Hat: 800c - 1,200c
 Third Eye: 750c - 1,250c
 Hair Over Face: 800c - 1,200c
-Ghost Designed Jacket: 4,000c - 8,000c
+Ghost Designed Jacket: 1,500c - 2,500c
 Pumpkin Shirt: 750c - 1,250c
 Pumpkin Pants: 750c - 1,250c
 Demon Mask: 2,000c - 4,000c
