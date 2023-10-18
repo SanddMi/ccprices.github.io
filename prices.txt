@@ -646,6 +646,7 @@ Pumpkin Shirt: 750c - 1,250c
 Pumpkin Pants: 750c - 1,250c
 Demon Mask: 500c - 1,000c
 Golden Demon Mask: 750c - 1,250c
+Voodoo Doll Head: 1,000c - 2,000c
 Button Eyes: 2,500c - 3,500c
 Tombstone Backpack: 2,000c - 3,000c
 Devil's Pitchfork: 6,000c - 8,000c
