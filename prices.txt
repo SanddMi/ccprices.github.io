@@ -647,6 +647,7 @@ Pumpkin Pants: 750c - 1,250c
 Demon Mask: 500c - 1,000c
 Golden Demon Mask: 750c - 1,250c
 Button Eyes: 2,500c - 3,500c
+Devil's Pitchfork: 6,000c - 8,000c
 Ogre Club: 2,000c - 2,500c
 Trumpet Hat: 170,000c - 200,000c
 Beard: 300,000c - 350,000c
