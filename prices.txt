@@ -652,7 +652,7 @@ Voodoo Shirt: 1,000c - 2,000c
 Voodoo Pants: 1,000c - 2,000c
 Button Eyes: 2,500c - 3,500c
 Tombstone Backpack: 2,000c - 3,000c
-Devil's Pitchfork: 6,000c - 8,000c
+Devil's Pitchfork: 4,000c - 5,000c
 Ogre Club: 2,000c - 2,500c
 Trumpet Hat: 170,000c - 200,000c
 Beard: 300,000c - 350,000c
