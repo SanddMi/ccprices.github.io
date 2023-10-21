@@ -430,7 +430,7 @@ Romantic Flower: 150c - 250c
 Heart Ears: 100c - 200c
 Heart Tail: 100c - 200c
 Love Balloon: 350,000c - 400,000c
-Pink Balloon: 4,000c - 5,000c
+Pink Balloon: 3,500c - 4,500c
 Wuvva Umbrella: 1,000c - 1,500c
 Take This Flower: 1,000c - 1,500c
 Love Wand: 150c - 250c
@@ -608,8 +608,8 @@ Skinless Pants: 450c - 750c
 Skellie Suit Shirt: 500c - 1,000c
 Skellie Suit Pants: 500c - 1,000c
 Dark Traveller Head: 1,500c - 3,000c
-Dark Traveller Top: 9,000c - 11,000c
-Dark Traveller Pants: 9,000c - 11,000c
+Dark Traveller Top: 10,000c - 12,000c
+Dark Traveller Pants: 10,000c - 12,000c
 Mummy Wrap Head: 1,750c - 2,500c
 Mummy Wrap Shirt: 5,000c - 7,500c
 Mummy Wrap Pants: 25,000c - 35,000c
@@ -636,16 +636,25 @@ Black Cat Shirt: 750c - 1,250c
 Black Cat Pants: 750c - 1,250c
 Black Cat Tail: 750c - 1,250c
 Wizard's Spellbook: 11,000c - 15,000c
-Knife: 7,000c - 9,000c
-Flashlight: 3,000c - 4,000c
-Candle Hat: 800c - 1,200c
+Knife: 2,000c - 3,000c
+Flashlight: 1,000c - 1,500c
+Candle Hat: 500c - 600c
 Third Eye: 750c - 1,250c
-Hair Over Face: 800c - 1,200c
-Ghost Designed Jacket: 4,000c - 8,000c
+Hair Over Face: 400c - 600c
+Ghost Designed Jacket: 1,500c - 2,500c
 Pumpkin Shirt: 750c - 1,250c
 Pumpkin Pants: 750c - 1,250c
-Demon Mask: 2,000c - 4,000c
+Demon Mask: 500c - 1,000c
 Golden Demon Mask: 750c - 1,250c
+Minotaur Head: 8,000c - 10,000c
+Voodoo Doll Head: 1,000c - 2,000c
+Voodoo Shirt: 1,000c - 2,000c
+Voodoo Pants: 1,000c - 2,000c
+Button Eyes: 2,500c - 3,500c
+Tombstone Backpack: 2,000c - 3,000c
+Devil's Pitchfork: 4,000c - 5,000c
+Giant Needle: 1,000c - 1,500c
+Ogre Club: 2,000c - 2,500c
 Trumpet Hat: 170,000c - 200,000c
 Beard: 300,000c - 350,000c
 Plaid Hunting Cap: 170,000c - 190,000c
@@ -756,7 +765,7 @@ Red Ski Goggles: 150c - 250c
 Blue Ski Mask: 150c - 250c
 Red Ski Mask: 150c - 250c
 Christmas Grouch: 5,000c - 7,000c
-Yeti Head: 50,000c - 60,000c
+Yeti Head: 60,000c - 70,000c
 Reindeer Cap: 150c - 250c
 Antlers: 100c - 200c
 Shiny Nose: 6,000c - 8,000c
@@ -990,7 +999,7 @@ Level 49 Turkey Kennel: 30,000c - 35,000c
 Level 0 Elf Hut: 65,000c - 75,000c
 Level 49 Elf Hut: 70,000c - 80,000c
 Level 0 Reindeer Kennel: 15,000c - 20,000c
-Level 49 Reindeer Kennel: 20,000c - 25,000c
+Level 49 Reindeer Kennel: 21,500c - 25,000c
 Level 0 Snowman Kennel: 40,000c - 50,000c
 Level 49 Snowman Kennel: 45,000c - 55,000c
 Level 0 Penguin Pad: 17,500c - 22,500c
