@@ -1,8 +1,8 @@
-Top Hat: 100c - 200c
+Top Hat: 1,000c - 2,000c
 Feather Hat: 100c - 150c
 Beany: 50c - 100c
 Viking Helm: 50c - 100c
-Redwood Forest Cap: 200c - 500c
+Redwood Forest Cap: 500c - 800c
 Blue Shaman's Mask: 100c - 200c
 Red Shaman's Mask: 100c - 200c
 Blue Baseball Cap: 50c - 100c
@@ -390,7 +390,7 @@ Chick Shirt: 1,000c - 1,500c
 Chick Pants: 1,000c - 1,500c
 Bunny Umbrella: 4,500c - 5,500c
 Easter Staff: 15,000c - 20,000c
-Rainbow Halo: 10,000c - 15,000c
+Rainbow Halo: 200,000c - 250,000c
 Rainbow Glasses: 25,000c - 35,000c
 Easter Sweater: 17,500c - 22,500c
 Rainbow Backpack: 60,000c - 80,000c
@@ -707,7 +707,7 @@ Hunting Net: 2c - 5c
 Mr. Christmas Costume: 140,000c - 170,000c
 Snowman Costume: 17,500c - 20,000c
 Christmas Giftbox Costume: 3,500c - 4,500c
-Krampus Mask: 100,000c - 200,000c
+Krampus Mask: 950,000c - 1,050,000c
 Krampus Mask 2018: 35,000c - 45,000c
 Cheap fake Krampus: 10,000c - 13,000c
 Krampus Mask 2020: 3,000c - 4,000c
