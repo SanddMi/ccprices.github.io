@@ -568,7 +568,7 @@ Headlessness: 800,000c - 900,000c
 Ghost Costume: 400,000c - 450,000c
 Slyme Costume: 140,000c - 180,000c
 Dino Head: 190,000c - 210,000c
-Monster Head: 130,000c - 150,000c
+Monster Head: 150,000c - 180,000c
 Shark Head: 110,000c - 130,000c
 Werewolf Head: 55,000c - 65,000c
 Pyramid Head: 20,000c - 30,000c
