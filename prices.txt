@@ -1,4 +1,4 @@
-Top Hat: 100c - 150c
+Top Hat: 1,000c - 2,000c
 Feather Hat: 100c - 150c
 Beany: 50c - 100c
 Viking Helm: 50c - 100c
@@ -437,7 +437,7 @@ Love Wand: 150c - 250c
 Knight's Sword: 1,500c - 2,500c
 Knight's Helmet: 8,000c - 15,000c
 Knight's Shield: 250c - 550c
-Teddy Bear Head: 170,000c - 200,000c
+Teddy Bear Head: 180,000c - 200,000c
 Teddy Bear Shirt: 450c - 750c
 Teddy Bear Pants: 450c - 750c
 Rainbow Unicorn Top: 1,000c - 1,500c
@@ -552,7 +552,7 @@ Princess Tiara: 350c - 550c
 Tincan Helmet: 250c - 450c
 Scythe: 550,000c - 650,000c
 Skull Balloon: 35,000c - 42,500c
-Spiderbrella: 1,000c - 2,000c
+Spiderbrella: 1,500c - 2,000c
 Pumpkin Balloon: 1,750c - 2,500c
 Jack-O-Brella: 1,250c - 1,750c
 Trick or Treat Bag: 750c - 1,250c
@@ -564,12 +564,12 @@ Nature's Staff: 150c - 350c
 Witch's Broom: 150c - 300c
 Head Vampire Outfit: 450,000c - 500,000c
 Vampire's Cloak: 4,000c - 5,000c
-Headlessness: 900,000c - 1,000,000c
-Ghost Costume: 500,000c - 550,000c
-Slyme Costume: 160,000c - 190,000c
+Headlessness: 800,000c - 900,000c
+Ghost Costume: 400,000c - 450,000c
+Slyme Costume: 140,000c - 180,000c
 Dino Head: 190,000c - 210,000c
-Monster Head: 150,000c - 180,000c
-Shark Head: 125,000c - 150,000c
+Monster Head: 130,000c - 150,000c
+Shark Head: 110,000c - 130,000c
 Werewolf Head: 55,000c - 65,000c
 Pyramid Head: 20,000c - 30,000c
 Twobee Head: 10,000c - 12,500c
@@ -587,7 +587,7 @@ Sub-Vampire Outfit: 5,000c - 7,500c
 Frankenstein Head: 750c - 1,250c
 Pumpkin Head: 250c - 600c
 Robot Head: 750c - 1,500c
-Skull Head: 1,000c - 2,000c
+Skull Head: 1,500c - 3,000c
 Dragon Head: 5,000c - 8,000c
 Goblin Head: 300c - 500c
 Mouth Head: 250c - 450c
