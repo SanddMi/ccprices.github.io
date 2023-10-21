@@ -814,7 +814,7 @@ Slymegood Industry Suit Top 02: 2,500c - 3,000c
 Slymegood Industry Suit Top 01: 2,500c - 3,500c
 Slymegood Industry Shirt 02: 2,500c - 3,000c
 Slymegood Industry Shirt 01: 2,500c - 3,000c
-Slymegood Industry Suit Pants 02: 2,500c - 3,000c
+Slymegood Industry Suit Pants 02: 1,000c - 2,000c
 Slymegood Industry Suit Pants 01: 2,500c - 3,000c
 Pipe Wrench: 2,000c - 2,500c
 Tractor Keys: 2,000c - 3,000c
