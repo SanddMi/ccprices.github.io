@@ -6,7 +6,7 @@ Redwood Forest Cap: 400c - 800c
 Blue Shaman's Mask: 100c - 200c
 Red Shaman's Mask: 100c - 200c
 Blue Baseball Cap: 50c - 100c
-Red Baseball Cap: 50c - 100c
+Red Baseball Cap: 40c - 100c
 Blue Hip-Hop Cap: 40c - 80c
 Red Hip-Hop Cap: 40c - 80c
 Stunt Helmet: 150c - 250c
