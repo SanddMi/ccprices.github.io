@@ -437,7 +437,7 @@ Love Wand: 150c - 250c
 Knight's Sword: 1,500c - 2,500c
 Knight's Helmet: 8,000c - 15,000c
 Knight's Shield: 250c - 550c
-Teddy Bear Head: 180,000c - 200,000c
+Teddy Bear Head: 170,000c - 200,000c
 Teddy Bear Shirt: 450c - 750c
 Teddy Bear Pants: 450c - 750c
 Rainbow Unicorn Top: 1,000c - 1,500c
