@@ -587,7 +587,7 @@ Sub-Vampire Outfit: 5,000c - 7,500c
 Frankenstein Head: 750c - 1,250c
 Pumpkin Head: 250c - 600c
 Robot Head: 750c - 1,500c
-Skull Head: 1,500c - 3,000c
+Skull Head: 1,000c - 2,000c
 Dragon Head: 5,000c - 8,000c
 Goblin Head: 300c - 500c
 Mouth Head: 250c - 450c
