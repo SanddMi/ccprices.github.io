@@ -652,6 +652,7 @@ Voodoo Shirt: 1,000c - 2,000c
 Voodoo Pants: 1,000c - 2,000c
 Button Eyes: 2,500c - 3,500c
 Tombstone Backpack: 2,000c - 3,000c
+Pumpkin Backpack: 3,000c - 4,000c
 Devil's Pitchfork: 4,000c - 5,000c
 Giant Needle: 1,000c - 1,500c
 Ogre Club: 2,000c - 2,500c
