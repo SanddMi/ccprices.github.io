@@ -642,7 +642,7 @@ Candle Hat: 150c - 400c
 Third Eye: 750c - 1,250c
 Hair Over Face: 400c - 600c
 Ghost Designed Jacket: 1,500c - 2,500c
-Pumpkin Shirt: 750c - 1,250c
+Pumpkin Shirt: 300c - 500c
 Pumpkin Pants: 750c - 1,250c
 Demon Mask: 500c - 1,000c
 Golden Demon Mask: 750c - 1,250c
