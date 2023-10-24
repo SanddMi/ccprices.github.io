@@ -561,7 +561,7 @@ Egyptian Staff: 250c - 450c
 Pitchfork: 250c - 450c
 Wizard's Wand: 150c - 300c
 Nature's Staff: 150c - 350c
-Witch's Broom: 150c - 300c
+Witch's Broom: 50c - 200c
 Head Vampire Outfit: 450,000c - 500,000c
 Vampire's Cloak: 4,000c - 5,000c
 Headlessness: 900,000c - 1,000,000c
