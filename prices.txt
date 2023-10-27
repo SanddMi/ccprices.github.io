@@ -105,7 +105,7 @@ Black Aristocrat Wig: 100c - 200c
 Robin Hood Hat: 250c - 350c
 Dark Angel Wings: 7,250c - 8,250c
 Angel Wings: 3,500c - 4,000c
-Dragon Wings: 1,000c - 1,500c
+Dragon Wings: 800c - 1,500c
 Gold Wings: 150c - 250c
 Steel Wings: 100c - 200c
 Flamingo Wings: 75c - 125c
@@ -301,7 +301,7 @@ Half Hat: 1,500c - 2,000c
 Turner Head: 4,000c - 6,000c
 Mushroom Umbrella: 1,500c - 2,500c
 Golden Egg Costume: 320,000c - 360,000c
-Rainbow Umbrella: 700,000c - 800,000c
+Rainbow Umbrella: 600,000c - 700,000c
 RoboSlyme Costume: 225,000c - 250,000c
 Red Balloon: 75,000c - 85,000c
 RoboZilla Head: 8,000c - 12,000c
@@ -315,7 +315,7 @@ Easter Wand: 7,500c - 10,000c
 Green Flower Wand: 150c - 250c
 Orange Flower Wand: 150c - 250c
 Carrot Wand: 4,000c - 5,000c
-Epic Greek Orthodox Easter Crown: 8,000c - 13,000c
+Epic Greek Orthodox Easter Crown: 8,000c - 10,000c
 Bunny Tophat: 20,000c - 30,000c
 Easter Tophat: 7,000c - 9,000c
 Easter Bonnet: 4,000c - 5,000c
@@ -382,7 +382,7 @@ Floral Pants: 8,000c - 10,000c
 Rainbow Hat: 2,500c - 3,500c
 Rainbow Pajama Shirt: 3,000c - 4,000c
 Rainbow Pajama Pants: 3,000c - 4,000c
-Rainbow Wings: 13,000c - 20,000c
+Rainbow Wings: 10,000c - 15,000c
 Rainbow Headband: 2,000c - 3,000c
 Easter Egg Staff: 800c - 1,500c
 Chick Head: 1,250c - 1,750c
@@ -437,7 +437,7 @@ Love Wand: 150c - 250c
 Knight's Sword: 1,500c - 2,500c
 Knight's Helmet: 8,000c - 15,000c
 Knight's Shield: 250c - 550c
-Teddy Bear Head: 170,000c - 200,000c
+Teddy Bear Head: 200,000c - 250,000c
 Teddy Bear Shirt: 450c - 750c
 Teddy Bear Pants: 450c - 750c
 Rainbow Unicorn Top: 1,000c - 1,500c
@@ -552,7 +552,7 @@ Princess Tiara: 350c - 550c
 Tincan Helmet: 250c - 450c
 Scythe: 550,000c - 650,000c
 Skull Balloon: 35,000c - 42,500c
-Spiderbrella: 1,000c - 2,000c
+Spiderbrella: 800c - 1,500c
 Pumpkin Balloon: 1,750c - 2,500c
 Jack-O-Brella: 1,250c - 1,750c
 Trick or Treat Bag: 750c - 1,250c
@@ -561,7 +561,7 @@ Egyptian Staff: 250c - 450c
 Pitchfork: 250c - 450c
 Wizard's Wand: 150c - 300c
 Nature's Staff: 150c - 350c
-Witch's Broom: 150c - 300c
+Witch's Broom: 50c - 200c
 Head Vampire Outfit: 450,000c - 500,000c
 Vampire's Cloak: 4,000c - 5,000c
 Headlessness: 900,000c - 1,000,000c
@@ -635,26 +635,27 @@ Black Cat Hood: 750c - 1,250c
 Black Cat Shirt: 750c - 1,250c
 Black Cat Pants: 750c - 1,250c
 Black Cat Tail: 750c - 1,250c
-Wizard's Spellbook: 11,000c - 15,000c
-Knife: 2,000c - 3,000c
-Flashlight: 1,000c - 1,500c
-Candle Hat: 500c - 600c
+Wizard's Spellbook: 17,000c - 25,000c
+Knife: 1,000c - 2,000c
+Flashlight: 800c - 1,500c
+Candle Hat: 150c - 400c
 Third Eye: 750c - 1,250c
-Hair Over Face: 400c - 600c
+Hair Over Face: 150c - 400c
 Ghost Designed Jacket: 1,500c - 2,500c
-Pumpkin Shirt: 750c - 1,250c
-Pumpkin Pants: 750c - 1,250c
+Pumpkin Shirt: 300c - 500c
+Pumpkin Pants: 300c - 500c
 Demon Mask: 500c - 1,000c
 Golden Demon Mask: 750c - 1,250c
-Minotaur Head: 8,000c - 10,000c
-Voodoo Doll Head: 1,000c - 2,000c
-Voodoo Shirt: 1,000c - 2,000c
-Voodoo Pants: 1,000c - 2,000c
+Minotaur Head: 7,000c - 9,000c
+Voodoo Doll Head: 3,000c - 6,000c
+Voodoo Shirt: 3,000c - 6,000c
+Voodoo Pants: 3,000c - 6,000c
 Button Eyes: 2,500c - 3,500c
 Tombstone Backpack: 2,000c - 3,000c
+Pumpkin Basket: 3,000c - 4,000c
 Devil's Pitchfork: 4,000c - 5,000c
-Giant Needle: 1,000c - 1,500c
-Ogre Club: 2,000c - 2,500c
+Giant Needle: 700c - 1,200c
+Ogre Club: 500c - 1,000c
 Trumpet Hat: 170,000c - 200,000c
 Beard: 300,000c - 350,000c
 Plaid Hunting Cap: 170,000c - 190,000c
@@ -954,7 +955,7 @@ Crash Headband: 300c - 700c
 Ice King Mask: 800c - 1,200c
 Eggie Bandana Mask: 5,000c - 8,000c
 Bad Egg Shirt: 200c - 500c
-Pablo Smile Shirt: 2,500c - 3,000c
+Pablo Smile Shirt: 1,500c - 2,500c
 Chicken Zombie Head: 200c - 500c
 Chicken Zombie Cap: 250c - 500c
 Chicken Zombie Shirt: 250c - 500c
