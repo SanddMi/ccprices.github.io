@@ -47,7 +47,8 @@
 		margin: 6px;
 		height: 50px;
 		border-radius: 8px;
-		background: linear-gradient(165deg, rgb(19, 48, 136) 19%, rgb(19, 78, 180) 20%, rgb(19, 78, 180) 80%, rgba(19, 48, 136) 81%);
+		/*background: linear-gradient(165deg, rgb(19, 48, 136) 19%, rgb(19, 78, 180) 20%, rgb(19, 78, 180) 80%, rgba(19, 48, 136) 81%);*/
+		background: rgb(19, 78, 180);
 		box-shadow: 3px 3px 3px black;
 		display: inline-block;
 		transition-duration: .5s;
@@ -454,14 +455,14 @@
 		id = name.replace(/ /gi,"_").toLowerCase()
 
 		if (basic[item]["item"]["buy"] == "NO") {
-			$(".grid-container").append(`<div class='item' id='${id}' style="background: linear-gradient(165deg, rgb(255, 12, 12) 19%, rgb(255, 38, 38) 20%, rgb(255, 28, 28) 80%, rgb(255, 12, 12) 81%); box-shadow: 3px 3px 3px black;"><span class='${img} sprite' style="left: 50%"></span><input style="display: none;" id=${id}><p>${name}</p></div>`)
+			$(".grid-container").append(`<div class='item' id='${id}' style="background: #FF2C2C; box-shadow: 3px 3px 3px black;"><span class='${img} sprite' style="left: 50%"></span><input style="display: none;" id=${id}><p>${name}</p></div>`)
 		}
 		if (basic[item]["item"]["buy"] == "YES") {
 			if (basic[item]["item"]["double_point"] == "no") {
 				$(".grid-container").append(`<div class='item'><span class='${img} sprite'></span><input class="input" id=${id} type="number" min="0" max="20000" step="1"><p>${name}</p></div>`)
 			}
 			if (basic[item]["item"]["double_point"] == "yes") {
-				$(".grid-container").append(`<div class='item' style="background: linear-gradient(165deg, rgb(0, 204, 32) 19%, rgb(0, 174, 42) 20%, rgb(0, 173, 41) 80%, rgb(0, 204, 32) 81%); box-shadow: 3px 3px 3px black;"><span class='${img} sprite'></span><input class="input" id=${id} type="number" min="0" max="20000" step="1"><p>${name}</p></div>`)
+				$(".grid-container").append(`<div class='item' style="background: #48C51B; box-shadow: 3px 3px 3px black;"><span class='${img} sprite'></span><input class="input" id=${id} type="number" min="0" max="20000" step="1"><p>${name}</p></div>`)
 			}
 		}
 	}
