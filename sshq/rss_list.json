@@ -1128,5 +1128,15 @@
             "price":2000,
             "image":"resources/i_134"
         }
+    },
+    {
+        "item":{
+            "name":"Ghost Soul",
+            "buy":"YES",
+            "double_point":"no",
+            "operator":"*",
+            "price":40,
+            "image":"wearables/error"
+        }
     }
 ]
