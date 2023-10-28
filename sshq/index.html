@@ -501,6 +501,15 @@
 		}
 	})
 
+	$(".item").mouseover(function() {
+		name = $(this).text();
+		$("#filterInput").attr("placeholder", name);
+	})
+
+	$(".item").mouseout(function() {
+		$("#filterInput").attr("placeholder", "Search for item");
+	})
+
 	function Reset() {
 		document.getElementById('point').innerHTML = '0 Points'; 
 		document.getElementById('total').innerHTML = '0 Cubit';
