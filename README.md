@@ -1,1 +1,1 @@
-# ccprices.github.io
+Seasonal Prices
