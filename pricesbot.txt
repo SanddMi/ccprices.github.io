@@ -490,7 +490,7 @@ Chocolate Pants                   1,000c - 1,500c
 Chocolate Staff                   1,000c - 1,500c
 Chocolate Wings                   2,000c - 3,000c
 UV Shades                         850,000c - 950,000c
-Scuba Mask                        125,000c - 160,000c
+Scuba Mask                        150,000c - 200,000c
 Blue Hawaiian Shirt               80,000c - 90,000c
 Black Hawaiian Shirt              30,000c - 40,000c
 Hairy Guy On The Beach Chest      30,000c - 40,000c
@@ -745,7 +745,7 @@ Ugly Christmas Sweater            100c - 200c
 Christmas Outfit                  100c - 200c
 Elf Glasses                       100c - 200c
 Christmas Glasses                 100c - 200c
-Orange & Yellow Scarf             90,000c - 110,000c
+Orange & Yellow Scarf             90,000c - 100,000c
 Blue & White Scarf                12,500c - 15,000c
 Red & Green Scarf                 10,000c - 12,500c
 Starry Scarf                      8,000c - 12,000c
