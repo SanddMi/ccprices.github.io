@@ -842,7 +842,7 @@ Harm Wand                         20c - 40c
 Knock Back Wand                   20c - 40c
 Heal Wand                         50c - 100c
 Shrink Wand                       500c - 1,000c
-Necromancer's Wand                1,500c - 2,000c
+Necromancer's Wand                1,250c - 1,750c
 White Cloudy                      40c - 50c
 Bottomless                        3,750c - 4,500c
 Red Murk                          2,000c - 2,500c
