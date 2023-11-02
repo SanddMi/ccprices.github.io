@@ -107,7 +107,7 @@ Dark Angel Wings                  7,500c - 8,500c
 Angel Wings                       3,500c - 4,000c
 Dragon Wings                      800c - 1,500c
 Gold Wings                        150c - 250c
-Steel Wings                       100c - 200c
+Steel Wings                       75c - 125c
 Flamingo Wings                    75c - 125c
 Parrot Wings                      50c - 100c
 Bluejay Wings                     50c - 100c
