@@ -167,7 +167,7 @@ Coke-Bottle Glasses               850c - 1,250c
 Nerd Glasses                      150c - 250c
 Monacle                           250c - 350c
 Star Glasses                      250c - 400c
-Heart Glasses                     150c - 250c
+Heart Glasses                     100c - 200c
 Cat's Eye Glasses                 150c - 250c
 Rainbow Shield Sunglasses         1,000c - 2,000c
 Striped Shades                    1,000c - 1,500c
