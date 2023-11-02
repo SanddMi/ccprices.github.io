@@ -106,7 +106,7 @@ Robin Hood Hat                    250c - 350c
 Dark Angel Wings                  7,500c - 8,500c
 Angel Wings                       3,500c - 4,000c
 Dragon Wings                      800c - 1,500c
-Gold Wings                        150c - 250c
+Gold Wings                        100c - 150c
 Steel Wings                       75c - 125c
 Flamingo Wings                    75c - 125c
 Parrot Wings                      50c - 100c
