@@ -236,7 +236,7 @@ Modern Astronaut Helmet           200c - 300c
 Sci-Fi Astronaut Helmet           200c - 300c
 Moonar Jacket                     350c - 450c
 Moonar Pants                      250c - 450c
-Moonar Pack                       300c - 400c
+Moonar                            300c - 400c
 Sci-Fi O2 Tank                    300c - 400c
 SteamPunk Goggles                 350c - 450c
 SteamPunk Goggles 2               350c - 450c
@@ -244,7 +244,7 @@ SteamPunk Umbrella                2,000c - 3,000c
 Clockwerk Hat                     450c - 750c
 SteamPunk Top                     1,500c - 2,000c
 SteamPunk Pants                   1,000c - 1,500c
-Portable Generator Pack           250c - 450c
+Portable Generator                250c - 450c
 Brown Explorer Hat                750c - 1,250c
 Brown Explorer Backpack           2,500c - 3,500c
 Brown Explorer Top                2,000c - 2,500c
@@ -287,7 +287,7 @@ Lesser Fool's Cap                 17,500c - 22,500c
 Least Fool's Cap                  7,000c - 10,000c
 Motley Shirt                      250,000c - 300,000c
 Motley Pants                      300,000c - 350,000c
-Jester Pack                       15,000c - 22,000c
+Jester                            15,000c - 22,000c
 Jester's Cane                     65,000c - 80,000c
 Clown Mask                        70,000c - 90,000c
 Dirt Block Hat                    5,000c - 7,000c
@@ -754,7 +754,7 @@ Xmas Scarf                        450c - 750c
 Winter Scarf                      1,500c - 2,500c
 Gift BackPack 2                   5,000c - 6,000c
 Gift BackPack                     4,500c - 5,500c
-Santa Pack                        3,500c - 4,500c
+Santa                             3,500c - 4,500c
 Icy Wings                         750c - 1,250c
 Winter Umbrella                   22,500c - 27,500c
 Carry Cane                        350c - 650c
@@ -823,7 +823,7 @@ Dorkmobile Keys                   2,500c - 3,500c
 Sportsmobile Keys                 7,000c - 8,000c
 Spudbuggy Key                     11,000c - 13,000c
 Pinkster Key                      12,500c - 15,000c
-Offroader Keys                    20,000c - 25,000c
+Offroader Keys                    22,500c - 27,500c
 Luxoride EKey                     22,500c - 25,000c
 Moon Buggy Key                    27,500c - 32,500c
 Luvmobile Key                     380,000c - 430,000c
