@@ -840,7 +840,7 @@ Golden Rocket Key                 30,000c - 35,000c
 Fizzled Wand                      25c - 50c
 Harm Wand                         20c - 40c
 Knock Back Wand                   20c - 40c
-Heal Wand                         50c - 100c
+Heal Wand                         75c - 100c
 Shrink Wand                       550c - 850c
 Necromancer's Wand                1,250c - 1,750c
 White Cloudy                      40c - 50c
