@@ -838,7 +838,7 @@ Christmas Key                     8,000c - 12,000c
 Rocket Key                        18,000c - 22,000c
 Golden Rocket Key                 30,000c - 35,000c
 Fizzled Wand                      25c - 50c
-Harm Wand                         20c - 40c
+Harm Wand                         25c - 35c
 Knock Back Wand                   20c - 40c
 Heal Wand                         75c - 100c
 Shrink Wand                       550c - 850c
