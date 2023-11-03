@@ -299,7 +299,7 @@ Worn Hat                          2,500c - 3,000c
 Broken Glasses                    1,200c - 1,800c
 Half Hat                          1,500c - 2,000c
 Turner Head                       4,000c - 6,000c
-Mushroom Umbrella                 1,500c - 2,500c
+Mushroom Umbrella                 900c - 1,500c
 Golden Egg Costume                320,000c - 360,000c
 Rainbow Umbrella                  600,000c - 700,000c
 RoboSlyme Costume                 225,000c - 250,000c
