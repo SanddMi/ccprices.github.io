@@ -885,7 +885,7 @@ Info Bumper                       900c - 1,200c
 Guestbook                         500c - 700c
 Mute Bumper                       450c - 550c
 No Littering!                     1,800c - 2,200c
-Gather Bumper                     2,250c - 2,750c
+Gather Bumper                     2,000c - 2,750c
 Trophy Stand                      150c - 225c
 Hidey Bumper                      400c - 450c
 Seeker Bumper                     700c - 900c
