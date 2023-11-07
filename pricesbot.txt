@@ -650,7 +650,7 @@ Minotaur Head                     7,000c - 9,000c
 Voodoo Doll Head                  3,000c - 6,000c
 Voodoo Shirt                      3,000c - 6,000c
 Voodoo Pants                      3,000c - 6,000c
-Button Eyes                       2,500c - 3,500c
+Button Eyes                       2,000c - 3,000c
 Tombstone Backpack                2,000c - 3,000c
 Pumpkin Basket                    3,000c - 4,000c
 Devil's Pitchfork                 3,000c - 4,000c
