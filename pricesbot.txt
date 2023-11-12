@@ -633,7 +633,7 @@ Dinosaur Pants                    1,500c - 2,500c
 Dinosaur Tail                     1,500c - 2,500c
 Black Cat Hood                    1,000c - 1,500c
 Black Cat Shirt                   1,000c - 1,500c
-Black Cat Pants                   750c - 1,250c
+Black Cat Pants                   1,000c - 1,500c
 Black Cat Tail                    750c - 1,250c
 Wizard's Spellbook                20,000c - 30,000c
 Knife                             1,000c - 2,000c
