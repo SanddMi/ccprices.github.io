@@ -872,7 +872,7 @@ Stars                             8,000c - 9,000c
 Moonar Low Grav                   10,000c - 13,500c
 Sea                               7,000c - 9,000c
 Deep Sea                          7,000c - 9,000c
-Clanstone                         13,000c - 15,000c
+Clanstone                         14,000c - 15,500c
 Doorway                           200c - 225c
 Event Bumper                      20,000c - 23,000c
 Nametag                           8,500c - 9,500c
