@@ -707,6 +707,7 @@ Monochrome Turkey Tail            600,000c - 700,000c
 Hunting Net                       2c - 5c
 Turkey Feather Hat                1,500c - 2,500c
 Red Plaid Scarf                   2,000c - 3,000c
+Blue Plaid Scarf                  1,500c - 2,500c
 Maple Umbrella                    2,500c - 3,500c
 Mr. Christmas Costume             140,000c - 170,000c
 Snowman Costume                   17,500c - 20,000c
@@ -872,7 +873,7 @@ Stars                             8,000c - 9,000c
 Moonar Low Grav                   10,000c - 13,500c
 Sea                               7,000c - 9,000c
 Deep Sea                          7,000c - 9,000c
-Clanstone                         14,000c - 15,500c
+Clan Stone                        14,000c - 15,500c
 Doorway                           200c - 225c
 Event Bumper                      20,000c - 23,000c
 Nametag                           8,500c - 9,500c
