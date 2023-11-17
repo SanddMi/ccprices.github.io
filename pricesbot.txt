@@ -707,6 +707,7 @@ Monochrome Turkey Tail            600,000c - 700,000c
 Hunting Net                       2c - 5c
 Fox Hood                          1,000c - 2,000c
 Turkey Feather Hat                1,500c - 2,500c
+Red Beanie                        1,200c - 2,000c
 Blue Plaid Shirt                  1,500c - 2,500c
 Red Plaid Scarf                   2,000c - 3,000c
 Blue Plaid Scarf                  1,500c - 2,500c
