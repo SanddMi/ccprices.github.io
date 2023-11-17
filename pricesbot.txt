@@ -853,7 +853,7 @@ Bottomless Red                    3,750c - 4,500c
 Interior Skin                     1,750c - 2,250c
 Darkness                          7,500c - 8,500c
 Bottomless Dark                   9,000c - 10,000c
-Twilight                          7,500c - 8,500c
+Twilight                          4,500c - 7,500c
 Bottomless Twilight               9,000c - 11,000c
 Slime Infestation                 4,000c - 5,000c
 Slime Infestation                 6,000c - 7,000c
