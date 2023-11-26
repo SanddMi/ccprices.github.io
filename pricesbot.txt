@@ -970,7 +970,7 @@ Bad Egg Shirt                     500c - 1,000c
 Pablo Smile Shirt                 1,500c - 2,500c
 Chicken Zombie Head               200c - 500c
 Chicken Zombie Cap                250c - 500c
-Chicken Zombie Shirt              250c - 500c
+Chicken Zombie Shirt              500c - 1,000c
 Chicken Zombie Pants              250c - 500c
 Golden Easter Egg                 1,000,000c - 1,500,000c
 Level 0 Ram Kennel                3,500,000c - 4,000,000c
