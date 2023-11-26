@@ -969,7 +969,7 @@ Eggie Bandana Mask                7,500c - 12,000c
 Bad Egg Shirt                     500c - 1,000c
 Pablo Smile Shirt                 1,500c - 2,500c
 Chicken Zombie Head               500c - 1,000c
-Chicken Zombie Cap                250c - 500c
+Chicken Zombie Cap                500c - 1,000c
 Chicken Zombie Shirt              500c - 1,000c
 Chicken Zombie Pants              500c - 1,000c
 Golden Easter Egg                 1,000,000c - 1,500,000c
