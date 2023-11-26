@@ -287,7 +287,7 @@ Lesser Fool's Cap                 17,500c - 22,500c
 Least Fool's Cap                  7,000c - 10,000c
 Motley Shirt                      250,000c - 300,000c
 Motley Pants                      300,000c - 350,000c
-Jester                            15,000c - 22,000c
+Jester Pack                       15,000c - 22,000c
 Jester's Cane                     65,000c - 80,000c
 Clown Mask                        70,000c - 90,000c
 Dirt Block Hat                    5,000c - 7,000c
@@ -400,7 +400,7 @@ Holdable Easter Basket            25,000c - 35,000c
 Rabbit Glasses                    15,000c - 25,000c
 Rabbit Backpack                   20,000c - 30,000c
 Cubit Hat                         1,000c - 1,500c
-Cupid's Halo                      2,000,000c - 2,200,000c
+Cupid's Halo                      2,200,000c - 2,500,000c
 Cupid's Wings                     85,000c - 95,000c
 Valentine Wings                   30,000c - 35,000c
 Heart Wings                       3,000c - 4,000c
