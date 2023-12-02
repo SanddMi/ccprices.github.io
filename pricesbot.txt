@@ -329,7 +329,7 @@ Rabbit Head                       350c - 550c
 Frog Head                         350c - 550c
 Mushroom Hat                      25,000c - 30,000c
 Snail Backpack                    20,000c - 25,000c
-Ladybug Helmet                    2,000c - 2,500c
+Ladybug Helmet                    2,500c - 4,000c
 Ladybug Wings                     1,500c - 2,500c
 Caterpillar Hoodie                250c - 450c
 Caterpillar Knapsack              250c - 450c
