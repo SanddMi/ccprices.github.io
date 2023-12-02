@@ -508,7 +508,7 @@ Yellow Bikini Bottoms             1,500c - 2,000c
 Fishing Rod                       12,500c - 15,000c
 Grilling Tongs                    10,000c - 15,000c
 Ranger Hat                        8,000c - 10,000c
-Fishing Hat                       3,500c - 4,500c
+Fishing Hat                       3,000c - 4,000c
 Fishing Vest                      4,000c - 5,000c
 Fishing Pants                     4,000c - 5,000c
 Leather Backpack                  4,000c - 5,000c
