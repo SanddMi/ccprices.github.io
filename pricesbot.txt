@@ -144,7 +144,7 @@ Shark Tail                        450c - 750c
 Elephant Ears                     300c - 450c
 Elephant Trunk                    250c - 350c
 Feelers                           150c - 250c
-Ladybug Shell                     2,500c - 4,000c
+Ladybug Shell                     100c - 200c
 Beetle Horn                       100c - 150c
 Beetle Shell                      100c - 150c
 Bear Ears                         200c - 350c
