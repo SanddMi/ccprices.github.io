@@ -968,7 +968,7 @@ Ice King Mask                     3,000c - 5,000c
 Eggie Bandana Mask                25,000c - 35,000c
 Bad Egg Shirt                     1,000c - 1,500c
 Pablo Smile Shirt                 3,000c - 5,000c
-Chicken Zombie Head               500c - 1,000c
+Chicken Zombie Head               700c - 1,500c
 Chicken Zombie Cap                500c - 1,000c
 Chicken Zombie Shirt              500c - 1,000c
 Chicken Zombie Pants              500c - 1,000c
