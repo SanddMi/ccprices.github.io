@@ -409,7 +409,7 @@ Heart BackPack                    1,000c - 1,500c
 Mouse BackPack                    350c - 550c
 Stuff Toy BackPack                200c - 300c
 Turtle BackPack                   250c - 450c
-White Wuvva Shirt                 1,000c - 1,500c
+White Wuvva Shirt                 1,500c - 2,000c
 Pink Wuvva Shirt                  1,000c - 1,500c
 Red Wuvva Shirt                   1,000c - 1,500c
 Half Heart Left                   50c - 100c
