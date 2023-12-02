@@ -504,7 +504,7 @@ Red Bikini Bottoms                1,500c - 2,000c
 Blue Tankini Top                  2,000c - 2,500c
 Blue Bikini Bottoms               2,000c - 3,000c
 Yellow Tankini Top                1,500c - 2,000c
-Yellow Bikini Bottoms             2,000c - 3,000c
+Yellow Bikini Bottoms             1,500c - 2,000c
 Fishing Rod                       12,500c - 15,000c
 Grilling Tongs                    10,000c - 15,000c
 Ranger Hat                        8,000c - 10,000c
