@@ -848,7 +848,7 @@ Sled Key                          45,000c - 55,000c
 Rocket Sled                       110,000c - 130,000c
 Christmas Key                     8,000c - 12,000c
 Rocket Key                        18,000c - 22,000c
-Golden Rocket Key                 30,000c - 35,000c
+Golden Rocket Key                 25,000c - 30,000c
 Fizzled Wand                      25c - 50c
 Harm Wand                         25c - 35c
 Knock Back Wand                   25c - 35c
