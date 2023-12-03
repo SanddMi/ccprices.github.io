@@ -673,7 +673,7 @@ Acorn Backpack                    150c - 300c
 Brown Suit                        1,500c - 2,000c
 Brown Pants                       1,500c - 2,000c
 Pilgrim Hat Bush                  250c - 350c
-Pilgrim's Hat                     250c - 350c
+Pilgrim's Hat                     350c - 550c
 Pilgrim's Coat                    5,000c - 7,000c
 Pilgrim Pants                     3,500c - 5,000c
 Pilgrim Bonnet                    2,500c - 4,500c
