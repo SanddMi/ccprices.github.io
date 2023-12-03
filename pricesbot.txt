@@ -675,7 +675,7 @@ Brown Pants                       1,500c - 2,000c
 Pilgrim Hat Bush                  250c - 350c
 Pilgrim's Hat                     350c - 550c
 Pilgrim's Coat                    4,000c - 6,000c
-Pilgrim Pants                     3,500c - 5,000c
+Pilgrim Pants                     3,000c - 4,000c
 Pilgrim Bonnet                    2,500c - 4,500c
 Pilgrim Skirt                     750c - 1,250c
 Turkey Beak                       150c - 250c
