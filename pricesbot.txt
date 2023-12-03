@@ -768,7 +768,7 @@ Gift BackPack 2                   5,000c - 6,000c
 Gift BackPack                     4,500c - 5,500c
 Santa                             3,500c - 4,500c
 Icy Wings                         750c - 1,250c
-Winter Umbrella                   22,500c - 27,500c
+Winter Umbrella                   25,000c - 30,000c
 Carry Cane                        350c - 650c
 Snowflake Staff                   500c - 1,000c
 Icy Pop                           200c - 350c
