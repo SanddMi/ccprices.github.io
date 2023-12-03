@@ -631,7 +631,7 @@ Dinosaur Hood                     3,000c - 4,000c
 Dinosaur Shirt                    1,500c - 2,500c
 Dinosaur Pants                    1,500c - 2,500c
 Dinosaur Tail                     1,500c - 2,500c
-Black Cat Hood                    1,000c - 1,500c
+Black Cat Hood                    1,500c - 2,500c
 Black Cat Shirt                   1,000c - 1,500c
 Black Cat Pants                   1,000c - 1,500c
 Black Cat Tail                    750c - 1,250c
