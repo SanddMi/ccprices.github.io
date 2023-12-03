@@ -580,7 +580,7 @@ Alien Mask                        18,000c - 25,000c
 Dark Visitor                      10,000c - 12,500c
 Black Plague Doctor               4,500c - 6,500c
 Grey Plague Doctor                4,500c - 6,500c
-Plague Doctor                     400c - 600c
+Plague Doctor                     500c - 1,000c
 Psychic Revalation Cap            1,500c - 2,500c
 Psychic Repulsion Cap             1,500c - 2,500c
 Sub-Vampire Outfit                5,000c - 7,500c
