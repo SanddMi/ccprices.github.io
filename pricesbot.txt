@@ -814,7 +814,7 @@ Firework Backpack                 45,000c - 55,000c
 Premium 2019 New Year's Hat       10,000c - 15,000c
 StrawBerry CakeHat                1,000c - 2,000c
 Vanilla CakeHat                   3,000c - 4,000c
-Chocolate CakeHat                 4,000c - 5,000c
+Chocolate CakeHat                 2,000c - 3,000c
 Firework Glasses                  200c - 300c
 Pin Wheel                         300c - 500c
 Cube Balloon                      1,500c - 2,500c
