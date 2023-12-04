@@ -135,7 +135,7 @@ Lion Fur                          3,000c - 4,000c
 Lion Tail                         150c - 200c
 Chicken Comb                      750c - 1,250c
 Chicken Beak                      500c - 1,000c
-Panda Ears                        800c - 1,000c
+Panda Ears                        750c - 1,250c
 Panda Eyes                        600c - 800c
 Peacock Crest                     350c - 550c
 Peacock Tail                      750c - 1,250c
