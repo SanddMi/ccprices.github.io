@@ -156,7 +156,7 @@ Bird Beak                         150c - 250c
 Rooster Tail                      150c - 300c
 Parrot Tail                       100c - 200c
 Bluejay Tail                      100c - 200c
-Beaver Tail                       75c - 150c
+Beaver Tail                       100c - 150c
 Croc Tail                         100c - 200c
 Squirrel Tail                     100c - 200c
 Bee Stripes                       100c - 200c
