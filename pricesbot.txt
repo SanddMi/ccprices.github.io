@@ -17,7 +17,7 @@ Knight's Helmet                   350c - 550c
 Welding Mask                      150c - 250c
 Chief Hat                         150c - 250c
 Brave Hat                         100c - 200c
-Chef's Hat                        250c - 350c
+Chef's Hat                        150c - 300c
 Crown                             100c - 150c
 Dunce Cap                         100c - 150c
 Princess Cap                      75c - 125c
