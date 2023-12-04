@@ -563,7 +563,7 @@ Wizard's Wand                     150c - 300c
 Nature's Staff                    150c - 350c
 Witch's Broom                     50c - 200c
 Head Vampire Outfit               450,000c - 500,000c
-Vampire's Cloak                   6,000c - 8,000c
+Vampire's Cloak                   7,000c - 9,000c
 Headlessness                      950,000c - 1,000,000c
 Ghost Costume                     560,000c - 620,000c
 Slyme Costume                     180,000c - 200,000c
