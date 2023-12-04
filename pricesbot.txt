@@ -140,7 +140,7 @@ Panda Eyes                        550c - 750c
 Peacock Crest                     300c - 450c
 Peacock Tail                      550c - 850c
 Shark Fin                         150c - 250c
-Shark Tail                        450c - 750c
+Shark Tail                        350c - 550c
 Elephant Ears                     300c - 450c
 Elephant Trunk                    250c - 350c
 Feelers                           100c - 150c
