@@ -259,7 +259,7 @@ Torch                             2,500c - 3,500c
 Walking Stick                     2,000c - 3,000c
 Fishmaster Rod                    7,500c - 8,500c
 Expert Rod                        3,000c - 4,000c
-Superior Rod                      1,500c - 2,000c
+Superior Rod                      1,250c - 1,750c
 Simple Rod                        150c - 250c
 Fishing Cap                       6,000c - 7,500c
 Yellow Fishing Hat                4,000c - 5,000c
