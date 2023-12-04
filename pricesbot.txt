@@ -158,7 +158,7 @@ Parrot Tail                       150c - 250c
 Bluejay Tail                      100c - 200c
 Beaver Tail                       75c - 150c
 Croc Tail                         100c - 200c
-Squirrel Tail                     75c - 150c
+Squirrel Tail                     100c - 200c
 Bee Stripes                       100c - 200c
 Eyepatch                          6,000c - 7,000c
 Bandit Mask                       200c - 300c
