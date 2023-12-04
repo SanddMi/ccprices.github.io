@@ -285,7 +285,7 @@ Black Pawn Head                   150c - 250c
 Fool's Cap                        25,000c - 35,000c
 Lesser Fool's Cap                 17,500c - 22,500c
 Least Fool's Cap                  7,000c - 10,000c
-Motley Shirt                      250,000c - 300,000c
+Motley Shirt                      275,000c - 325,000c
 Motley Pants                      300,000c - 350,000c
 Jester Pack                       15,000c - 22,000c
 Jester's Cane                     75,000c - 85,000c
