@@ -129,7 +129,7 @@ Racoon Ears                       200c - 350c
 Racoon Tail                       150c - 250c
 Imp Horns                         100c - 200c
 Imp Tail                          100c - 200c
-Dragon Horns                      500c - 750c
+Dragon Horns                      350c - 550c
 Dragon Tail                       250c - 450c
 Lion Fur                          750c - 1,250c
 Lion Tail                         150c - 250c
