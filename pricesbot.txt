@@ -136,7 +136,7 @@ Lion Tail                         150c - 200c
 Chicken Comb                      750c - 1,250c
 Chicken Beak                      500c - 1,000c
 Panda Ears                        750c - 1,250c
-Panda Eyes                        600c - 800c
+Panda Eyes                        550c - 750c
 Peacock Crest                     350c - 550c
 Peacock Tail                      750c - 1,250c
 Shark Fin                         150c - 300c
