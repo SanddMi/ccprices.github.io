@@ -26,7 +26,7 @@ Hard Hat                          75c - 125c
 Press Hat                         3,500c - 4,500c
 Tricorn Hat                       3,500c - 4,500c
 Diving Helmet                     2,000c - 3,000c
-Gas Mask                          2,500c - 3,000c
+Gas Mask                          2,000c - 2,500c
 Bucket Head                       2,000c - 2,500c
 Fez                               1,000c - 1,500c
 High Hat                          800c - 1,250c
