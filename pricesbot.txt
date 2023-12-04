@@ -566,7 +566,7 @@ Head Vampire Outfit               450,000c - 500,000c
 Vampire's Cloak                   7,000c - 9,000c
 Headlessness                      950,000c - 1,000,000c
 Ghost Costume                     580,000c - 620,000c
-Slyme Costume                     180,000c - 200,000c
+Slyme Costume                     180,000c - 210,000c
 Dino Head                         225,000c - 250,000c
 Monster Head                      180,000c - 210,000c
 Shark Head                        110,000c - 130,000c
