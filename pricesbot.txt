@@ -213,7 +213,7 @@ Tall Grey Chef Cap                50c - 100c
 Short Grey Chef Cap               50c - 100c
 Tall Red Chef Cap                 50c - 100c
 Short Red Chef Cap                50c - 100c
-Trident                           3,000c - 4,000c
+Trident                           2,000c - 3,000c
 Seaweed on Head                   450c - 750c
 Seaweed Suit                      750c - 1,000c
 Seaweed Pants                     750c - 1,000c
@@ -236,7 +236,7 @@ Modern Astronaut Helmet           200c - 300c
 Sci-Fi Astronaut Helmet           200c - 300c
 Moonar Jacket                     350c - 450c
 Moonar Pants                      250c - 450c
-Moonar                            300c - 400c
+Moonar Pack                       300c - 400c
 Sci-Fi O2 Tank                    300c - 400c
 SteamPunk Goggles                 350c - 450c
 SteamPunk Goggles 2               350c - 450c
@@ -244,7 +244,7 @@ SteamPunk Umbrella                2,000c - 3,000c
 Clockwerk Hat                     450c - 750c
 SteamPunk Top                     1,500c - 2,000c
 SteamPunk Pants                   1,000c - 1,500c
-Portable Generator                250c - 450c
+Portable Generator Pack           250c - 450c
 Brown Explorer Hat                750c - 1,250c
 Brown Explorer Backpack           2,500c - 3,500c
 Brown Explorer Top                2,000c - 2,500c
