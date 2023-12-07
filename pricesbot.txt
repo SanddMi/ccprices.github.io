@@ -1005,7 +1005,7 @@ Level 0 Mutant Wuvva Pig Kennel   1,000c - 1,500c
 Level 49 Mutant Wuvva Pig Kennel  6,000c - 8,000c
 Level 0 Ostrich Pit               300,000c - 400,000c
 Level 49 Ostrich Pit              300,000c - 400,000c
-Level 0 Kangaroo Kennel           170,000c - 190,000c
+Level 0 Kangaroo Kennel           200,000c - 250,000c
 Level 49 Kangaroo Kennel          165,000c - 185,000c
 Level 0 Turkey Kennel             25,000c - 30,000c
 Level 49 Turkey Kennel            30,000c - 35,000c
