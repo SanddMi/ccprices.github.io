@@ -801,7 +801,7 @@ Peppermint Shirt                  1,500c - 2,000c
 Peppermint Umbrella               1,500c - 3,000c
 Snowman Balloon                   1,500c - 2,500c
 Snowflake Umbrella                1,500c - 2,500c
-Cup of Cocoa                      8,000c - 12,000c
+Cup of Cocoa                      8,000c - 10,000c
 Yellow Party Hat                  500c - 1,000c
 Blue Party Hat                    1,250c - 1,750c
 Purple Party Hat                  3,000c - 4,000c
