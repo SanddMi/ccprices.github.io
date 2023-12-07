@@ -576,7 +576,7 @@ Twobee Head                       7,000c - 10,000c
 Beakbee Head                      5,000c - 8,000c
 Toothbee Head                     5,000c - 8,000c
 Cyclobee Head                     5,000c - 8,000c
-Alien Mask                        18,000c - 25,000c
+Alien Mask                        17,500c - 22,500c
 Dark Visitor                      10,000c - 12,500c
 Black Plague Doctor               4,500c - 6,500c
 Grey Plague Doctor                4,500c - 6,500c
