@@ -798,7 +798,7 @@ Penguin Shirt                     1,000c - 2,000c
 Penguin Pants                     1,000c - 2,000c
 Peppermint Hat                    1,000c - 1,500c
 Peppermint Shirt                  1,500c - 2,000c
-Peppermint Umbrella               1,500c - 3,000c
+Peppermint Umbrella               750c - 1,500c
 Snowman Balloon                   1,500c - 2,500c
 Snowflake Umbrella                1,500c - 2,500c
 Cup of Cocoa                      8,000c - 10,000c
