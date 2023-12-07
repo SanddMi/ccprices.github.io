@@ -795,7 +795,7 @@ Mistletoe Lure                    150c - 250c
 Holly Crown                       200c - 350c
 Penguin Hood                      1,000c - 2,000c
 Penguin Shirt                     1,000c - 2,000c
-Penguin Pants                     2,500c - 5,000c
+Penguin Pants                     1,000c - 2,000c
 Peppermint Hat                    1,000c - 1,500c
 Peppermint Shirt                  1,500c - 2,000c
 Peppermint Umbrella               1,500c - 3,000c
