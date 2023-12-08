@@ -289,7 +289,7 @@ Motley Shirt                      275,000c - 325,000c
 Motley Pants                      300,000c - 350,000c
 Jester Pack                       30,000c - 40,000c
 Jester's Cane                     75,000c - 85,000c
-Clown Mask                        70,000c - 80,000c
+Clown Mask                        65,000c - 75,000c
 Dirt Block Hat                    5,000c - 7,000c
 Banana Split Hat                  17,500c - 25,000c
 Beaglepuss                        6,000c - 8,000c
