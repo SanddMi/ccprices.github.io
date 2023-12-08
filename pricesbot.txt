@@ -771,7 +771,7 @@ Icy Wings                         500c - 1,000c
 Winter Umbrella                   25,000c - 30,000c
 Carry Cane                        350c - 650c
 Snowflake Staff                   300c - 550c
-Icy Pop                           200c - 350c
+Icy Pop                           125c - 250c
 Ice Pop 2                         125c - 250c
 Blue Ski Goggles                  150c - 250c
 Red Ski Goggles                   150c - 250c
