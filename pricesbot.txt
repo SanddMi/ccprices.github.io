@@ -511,7 +511,7 @@ Ranger Hat                        10,000c - 15,000c
 Fishing Hat                       3,000c - 4,000c
 Fishing Vest                      4,000c - 5,000c
 Fishing Pants                     4,000c - 5,000c
-Leather Backpack                  4,000c - 5,000c
+Leather Backpack                  7,500c - 12,500c
 Camo Backpack                     4,000c - 5,000c
 Blue Backpack                     17,500c - 22,500c
 Devil's Halo                      55,000c - 60,000c
