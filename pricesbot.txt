@@ -747,7 +747,7 @@ Elf Cap                           150c - 200c
 Elf Hat                           150c - 250c
 Elf Shirt                         150c - 250c
 Elf Pants                         150c - 300c
-Santa Hat                         150c - 250c
+Santa Hat                         100c - 200c
 Santa Beard                       350c - 550c
 Santa Shirt                       100c - 200c
 Santa Pants                       100c - 200c
