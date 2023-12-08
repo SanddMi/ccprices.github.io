@@ -376,7 +376,7 @@ Egg Head                          4,000c - 6,000c
 Blue Rabbit Hood                  750c - 1,500c
 Blue Rabbit Shirt                 750c - 1,250c
 Blue Rabbit Pants                 750c - 1,250c
-Floral Hat                        10,000c - 15,000c
+Floral Hat                        10,000c - 12,500c
 Floral Shirt                      10,000c - 15,000c
 Floral Pants                      10,000c - 15,000c
 Rainbow Hat                       2,500c - 3,500c
