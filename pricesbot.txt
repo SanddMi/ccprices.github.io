@@ -796,7 +796,7 @@ Holly Crown                       200c - 350c
 Penguin Hood                      750c - 1,500c
 Penguin Shirt                     750c - 1,500c
 Penguin Pants                     750c - 1,500c
-Peppermint Hat                    750c - 1,250c
+Peppermint Hat                    500c - 1,000c
 Peppermint Shirt                  750c - 1,250c
 Peppermint Umbrella               750c - 1,500c
 Snowman Balloon                   1,000c - 1,500c
