@@ -391,7 +391,7 @@ Chick Pants                       1,000c - 1,500c
 Bunny Umbrella                    15,000c - 20,000c
 Easter Staff                      17,000c - 25,000c
 Rainbow Halo                      200,000c - 230,000c
-Rainbow Glasses                   25,000c - 35,000c
+Rainbow Glasses                   40,000c - 50,000c
 Easter Sweater                    17,500c - 22,500c
 Rainbow Backpack                  55,000c - 65,000c
 Carrot Headphones                 25,000c - 35,000c
