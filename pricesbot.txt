@@ -782,7 +782,7 @@ Yeti Head                         60,000c - 70,000c
 Reindeer Cap                      150c - 250c
 Antlers                           100c - 200c
 Shiny Nose                        6,000c - 8,000c
-Carrot Nose                       150c - 250c
+Carrot Nose                       100c - 200c
 Winter Knit Cap                   150c - 250c
 Winter Cap                        100c - 200c
 Snow Cap                          100c - 150c
