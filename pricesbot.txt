@@ -779,7 +779,7 @@ Blue Ski Mask                     150c - 250c
 Red Ski Mask                      150c - 250c
 Christmas Grouch                  4,000c - 7,000c
 Yeti Head                         60,000c - 70,000c
-Reindeer Cap                      150c - 250c
+Reindeer Cap                      100c - 200c
 Antlers                           100c - 200c
 Shiny Nose                        6,000c - 8,000c
 Carrot Nose                       100c - 200c
