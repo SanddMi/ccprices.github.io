@@ -307,7 +307,7 @@ Red Balloon                       75,000c - 85,000c
 RoboZilla Head                    8,000c - 12,000c
 Easter Umbrella                   1,100,000c - 1,200,000c
 Umbrella                          90,000c - 100,000c
-New Easter Umbrella               12,000c - 16,000c
+New Easter Umbrella               12,500c - 17,500c
 Red Cherry Blossom Umbrella       4,000c - 6,000c
 Pink Cherry Blossom Umbrella      4,000c - 6,000c
 Red Traditional Umbrella          55,000c - 65,000c
