@@ -743,7 +743,7 @@ Doll Wig                          150c - 250c
 Doll Shirt                        150c - 250c
 Doll Dress                        150c - 250c
 Fancy Elf Hat                     100c - 200c
-Elf Cap                           150c - 200c
+Elf Cap                           100c - 150c
 Elf Hat                           150c - 250c
 Elf Shirt                         150c - 250c
 Elf Pants                         150c - 300c
