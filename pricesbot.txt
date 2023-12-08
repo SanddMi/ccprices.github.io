@@ -718,7 +718,7 @@ Hiker's Backpack                  1,500c - 2,000c
 Maple Umbrella                    1,000c - 1,500c
 Hatchet                           1,500c - 2,000c
 Mr. Christmas Costume             140,000c - 170,000c
-Snowman Costume                   25,000c - 30,000c
+Snowman Costume                   30,000c - 40,000c
 Christmas Giftbox Costume         1,500c - 2,500c
 Krampus Mask                      1,000,000c - 1,100,000c
 Krampus Mask 2018                 35,000c - 45,000c
