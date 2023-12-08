@@ -521,7 +521,7 @@ Yellow Angel Wings                1,500c - 2,000c
 Green Angel Wings                 1,500c - 2,500c
 Cyan Angel Wings                  4,000c - 5,000c
 Blue Angel Wings                  1,500c - 2,500c
-Violet Angel Wings                2,000c - 2,500c
+Violet Angel Wings                2,000c - 3,000c
 Pink Angel Wings                  6,000c - 8,000c
 Double Sword Back                 1,000c - 1,500c
 Black Beard                       500c - 1,000c
@@ -771,7 +771,7 @@ Icy Wings                         500c - 1,000c
 Winter Umbrella                   30,000c - 35,000c
 Carry Cane                        250c - 450c
 Snowflake Staff                   300c - 550c
-Icy Pop                           125c - 250c
+Ice Pop                           125c - 250c
 Ice Pop 2                         125c - 250c
 Blue Ski Goggles                  150c - 250c
 Red Ski Goggles                   150c - 250c
