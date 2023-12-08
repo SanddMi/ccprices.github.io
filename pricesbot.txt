@@ -691,7 +691,7 @@ Blue Football Helmet              350c - 550c
 Red Football Helmet               350c - 550c
 Green Deluxe Hunting Net          1,250c - 1,750c
 Autumn Hat                        2,500c - 4,000c
-Autumn Hawaiian                   7,500c - 15,000c
+Autumn Hawaiian                   7,500c - 12,500c
 Boy Scout Cap                     1,000c - 1,500c
 Boy Scout Shirt                   1,000c - 1,500c
 Boy Scout Pants                   1,000c - 1,500c
