@@ -805,6 +805,7 @@ Cup of Cocoa                      8,000c - 10,000c
 Nutcracker Head                   25,000c - 35,000c
 Artcic Fox Hood                   1,500c - 2,000c
 Arctic Fox Shirt                  1,500c - 2,000c
+Arctic Fox Pants                  1,500c - 2,000c
 Yellow Party Hat                  500c - 1,000c
 Blue Party Hat                    1,250c - 1,750c
 Purple Party Hat                  3,000c - 4,000c
