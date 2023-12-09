@@ -572,7 +572,7 @@ Monster Head                      180,000c - 210,000c
 Shark Head                        110,000c - 130,000c
 Werewolf Head                     60,000c - 70,000c
 Pyramid Head                      20,000c - 30,000c
-Twobee Head                       7,000c - 10,000c
+Twobee Head                       7,000c - 9,000c
 Beakbee Head                      5,000c - 8,000c
 Toothbee Head                     5,000c - 8,000c
 Cyclobee Head                     5,000c - 8,000c
