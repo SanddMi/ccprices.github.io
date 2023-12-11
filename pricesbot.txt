@@ -826,7 +826,7 @@ StrawBerry CakeHat                1,500c - 2,000c
 Vanilla CakeHat                   1,500c - 2,500c
 Chocolate CakeHat                 2,000c - 3,000c
 Firework Glasses                  200c - 300c
-Pin Wheel                         300c - 500c
+Pin Wheel                         500c - 1,000c
 Cube Balloon                      1,500c - 2,500c
 Slymegood Head                    150c - 250c
 Slyme Safety Helmet 02            2,000c - 2,500c
