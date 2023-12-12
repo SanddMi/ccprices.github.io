@@ -807,7 +807,7 @@ Nutcracker Head                   35,000c - 45,000c
 Coonskin Cap                      1,000c - 1,500c
 Gift Ribbon Mask                  2,000c - 2,500c
 Artcic Fox Hood                   3,500c - 5,500c
-Arctic Fox Shirt                  1,500c - 2,000c
+Arctic Fox Shirt                  3,500c - 5,500c
 Arctic Fox Pants                  1,500c - 2,000c
 Arctic Fox Tail                   1,500c - 2,000c
 Candy Cane Wings                  2,000c - 3,000c
