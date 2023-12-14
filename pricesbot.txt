@@ -550,7 +550,7 @@ Blue Viking Helmet                1,000c - 2,000c
 Anime Pigtail Hairstyle           450c - 750c
 Princess Tiara                    350c - 550c
 Tincan Helmet                     250c - 450c
-Scythe                            600,000c - 625,000c
+Scythe                            570,000c - 610,000c
 Skull Balloon                     35,000c - 40,000c
 Spiderbrella                      800c - 1,500c
 Pumpkin Balloon                   1,750c - 2,500c
