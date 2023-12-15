@@ -29,7 +29,7 @@ Diving Helmet                     2,000c - 3,000c
 Gas Mask                          2,000c - 2,500c
 BucketHead                        2,000c - 2,500c
 Fez                               1,250c - 1,750c
-High Hat                          800c - 1,250c
+High Hat                          750c - 1,250c
 Leprechaun Cap                    500c - 750c
 Bomber Hat                        750c - 1,250c
 Roman Helmet                      2,000c - 2,500c
