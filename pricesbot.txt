@@ -148,7 +148,7 @@ Ladybug Shell                     100c - 150c
 Beetle Horn                       100c - 150c
 Beetle Shell                      100c - 150c
 Bear Ears                         200c - 350c
-Ram Horns                         600c - 1,000c
+Ram Horns                         550c - 850c
 Unicorn Horn                      150c - 250c
 Bull Horns                        100c - 200c
 Rhino Horn                        100c - 150c
