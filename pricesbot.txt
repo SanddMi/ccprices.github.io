@@ -47,7 +47,7 @@ Red Wizard's Hat                  700c - 1,000c
 Wizard Hat                        350c - 550c
 Shako                             50c - 100c
 Bowler                            100c - 200c
-Balmoral Bonnet                   35c - 75c
+Balmoral Bonnet                   50c - 100c
 Pirate Hat                        100c - 150c
 Sheik Hat                         150c - 250c
 Turban                            150c - 200c
