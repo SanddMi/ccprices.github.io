@@ -155,7 +155,7 @@ Rhino Horn                        100c - 200c
 Bird Beak                         150c - 250c
 Rooster Tail                      150c - 250c
 Parrot Tail                       100c - 200c
-Bluejay Tail                      100c - 200c
+Bluejay Tail                      75c - 150c
 Beaver Tail                       75c - 150c
 Croc Tail                         100c - 200c
 Squirrel Tail                     100c - 200c
