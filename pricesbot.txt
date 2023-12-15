@@ -143,7 +143,7 @@ Shark Fin                         150c - 250c
 Shark Tail                        350c - 550c
 Elephant Ears                     300c - 450c
 Elephant Trunk                    250c - 350c
-Feelers                           100c - 150c
+Feelers                           100c - 200c
 Ladybug Shell                     100c - 150c
 Beetle Horn                       100c - 150c
 Beetle Shell                      100c - 150c
