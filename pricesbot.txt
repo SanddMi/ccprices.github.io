@@ -157,7 +157,7 @@ Rooster Tail                      150c - 250c
 Parrot Tail                       100c - 200c
 Bluejay Tail                      75c - 150c
 Beaver Tail                       75c - 150c
-Croc Tail                         100c - 200c
+Croc Tail                         75c - 150c
 Squirrel Tail                     100c - 200c
 Bee Stripes                       100c - 200c
 Eyepatch                          6,000c - 7,000c
