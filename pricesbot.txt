@@ -65,7 +65,7 @@ Princess Hair                     1,000c - 1,500c
 Powdered Magisterial Wig          350c - 550c
 Powdered Grande Dame Wig          200c - 300c
 Powdered Ducal Wig                150c - 250c
-Powdered Aristocrat Wig           100c - 200c
+Powdered Aristocrat Wig           100c - 150c
 Blonde Magisterial Wig            250c - 450c
 Blonde Grande Dame Wig            300c - 400c
 Blonde Ducal Wig                  200c - 300c
