@@ -820,7 +820,7 @@ Tall Party Hat                    2,500c - 3,500c
 Yellow Orange Party Trumpet       1,000c - 1,500c
 Blue Green Party Trumpet          1,000c - 1,500c
 Red Purple Party Trumpet          1,000c - 1,500c
-Firework Backpack                 35,000c - 45,000c
+Firework Backpack                 30,000c - 40,000c
 Premium 2019 New Year's Hat       10,000c - 15,000c
 StrawBerry CakeHat                1,500c - 2,000c
 Vanilla CakeHat                   1,500c - 2,500c
