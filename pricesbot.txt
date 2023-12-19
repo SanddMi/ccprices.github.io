@@ -468,7 +468,7 @@ Red Tuxedo Top                    10,000c - 15,000c
 Red Tuxedo Pants                  10,000c - 15,000c
 Red Dress Top                     1,000c - 2,000c
 Red Dress                         1,000c - 2,000c
-Heart Umbrella                    10,000c - 15,000c
+Heart Umbrella                    8,000c - 13,000c
 Cupid Bow                         1,250c - 1,750c
 Cupid Wig                         350c - 550c
 Cupid Wings 2                     1,500c - 2,000c
