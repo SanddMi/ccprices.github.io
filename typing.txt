@@ -2897,3 +2897,4 @@ They found the price from Cubic Bot
 [19/12/2023] c2c0222 found the price of Zombie Head
 [19/12/2023] c2c0222 found the price of Purple Scuba Hood
 [19/12/2023] c2c0222 found the price of Blue Scuba Pants
+[19/12/2023] c2c0222 found the price of Blue Scuba Mask
