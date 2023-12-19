@@ -588,7 +588,7 @@ Frankenstein Head                 1,500c - 2,500c
 Pumpkin Head                      500c - 1,000c
 Robot Head                        750c - 1,500c
 Skull Head                        1,000c - 1,750c
-Dragon Head                       5,000c - 8,000c
+Dragon Head                       4,000c - 6,000c
 Goblin Head                       300c - 500c
 Mouth Head                        500c - 1,000c
 Mad Scientist Wig                 500c - 1,000c
