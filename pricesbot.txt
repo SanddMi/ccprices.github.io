@@ -553,7 +553,7 @@ Tincan Helmet                     250c - 450c
 Scythe                            570,000c - 610,000c
 Skull Balloon                     35,000c - 40,000c
 Spiderbrella                      800c - 1,500c
-Pumpkin Balloon                   1,750c - 2,500c
+Pumpkin Balloon                   1,000c - 1,500c
 Jack-O-Brella                     1,250c - 1,750c
 Trick or Treat Bag                1,000c - 1,500c
 Pumpkin Pack                      85,000c - 100,000c
