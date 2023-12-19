@@ -291,7 +291,7 @@ Jester Pack                       20,000c - 28,000c
 Jester's Cane                     65,000c - 75,000c
 Clown Mask                        60,000c - 70,000c
 Dirt Block Hat                    6,000c - 8,000c
-Banana Split Hat                  15,000c - 22,000c
+Banana Split Hat                  10,000c - 15,000c
 Beaglepuss                        6,000c - 8,000c
 Hipno Shadez                      25,000c - 35,000c
 Hipno Shades                      6,000c - 10,000c
