@@ -626,7 +626,7 @@ Killer Mask                       250c - 450c
 Ninja Mask                        750c - 1,250c
 Katanda on Back                   2,000c - 3,000c
 Ninja Shirt                       1,000c - 1,500c
-Ninja Pants                       2,000c - 2,500c
+Ninja Pants                       1,000c - 1,500c
 Dinosaur Hood                     5,000c - 8,000c
 Dinosaur Shirt                    1,500c - 2,500c
 Dinosaur Pants                    1,500c - 2,500c
