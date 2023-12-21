@@ -119,3 +119,4 @@ They found the price from Cubic Bot
 [21/12/2023] .sandd found the price of Level 0 Dog Kennel
 [21/12/2023] .sandd found the price of Icefish
 [21/12/2023] .sandd found the price of Dirt
+[21/12/2023] .sandd found the price of Dirt Block Hat
