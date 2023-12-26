@@ -536,7 +536,7 @@ Jail Prisoner's Hat               250c - 450c
 Jail Prisoner's Shirt             500c - 1,000c
 Jail Prisoner's Pants             1,500c - 2,000c
 Safari Shirt                      1,500c - 2,000c
-Safari Pants                      2,500c - 3,500c
+Safari Pants                      2,000c - 2,500c
 Safety Vest                       1,000c - 2,000c
 Watermelon Hat                    500c - 750c
 Pineapple Hat                     350c - 650c
