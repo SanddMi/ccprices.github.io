@@ -418,7 +418,7 @@ Yellow Princess Top               150c - 250c
 Yellow Princess Dress             150c - 250c
 Green Princess Top                150c - 250c
 Green Princess Dress              150c - 250c
-Queen's Crown                     5,000c - 7,500c
+Queen's Crown                     4,000c - 6,000c
 King's Crown                      250c - 350c
 Panda Hat                         17,500c - 22,500c
 Alien Hat                         100c - 200c
