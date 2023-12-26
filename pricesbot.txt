@@ -522,7 +522,7 @@ Green Angel Wings                 2,000c - 3,000c
 Cyan Angel Wings                  4,000c - 5,000c
 Blue Angel Wings                  2,000c - 3,000c
 Violet Angel Wings                2,000c - 3,000c
-Pink Angel Wings                  6,000c - 8,000c
+Pink Angel Wings                  4,000c - 5,000c
 Double Sword Back                 1,000c - 1,500c
 Black Beard                       500c - 1,000c
 Walking Cane                      3,500c - 4,500c
