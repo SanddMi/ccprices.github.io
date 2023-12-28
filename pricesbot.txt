@@ -983,6 +983,7 @@ Chicken Zombie Cap                700c - 1,500c
 Chicken Zombie Shirt              700c - 1,500c
 Chicken Zombie Pants              700c - 1,500c
 Golden Easter Egg                 1,000,000c - 1,500,000c
+Diamond Ring                      180,000c - 220,000c
 Level 0 Ram Kennel                5,000,000c - 5,500,000c
 Level 49 Ram Kennel               4,500,000c - 5,000,000c
 Level 0 Dragon Lair               20,000c - 25,000c
