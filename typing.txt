@@ -4103,3 +4103,4 @@ They found the price from Cubic Bot
 [28/12/2023] c2c0222 found the price of Level 0 Elf Hut
 [28/12/2023] c2c0222 found the price of Level 49 Elf Hut
 [28/12/2023] c2c0222 found the price of Level 0 Dragon Lair
+[28/12/2023] c2c0222 found the price of Level 49 Dragon Lair
