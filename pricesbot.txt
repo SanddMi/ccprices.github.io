@@ -806,7 +806,7 @@ Holly Top Hat                     1,500c - 2,000c
 Nutcracker Head                   55,000c - 65,000c
 Coonskin Cap                      1,000c - 1,500c
 Gift Ribbon Mask                  1,500c - 2,000c
-Artcic Fox Hood                   2,500c - 3,500c
+Artcic Fox Hood                   1,500c - 2,500c
 Arctic Fox Shirt                  2,500c - 3,500c
 Arctic Fox Pants                  2,500c - 3,500c
 Arctic Fox Tail                   2,500c - 3,500c
