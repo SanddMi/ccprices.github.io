@@ -732,7 +732,7 @@ Ice Pants                         250c - 450c
 Snow Qbee Head                    350c - 550c
 Snow Qbee Top                     350c - 550c
 Snow Qbee Pants                   350c - 550c
-Gingerbread Head                  4,000c - 7,000c
+Gingerbread Head                  7,000c - 9,000c
 Gingerbread Shirt                 150c - 250c
 Gingerbread Pants                 150c - 250c
 Toy Soldier Gun                   1,000c - 1,500c
