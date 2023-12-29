@@ -1031,7 +1031,7 @@ Level 0 Penguin Pad               15,000c - 20,000c
 Level 49 Penguin Pad              22,500c - 27,500c
 Level 0 Husky Kennel              12,500c - 15,000c
 Level 49 Husky Kennel             20,000c - 25,000c
-Level 0 Mini Grouch Kennel        5,000c - 7,500c
+Level 0 Mini Grouch Kennel        3,500c - 5,500c
 Level 49 Mini Grouch Kennel       12,500c - 15,000c
 Level 0 Mini Krampus Kennel       3,000c - 4,000c
 Level 49 Mini Krampus Kennel      10,000c - 12,500c
