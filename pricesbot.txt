@@ -389,7 +389,7 @@ Chick Head                        1,250c - 1,750c
 Chick Shirt                       1,000c - 1,500c
 Chick Pants                       1,000c - 1,500c
 Bunny Umbrella                    10,000c - 15,000c
-Easter Staff                      17,000c - 25,000c
+Easter Staff                      25,000c - 35,000c
 Rainbow Halo                      200,000c - 230,000c
 Rainbow Glasses                   30,000c - 40,000c
 Easter Sweater                    17,500c - 22,500c
@@ -429,7 +429,7 @@ Heart Beads                       150c - 250c
 Romantic Flower                   150c - 250c
 Heart Ears                        100c - 200c
 Heart Tail                        100c - 200c
-Love Balloon                      400,000c - 450,000c
+Love Balloon                      450,000c - 500,000c
 Pink Balloon                      3,500c - 4,500c
 Wuvva Umbrella                    1,500c - 2,000c
 Take This Flower                  1,000c - 1,500c
@@ -570,7 +570,7 @@ Slyme Costume                     180,000c - 210,000c
 Dino Head                         225,000c - 250,000c
 Monster Head                      180,000c - 210,000c
 Shark Head                        110,000c - 130,000c
-Werewolf Head                     60,000c - 70,000c
+Werewolf Head                     58,000c - 68,000c
 Pyramid Head                      20,000c - 30,000c
 Twobee Head                       7,000c - 9,000c
 Beakbee Head                      5,000c - 8,000c
@@ -803,7 +803,7 @@ Snowman Balloon                   1,000c - 1,500c
 Snowflake Umbrella                1,500c - 2,000c
 Cup of Cocoa                      8,000c - 12,000c
 Holly Top Hat                     1,500c - 2,000c
-Nutcracker Head                   55,000c - 65,000c
+Nutcracker Head                   40,000c - 50,000c
 Coonskin Cap                      1,000c - 1,500c
 Gift Ribbon Mask                  1,500c - 2,000c
 Artcic Fox Hood                   1,500c - 2,500c
@@ -828,6 +828,9 @@ Chocolate CakeHat                 2,000c - 3,000c
 Firework Glasses                  200c - 300c
 Pin Wheel                         500c - 1,000c
 Cube Balloon                      1,500c - 2,500c
+2024 Premium Cap                  600c - 1,200c
+Firework 2024 Hat                 600c - 1,200c
+2024 Celebration Hat              600c - 1,200c
 Slymegood Head                    150c - 250c
 Slyme Safety Helmet 02            2,000c - 2,500c
 Slyme Safety Helmet 01            2,000c - 2,500c
