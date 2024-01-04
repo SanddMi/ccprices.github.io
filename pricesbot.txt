@@ -826,7 +826,7 @@ StrawBerry CakeHat                1,500c - 2,000c
 Vanilla CakeHat                   1,500c - 2,500c
 Chocolate CakeHat                 2,000c - 3,000c
 Firework Glasses                  200c - 300c
-Pin Wheel                         500c - 1,000c
+Pin Wheel                         250c - 450c
 Cube Balloon                      1,500c - 2,500c
 2024 Premium Cap                  600c - 1,200c
 Firework 2024 Hat                 600c - 1,200c
