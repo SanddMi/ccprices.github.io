@@ -816,7 +816,7 @@ Yellow Party Hat                  500c - 1,000c
 Blue Party Hat                    1,250c - 1,750c
 Purple Party Hat                  3,000c - 4,000c
 Short Party Hat                   750c - 1,250c
-Tall Party Hat                    2,500c - 3,500c
+Tall Party Hat                    2,000c - 3,000c
 Yellow Orange Party Trumpet       1,000c - 1,500c
 Blue Green Party Trumpet          1,000c - 1,500c
 Red Purple Party Trumpet          1,000c - 1,500c
