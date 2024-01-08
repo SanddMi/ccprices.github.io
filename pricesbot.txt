@@ -726,7 +726,7 @@ Cheap fake Krampus                10,000c - 13,000c
 Krampus Mask 2020                 3,500c - 5,000c
 Krampus Shirt                     1,000c - 1,500c
 Krampus Pants                     1,000c - 1,500c
-Ice Head                          170,000c - 200,000c
+Ice Head                          150,000c - 180,000c
 Ice Shirt                         250c - 450c
 Ice Pants                         250c - 450c
 Snow Qbee Head                    350c - 550c
