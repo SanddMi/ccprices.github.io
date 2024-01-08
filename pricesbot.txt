@@ -556,7 +556,7 @@ Spiderbrella                      800c - 1,500c
 Pumpkin Balloon                   1,000c - 1,500c
 Jack-O-Brella                     1,250c - 1,750c
 Trick or Treat Bag                1,000c - 1,500c
-Pumpkin Pack                      85,000c - 100,000c
+Pumpkin Pack                      80,000c - 95,000c
 Egyptian Staff                    250c - 450c
 Pitchfork                         250c - 450c
 Wizard's Wand                     150c - 300c
