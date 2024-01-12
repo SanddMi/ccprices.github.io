@@ -657,7 +657,7 @@ Devil's Pitchfork                 1,000c - 2,000c
 Giant Needle                      650c - 1,000c
 Ogre Club                         500c - 1,000c
 Trumpet Hat                       180,000c - 220,000c
-Beard                             500,000c - 550,000c
+Beard                             475,000c - 525,000c
 Plaid Hunting Cap                 200,000c - 230,000c
 Turkey Head                       12,500c - 17,500c
 Turkey Bolo                       20,000c - 25,000c
