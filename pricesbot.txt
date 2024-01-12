@@ -853,7 +853,7 @@ Offroader Keys                    22,500c - 27,500c
 Luxoride EKey                     25,000c - 30,000c
 Moon Buggy Key                    27,500c - 32,500c
 Luvmobile Key                     380,000c - 430,000c
-Easterider Keys                   275,000c - 325,000c
+Easterider Keys                   250,000c - 300,000c
 Bunnymobile Key                   120,000c - 140,000c
 Dracu Mobile Key                  25,000c - 27,500c
 Floating Witch's Broom Key        75,000c - 85,000c
