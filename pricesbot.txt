@@ -568,7 +568,7 @@ Headlessness                      950,000c - 1,000,000c
 Ghost Costume                     560,000c - 600,000c
 Slyme Costume                     200,000c - 230,000c
 Dino Head                         225,000c - 250,000c
-Monster Head                      180,000c - 210,000c
+Monster Head                      195,000c - 230,000c
 Shark Head                        120,000c - 140,000c
 Werewolf Head                     58,000c - 68,000c
 Pyramid Head                      20,000c - 30,000c
