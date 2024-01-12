@@ -609,7 +609,7 @@ Skellie Suit Shirt                1,500c - 2,500c
 Skellie Suit Pants                1,500c - 2,500c
 Dark Traveller Head               1,500c - 2,500c
 Dark Traveller Top                9,000c - 11,000c
-Dark Traveller Pants              8,000c - 10,000c
+Dark Traveller Pants              10,000c - 13,000c
 Mummy Wrap Head                   3,000c - 4,000c
 Mummy Wrap Shirt                  5,000c - 7,500c
 Mummy Wrap Pants                  30,000c - 35,000c
