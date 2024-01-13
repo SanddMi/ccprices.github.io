@@ -976,7 +976,7 @@ Trianglefish                      5,000c - 7,000c
 Camerafish                        3,000c - 4,000c
 Rainbowfish                       3,000c - 4,000c
 Five Ring Fish                    8,000c - 12,000c
-Pablo Hat                         25,000c - 30,000c
+Pablo Hat                         20,000c - 25,000c
 Crash Headband                    500c - 1,000c
 Ice King Mask                     2,500c - 5,000c
 Eggie Bandana Mask                15,000c - 20,000c
