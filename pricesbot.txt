@@ -697,7 +697,7 @@ Boy Scout Shirt                   1,000c - 1,500c
 Boy Scout Pants                   1,000c - 1,500c
 Acorn Mask                        300c - 600c
 Acorn Shirt                       750c - 1,250c
-Turkey Leg Balloon                800c - 1,200c
+Turkey Leg Balloon                500c - 1,000c
 Autumn Umbrella                   4,000c - 5,000c
 Turkey Umbrella                   1,000c - 1,500c
 Pooper Scooper                    200c - 300c
