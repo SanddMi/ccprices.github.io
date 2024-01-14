@@ -42,7 +42,7 @@
 		.title {
 			position: absolute;
 		    color: white;
-		    font-family: borel;
+		    font-family: Verdana;
 		    font-size: 11vw !important;
 		    transform: translate(-50%, -50%);
 		    left: 50%;
@@ -75,8 +75,8 @@
 
 	.title {
 		position: absolute;
-	    color: white;
-	    font-family: monospace;
+	    color: #5355e0;
+	    font-family: Verdana;
 	    font-size: 60px;
 	    transform: translate(-50%, -50%);
 	    left: 50%;
@@ -84,9 +84,11 @@
 	    width: 99%;
 	    text-align: center;
 	    user-select: none;
-	   	transition-duration: 3s;
-	   	animation: color 5s infinite;
-    	opacity: 0;
+	    transition-duration: 3s;
+	    animation: color 5s infinite;
+	    text-shadow: 0px 5px 20px black;
+	    font-weight: bold;
+	    opacity: 0;
 	}
 
 	.button {
@@ -134,5 +136,6 @@
 <script src="jquery.js"></script>
 <script type="text/javascript">
 	setTimeout(`$("p").css("opacity",1)`, 1)
+	setTimeout(`$("p").css("color","white")`, 5)
 </script>
 </html>
