@@ -858,7 +858,7 @@ Bunnymobile Key                   120,000c - 140,000c
 Dracu Mobile Key                  25,000c - 27,500c
 Floating Witch's Broom Key        75,000c - 85,000c
 Haunted Carriage                  90,000c - 100,000c
-Sled Key                          50,000c - 60,000c
+Sled Key                          60,000c - 70,000c
 Rocket Sled                       90,000c - 110,000c
 Christmas Key                     8,000c - 12,000c
 Rocket Key                        15,000c - 20,000c
