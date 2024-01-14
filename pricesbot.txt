@@ -606,7 +606,7 @@ Skinless Head                     450c - 750c
 Skinless Shirt                    450c - 750c
 Skinless Pants                    450c - 750c
 Skellie Suit Shirt                3,000c - 4,000c
-Skellie Suit Pants                1,500c - 2,500c
+Skellie Suit Pants                3,000c - 400c
 Dark Traveller Head               1,500c - 2,500c
 Dark Traveller Top                9,000c - 11,000c
 Dark Traveller Pants              10,000c - 13,000c
