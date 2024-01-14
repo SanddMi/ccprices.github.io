@@ -617,7 +617,7 @@ Zombie Head                       7,000c - 10,000c
 Zombie Shirt                      10,000c - 12,500c
 Zombie Pants                      12,000c - 15,000c
 Skeletal Wings                    25,000c - 30,000c
-Web Wings                         22,500c - 27,500c
+Web Wings                         17,500c - 22,500c
 BigHead Mask                      150c - 300c
 Witch Mask                        150c - 300c
 Goblin Mask                       150c - 300c
