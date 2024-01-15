@@ -1005,7 +1005,7 @@ Level 0 Chick Coop                190,000c - 210,000c
 Level 49 Chick Coop               190,000c - 210,000c
 Level 0 Black Cat Kennel          600,000c - 650,000c
 Level 49 Black Cat Kennel         575,000c - 625,000c
-Level 0 Pumpkin Kennel            550,000c - 650,000c
+Level 0 Pumpkin Kennel            600,000c - 650,000c
 Level 49 Pumpkin Kennel           550,000c - 600,000c
 Level 0 Spider Den                120,000c - 140,000c
 Level 49 Spider Den               120,000c - 140,000c
