@@ -1001,7 +1001,7 @@ Level 0 Kitty Kennel              3,000c - 3,500c
 Level 49 Kitty Kennel             7,500c - 9,500c
 Level 0 Wuvva Pig Kennel          400,000c - 450,000c
 Level 49 Wuvva Pig Kennel         400,000c - 450,000c
-Level 0 Chick Coop                200,000c - 225,000c
+Level 0 Chick Coop                230,000c - 260,000c
 Level 49 Chick Coop               200,000c - 225,000c
 Level 0 Black Cat Kennel          600,000c - 650,000c
 Level 49 Black Cat Kennel         575,000c - 625,000c
