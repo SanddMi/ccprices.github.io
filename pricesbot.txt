@@ -367,7 +367,7 @@ Pink Rabbit Pants                 350c - 550c
 Blue Kimono Shirt                 350c - 550c
 Blue Kimono Skirt                 1,000c - 1,500c
 Pink Kimono Shirt                 350c - 550c
-Pink Kimono Skirt                 1,250c - 1,750c
+Pink Kimono Skirt                 1,000c - 1,500c
 Easter Pattern Shirt              250c - 450c
 Easter Egg Shirt                  250c - 450c
 Egg Sunglasses                    450c - 750c
