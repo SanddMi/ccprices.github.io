@@ -674,7 +674,7 @@ Brown Suit                        1,500c - 2,000c
 Brown Pants                       1,500c - 2,000c
 Pilgrim Hat Bush                  250c - 350c
 Pilgrim's Hat                     350c - 550c
-Pilgrim's Coat                    4,000c - 6,000c
+Pilgrim's Coat                    8,000c - 10,000c
 Pilgrim Pants                     3,000c - 4,000c
 Pilgrim Bonnet                    2,500c - 4,500c
 Pilgrim Skirt                     750c - 1,250c
