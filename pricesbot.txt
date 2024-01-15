@@ -491,7 +491,7 @@ Chocolate Staff                   1,000c - 1,500c
 Chocolate Wings                   2,000c - 3,000c
 UV Shades                         1,200,000c - 1,300,000c
 Scuba Mask                        170,000c - 200,000c
-Blue Hawaiian Shirt               90,000c - 100,000c
+Blue Hawaiian Shirt               95,000c - 110,000c
 Black Hawaiian Shirt              30,000c - 40,000c
 Hairy Guy On The Beach Chest      30,000c - 40,000c
 Hairy Guy On The Beach Thong      100,000c - 150,000c
