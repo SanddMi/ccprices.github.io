@@ -831,7 +831,7 @@ Cube Balloon                      1,500c - 2,500c
 2024 Premium Cap                  500c - 1,000c
 Firework 2024 Hat                 500c - 1,000c
 2024 Celebration Hat              500c - 1,000c
-Golden Dapper Hat                 75,000c - 90,000c
+Golden Dapper Hat                 75,000c - 85,000c
 Slymegood Head                    150c - 250c
 Slyme Safety Helmet 02            2,000c - 2,500c
 Slyme Safety Helmet 01            2,000c - 2,500c
@@ -1009,12 +1009,12 @@ Level 0 Pumpkin Kennel            600,000c - 650,000c
 Level 49 Pumpkin Kennel           575,000c - 625,000c
 Level 0 Spider Den                120,000c - 140,000c
 Level 49 Spider Den               120,000c - 140,000c
-Level 0 Mutant Hopper             35,000c - 45,000c
-Level 49 Mutant Hopper            40,000c - 50,000c
-Level 0 Mutant MeeMew             2,500c - 3,250c
-Level 49 Mutant MeeMew            10,000c - 12,500c
-Level 0 Mutant Doog               2,250c - 3,000c
-Level 49 Mutant Doog              9,000c - 12,000c
+Level 0 Mutant Hopper House       35,000c - 45,000c
+Level 49 Mutant Hopper House      40,000c - 50,000c
+Level 0 Mutant MeeMew Kennel      2,500c - 3,250c
+Level 49 Mutant MeeMew Kennel     10,000c - 12,500c
+Level 0 Mutant Doog Kennel        2,250c - 3,000c
+Level 49 Mutant Doog Kennel       9,000c - 12,000c
 Level 0 Mutant Ram Kennel         90,000c - 110,000c
 Level 49 Mutant Ram Kennel        100,000c - 120,000c
 Level 0 Mutant Wuvva Pig Kennel   1,000c - 1,500c
