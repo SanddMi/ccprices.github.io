@@ -565,7 +565,7 @@ Witch's Broom                     50c - 200c
 Head Vampire Outfit               375,000c - 450,000c
 Vampire's Cloak                   4,500c - 6,500c
 Headlessness                      950,000c - 1,000,000c
-Ghost Costume                     560,000c - 600,000c
+Ghost Costume                     580,000c - 630,000c
 Slyme Costume                     200,000c - 230,000c
 Dino Head                         225,000c - 250,000c
 Monster Head                      195,000c - 230,000c
