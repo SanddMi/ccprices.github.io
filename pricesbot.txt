@@ -830,7 +830,7 @@ Pin Wheel                         250c - 450c
 Cube Balloon                      1,500c - 2,500c
 2024 Premium Cap                  500c - 1,000c
 Firework 2024 Hat                 500c - 1,000c
-2024 Celebration Hat              600c - 1,200c
+2024 Celebration Hat              500c - 1,000c
 Golden Dapper Hat                 75,000c - 90,000c
 Slymegood Head                    150c - 250c
 Slyme Safety Helmet 02            2,000c - 2,500c
