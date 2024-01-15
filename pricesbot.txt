@@ -1011,7 +1011,7 @@ Level 0 Spider Den                120,000c - 140,000c
 Level 49 Spider Den               120,000c - 140,000c
 Level 0 Mutant Hopper             35,000c - 45,000c
 Level 49 Mutant Hopper            40,000c - 50,000c
-Level 0 Mutant MeeMew             2,750c - 3,500c
+Level 0 Mutant MeeMew             2,500c - 3,250c
 Level 49 Mutant MeeMew            10,000c - 12,500c
 Level 0 Mutant Doog               2,250c - 3,000c
 Level 49 Mutant Doog              9,000c - 12,000c
