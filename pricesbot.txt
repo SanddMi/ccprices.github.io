@@ -381,7 +381,7 @@ Floral Shirt                      8,000c - 11,000c
 Floral Pants                      8,000c - 11,000c
 Rainbow Hat                       2,500c - 3,500c
 Rainbow Pajama Shirt              2,500c - 3,500c
-Rainbow Pajama Pants              3,000c - 4,000c
+Rainbow Pajama Pants              2,500c - 3,500c
 Rainbow Wings                     12,000c - 15,000c
 Rainbow Headband                  2,000c - 3,000c
 Easter Egg Staff                  800c - 1,500c
