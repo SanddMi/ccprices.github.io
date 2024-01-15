@@ -1038,7 +1038,7 @@ Level 49 Husky Kennel             20,000c - 25,000c
 Level 0 Mini Grouch Kennel        3,500c - 5,500c
 Level 49 Mini Grouch Kennel       10,000c - 12,500c
 Level 0 Mini Krampus Kennel       2,500c - 3,500c
-Level 49 Mini Krampus Kennel      10,000c - 12,500c
+Level 49 Mini Krampus Kennel      9,000c - 12,000c
 Level 0 Model N Station           35,000c - 40,000c
 Level 49 Model N Station          45,000c - 50,000c
 Level 0 Model F Station           15,000c - 20,000c
