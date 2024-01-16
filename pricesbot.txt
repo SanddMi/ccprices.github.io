@@ -614,7 +614,7 @@ Mummy Wrap Head                   3,000c - 4,000c
 Mummy Wrap Shirt                  5,000c - 7,500c
 Mummy Wrap Pants                  30,000c - 35,000c
 Zombie Head                       7,000c - 10,000c
-Zombie Shirt                      10,000c - 12,500c
+Zombie Shirt                      10,000c - 120,000c
 Zombie Pants                      12,000c - 15,000c
 Skeletal Wings                    25,000c - 30,000c
 Web Wings                         17,500c - 22,500c
