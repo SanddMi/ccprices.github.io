@@ -736,7 +736,7 @@ Gingerbread Head                  7,000c - 9,000c
 Gingerbread Shirt                 150c - 250c
 Gingerbread Pants                 150c - 250c
 Toy Soldier Gun                   1,000c - 1,500c
-Toy Soldier Cap 2020              250c - 450c
+Toy Soldier Cap 2020              350c - 550c
 Toy Soldier Shirt                 350c - 750c
 Toy Soldier Pants                 350c - 750c
 Doll Wig                          150c - 250c
