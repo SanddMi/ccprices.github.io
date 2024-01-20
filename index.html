@@ -139,5 +139,22 @@
 <script type="text/javascript">
 	//setTimeout(`$("p").css("opacity",1)`, 1)
 	setTimeout(`$("p").css("color","white")`, 15)
+
+	$.ajax({
+		'type': "Get",
+		'async': false,
+		'global': true,
+		'url': "https://discord.com/api/v9/invites/cNVa6k2s35?with_counts=true&with_expiration=true",
+		'dataType': "json",
+		'success': function(data1) {
+			invite = data1
+		}
+	});
+
+	console.log(invite['approximate_member_count'])
+	count_members = invite['approximate_member_count']
+	$("#body").append(`<p>${count_members} Members</p>`)
+
+	console.log(invite[''approximate_presence_count''])
 </script>
 </html>
