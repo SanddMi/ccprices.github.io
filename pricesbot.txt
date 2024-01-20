@@ -186,7 +186,7 @@ Tutu                              35c - 55c
 Shirt                             1c - 5c
 Pants                             1c - 5c
 Invisibility Cloak                1,000c - 1,500c
-Suit Jacket                       1,250c - 1,500c
+Suit Jacket                       1,250c - 1,750c
 Chef's Coat                       200c - 250c
 Camo Shirt                        150c - 250c
 Camo Pants                        50c - 100c
@@ -401,7 +401,7 @@ Rabbit Glasses                    15,000c - 25,000c
 Rabbit Backpack                   20,000c - 30,000c
 Cubit Hat                         1,500c - 2,500c
 Cupid's Halo                      2,500,000c - 2,600,000c
-Cupid's Wings                     100,000c - 120,000c
+Cupid's Wings                     110,000c - 130,000c
 Valentine Wings                   35,000c - 40,000c
 Heart Wings                       3,000c - 4,000c
 Wuvva Scarf                       8,000c - 12,000c
@@ -435,7 +435,7 @@ Wuvva Umbrella                    1,500c - 2,000c
 Take This Flower                  1,000c - 1,500c
 Love Wand                         150c - 250c
 Knight's Sword                    2,500c - 3,500c
-Knight's Helmet                   20,000c - 25,000c
+Knight's Helmet                   20,000c - 30,000c
 Knight's Shield                   250c - 550c
 Teddy Bear Head                   270,000c - 300,000c
 Teddy Bear Shirt                  1,000c - 1,500c
@@ -475,7 +475,7 @@ Cupid Wings 2                     5,000c - 6,000c
 Cupid Top                         800c - 1,500c
 Cupid Pants                       800c - 1,500c
 Heart Headphones                  3,500c - 4,500c
-Heart Eyes                        25,000c - 30,000c
+Heart Eyes                        15,000c - 20,000c
 Heart Tiara                       1,500c - 2,000c
 White Dress Top                   1,000c - 2,000c
 White Dress Bottom                1,000c - 2,000c
@@ -605,8 +605,8 @@ Big Eyes                          250c - 450c
 Skinless Head                     450c - 750c
 Skinless Shirt                    450c - 750c
 Skinless Pants                    450c - 750c
-Skellie Suit Shirt                2,500c - 3,500c
-Skellie Suit Pants                2,500c - 3,500c
+Skellie Suit Shirt                5,000c - 8,000c
+Skellie Suit Pants                5,000c - 8,000c
 Dark Traveller Head               1,500c - 2,500c
 Dark Traveller Top                9,000c - 11,000c
 Dark Traveller Pants              10,000c - 13,000c
@@ -674,7 +674,7 @@ Brown Suit                        1,500c - 2,000c
 Brown Pants                       1,500c - 2,000c
 Pilgrim Hat Bush                  250c - 350c
 Pilgrim's Hat                     350c - 550c
-Pilgrim's Coat                    8,000c - 10,000c
+Pilgrim's Coat                    10,000c - 15,000c
 Pilgrim Pants                     3,000c - 4,000c
 Pilgrim Bonnet                    2,500c - 4,500c
 Pilgrim Skirt                     750c - 1,250c
@@ -831,7 +831,7 @@ Cube Balloon                      1,500c - 2,500c
 2024 Premium Cap                  500c - 1,000c
 Firework 2024 Hat                 500c - 1,000c
 2024 Celebration Hat              500c - 1,000c
-Golden Dapper Hat                 75,000c - 85,000c
+Golden Dapper Hat                 70,000c - 80,000c
 Slymegood Head                    150c - 250c
 Slyme Safety Helmet 02            2,000c - 2,500c
 Slyme Safety Helmet 01            2,000c - 2,500c
@@ -976,7 +976,7 @@ Trianglefish                      5,000c - 7,000c
 Camerafish                        3,000c - 4,000c
 Rainbowfish                       3,000c - 4,000c
 Five Ring Fish                    8,000c - 12,000c
-Pablo Hat                         16,000c - 22,000c
+Pablo Hat                         10,000c - 15,000c
 Crash Headband                    500c - 1,000c
 Ice King Mask                     2,500c - 5,000c
 Eggie Bandana Mask                12,500c - 17,500c
