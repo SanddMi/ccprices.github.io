@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="icon" href="./images/icon.png">
+	<!--<link rel="icon" href="./images/icon.png">-->
 	<title>Prices Bot for Cubic Castles</title>
 	<meta name="og:title" content="Discord Bot for Cubic Castles">
 	<meta name="og:description" content="Simply check the prices and more commands, whenever you want, open the link and join to our server.">
@@ -30,10 +30,10 @@
 	@media screen and (max-width: 767px) {
 		.button {
 			position: absolute;
-			width: 45vw !important;
-		    height: 15vw !important;
 		    background: #566AF6;
 		    transform: translate(-50%,-50%);
+		    width: 45vw !important;
+			height: 13vw !important;
 		    left: 50%;
 		    top: 75%;
 		    border-radius: 50px 50px;
@@ -123,6 +123,15 @@
 		box-shadow: 0px 0px 20px black;
 	}
 
+	.members {
+		position: absolute;
+		font-family: 'Verdana';
+		font-size: 14px;
+		transform: translate(-50%);
+		left: 50%;
+		top: 95%;
+	}
+
 </style>
 
 <body>
@@ -137,24 +146,21 @@
 
 <script src="jquery.js"></script>
 <script type="text/javascript">
-	//setTimeout(`$("p").css("opacity",1)`, 1)
-	setTimeout(`$("p").css("color","white")`, 15)
-
 	$.ajax({
 		'type': "Get",
 		'async': false,
 		'global': true,
 		'url': "https://discord.com/api/v9/invites/cNVa6k2s35?with_counts=true&with_expiration=true",
 		'dataType': "json",
-		'success': function(data1) {
-			invite = data1
+		'success': function(data) {
+			invite = data;
 		}
 	});
 
-	console.log(invite['approximate_member_count'])
-	count_members = invite['approximate_member_count']
-	$("#body").append(`<p>${count_members} Members</p>`)
+	setTimeout(`$("p").css("color","white")`, 15)
 
-	console.log(invite[''approximate_presence_count''])
+	count_members = invite['approximate_member_count']
+	$("p").append(`<p class="members">${count_members} Members</p>`);
+
 </script>
 </html>
