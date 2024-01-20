@@ -435,7 +435,7 @@ Wuvva Umbrella                    1,500c - 2,000c
 Take This Flower                  1,000c - 1,500c
 Love Wand                         150c - 250c
 Knight's Sword                    2,500c - 3,500c
-Knight's Helmet                   20,000c - 25,000c
+Knight's Helmet                   20,000c - 30,000c
 Knight's Shield                   250c - 550c
 Teddy Bear Head                   270,000c - 300,000c
 Teddy Bear Shirt                  1,000c - 1,500c
