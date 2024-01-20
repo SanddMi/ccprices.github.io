@@ -564,7 +564,7 @@ Nature's Staff                    150c - 350c
 Witch's Broom                     50c - 200c
 Head Vampire Outfit               375,000c - 425,000c
 Vampire's Cloak                   4,500c - 6,500c
-Headlessness                      950,000c - 1,000,000c
+Headlessness                      1,000,000c - 1,200,000c
 Ghost Costume                     600,000c - 650,000c
 Slyme Costume                     230,000c - 260,000c
 Dino Head                         300,000c - 400,000c
