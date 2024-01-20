@@ -517,7 +517,7 @@ Blue Backpack                     5,000c - 8,000c
 Devil's Halo                      60,000c - 70,000c
 Red Angel Wings                   3,000c - 4,000c
 Orange Angel Wings                2,500c - 3,000c
-Yellow Angel Wings                2,500c - 3,000c
+Yellow Angel Wings                2,500c - 3,500c
 Green Angel Wings                 2,500c - 3,500c
 Cyan Angel Wings                  4,000c - 5,000c
 Blue Angel Wings                  2,500c - 3,500c
