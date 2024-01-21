@@ -530,7 +530,7 @@ Ice Cream Cone Wand               500c - 1,000c
 Pencil Wand                       750c - 1,000c
 Cow Head                          750c - 1,000c
 Cow Shirt                         750c - 1,250c
-Cow Pants                         1,000c - 1,500c
+Cow Pants                         750c - 1,250c
 Cow's Tail                        750c - 1,250c
 Jail Prisoner's Hat               250c - 450c
 Jail Prisoner's Shirt             500c - 1,000c
