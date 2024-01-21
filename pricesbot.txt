@@ -389,7 +389,7 @@ Chick Head                        1,500c - 2,500c
 Chick Shirt                       1,250c - 1,750c
 Chick Pants                       1,250c - 1,750c
 Bunny Umbrella                    50,000c - 60,000c
-Easter Staff                      28,000c - 38,000c
+Easter Staff                      25,000c - 35,000c
 Rainbow Halo                      220,000c - 250,000c
 Rainbow Glasses                   30,000c - 40,000c
 Easter Sweater                    17,500c - 22,500c
