@@ -1008,7 +1008,7 @@ Level 49 Black Cat Kennel         575,000c - 625,000c
 Level 0 Pumpkin Kennel            600,000c - 650,000c
 Level 49 Pumpkin Kennel           575,000c - 625,000c
 Level 0 Spider Den                150,000c - 180,000c
-Level 49 Spider Den               125,000c - 150,000c
+Level 49 Spider Den               150,000c - 180,000c
 Level 0 Mutant Hopper House       35,000c - 45,000c
 Level 49 Mutant Hopper House      40,000c - 50,000c
 Level 0 Mutant MeeMew Kennel      2,500c - 3,250c
