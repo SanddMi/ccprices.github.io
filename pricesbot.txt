@@ -296,7 +296,7 @@ Beaglepuss                        5,000c - 7,500c
 Hipno Shadez                      30,000c - 40,000c
 Hipno Shades                      6,000c - 10,000c
 Worn Hat                          2,500c - 3,000c
-Broken Glasses                    1,500c - 2,500c
+Broken Glasses                    1,500c - 2,000c
 Half Hat                          1,500c - 2,000c
 Turner Head                       4,000c - 6,000c
 Mushroom Umbrella                 1,000c - 2,000c
