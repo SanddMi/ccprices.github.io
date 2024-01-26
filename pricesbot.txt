@@ -774,7 +774,7 @@ Snowflake Staff                   300c - 550c
 Ice Pop                           125c - 250c
 Ice Pop 2                         125c - 250c
 Blue Ski Goggles                  150c - 250c
-Red Ski Goggles                   300c - 500c
+Red Ski Goggles                   150c - 250c
 Blue Ski Mask                     150c - 250c
 Red Ski Mask                      150c - 250c
 Christmas Grouch                  8,000c - 10,000c
