@@ -285,8 +285,8 @@ Black Pawn Head                   150c - 250c
 Fool's Cap                        22,500c - 30,000c
 Lesser Fool's Cap                 17,500c - 22,500c
 Least Fool's Cap                  7,000c - 10,000c
-Motley Shirt                      270,000c - 300,000c
-Motley Pants                      270,000c - 300,000c
+Motley Shirt                      240,000c - 270,000c
+Motley Pants                      260,000c - 280,000c
 Jester Pack                       18,000c - 24,000c
 Jester's Cane                     45,000c - 55,000c
 Clown Mask                        35,000c - 45,000c
@@ -479,8 +479,8 @@ Heart Eyes                        15,000c - 20,000c
 Heart Tiara                       1,500c - 2,000c
 White Dress Top                   1,000c - 2,000c
 White Dress Bottom                1,000c - 2,000c
-White Suit                        10,000c - 15,000c
-White Suit Pants                  12,500c - 17,500c
+White Suit                        8,000c - 14,000c
+White Suit Pants                  8,000c - 14,000c
 Mime Head                         1,500c - 2,000c
 Mime Shirt                        1,000c - 1,500c
 Mime Pants                        1,500c - 2,000c
