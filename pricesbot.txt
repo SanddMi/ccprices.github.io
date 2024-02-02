@@ -514,7 +514,7 @@ Fishing Pants                     4,000c - 5,000c
 Leather Backpack                  6,000c - 10,000c
 Camo Backpack                     4,000c - 5,000c
 Blue Backpack                     4,500c - 6,500c
-Devil's Halo                      60,000c - 70,000c
+Devil's Halo                      60,000c - 68,000c
 Red Angel Wings                   3,000c - 4,000c
 Orange Angel Wings                2,500c - 3,500c
 Yellow Angel Wings                2,500c - 3,500c
