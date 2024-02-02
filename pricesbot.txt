@@ -402,7 +402,7 @@ Rabbit Backpack                   20,000c - 30,000c
 Cubit Hat                         1,500c - 2,500c
 Cupid's Halo                      2,300,000c - 2,400,000c
 Cupid's Wings                     100,000c - 130,000c
-Valentine Wings                   35,000c - 40,000c
+Valentine Wings                   32,000c - 37,000c
 Heart Wings                       3,000c - 4,000c
 Wuvva Scarf                       10,000c - 15,000c
 Heart BackPack                    1,000c - 1,500c
