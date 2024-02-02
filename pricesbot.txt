@@ -781,7 +781,7 @@ Christmas Grouch                  10,000c - 20,000c
 Yeti Head                         25,000c - 35,000c
 Reindeer Cap                      100c - 200c
 Antlers                           100c - 200c
-Shiny Nose                        6,000c - 8,000c
+Shiny Nose                        5,000c - 7,000c
 Carrot Nose                       100c - 200c
 Winter Knit Cap                   150c - 250c
 Winter Cap                        100c - 200c
