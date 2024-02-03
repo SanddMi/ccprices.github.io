@@ -656,7 +656,7 @@ Pumpkin Basket                    4,000c - 5,000c
 Devil's Pitchfork                 2,000c - 3,000c
 Giant Needle                      650c - 1,000c
 Ogre Club                         500c - 1,000c
-Trumpet Hat                       190,000c - 220,000c
+Trumpet Hat                       220,000c - 250,000c
 Beard                             450,000c - 500,000c
 Plaid Hunting Cap                 210,000c - 230,000c
 Turkey Head                       12,500c - 17,500c
