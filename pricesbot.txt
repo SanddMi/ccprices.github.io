@@ -461,7 +461,7 @@ Mother Owl Shirt                  150c - 250c
 Mother Owl Pants                  150c - 250c
 Baby Owl Top                      100c - 200c
 Baby Owl Shirt                    100c - 200c
-Baby Owl Pants                    150c - 250c
+Baby Owl Pants                    100c - 200c
 Red Top Hat                       4,000c - 6,500c
 Rose on the Mouth                 700c - 1,200c
 Red Tuxedo Top                    20,000c - 30,000c
