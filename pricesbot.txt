@@ -456,7 +456,7 @@ Rabbit M Pants                    100c - 200c
 Rabbit F Top                      100c - 200c
 Rabbit F Shirt                    100c - 200c
 Rabbit F Pants                    100c - 200c
-Mother Owl Top                    150c - 250c
+Mother Owl Top                    100c - 200c
 Mother Owl Shirt                  150c - 250c
 Mother Owl Pants                  150c - 250c
 Baby Owl Top                      100c - 200c
