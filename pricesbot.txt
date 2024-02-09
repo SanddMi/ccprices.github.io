@@ -483,7 +483,7 @@ White Suit                        8,000c - 14,000c
 White Suit Pants                  8,000c - 14,000c
 Mime Head                         700c - 1,200c
 Mime Shirt                        700c - 1,200c
-Mime Pants                        1,500c - 2,000c
+Mime Pants                        700c - 1,200c
 Chocolate Head                    500c - 800c
 Chocolate Shirt                   500c - 800c
 Chocolate Pants                   500c - 800c
