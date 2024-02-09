@@ -453,7 +453,7 @@ Cute Bee Pants                    150c - 300c
 Rabbit M Top                      250c - 450c
 Rabbit M Shirt                    250c - 450c
 Rabbit M Pants                    250c - 450c
-Rabbit F Top                      250c - 450c
+Rabbit F Top                      150c - 250c
 Rabbit F Shirt                    250c - 450c
 Rabbit F Pants                    250c - 450c
 Mother Owl Top                    150c - 250c
