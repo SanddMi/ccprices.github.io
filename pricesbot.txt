@@ -489,6 +489,7 @@ Chocolate Shirt                   500c - 800c
 Chocolate Pants                   500c - 800c
 Chocolate Staff                   500c - 800c
 Chocolate Wings                   1,000c - 1,500c
+Pink Candy Floss                  300c - 800c
 UV Shades                         1,100,000c - 1,300,000c
 Scuba Mask                        170,000c - 200,000c
 Blue Hawaiian Shirt               110,000c - 130,000c
