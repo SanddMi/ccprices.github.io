@@ -473,7 +473,7 @@ Cupid Bow                         700c - 1,200c
 Cupid Wig                         200c - 400c
 Cupid Wings 2                     1,200c - 1,700c
 Cupid Top                         500c - 1,000c
-Cupid Pants                       800c - 1,500c
+Cupid Pants                       500c - 1,000c
 Heart Headphones                  1,000c - 1,500c
 Heart Eyes                        4,000c - 6,000c
 Heart Tiara                       500c - 1,000c
