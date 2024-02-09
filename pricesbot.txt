@@ -446,7 +446,7 @@ Rainbow Unicorn Pants             700c - 1,200c
 Rainbow Unicorn Tail              700c - 1,200c
 Flower Top                        150c - 250c
 Flower Shirt                      150c - 250c
-Flower Pants                      250c - 450c
+Flower Pants                      150c - 250c
 Cute Bee Top                      150c - 300c
 Cute Bee Shirt                    150c - 300c
 Cute Bee Pants                    150c - 300c
