@@ -478,7 +478,7 @@ Heart Headphones                  1,000c - 1,500c
 Heart Eyes                        4,000c - 6,000c
 Heart Tiara                       500c - 1,000c
 White Dress Top                   700c - 1,200c
-White Dress Bottom                1,000c - 2,000c
+White Dress Bottom                700c - 1,200c
 White Suit                        8,000c - 14,000c
 White Suit Pants                  8,000c - 14,000c
 Mime Head                         700c - 1,200c
