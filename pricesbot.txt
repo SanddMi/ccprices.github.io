@@ -405,7 +405,7 @@ Cupid's Wings                     120,000c - 140,000c
 Valentine Wings                   32,000c - 37,000c
 Heart Wings                       3,000c - 4,000c
 Wuvva Scarf                       10,000c - 13,000c
-Heart BackPack                    1,000c - 1,500c
+Heart BackPack                    500c - 1,000c
 Mouse BackPack                    350c - 550c
 Stuff Toy BackPack                200c - 300c
 Turtle BackPack                   250c - 450c
