@@ -800,7 +800,7 @@ Peppermint Hat                    500c - 1,000c
 Peppermint Shirt                  500c - 1,000c
 Peppermint Umbrella               750c - 1,500c
 Snowman Balloon                   1,000c - 1,500c
-Snowflake Umbrella                1,500c - 2,000c
+Snowflake Umbrella                1,200c - 1,500c
 Cup of Cocoa                      9,000c - 12,000c
 Holly Top Hat                     800c - 1,300c
 Nutcracker Head                   40,000c - 45,000c
