@@ -489,6 +489,7 @@ Chocolate Shirt                   500c - 800c
 Chocolate Pants                   500c - 800c
 Chocolate Staff                   500c - 800c
 Chocolate Wings                   1,000c - 1,500c
+Pink Heart Lollipop               300c - 800c
 Blue Heart Lollipop               300c - 800c
 Pink Candy Floss                  300c - 800c
 Blue Candy Floss                  300c - 800c
