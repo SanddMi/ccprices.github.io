@@ -480,7 +480,7 @@ Heart Tiara                       500c - 1,000c
 White Dress Top                   700c - 1,200c
 White Dress Bottom                700c - 1,200c
 White Suit                        2,000c - 3,000c
-White Suit Pants                  8,000c - 14,000c
+White Suit Pants                  2,000c - 3,000c
 Mime Head                         700c - 1,200c
 Mime Shirt                        700c - 1,200c
 Mime Pants                        700c - 1,200c
