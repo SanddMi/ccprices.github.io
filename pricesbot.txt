@@ -485,7 +485,7 @@ Mime Head                         1,500c - 2,000c
 Mime Shirt                        1,000c - 1,500c
 Mime Pants                        1,500c - 2,000c
 Chocolate Head                    500c - 800c
-Chocolate Shirt                   1,000c - 1,500c
+Chocolate Shirt                   500c - 800c
 Chocolate Pants                   1,000c - 1,500c
 Chocolate Staff                   1,000c - 1,500c
 Chocolate Wings                   1,000c - 1,500c
