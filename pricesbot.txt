@@ -440,7 +440,7 @@ Knight's Shield                   250c - 550c
 Teddy Bear Head                   240,000c - 270,000c
 Teddy Bear Shirt                  1,000c - 1,500c
 Teddy Bear Pants                  1,000c - 1,500c
-Rainbow Unicorn Top               1,000c - 1,500c
+Rainbow Unicorn Top               700c - 1,200c
 Rainbow Unicorn Shirt             1,000c - 1,500c
 Rainbow Unicorn Pants             1,000c - 1,500c
 Rainbow Unicorn Tail              1,000c - 1,500c
