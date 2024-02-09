@@ -450,7 +450,7 @@ Flower Pants                      250c - 450c
 Cute Bee Top                      150c - 300c
 Cute Bee Shirt                    150c - 300c
 Cute Bee Pants                    150c - 300c
-Rabbit M Top                      250c - 450c
+Rabbit M Top                      150c - 250c
 Rabbit M Shirt                    250c - 450c
 Rabbit M Pants                    250c - 450c
 Rabbit F Top                      150c - 250c
