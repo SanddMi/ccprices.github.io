@@ -870,7 +870,7 @@ Floating Witch's Broom Key        75,000c - 85,000c
 Haunted Carriage                  80,000c - 100,000c
 Sled Key                          60,000c - 70,000c
 Rocket Sled                       90,000c - 110,000c
-Christmas Key                     8,000c - 12,000c
+Christmas Key                     7,000c - 11,000c
 Rocket Key                        15,000c - 20,000c
 Golden Rocket Key                 25,000c - 30,000c
 Fizzled Wand                      25c - 50c
