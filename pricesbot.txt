@@ -724,7 +724,7 @@ Red Plaid Shirt                   1,000c - 2,000c
 Blue Plaid Shirt                  1,000c - 2,000c
 Red Plaid Scarf                   3,000c - 4,000c
 Blue Plaid Scarf                  1,500c - 2,000c
-Fall Scarf                        3,000c - 5,000c
+Fall Scarf                        4,500c - 5,500c
 Hiker's Backpack                  1,500c - 2,000c
 Maple Umbrella                    1,500c - 3,000c
 Hatchet                           1,200c - 1,700c
