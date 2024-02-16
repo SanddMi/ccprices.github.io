@@ -788,7 +788,7 @@ Blue Ski Goggles                  150c - 250c
 Red Ski Goggles                   150c - 250c
 Blue Ski Mask                     150c - 250c
 Red Ski Mask                      300c - 500c
-Christmas Grouch                  7,000c - 12,000c
+Christmas Grouch                  4,000c - 7,000c
 Yeti Head                         25,000c - 35,000c
 Reindeer Cap                      100c - 200c
 Antlers                           100c - 200c
