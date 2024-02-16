@@ -426,7 +426,7 @@ Fake Halo                         250c - 450c
 Heart Hat                         150c - 250c
 Apple O' Love                     150c - 250c
 Heart Beads                       200c - 400c
-Romantic Flower                   150c - 250c
+Romantic Flower                   200c - 400c
 Heart Ears                        100c - 200c
 Heart Tail                        100c - 200c
 Love Balloon                      550,000c - 600,000c
