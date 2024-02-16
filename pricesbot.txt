@@ -406,7 +406,7 @@ Valentine Wings                   30,000c - 35,000c
 Heart Wings                       3,000c - 4,000c
 Wuvva Scarf                       10,000c - 13,000c
 Heart BackPack                    500c - 1,000c
-Mouse BackPack                    350c - 550c
+Mouse BackPack                    750c - 1,250c
 Stuff Toy BackPack                200c - 300c
 Turtle BackPack                   250c - 450c
 White Wuvva Shirt                 1,500c - 2,000c
