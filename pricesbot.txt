@@ -477,7 +477,7 @@ Cupid Pants                       500c - 1,000c
 Heart Headphones                  700c - 1,200c
 Heart Eyes                        3,000c - 5,000c
 Heart Tiara                       500c - 1,000c
-White Dress Top                   700c - 1,200c
+White Dress Top                   500c - 1,000c
 White Dress Bottom                700c - 1,200c
 White Suit                        2,000c - 3,000c
 White Suit Pants                  2,000c - 3,000c
