@@ -655,7 +655,7 @@ Hair Over Face                    150c - 400c
 Ghost Designed Jacket             800c - 1,500c
 Pumpkin Shirt                     300c - 500c
 Pumpkin Pants                     300c - 500c
-Demon Mask                        500c - 1,000c
+Demon Mask                        400c - 800c
 Golden Demon Mask                 700c - 1,200c
 Minotaur Head                     3,500c - 5,000c
 Voodoo Doll Head                  3,000c - 4,000c
