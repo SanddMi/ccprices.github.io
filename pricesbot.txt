@@ -489,7 +489,7 @@ Chocolate Shirt                   500c - 800c
 Chocolate Pants                   500c - 800c
 Chocolate Staff                   500c - 800c
 Chocolate Wings                   1,000c - 1,500c
-Pink Dress Top                    800c - 1,200c
+Pink Dress Top                    500c - 1,000c
 Pink Dress Skirt                  800c - 1,200c
 Pink Suit Top                     5,000c - 10,000c
 Pink Suit Pants                   8,000c - 12,000c
