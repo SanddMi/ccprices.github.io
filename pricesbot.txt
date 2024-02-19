@@ -1,18 +1,18 @@
-Top Hat                           100c - 150c
-Feather Hat                       100c - 150c
-Beany                             50c - 100c
-Viking Helm                       50c - 100c
+Top Hat                           100c - 200c
+Feather Hat                       50c - 200c
+Beany                             10c - 15c
+Viking Helm                       25c - 75c
 Redwood Forest Cap                500c - 800c
-Blue Shaman's Mask                100c - 200c
-Red Shaman's Mask                 100c - 200c
-Blue Baseball Cap                 50c - 100c
+Blue Shaman's Mask                500c - 600c
+Red Shaman's Mask                 150c - 250c
+Blue Baseball Cap                 25c - 50c
 Red Baseball Cap                  50c - 100c
 Blue Hip-Hop Cap                  50c - 100c
 Red Hip-Hop Cap                   50c - 100c
 Stunt Helmet                      150c - 250c
-Mortarboard                       350c - 450c
-Flamenco Hat                      450c - 750c
-Valkyrie Helm                     850c - 1,500c
+Mortarboard                       500c - 600c
+Flamenco Hat                      200c - 300c
+Valkyrie Helm                     100c - 200c
 Knight's Helmet                   350c - 550c
 Welding Mask                      150c - 250c
 Chief Hat                         150c - 250c
@@ -22,7 +22,7 @@ Crown                             150c - 200c
 Dunce Cap                         100c - 150c
 Princess Cap                      50c - 100c
 Fireman's Hat                     50c - 100c
-Hard Hat                          50c - 100c
+Hard Hat                          100c - 200c
 Press Hat                         3,500c - 4,500c
 Tricorn Hat                       3,000c - 4,000c
 Diving Helmet                     2,000c - 3,000c
@@ -289,10 +289,10 @@ Motley Shirt                      240,000c - 270,000c
 Motley Pants                      260,000c - 280,000c
 Jester Pack                       18,000c - 24,000c
 Jester's Cane                     45,000c - 55,000c
-Clown Mask                        110,000c - 150,000c
+Clown Mask                        55,000c - 65,000c
 Dirt Block Hat                    5,000c - 7,000c
 Banana Split Hat                  10,000c - 12,000c
-Beaglepuss                        8,000c - 12,000c
+Beaglepuss                        5,000c - 7,500c
 Hipno Shadez                      30,000c - 40,000c
 Hipno Shades                      6,000c - 10,000c
 Worn Hat                          2,500c - 3,500c
@@ -306,7 +306,7 @@ RoboSlyme Costume                 370,000c - 420,000c
 Red Balloon                       70,000c - 75,000c
 RoboZilla Head                    8,000c - 12,000c
 Easter Umbrella                   1,050,000c - 1,150,000c
-Umbrella                          150,000c - 200,000c
+Umbrella                          140,000c - 180,000c
 New Easter Umbrella               12,500c - 17,500c
 Red Cherry Blossom Umbrella       4,000c - 6,000c
 Pink Cherry Blossom Umbrella      4,000c - 6,000c
@@ -348,7 +348,7 @@ Purplelicous Bunny Ears           250c - 450c
 Pinktastic Bunny Ears             250c - 450c
 Fab Yellow Bunny Ears             250c - 450c
 Keen Green Bunny Ears             250c - 450c
-Bunny Pyjamas                     530,000c - 560,000c
+Bunny Pyjamas                     540,000c - 560,000c
 Blue Floral Crown                 350c - 550c
 Purple Floral Crown               350c - 550c
 Yellow Floral Crown               350c - 550c
@@ -573,10 +573,10 @@ Pitchfork                         250c - 450c
 Wizard's Wand                     150c - 300c
 Nature's Staff                    150c - 350c
 Witch's Broom                     50c - 200c
-Head Vampire Outfit               340,000c - 360,000c
+Head Vampire Outfit               350,000c - 400,000c
 Vampire's Cloak                   4,500c - 6,500c
 Headlessness                      1,100,000c - 1,200,000c
-Ghost Costume                     620,000c - 670,000c
+Ghost Costume                     630,000c - 670,000c
 Slyme Costume                     235,000c - 255,000c
 Dino Head                         350,000c - 400,000c
 Monster Head                      240,000c - 280,000c
@@ -643,9 +643,9 @@ Dinosaur Shirt                    1,500c - 2,500c
 Dinosaur Pants                    1,500c - 2,500c
 Dinosaur Tail                     1,500c - 2,500c
 Black Cat Hood                    1,750c - 2,250c
-Black Cat Shirt                   1,000c - 1,750c
-Black Cat Pants                   1,000c - 1,750c
-Black Cat Tail                    1,000c - 1,750c
+Black Cat Shirt                   1,750c - 2,250c
+Black Cat Pants                   1,750c - 2,250c
+Black Cat Tail                    1,750c - 2,250c
 Wizard's Spellbook                30,000c - 35,000c
 Knife                             1,000c - 2,000c
 Flashlight                        800c - 1,500c
@@ -669,7 +669,7 @@ Giant Needle                      650c - 1,000c
 Ogre Club                         500c - 1,000c
 Trumpet Hat                       190,000c - 220,000c
 Beard                             430,000c - 450,000c
-Plaid Hunting Cap                 200,000c - 220,000c
+Plaid Hunting Cap                 200,000c - 230,000c
 Turkey Head                       12,500c - 17,500c
 Turkey Bolo                       20,000c - 25,000c
 Pumpkin Hat                       15,000c - 20,000c
@@ -768,10 +768,10 @@ Ugly Christmas Sweater            100c - 200c
 Christmas Outfit                  100c - 200c
 Elf Glasses                       100c - 200c
 Christmas Glasses                 100c - 200c
-Orange & Yellow Scarf             100,000c - 120,000c
+Orange & Yellow Scarf             110,000c - 130,000c
 Blue & White Scarf                13,000c - 15,000c
 Red & Green Scarf                 7,500c - 10,000c
-Starry Scarf                      17,000c - 22,000c
+Starry Scarf                      20,000c - 25,000c
 Purple Scarf                      1,000c - 1,500c
 Xmas Scarf                        350c - 650c
 Winter Scarf                      1,000c - 1,500c
@@ -1000,8 +1000,8 @@ Chicken Zombie Pants              700c - 1,500c
 Golden Easter Egg                 1,000,000c - 1,500,000c
 Booger                            90,000c - 120,000c
 Diamond Ring                      180,000c - 220,000c
-Level 0 Ram Kennel                6,000,000c - 6,500,000c
-Level 49 Ram Kennel               5,750,000c - 6,250,000c
+Level 0 Ram Kennel                5,750,000c - 6,250,000c
+Level 49 Ram Kennel               5,500,000c - 6,000,000c
 Level 0 Dragon Lair               20,000c - 25,000c
 Level 49 Dragon Lair              30,000c - 35,000c
 Level 0 Bunny Kennel              16,000c - 18,000c
@@ -1010,12 +1010,12 @@ Level 0 Dog Kennel                3,000c - 3,500c
 Level 49 Dog Kennel               7,500c - 9,500c
 Level 0 Kitty Kennel              3,000c - 3,500c
 Level 49 Kitty Kennel             7,500c - 9,500c
-Level 0 Wuvva Pig Kennel          400,000c - 450,000c
-Level 49 Wuvva Pig Kennel         400,000c - 450,000c
+Level 0 Wuvva Pig Kennel          375,000c - 425,000c
+Level 49 Wuvva Pig Kennel         375,000c - 425,000c
 Level 0 Chick Coop                230,000c - 260,000c
 Level 49 Chick Coop               230,000c - 260,000c
-Level 0 Black Cat Kennel          700,000c - 800,000c
-Level 49 Black Cat Kennel         600,000c - 650,000c
+Level 0 Black Cat Kennel          600,000c - 650,000c
+Level 49 Black Cat Kennel         575,000c - 625,000c
 Level 0 Pumpkin Kennel            600,000c - 650,000c
 Level 49 Pumpkin Kennel           575,000c - 625,000c
 Level 0 Spider Den                150,000c - 180,000c
@@ -1026,8 +1026,8 @@ Level 0 Mutant MeeMew Kennel      2,500c - 3,250c
 Level 49 Mutant MeeMew Kennel     10,000c - 12,500c
 Level 0 Mutant Doog Kennel        2,250c - 3,000c
 Level 49 Mutant Doog Kennel       9,000c - 12,000c
-Level 0 Mutant Ram Kennel         200,000c - 250,000c
-Level 49 Mutant Ram Kennel        200,000c - 250,000c
+Level 0 Mutant Ram Kennel         90,000c - 110,000c
+Level 49 Mutant Ram Kennel        100,000c - 120,000c
 Level 0 Mutant Wuvva Pig Kennel   1,000c - 1,500c
 Level 49 Mutant Wuvva Pig Kennel  6,000c - 8,000c
 Level 0 Ostrich Pit               300,000c - 350,000c
@@ -1036,7 +1036,7 @@ Level 0 Kangaroo Kennel           200,000c - 250,000c
 Level 49 Kangaroo Kennel          200,000c - 250,000c
 Level 0 Turkey Kennel             25,000c - 30,000c
 Level 49 Turkey Kennel            30,000c - 35,000c
-Level 0 Elf Hut                   60,000c - 70,000c
+Level 0 Elf Hut                   70,000c - 80,000c
 Level 49 Elf Hut                  70,000c - 80,000c
 Level 0 Reindeer Kennel           12,000c - 16,000c
 Level 49 Reindeer Kennel          18,000c - 24,000c
