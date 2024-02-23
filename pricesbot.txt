@@ -257,7 +257,7 @@ Bull Whip                         2,500c - 3,500c
 Machete                           4,000c - 5,000c
 Torch                             2,500c - 3,500c
 Walking Stick                     2,000c - 3,000c
-Fishmaster Rod                    5,000c - 7,500c
+Fishmaster Rod                    6,000c - 8,000c
 Expert Rod                        3,000c - 4,000c
 Superior Rod                      1,250c - 1,750c
 Simple Rod                        150c - 250c
@@ -289,7 +289,7 @@ Motley Shirt                      240,000c - 270,000c
 Motley Pants                      260,000c - 280,000c
 Jester Pack                       18,000c - 24,000c
 Jester's Cane                     45,000c - 55,000c
-Clown Mask                        110,000c - 150,000c
+Clown Mask                        140,000c - 170,000c
 Dirt Block Hat                    5,000c - 7,000c
 Banana Split Hat                  10,000c - 12,000c
 Beaglepuss                        8,000c - 12,000c
@@ -395,16 +395,16 @@ Rainbow Glasses                   30,000c - 40,000c
 Easter Sweater                    25,000c - 35,000c
 Rainbow Backpack                  55,000c - 65,000c
 Carrot Headphones                 30,000c - 35,000c
-Easter Scarf                      110,000c - 130,000c
+Easter Scarf                      150,000c - 200,000c
 Holdable Easter Basket            20,000c - 30,000c
 Rabbit Glasses                    15,000c - 25,000c
 Rabbit Backpack                   20,000c - 30,000c
 Cubit Hat                         1,500c - 2,500c
-Cupid's Halo                      2,100,000c - 2,300,000c
-Cupid's Wings                     120,000c - 140,000c
+Cupid's Halo                      2,000,000c - 2,200,000c
+Cupid's Wings                     130,000c - 150,000c
 Valentine Wings                   30,000c - 35,000c
 Heart Wings                       3,000c - 4,000c
-Wuvva Scarf                       10,000c - 13,000c
+Wuvva Scarf                       10,000c - 15,000c
 Heart BackPack                    500c - 1,000c
 Mouse BackPack                    750c - 1,250c
 Stuff Toy BackPack                200c - 300c
@@ -525,7 +525,7 @@ Fishing Pants                     3,000c - 4,000c
 Leather Backpack                  5,000c - 6,000c
 Camo Backpack                     4,000c - 5,000c
 Blue Backpack                     4,500c - 6,500c
-Devil's Halo                      60,000c - 65,000c
+Devil's Halo                      50,000c - 60,000c
 Red Angel Wings                   3,000c - 4,000c
 Orange Angel Wings                2,500c - 3,500c
 Yellow Angel Wings                2,500c - 3,500c
@@ -562,12 +562,12 @@ Anime Pigtail Hairstyle           450c - 750c
 Princess Tiara                    350c - 550c
 Tincan Helmet                     250c - 450c
 Scythe                            750,000c - 800,000c
-Skull Balloon                     30,000c - 40,000c
+Skull Balloon                     40,000c - 50,000c
 Spiderbrella                      1,000c - 1,500c
 Pumpkin Balloon                   1,000c - 1,500c
 Jack-O-Brella                     1,250c - 1,750c
 Trick or Treat Bag                1,000c - 1,500c
-Pumpkin Pack                      80,000c - 90,000c
+Pumpkin Pack                      90,000c - 100,000c
 Egyptian Staff                    250c - 450c
 Pitchfork                         250c - 450c
 Wizard's Wand                     150c - 300c
@@ -661,7 +661,7 @@ Minotaur Head                     3,500c - 5,000c
 Voodoo Doll Head                  3,000c - 4,000c
 Voodoo Shirt                      3,000c - 4,000c
 Voodoo Pants                      3,000c - 4,000c
-Button Eyes                       7,000c - 10,000c
+Button Eyes                       4,000c - 7,000c
 Tombstone Backpack                2,000c - 3,000c
 Pumpkin Basket                    4,000c - 5,000c
 Devil's Pitchfork                 2,000c - 3,000c
@@ -671,7 +671,7 @@ Trumpet Hat                       190,000c - 220,000c
 Beard                             430,000c - 450,000c
 Plaid Hunting Cap                 200,000c - 220,000c
 Turkey Head                       12,500c - 17,500c
-Turkey Bolo                       20,000c - 25,000c
+Turkey Bolo                       18,000c - 23,000c
 Pumpkin Hat                       15,000c - 20,000c
 Pumpkin Staff                     2,500c - 4,500c
 Turkey Staff                      4,500c - 7,500c
@@ -768,7 +768,7 @@ Ugly Christmas Sweater            100c - 200c
 Christmas Outfit                  100c - 200c
 Elf Glasses                       100c - 200c
 Christmas Glasses                 100c - 200c
-Orange & Yellow Scarf             100,000c - 120,000c
+Orange & Yellow Scarf             85,000c - 105,000c
 Blue & White Scarf                13,000c - 15,000c
 Red & Green Scarf                 7,500c - 10,000c
 Starry Scarf                      17,000c - 22,000c
@@ -842,7 +842,7 @@ Cube Balloon                      1,500c - 2,500c
 2024 Premium Cap                  500c - 1,000c
 Firework 2024 Hat                 500c - 1,000c
 2024 Celebration Hat              500c - 1,000c
-Golden Dapper Hat                 50,000c - 60,000c
+Golden Dapper Hat                 45,000c - 55,000c
 Slymegood Head                    150c - 250c
 Slyme Safety Helmet 02            2,000c - 2,500c
 Slyme Safety Helmet 01            2,000c - 2,500c
@@ -1000,22 +1000,22 @@ Chicken Zombie Pants              700c - 1,500c
 Golden Easter Egg                 1,000,000c - 1,500,000c
 Booger                            90,000c - 120,000c
 Diamond Ring                      180,000c - 220,000c
-Level 0 Ram Kennel                5,750,000c - 6,250,000c
-Level 49 Ram Kennel               5,500,000c - 6,000,000c
+Level 0 Ram Kennel                6,000,000c - 6,500,000c
+Level 49 Ram Kennel               5,750,000c - 6,250,000c
 Level 0 Dragon Lair               20,000c - 25,000c
 Level 49 Dragon Lair              30,000c - 35,000c
 Level 0 Bunny Kennel              16,000c - 18,000c
 Level 49 Bunny Kennel             22,500c - 27,500c
-Level 0 Dog Kennel                50c - 100c
-Level 49 Dog Kennel               50c - 100c
+Level 0 Dog Kennel                3,000c - 3,500c
+Level 49 Dog Kennel               7,500c - 9,500c
 Level 0 Kitty Kennel              3,000c - 3,500c
 Level 49 Kitty Kennel             7,500c - 9,500c
-Level 0 Wuvva Pig Kennel          375,000c - 425,000c
-Level 49 Wuvva Pig Kennel         375,000c - 425,000c
+Level 0 Wuvva Pig Kennel          400,000c - 450,000c
+Level 49 Wuvva Pig Kennel         400,000c - 450,000c
 Level 0 Chick Coop                230,000c - 260,000c
 Level 49 Chick Coop               230,000c - 260,000c
-Level 0 Black Cat Kennel          600,000c - 650,000c
-Level 49 Black Cat Kennel         575,000c - 625,000c
+Level 0 Black Cat Kennel          700,000c - 800,000c
+Level 49 Black Cat Kennel         600,000c - 650,000c
 Level 0 Pumpkin Kennel            600,000c - 650,000c
 Level 49 Pumpkin Kennel           575,000c - 625,000c
 Level 0 Spider Den                150,000c - 180,000c
@@ -1026,8 +1026,8 @@ Level 0 Mutant MeeMew Kennel      2,500c - 3,250c
 Level 49 Mutant MeeMew Kennel     10,000c - 12,500c
 Level 0 Mutant Doog Kennel        2,250c - 3,000c
 Level 49 Mutant Doog Kennel       9,000c - 12,000c
-Level 0 Mutant Ram Kennel         90,000c - 110,000c
-Level 49 Mutant Ram Kennel        100,000c - 120,000c
+Level 0 Mutant Ram Kennel         200,000c - 250,000c
+Level 49 Mutant Ram Kennel        200,000c - 250,000c
 Level 0 Mutant Wuvva Pig Kennel   1,000c - 1,500c
 Level 49 Mutant Wuvva Pig Kennel  6,000c - 8,000c
 Level 0 Ostrich Pit               300,000c - 350,000c
@@ -1036,7 +1036,7 @@ Level 0 Kangaroo Kennel           200,000c - 250,000c
 Level 49 Kangaroo Kennel          200,000c - 250,000c
 Level 0 Turkey Kennel             25,000c - 30,000c
 Level 49 Turkey Kennel            30,000c - 35,000c
-Level 0 Elf Hut                   70,000c - 80,000c
+Level 0 Elf Hut                   60,000c - 70,000c
 Level 49 Elf Hut                  70,000c - 80,000c
 Level 0 Reindeer Kennel           12,000c - 16,000c
 Level 49 Reindeer Kennel          18,000c - 24,000c
