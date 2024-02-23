@@ -355,7 +355,7 @@ Yellow Floral Crown               350c - 550c
 Pink Floral Crown                 350c - 550c
 Green Floral Crown                350c - 550c
 Garden Backpack                   300c - 600c
-Cookie Backpack                   33,000c - 38,000c
+Cookie Backpack                   35,000c - 40,000c
 Bunny Backpack                    300c - 500c
 Green Easter BackPack             1,500c - 2,000c
 Yellow Easter BackPack            1,500c - 2,000c
