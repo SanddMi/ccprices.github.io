@@ -1,4 +1,4 @@
-Top Hat                           100c - 150c
+Top Hat                           50c - 100c
 Feather Hat                       100c - 150c
 Beany                             50c - 100c
 Viking Helm                       50c - 100c
@@ -890,7 +890,7 @@ Bottomless Dark                   9,000c - 10,000c
 Twilight                          4,000c - 5,500c
 Bottomless Twilight               9,000c - 11,000c
 Slime Infestation                 4,000c - 5,000c
-Slime Infestation                 6,000c - 7,000c
+Slime Infestation Bottomless      6,000c - 7,000c
 Foggy                             3,500c - 4,500c
 Bottomless Foggy                  5,000c - 7,500c
 Thunderstorm                      1,000c - 1,500c
