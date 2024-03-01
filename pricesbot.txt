@@ -253,7 +253,7 @@ Tan Explorer Hat                  750c - 1,250c
 Green Explorer Backpack           2,500c - 3,500c
 Green Explorer Top                2,000c - 2,500c
 Green Explorer Pants              2,000c - 2,500c
-Bull Whip                         2,500c - 3,500c
+Bull Whip                         2,000c - 3,000c
 Machete                           4,000c - 5,000c
 Torch                             2,500c - 3,500c
 Walking Stick                     2,000c - 3,000c
@@ -390,7 +390,7 @@ Chick Shirt                       1,250c - 1,750c
 Chick Pants                       1,250c - 1,750c
 Bunny Umbrella                    15,000c - 25,000c
 Easter Staff                      30,000c - 40,000c
-Rainbow Halo                      300,000c - 320,000c
+Rainbow Halo                      240,000c - 280,000c
 Rainbow Glasses                   30,000c - 40,000c
 Easter Sweater                    30,000c - 40,000c
 Rainbow Backpack                  55,000c - 65,000c
@@ -400,7 +400,7 @@ Holdable Easter Basket            20,000c - 30,000c
 Rabbit Glasses                    15,000c - 25,000c
 Rabbit Backpack                   20,000c - 30,000c
 Cubit Hat                         1,500c - 2,500c
-Cupid's Halo                      2,000,000c - 2,200,000c
+Cupid's Halo                      1,800,000c - 2,000,000c
 Cupid's Wings                     130,000c - 150,000c
 Valentine Wings                   30,000c - 35,000c
 Heart Wings                       3,000c - 4,000c
@@ -573,7 +573,7 @@ Pitchfork                         250c - 450c
 Wizard's Wand                     150c - 300c
 Nature's Staff                    150c - 350c
 Witch's Broom                     50c - 200c
-Head Vampire Outfit               340,000c - 360,000c
+Head Vampire Outfit               280,000c - 300,000c
 Vampire's Cloak                   5,000c - 8,000c
 Headless                          1,100,000c - 1,200,000c
 Ghost Costume                     620,000c - 670,000c
@@ -598,7 +598,7 @@ Sub-Vampire Outfit                5,000c - 7,500c
 Frankenstein Head                 1,500c - 2,500c
 Pumpkin Head                      500c - 1,000c
 Robot Head                        750c - 1,500c
-Skull Head                        1,000c - 2,000c
+Skull Head                        1,000c - 1,500c
 Dragon Head                       4,000c - 6,000c
 Goblin Head                       300c - 500c
 Mouth Head                        500c - 1,000c
@@ -685,8 +685,8 @@ Brown Suit                        1,500c - 2,000c
 Brown Pants                       1,500c - 2,000c
 Pilgrim Hat Bush                  250c - 350c
 Pilgrim's Hat                     350c - 550c
-Pilgrim's Coat                    13,000c - 18,000c
-Pilgrim Pants                     7,000c - 10,000c
+Pilgrim's Coat                    5,000c - 8,000c
+Pilgrim Pants                     4,000c - 6,000c
 Pilgrim Bonnet                    2,500c - 4,500c
 Pilgrim Skirt                     750c - 1,250c
 Turkey Beak                       150c - 250c
@@ -771,7 +771,7 @@ Christmas Glasses                 100c - 200c
 Orange & Yellow Scarf             80,000c - 100,000c
 Blue & White Scarf                13,000c - 15,000c
 Red & Green Scarf                 7,500c - 10,000c
-Starry Scarf                      17,000c - 22,000c
+Starry Scarf                      15,000c - 20,000c
 Purple Scarf                      1,000c - 1,500c
 Xmas Scarf                        350c - 650c
 Winter Scarf                      1,000c - 1,500c
