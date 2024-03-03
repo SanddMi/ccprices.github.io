@@ -865,7 +865,7 @@ Luxoride EKey                     30,000c - 35,000c
 Moon Buggy Key                    27,500c - 32,500c
 Luvmobile Key                     380,000c - 430,000c
 Easterider Keys                   170,000c - 200,000c
-Bunnymobile Key                   110,000c - 130,000c
+Bunnymobile Key                   100,000c - 120,000c
 Dracu Mobile Key                  25,000c - 27,500c
 Floating Witch's Broom Key        65,000c - 75,000c
 Haunted Carriage                  80,000c - 100,000c
