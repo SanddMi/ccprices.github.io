@@ -358,7 +358,7 @@ Garden Backpack                   300c - 600c
 Cookie Backpack                   35,000c - 40,000c
 Bunny Backpack                    300c - 500c
 Green Easter BackPack             1,500c - 2,000c
-Yellow Easter BackPack            1,500c - 2,000c
+Yellow Easter BackPack            3,000c - 5,000c
 Blue Easter BackPack              250c - 550c
 Red Easter Backpack               250c - 550c
 Pink Rabbit Hood                  350c - 550c
