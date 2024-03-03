@@ -500,7 +500,7 @@ Pink Candy Floss                  300c - 800c
 Blue Candy Floss                  300c - 800c
 Daisy Flower                      1,000c - 1,500c
 Heart Head                        700,000c - 800,000c
-UV Shades                         1,100,000c - 1,300,000c
+UV Shades                         1,000,000c - 1,100,000c
 Scuba Mask                        170,000c - 200,000c
 Blue Hawaiian Shirt               130,000c - 150,000c
 Black Hawaiian Shirt              20,000c - 30,000c
