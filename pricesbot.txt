@@ -997,7 +997,7 @@ Chicken Zombie Head               700c - 1,500c
 Chicken Zombie Cap                700c - 1,500c
 Chicken Zombie Shirt              700c - 1,500c
 Chicken Zombie Pants              700c - 1,500c
-Golden Easter Egg                 1,000,000c - 1,500,000c
+Golden Easter Egg                 10,000c - 15,000c
 Booger                            90,000c - 120,000c
 Diamond Ring                      180,000c - 220,000c
 Level 0 Ram Kennel                6,000,000c - 6,500,000c
