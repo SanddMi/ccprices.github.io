@@ -657,7 +657,7 @@ Pumpkin Shirt                     300c - 500c
 Pumpkin Pants                     300c - 500c
 Demon Mask                        400c - 800c
 Golden Demon Mask                 500c - 1,000c
-Minotaur Head                     3,500c - 5,000c
+Minotaur Head                     8,000c - 11,000c
 Voodoo Doll Head                  3,000c - 4,000c
 Voodoo Shirt                      3,000c - 4,000c
 Voodoo Pants                      3,000c - 4,000c
