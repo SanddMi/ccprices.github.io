@@ -814,7 +814,7 @@ Snowman Balloon                   1,000c - 1,500c
 Snowflake Umbrella                1,200c - 1,500c
 Cup of Cocoa                      8,000c - 10,000c
 Holly Top Hat                     800c - 1,300c
-Nutcracker Head                   40,000c - 45,000c
+Nutcracker Head                   30,000c - 35,000c
 Coonskin Cap                      1,000c - 1,500c
 Gift Ribbon Mask                  1,000c - 1,500c
 Artcic Fox Hood                   1,500c - 2,500c
