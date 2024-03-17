@@ -397,7 +397,7 @@ Rainbow Backpack                  55,000c - 65,000c
 Carrot Headphones                 12,000c - 15,000c
 Easter Scarf                      50,000c - 60,000c
 Holdable Easter Basket            20,000c - 30,000c
-Rabbit Glasses                    10,000c - 12,000c
+Rabbit Glasses                    8,000c - 12,000c
 Rabbit Backpack                   20,000c - 30,000c
 Cubit Hat                         1,500c - 2,500c
 Cupid's Halo                      1,800,000c - 2,000,000c
