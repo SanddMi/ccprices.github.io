@@ -395,7 +395,7 @@ Rainbow Glasses                   30,000c - 40,000c
 Easter Sweater                    25,000c - 35,000c
 Rainbow Backpack                  55,000c - 65,000c
 Carrot Headphones                 30,000c - 35,000c
-Easter Scarf                      100,000c - 120,000c
+Easter Scarf                      50,000c - 60,000c
 Holdable Easter Basket            20,000c - 30,000c
 Rabbit Glasses                    15,000c - 25,000c
 Rabbit Backpack                   20,000c - 30,000c
@@ -997,9 +997,6 @@ Chicken Zombie Head               700c - 1,500c
 Chicken Zombie Cap                700c - 1,500c
 Chicken Zombie Shirt              700c - 1,500c
 Chicken Zombie Pants              700c - 1,500c
-Golden Easter Egg                 10,000c - 15,000c
-Booger                            90,000c - 120,000c
-Diamond Ring                      180,000c - 220,000c
 Level 0 Ram Kennel                6,000,000c - 6,500,000c
 Level 49 Ram Kennel               5,750,000c - 6,250,000c
 Level 0 Dragon Lair               20,000c - 25,000c
