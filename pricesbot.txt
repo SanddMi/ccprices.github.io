@@ -282,7 +282,7 @@ Black Rook Head                   150c - 250c
 Black Knight Head                 150c - 250c
 Black Bishop Head                 150c - 250c
 Black Pawn Head                   150c - 250c
-Fool's Cap                        22,500c - 30,000c
+Fool's Cap                        20,000c - 25,000c
 Lesser Fool's Cap                 17,000c - 20,000c
 Least Fool's Cap                  7,000c - 8,000c
 Motley Shirt                      240,000c - 270,000c
