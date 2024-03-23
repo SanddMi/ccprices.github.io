@@ -624,7 +624,7 @@ Dark Traveller Top                11,000c - 13,000c
 Dark Traveller Pants              11,000c - 13,000c
 Mummy Wrap Head                   2,500c - 3,500c
 Mummy Wrap Shirt                  4,000c - 5,000c
-Mummy Wrap Pants                  25,000c - 30,000c
+Mummy Wrap Pants                  20,000c - 30,000c
 Zombie Head                       7,000c - 10,000c
 Zombie Shirt                      8,000c - 10,000c
 Zombie Pants                      12,000c - 15,000c
