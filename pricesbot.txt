@@ -309,7 +309,7 @@ Easter Umbrella                   1,050,000c - 1,150,000c
 Umbrella                          130,000c - 150,000c
 New Easter Umbrella               3,000c - 5,000c
 Red Cherry Blossom Umbrella       3,000c - 4,000c
-Pink Cherry Blossom Umbrella      3,000c - 4,000c
+Pink Cherry Blossom Umbrella      2,500c - 3,500c
 Red Traditional Umbrella          20,000c - 30,000c
 Easter Wand                       7,500c - 10,000c
 Green Flower Wand                 150c - 250c
