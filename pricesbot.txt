@@ -400,7 +400,7 @@ Holdable Easter Basket            20,000c - 30,000c
 Rabbit Glasses                    3,000c - 7,000c
 Rabbit Backpack                   5,000c - 7,500c
 Sailor Hat                        2,000c - 2,500c
-Bunny Balloon                     30,000c - 40,000c
+Bunny Balloon                     15,000c - 20,000c
 Lotus Leaf Umbrella               3,500c - 4,500c
 Cubit Hat                         1,500c - 2,500c
 Cupid's Halo                      1,800,000c - 2,200,000c
