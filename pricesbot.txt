@@ -44,7 +44,7 @@ Fur Hat                           50c - 100c
 Sombrero                          750c - 1,500c
 Black Wizard's Hat                1,250c - 1,750c
 Red Wizard's Hat                  750c - 1,250c
-Wizard Hat                        350c - 550c
+Wizard Hat                        200c - 300c
 Shako                             50c - 100c
 Bowler                            150c - 250c
 Balmoral Bonnet                   50c - 100c
