@@ -334,7 +334,7 @@ Ladybug Wings                     2,500c - 4,000c
 Caterpillar Hoodie                250c - 450c
 Caterpillar Knapsack              250c - 450c
 Bee Helmet                        200c - 350c
-Bee Backpack                      300c - 450c
+Bee Backpack                      150c - 250c
 Egg Cap                           1,000c - 1,500c
 Chicken Hat                       3,000c - 4,000c
 Chick Hat                         1,000c - 2,000c
