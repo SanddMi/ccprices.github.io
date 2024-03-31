@@ -186,7 +186,7 @@ Tutu                              35c - 55c
 Shirt                             1c - 5c
 Pants                             1c - 5c
 Invisibility Cloak                1,000c - 1,500c
-Suit Jacket                       1,250c - 1,750c
+Suit Jacket                       1,000c - 1,500c
 Chef's Coat                       100c - 300c
 Camo Shirt                        150c - 250c
 Camo Pants                        30c - 50c
