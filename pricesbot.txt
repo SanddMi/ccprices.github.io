@@ -51,7 +51,7 @@ Balmoral Bonnet                   50c - 100c
 Pirate Hat                        100c - 150c
 Sheik Hat                         150c - 250c
 Turban                            150c - 250c
-Military Cap                      50c - 100c
+Military Cap                      35c - 50c
 Military Beret                    100c - 200c
 Military Helmet                   50c - 100c
 Salakot                           100c - 200c
