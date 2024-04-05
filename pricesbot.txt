@@ -1020,7 +1020,7 @@ Level 0 Pumpkin Kennel            900,000c - 1,000,000c
 Level 49 Pumpkin Kennel           575,000c - 625,000c
 Level 0 Spider Den                160,000c - 190,000c
 Level 49 Spider Den               120,000c - 150,000c
-Level 0 Mutant Hopper House       35,000c - 45,000c
+Level 0 Mutant Hopper House       25,000c - 35,000c
 Level 49 Mutant Hopper House      40,000c - 50,000c
 Level 0 Mutant MeeMew Kennel      2,500c - 3,250c
 Level 49 Mutant MeeMew Kennel     10,000c - 12,500c
