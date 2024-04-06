@@ -190,9 +190,9 @@ Suit Jacket                       1,000c - 1,500c
 Chef's Coat                       100c - 300c
 Camo Shirt                        150c - 250c
 Camo Pants                        30c - 50c
-Nurse's Hat                       1,200,000c - 1,300,000c
+Nurse's Hat                       900,000c - 1,000,000c
 Doc's Mirror                      300,000c - 350,000c
-Koala Hat                         220,000c - 240,000c
+Koala Hat                         200,000c - 220,000c
 Furry Delivery Hat                10,000c - 15,000c
 Sun Crown                         450c - 750c
 Pharoah's Crown                   350c - 550c
@@ -306,15 +306,15 @@ RoboSlyme Costume                 500,000c - 550,000c
 Red Balloon                       70,000c - 75,000c
 RoboZilla Head                    8,000c - 12,000c
 Easter Umbrella                   1,050,000c - 1,150,000c
-Umbrella                          130,000c - 150,000c
-New Easter Umbrella               3,000c - 5,000c
+Umbrella                          120,000c - 150,000c
+New Easter Umbrella               2,000c - 3,000c
 Red Cherry Blossom Umbrella       2,000c - 3,000c
 Pink Cherry Blossom Umbrella      2,000c - 3,000c
 Red Traditional Umbrella          15,000c - 20,000c
 Easter Wand                       7,500c - 10,000c
 Green Flower Wand                 150c - 250c
 Orange Flower Wand                150c - 250c
-Carrot Wand                       2,500c - 4,500c
+Carrot Wand                       2,000c - 3,000c
 Epic Greek Orthodox Easter Crown  8,000c - 10,000c
 Bunny Tophat                      25,000c - 30,000c
 Easter Tophat                     17,500c - 22,500c
@@ -372,16 +372,16 @@ Easter Pattern Shirt              250c - 450c
 Easter Egg Shirt                  250c - 450c
 Egg Sunglasses                    450c - 750c
 Sunflower Glasses                 1,000c - 1,500c
-Egg Head                          3,000c - 5,000c
+Egg Head                          2,000c - 3,000c
 Blue Rabbit Hood                  400c - 800c
 Blue Rabbit Shirt                 400c - 800c
 Blue Rabbit Pants                 400c - 800c
 Floral Hat                        2,000c - 4,000c
 Floral Shirt                      10,000c - 12,000c
 Floral Pants                      10,000c - 12,000c
-Rainbow Hat                       2,500c - 3,500c
-Rainbow Pajama Shirt              3,000c - 4,000c
-Rainbow Pajama Pants              3,000c - 4,000c
+Rainbow Hat                       2,000c - 3,000c
+Rainbow Pajama Shirt              2,000c - 3,000c
+Rainbow Pajama Pants              2,000c - 3,000c
 Rainbow Wings                     3,000c - 5,000c
 Rainbow Headband                  2,000c - 3,000c
 Easter Egg Staff                  800c - 1,500c
@@ -395,16 +395,17 @@ Rainbow Glasses                   30,000c - 40,000c
 Easter Sweater                    3,500c - 7,000c
 Rainbow Backpack                  55,000c - 65,000c
 Carrot Headphones                 3,500c - 7,000c
-Easter Scarf                      20,000c - 30,000c
+Easter Scarf                      20,000c - 25,000c
 Holdable Easter Basket            20,000c - 30,000c
 Rabbit Glasses                    3,000c - 7,000c
 Rabbit Backpack                   5,000c - 7,500c
+Spilled Honey On Head             1,500c - 2,500c
 Sailor Hat                        2,000c - 2,500c
 Bunny Balloon                     15,000c - 20,000c
 Lotus Leaf Umbrella               3,500c - 4,500c
 Cubit Hat                         1,500c - 2,500c
 Cupid's Halo                      1,800,000c - 2,200,000c
-Cupid's Wings                     100,000c - 120,000c
+Cupid's Wings                     90,000c - 100,000c
 Valentine Wings                   30,000c - 35,000c
 Heart Wings                       3,000c - 4,000c
 Wuvva Scarf                       10,000c - 15,000c
@@ -502,7 +503,7 @@ Blue Heart Lollipop               300c - 800c
 Pink Candy Floss                  300c - 800c
 Blue Candy Floss                  300c - 800c
 Daisy Flower                      1,000c - 1,500c
-Heart Head                        700,000c - 800,000c
+Heart Head                        900,000c - 1,000,000c
 UV Shades                         1,000,000c - 1,100,000c
 Scuba Mask                        150,000c - 200,000c
 Blue Hawaiian Shirt               130,000c - 150,000c
@@ -567,7 +568,7 @@ Tincan Helmet                     250c - 450c
 Scythe                            650,000c - 680,000c
 Skull Balloon                     40,000c - 50,000c
 Spiderbrella                      1,000c - 1,500c
-Pumpkin Balloon                   1,000c - 1,500c
+Pumpkin Balloon                   7,500c - 10,000c
 Jack-O-Brella                     1,250c - 1,750c
 Trick or Treat Bag                1,000c - 1,500c
 Pumpkin Pack                      75,000c - 100,000c
@@ -661,9 +662,9 @@ Pumpkin Pants                     300c - 500c
 Demon Mask                        3,500c - 4,500c
 Golden Demon Mask                 500c - 1,000c
 Minotaur Head                     9,000c - 11,000c
-Voodoo Doll Head                  3,000c - 4,000c
-Voodoo Shirt                      3,000c - 4,000c
-Voodoo Pants                      3,000c - 4,000c
+Voodoo Doll Head                  2,000c - 3,000c
+Voodoo Shirt                      2,000c - 3,000c
+Voodoo Pants                      2,000c - 3,000c
 Button Eyes                       4,000c - 7,000c
 Tombstone Backpack                2,000c - 3,000c
 Pumpkin Basket                    4,000c - 5,000c
