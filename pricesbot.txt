@@ -736,7 +736,7 @@ Hatchet                           1,200c - 1,700c
 Mr. Christmas Costume             125,000c - 140,000c
 Snowman Costume                   10,000c - 13,000c
 Christmas Giftbox Costume         1,500c - 2,500c
-Krampus Mask                      950,000c - 1,000,000c
+Krampus Mask                      900,000c - 1,000,000c
 Krampus Mask 2018                 35,000c - 45,000c
 Cheap fake Krampus                12,000c - 15,000c
 Krampus Mask 2020                 3,500c - 5,000c
