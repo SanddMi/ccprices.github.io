@@ -46,7 +46,7 @@ Black Wizard's Hat                1,250c - 1,750c
 Red Wizard's Hat                  750c - 1,250c
 Wizard Hat                        200c - 300c
 Shako                             50c - 100c
-Bowler                            150c - 250c
+Bowler                            100c - 200c
 Balmoral Bonnet                   50c - 100c
 Pirate Hat                        100c - 150c
 Sheik Hat                         150c - 250c
@@ -302,7 +302,7 @@ Turner Head                       4,000c - 6,000c
 Mushroom Umbrella                 1,500c - 2,000c
 Golden Egg Costume                330,000c - 380,000c
 Rainbow Umbrella                  380,000c - 420,000c
-RoboSlyme Costume                 350,000c - 400,000c
+RoboSlyme Costume                 400,000c - 450,000c
 Red Balloon                       70,000c - 75,000c
 RoboZilla Head                    8,000c - 12,000c
 Easter Umbrella                   1,050,000c - 1,100,000c
@@ -373,9 +373,9 @@ Easter Egg Shirt                  250c - 450c
 Egg Sunglasses                    450c - 750c
 Sunflower Glasses                 1,000c - 1,500c
 Egg Head                          2,000c - 3,000c
-Blue Rabbit Hood                  400c - 800c
-Blue Rabbit Shirt                 400c - 800c
-Blue Rabbit Pants                 400c - 800c
+Blue Rabbit Hood                  300c - 600c
+Blue Rabbit Shirt                 300c - 600c
+Blue Rabbit Pants                 300c - 600c
 Floral Hat                        1,500c - 2,500c
 Floral Shirt                      10,000c - 12,000c
 Floral Pants                      10,000c - 12,000c
@@ -391,7 +391,7 @@ Chick Pants                       1,250c - 1,750c
 Bunny Umbrella                    2,500c - 3,500c
 Easter Staff                      3,500c - 7,000c
 Rainbow Halo                      240,000c - 280,000c
-Rainbow Glasses                   30,000c - 40,000c
+Rainbow Glasses                   27,500c - 32,500c
 Easter Sweater                    3,500c - 7,000c
 Rainbow Backpack                  55,000c - 65,000c
 Carrot Headphones                 3,500c - 7,000c
@@ -400,8 +400,8 @@ Holdable Easter Basket            20,000c - 30,000c
 Rabbit Glasses                    3,000c - 7,000c
 Rabbit Backpack                   5,000c - 7,500c
 Spilled Honey On Head             1,500c - 2,500c
-Paperboat Hat                     2,000c - 2,500c
-Sailor Hat                        2,000c - 2,500c
+Paperboat Hat                     2,000c - 3,000c
+Sailor Hat                        2,000c - 3,000c
 Bunny Balloon                     15,000c - 20,000c
 Lotus Leaf Umbrella               6,000c - 8,000c
 Cubit Hat                         1,500c - 2,500c
@@ -566,7 +566,7 @@ Blue Viking Helmet                1,000c - 2,000c
 Anime Pigtail Hairstyle           450c - 750c
 Princess Tiara                    350c - 550c
 Tincan Helmet                     250c - 450c
-Scythe                            640,000c - 670,000c
+Scythe                            620,000c - 670,000c
 Skull Balloon                     35,000c - 45,000c
 Spiderbrella                      1,000c - 1,500c
 Pumpkin Balloon                   2,000c - 3,000c
@@ -585,7 +585,7 @@ Ghost Costume                     620,000c - 670,000c
 Slyme Costume                     220,000c - 235,000c
 Dino Head                         350,000c - 400,000c
 Monster Head                      215,000c - 230,000c
-Shark Head                        130,000c - 150,000c
+Shark Head                        120,000c - 140,000c
 Werewolf Head                     50,000c - 55,000c
 Pyramid Head                      45,000c - 55,000c
 Twobee Head                       10,000c - 20,000c
@@ -629,7 +629,7 @@ Dark Traveller Pants              11,000c - 13,000c
 Mummy Wrap Head                   2,500c - 3,500c
 Mummy Wrap Shirt                  4,000c - 5,000c
 Mummy Wrap Pants                  20,000c - 30,000c
-Zombie Head                       7,000c - 10,000c
+Zombie Head                       7,000c - 9,000c
 Zombie Shirt                      8,000c - 10,000c
 Zombie Pants                      12,000c - 15,000c
 Skeletal Wings                    25,000c - 30,000c
@@ -727,12 +727,12 @@ Red Beanie                        300c - 800c
 Blue Beanie                       300c - 800c
 Red Plaid Shirt                   1,000c - 2,000c
 Blue Plaid Shirt                  1,000c - 2,000c
-Red Plaid Scarf                   3,000c - 4,000c
-Blue Plaid Scarf                  1,500c - 2,000c
+Red Plaid Scarf                   4,000c - 6,000c
+Blue Plaid Scarf                  3,000c - 4,000c
 Fall Scarf                        4,500c - 5,500c
 Hiker's Backpack                  1,500c - 2,000c
 Maple Umbrella                    1,500c - 3,000c
-Hatchet                           1,200c - 1,700c
+Hatchet                           1,000c - 1,500c
 Mr. Christmas Costume             125,000c - 140,000c
 Snowman Costume                   10,000c - 13,000c
 Christmas Giftbox Costume         1,500c - 2,500c
@@ -993,7 +993,7 @@ Camerafish                        3,000c - 4,000c
 Rainbowfish                       3,000c - 4,000c
 Five Ring Fish                    8,000c - 12,000c
 Pablo Hat                         6,000c - 8,000c
-Crash Headband                    500c - 1,000c
+Crash Headband                    1,000c - 2,000c
 Ice King Mask                     2,500c - 3,500c
 Eggie Bandana Mask                9,000c - 12,000c
 Bad Egg Shirt                     750c - 1,250c
@@ -1022,7 +1022,7 @@ Level 0 Black Cat Kennel          650,000c - 750,000c
 Level 49 Black Cat Kennel         600,000c - 650,000c
 Level 0 Pumpkin Kennel            900,000c - 1,000,000c
 Level 49 Pumpkin Kennel           575,000c - 625,000c
-Level 0 Spider Den                160,000c - 190,000c
+Level 0 Spider Den                130,000c - 170,000c
 Level 49 Spider Den               120,000c - 150,000c
 Level 0 Mutant Hopper House       25,000c - 35,000c
 Level 49 Mutant Hopper House      40,000c - 50,000c
