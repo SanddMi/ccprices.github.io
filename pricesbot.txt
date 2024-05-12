@@ -1,40 +1,40 @@
-Top Hat                           100c - 150c
-Feather Hat                       100c - 150c
-Beany                             50c - 100c
-Viking Helm                       50c - 100c
-Redwood Forest Cap                500c - 800c
-Blue Shaman's Mask                100c - 200c
-Red Shaman's Mask                 100c - 200c
+Top Hat                           80c - 125c
+Feather Hat                       50c - 100c
+Beany                             25c - 75c
+Viking Helm                       40c - 80c
+Redwood Forest Cap                500c - 650c
+Blue Shaman's Mask                75c - 150c
+Red Shaman's Mask                 50c - 100c
 Blue Baseball Cap                 50c - 100c
 Red Baseball Cap                  50c - 100c
-Blue Hip-Hop Cap                  50c - 100c
-Red Hip-Hop Cap                   50c - 100c
+Blue Hip-Hop Cap                  80c - 150c
+Red Hip-Hop Cap                   80c - 150c
 Stunt Helmet                      150c - 250c
 Mortarboard                       350c - 450c
-Flamenco Hat                      450c - 750c
+Flamenco Hat                      100c - 200c
 Valkyrie Helm                     850c - 1,500c
 Knight's Helmet                   350c - 550c
 Welding Mask                      150c - 250c
-Chief Hat                         150c - 250c
-Brave Hat                         75c - 125c
-Chef's Hat                        200c - 350c
-Crown                             150c - 200c
-Dunce Cap                         100c - 150c
-Princess Cap                      50c - 100c
-Fireman's Hat                     50c - 100c
-Hard Hat                          50c - 100c
+Chief Hat                         80c - 150c
+Brave Hat                         40c - 60c
+Chef's Hat                        100c - 150c
+Crown                             80c - 120c
+Dunce Cap                         50c - 100c
+Princess Cap                      25c - 75c
+Fireman's Hat                     35c - 60c
+Hard Hat                          30c - 60c
 Press Hat                         3,500c - 4,500c
-Tricorn Hat                       3,000c - 4,000c
+Tricorn Hat                       2,000c - 3,000c
 Diving Helmet                     2,000c - 3,000c
 Gas Mask                          2,000c - 2,500c
 BucketHead                        2,000c - 2,500c
 Fez                               1,250c - 1,750c
 High Hat                          750c - 1,250c
 Leprechaun Cap                    500c - 750c
-Bomber Hat                        750c - 1,250c
+Bomber Hat                        500c - 750c
 Roman Helmet                      1,750c - 2,500c
 Cheese Head                       3,500c - 4,500c
-Paper Bag Hat                     1,500c - 2,000c
+Paper Bag Hat                     1,000c - 1,250c
 Rice Hat                          750c - 1,000c
 Fascinator                        300c - 550c
 Police Cap                        350c - 550c
@@ -46,20 +46,20 @@ Black Wizard's Hat                1,250c - 1,750c
 Red Wizard's Hat                  750c - 1,250c
 Wizard Hat                        200c - 300c
 Shako                             50c - 100c
-Bowler                            100c - 200c
-Balmoral Bonnet                   50c - 100c
-Pirate Hat                        100c - 150c
+Bowler                            80c - 150c
+Balmoral Bonnet                   35c - 60c
+Pirate Hat                        40c - 60c
 Sheik Hat                         150c - 250c
-Turban                            150c - 250c
+Turban                            80c - 100c
 Military Cap                      35c - 50c
-Military Beret                    100c - 200c
-Military Helmet                   50c - 100c
-Salakot                           100c - 200c
+Military Beret                    50c - 100c
+Military Helmet                   40c - 75c
+Salakot                           70c - 100c
 Swabbie Hat                       50c - 100c
-Sun Hat                           50c - 100c
-Sherlock Cap                      150c - 250c
-Cowboy Hat                        50c - 100c
-Miner's Helmet                    50c - 100c
+Sun Hat                           40c - 70c
+Sherlock Cap                      100c - 200c
+Cowboy Hat                        60c - 80c
+Miner's Helmet                    35c - 60c
 Cat Lady Wig                      3,500c - 4,500c
 Princess Hair                     1,000c - 2,000c
 Powdered Magisterial Wig          250c - 450c
@@ -191,12 +191,12 @@ Chef's Coat                       100c - 300c
 Camo Shirt                        150c - 250c
 Camo Pants                        30c - 50c
 Nurse's Hat                       900,000c - 1,000,000c
-Doc's Mirror                      300,000c - 350,000c
+Doc's Mirror                      300,000c - 330,000c
 Koala Hat                         210,000c - 230,000c
 Furry Delivery Hat                10,000c - 15,000c
 Sun Crown                         450c - 750c
-Pharoah's Crown                   350c - 550c
-Simple Mask                       3,500c - 4,500c
+Pharoah's Crown                   150c - 250c
+Simple Mask                       2,500c - 3,500c
 N95 Mask                          1,250c - 1,750c
 Executioner's Mask                3,500c - 4,250c
 Iron Mask                         2,000c - 2,500c
@@ -404,7 +404,7 @@ Spilled Honey On Head             1,500c - 2,500c
 Paperboat Hat                     2,000c - 3,000c
 Sailor Hat                        2,000c - 3,000c
 Bunny Balloon                     15,000c - 20,000c
-Lotus Leaf Umbrella               6,000c - 8,000c
+Lotus Leaf Umbrella               8,000c - 10,000c
 Cubit Hat                         1,500c - 2,500c
 Cupid's Halo                      1,800,000c - 2,000,000c
 Cupid's Wings                     90,000c - 100,000c
@@ -719,7 +719,7 @@ Autumn Umbrella                   3,000c - 4,000c
 Turkey Umbrella                   1,000c - 1,500c
 Pooper Scooper                    200c - 300c
 Amethyst Turkey Tail              5,000c - 7,000c
-Rainbow Turkey Tail               175,000c - 225,000c
+Rainbow Turkey Tail               175,000c - 200,000c
 Monochrome Turkey Tail            500,000c - 550,000c
 Hunting Net                       1c - 5c
 Fox Hood                          1,250c - 1,750c
