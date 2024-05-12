@@ -18,7 +18,7 @@ Welding Mask                      150c - 250c
 Chief Hat                         80c - 150c
 Brave Hat                         40c - 60c
 Chef's Hat                        100c - 150c
-Crown                             80c - 120c
+Crown                             100c - 150c
 Dunce Cap                         50c - 100c
 Princess Cap                      25c - 75c
 Fireman's Hat                     35c - 60c
