@@ -16,7 +16,7 @@ Valkyrie Helm                     850c - 1,500c
 Knight's Helmet                   350c - 550c
 Welding Mask                      150c - 250c
 Chief Hat                         80c - 150c
-Brave Hat                         40c - 60c
+Brave Hat                         75c - 125c
 Chef's Hat                        100c - 150c
 Crown                             100c - 150c
 Dunce Cap                         50c - 100c
