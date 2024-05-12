@@ -31,7 +31,7 @@ BucketHead                        2,000c - 2,500c
 Fez                               1,250c - 1,750c
 High Hat                          750c - 1,250c
 Leprechaun Cap                    500c - 750c
-Bomber Hat                        500c - 750c
+Bomber Hat                        750c - 1,250c
 Roman Helmet                      1,750c - 2,500c
 Cheese Head                       3,500c - 4,500c
 Paper Bag Hat                     1,250c - 1,750c
