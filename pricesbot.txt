@@ -50,7 +50,7 @@ Bowler                            75c - 150c
 Balmoral Bonnet                   35c - 60c
 Pirate Hat                        100c - 150c
 Sheik Hat                         150c - 250c
-Turban                            80c - 100c
+Turban                            100c - 175c
 Military Cap                      35c - 50c
 Military Beret                    75c - 150c
 Military Helmet                   40c - 75c
