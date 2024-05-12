@@ -46,7 +46,7 @@ Black Wizard's Hat                1,250c - 1,750c
 Red Wizard's Hat                  750c - 1,250c
 Wizard Hat                        200c - 300c
 Shako                             50c - 100c
-Bowler                            80c - 150c
+Bowler                            75c - 150c
 Balmoral Bonnet                   35c - 60c
 Pirate Hat                        40c - 60c
 Sheik Hat                         150c - 250c
