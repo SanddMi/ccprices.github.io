@@ -56,7 +56,7 @@ Military Beret                    75c - 150c
 Military Helmet                   40c - 75c
 Salakot                           70c - 100c
 Swabbie Hat                       50c - 100c
-Sun Hat                           40c - 70c
+Sun Hat                           50c - 100c
 Sherlock Cap                      100c - 200c
 Cowboy Hat                        60c - 80c
 Miner's Helmet                    35c - 60c
