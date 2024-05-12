@@ -57,7 +57,7 @@ Military Helmet                   40c - 75c
 Salakot                           70c - 100c
 Swabbie Hat                       50c - 100c
 Sun Hat                           50c - 100c
-Sherlock Cap                      100c - 200c
+Sherlock Cap                      150c - 250c
 Cowboy Hat                        60c - 80c
 Miner's Helmet                    35c - 60c
 Cat Lady Wig                      3,500c - 4,500c
