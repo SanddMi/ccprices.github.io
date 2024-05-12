@@ -196,7 +196,7 @@ Koala Hat                         210,000c - 230,000c
 Furry Delivery Hat                10,000c - 15,000c
 Sun Crown                         450c - 750c
 Pharoah's Crown                   300c - 400c
-Simple Mask                       2,500c - 3,500c
+Simple Mask                       3,000c - 4,000c
 N95 Mask                          1,250c - 1,750c
 Executioner's Mask                3,500c - 4,250c
 Iron Mask                         2,000c - 2,500c
