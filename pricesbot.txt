@@ -254,7 +254,7 @@ Green Explorer Backpack           2,500c - 3,500c
 Green Explorer Top                2,000c - 2,500c
 Green Explorer Pants              2,000c - 2,500c
 Bull Whip                         2,000c - 3,000c
-Machete                           4,000c - 5,000c
+Machete                           3,500c - 4,500c
 Torch                             2,500c - 3,500c
 Walking Stick                     2,000c - 3,000c
 Fishmaster Rod                    6,000c - 8,000c
@@ -300,6 +300,7 @@ Broken Glasses                    1,500c - 2,000c
 Half Hat                          1,500c - 2,000c
 Turner Head                       4,000c - 6,000c
 Mushroom Umbrella                 1,500c - 2,000c
+Pot Hat                           2,500c - 3,500c
 Lightbulb Hat                     1,250c - 1,750c
 Golden Egg Costume                330,000c - 380,000c
 Rainbow Umbrella                  380,000c - 420,000c
@@ -405,6 +406,7 @@ Paperboat Hat                     2,000c - 3,000c
 Sailor Hat                        2,000c - 3,000c
 Bunny Balloon                     15,000c - 20,000c
 Lotus Leaf Umbrella               8,000c - 10,000c
+Bunny Mask                        4,000c - 6,000c
 Cubit Hat                         1,500c - 2,500c
 Cupid's Halo                      1,800,000c - 2,000,000c
 Cupid's Wings                     90,000c - 100,000c
@@ -474,14 +476,14 @@ Red Tuxedo Top                    20,000c - 30,000c
 Red Tuxedo Pants                  15,000c - 20,000c
 Red Dress Top                     1,000c - 2,000c
 Red Dress                         1,000c - 2,000c
-Heart Umbrella                    3,000c - 6,000c
-Cupid Bow                         700c - 1,200c
+Heart Umbrella                    4,000c - 6,000c
+Cupid Bow                         1,000c - 1,500c
 Cupid Wig                         200c - 400c
 Cupid Wings 2                     1,000c - 1,500c
 Cupid Top                         500c - 1,000c
 Cupid Pants                       500c - 1,000c
 Heart Headphones                  700c - 1,200c
-Heart Eyes                        3,000c - 5,000c
+Heart Eyes                        2,000c - 3,000c
 Heart Tiara                       500c - 1,000c
 White Dress Top                   500c - 1,000c
 White Dress Bottom                500c - 1,000c
@@ -569,7 +571,7 @@ Princess Tiara                    350c - 550c
 Tincan Helmet                     250c - 450c
 Scythe                            620,000c - 670,000c
 Skull Balloon                     35,000c - 45,000c
-Spiderbrella                      1,000c - 1,500c
+Spiderbrella                      2,000c - 2,500c
 Pumpkin Balloon                   2,000c - 3,000c
 Jack-O-Brella                     1,250c - 1,750c
 Trick or Treat Bag                1,000c - 1,500c
@@ -676,7 +678,7 @@ Ogre Club                         500c - 1,000c
 Trumpet Hat                       250,000c - 300,000c
 Beard                             430,000c - 450,000c
 Plaid Hunting Cap                 190,000c - 220,000c
-Turkey Head                       12,500c - 17,500c
+Turkey Head                       15,000c - 20,000c
 Turkey Bolo                       15,000c - 20,000c
 Pumpkin Hat                       10,000c - 15,000c
 Pumpkin Staff                     2,500c - 4,500c
@@ -729,12 +731,12 @@ Blue Beanie                       300c - 800c
 Red Plaid Shirt                   1,000c - 2,000c
 Blue Plaid Shirt                  1,000c - 2,000c
 Red Plaid Scarf                   4,000c - 6,000c
-Blue Plaid Scarf                  3,000c - 4,000c
+Blue Plaid Scarf                  5,000c - 6,000c
 Fall Scarf                        4,500c - 5,500c
 Hiker's Backpack                  1,500c - 2,000c
 Maple Umbrella                    1,500c - 3,000c
 Hatchet                           1,000c - 1,500c
-Mr. Christmas Costume             125,000c - 140,000c
+Mr. Christmas Costume             145,000c - 165,000c
 Snowman Costume                   10,000c - 13,000c
 Christmas Giftbox Costume         1,500c - 2,500c
 Krampus Mask                      900,000c - 1,000,000c
@@ -845,10 +847,10 @@ Chocolate CakeHat                 2,000c - 3,000c
 Firework Glasses                  200c - 300c
 Pin Wheel                         200c - 400c
 Cube Balloon                      1,500c - 2,500c
-2024 Premium Cap                  500c - 1,000c
+2024 Premium Cap                  2,000c - 3,000c
 Firework 2024 Hat                 500c - 1,000c
 2024 Celebration Hat              500c - 1,000c
-Golden Dapper Hat                 100,000c - 150,000c
+Golden Dapper Hat                 65c - 70,000c
 Slymegood Head                    150c - 250c
 Slyme Safety Helmet 02            2,000c - 2,500c
 Slyme Safety Helmet 01            2,000c - 2,500c
