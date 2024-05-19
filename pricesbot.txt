@@ -305,7 +305,7 @@ Lightbulb Hat                     1,250c - 1,750c
 Golden Egg Costume                330,000c - 380,000c
 Rainbow Umbrella                  380,000c - 420,000c
 RoboSlyme Costume                 400,000c - 450,000c
-Red Balloon                       70,000c - 75,000c
+Red Balloon                       75,000c - 85,000c
 RoboZilla Head                    8,000c - 12,000c
 Easter Umbrella                   1,050,000c - 1,100,000c
 Umbrella                          120,000c - 130,000c
