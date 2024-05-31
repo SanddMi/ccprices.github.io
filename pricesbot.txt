@@ -285,8 +285,8 @@ Black Pawn Head                   150c - 250c
 Fool's Cap                        20,000c - 25,000c
 Lesser Fool's Cap                 17,000c - 20,000c
 Least Fool's Cap                  7,000c - 8,000c
-Motley Shirt                      250,000c - 270,000c
-Motley Pants                      270,000c - 290,000c
+Motley Shirt                      275,000c - 325,000c
+Motley Pants                      275,000c - 325,000c
 Jester Pack                       13,000c - 16,000c
 Jester's Cane                     70,000c - 80,000c
 Clown Mask                        75,000c - 120,000c
@@ -295,7 +295,7 @@ Banana Split Hat                  10,000c - 12,000c
 Beaglepuss                        8,000c - 12,000c
 Hipno Shadez                      25,000c - 35,000c
 Hipno Shades                      6,000c - 10,000c
-Worn Hat                          2,500c - 3,500c
+Worn Hat                          8,000c - 10,000c
 Broken Glasses                    1,500c - 2,000c
 Half Hat                          1,500c - 2,000c
 Turner Head                       4,000c - 6,000c
@@ -305,7 +305,7 @@ Lightbulb Hat                     1,250c - 1,750c
 Golden Egg Costume                330,000c - 380,000c
 Rainbow Umbrella                  475,000c - 525,000c
 RoboSlyme Costume                 400,000c - 450,000c
-Red Balloon                       75,000c - 85,000c
+Red Balloon                       90,000c - 110,000c
 RoboZilla Head                    8,000c - 12,000c
 Easter Umbrella                   1,050,000c - 1,100,000c
 Umbrella                          120,000c - 130,000c
@@ -350,7 +350,7 @@ Purplelicous Bunny Ears           250c - 450c
 Pinktastic Bunny Ears             250c - 450c
 Fab Yellow Bunny Ears             250c - 450c
 Keen Green Bunny Ears             250c - 450c
-Bunny Pyjamas                     400,000c - 450,000c
+Bunny Pyjamas                     450,000c - 500,000c
 Blue Floral Crown                 350c - 550c
 Purple Floral Crown               350c - 550c
 Yellow Floral Crown               350c - 550c
@@ -445,7 +445,7 @@ Love Wand                         150c - 250c
 Knight's Sword                    1,500c - 2,500c
 Knight's Helmet 2                 13,000c - 16,000c
 Knight's Shield                   250c - 550c
-Teddy Bear Head                   180,000c - 220,000c
+Teddy Bear Head                   300,000c - 350,000c
 Teddy Bear Shirt                  250c - 500c
 Teddy Bear Pants                  250c - 500c
 Rainbow Unicorn Top               700c - 1,200c
@@ -566,9 +566,16 @@ Queen Cyborg Head                 500c - 1,000c
 Cyclops Eye Mask                  1,000c - 2,000c
 Fish Head                         1,000c - 1,500c
 Blue Viking Helmet                1,000c - 2,000c
-Anime Pigtail Hairstyle           450c - 750c
+Anime Pigtail Hairstyle           500c - 1,000c
 Princess Tiara                    350c - 550c
 Tincan Helmet                     250c - 450c
+Golden Tuxedo Shirt               1,250c - 1,750c
+Golden Tuxedo Pants               1,250c - 1,750c
+Fire Qbee Head                    1,000c - 1,500c
+Fire Qbee Shirt                   1,000c - 1,500c
+Fire Qbee Pants                   1,000c - 1,500c
+Cheese Backpack                   700c - 1,000c
+Black Halo                        1,000c - 1,500c
 Scythe                            620,000c - 670,000c
 Skull Balloon                     35,000c - 45,000c
 Spiderbrella                      2,000c - 2,500c
@@ -731,7 +738,7 @@ Blue Beanie                       300c - 800c
 Red Plaid Shirt                   1,000c - 2,000c
 Blue Plaid Shirt                  1,000c - 2,000c
 Red Plaid Scarf                   4,000c - 6,000c
-Blue Plaid Scarf                  5,000c - 6,000c
+Blue Plaid Scarf                  3,000c - 5,000c
 Fall Scarf                        4,500c - 5,500c
 Hiker's Backpack                  1,500c - 2,000c
 Maple Umbrella                    1,500c - 3,000c
@@ -796,7 +803,7 @@ Blue Ski Goggles                  150c - 250c
 Red Ski Goggles                   150c - 250c
 Blue Ski Mask                     150c - 250c
 Red Ski Mask                      300c - 500c
-Christmas Grouch                  4,000c - 7,000c
+Christmas Grouch                  3,000c - 5,000c
 Yeti Head                         25,000c - 35,000c
 Reindeer Cap                      100c - 200c
 Antlers                           100c - 200c
