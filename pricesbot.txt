@@ -589,6 +589,7 @@ Cheese Backpack                   700c - 1,000c
 Violet Halo                       600c - 800c
 Green Halo                        500c - 750c
 Orange Halo                       500c - 750c
+Pink Halo                         500c - 750c
 Black Halo                        1,000c - 1,500c
 Hearth Halo                       750c - 1,250c
 Scythe                            620,000c - 670,000c
