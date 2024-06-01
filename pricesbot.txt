@@ -578,7 +578,7 @@ Tiger Shirt                       250c - 450c
 Tiger Pants                       250c - 450c
 Tiger Tail                        250c - 450c
 Fire Qbee Head                    1,000c - 1,500c
-Fire Qbee Shirt                   1,000c - 1,500c
+Fire Qbee Shirt                   200c - 300c
 Fire Qbee Pants                   1,000c - 1,500c
 Soda Can (On Hand)                500c - 1,000c
 White Lace Umbrella               2,500c - 3,500c
