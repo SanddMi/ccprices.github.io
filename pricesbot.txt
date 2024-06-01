@@ -590,6 +590,7 @@ Yellow Balloon                    350c - 550c
 Violet Balloon                    350c - 550c
 Cyan Balloon                      350c - 550c
 Green Balloon                     350c - 550c
+Orange Balloon                    350c - 550c
 Violet Halo                       600c - 800c
 Cyan Halo                         500c - 750c
 Blue Halo                         500c - 750c
