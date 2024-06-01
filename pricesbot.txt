@@ -579,6 +579,7 @@ Fire Qbee Head                    1,000c - 1,500c
 Fire Qbee Shirt                   1,000c - 1,500c
 Fire Qbee Pants                   1,000c - 1,500c
 Soda Can (On Hand)                500c - 1,000c
+White Lace Umbrella               2,500c - 3,500c
 Churro                            150c - 250c
 Cheese Backpack                   700c - 1,000c
 Black Halo                        1,000c - 1,500c
