@@ -586,6 +586,7 @@ Soda Can (On Hand)                500c - 1,000c
 White Lace Umbrella               2,500c - 3,500c
 Churro                            150c - 250c
 Cheese Backpack                   700c - 1,000c
+Orange Halo                       500c - 750c
 Black Halo                        1,000c - 1,500c
 Hearth Halo                       750c - 1,250c
 Scythe                            620,000c - 670,000c
