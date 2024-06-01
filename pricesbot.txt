@@ -534,7 +534,7 @@ Leather Backpack                  5,000c - 6,000c
 Camo Backpack                     4,000c - 5,000c
 Blue Backpack                     4,500c - 6,500c
 Devil's Halo                      50,000c - 60,000c
-Red Angel Wings                   8,000c - 10,000c
+Red Angel Wings                   8,000c - 12,000c
 Orange Angel Wings                6,000c - 10,000c
 Yellow Angel Wings                6,000c - 10,000c
 Green Angel Wings                 6,000c - 10,000c
