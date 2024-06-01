@@ -574,6 +574,7 @@ Golden Tuxedo Pants               1,250c - 1,750c
 Tiger Hood                        250c - 450c
 Tiger Shirt                       250c - 450c
 Tiger Pants                       250c - 450c
+Tiger Tail                        250c - 450c
 Fire Qbee Head                    1,000c - 1,500c
 Fire Qbee Shirt                   1,000c - 1,500c
 Fire Qbee Pants                   1,000c - 1,500c
