@@ -569,6 +569,7 @@ Blue Viking Helmet                1,000c - 2,000c
 Anime Pigtail Hairstyle           500c - 1,000c
 Princess Tiara                    350c - 550c
 Tincan Helmet                     250c - 450c
+AFK Cap                           200c - 300c
 Golden Tuxedo Shirt               1,250c - 1,750c
 Golden Tuxedo Pants               1,250c - 1,750c
 Police Shirt                      250c - 450c
