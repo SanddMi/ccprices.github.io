@@ -578,6 +578,7 @@ Tiger Tail                        250c - 450c
 Fire Qbee Head                    1,000c - 1,500c
 Fire Qbee Shirt                   1,000c - 1,500c
 Fire Qbee Pants                   1,000c - 1,500c
+Soda Can (On Hand)                500c - 1,000c
 Cheese Backpack                   700c - 1,000c
 Black Halo                        1,000c - 1,500c
 Scythe                            620,000c - 670,000c
