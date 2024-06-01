@@ -404,7 +404,7 @@ Rabbit Backpack                   5,000c - 7,500c
 Spilled Honey On Head             1,500c - 2,500c
 Paperboat Hat                     2,000c - 3,000c
 Sailor Hat                        2,000c - 3,000c
-Bunny Balloon                     15,000c - 20,000c
+Bunny Balloon                     14,000c - 18,000c
 Lotus Leaf Umbrella               8,000c - 10,000c
 Bunny Mask                        4,000c - 6,000c
 Cubit Hat                         1,500c - 2,500c
