@@ -589,6 +589,7 @@ Cheese Backpack                   700c - 1,000c
 Yellow Balloon                    350c - 550c
 Violet Balloon                    350c - 550c
 Cyan Balloon                      350c - 550c
+Blue Balloon                      350c - 550c
 Green Balloon                     350c - 550c
 Orange Balloon                    350c - 550c
 Violet Halo                       600c - 800c
