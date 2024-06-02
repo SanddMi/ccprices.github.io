@@ -576,6 +576,7 @@ Golden Tuxedo Pants               1,250c - 1,750c
 Police Shirt                      250c - 450c
 Police Pants                      250c - 450c
 Clown Wig                         250c - 450c
+Clown Shirt                       250c - 450c
 Tiger Hood                        250c - 450c
 Tiger Shirt                       250c - 450c
 Tiger Pants                       250c - 450c
