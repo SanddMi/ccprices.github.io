@@ -286,7 +286,7 @@ Fool's Cap                        20,000c - 25,000c
 Lesser Fool's Cap                 17,000c - 20,000c
 Least Fool's Cap                  7,000c - 8,000c
 Motley Shirt                      270,000c - 300,000c
-Motley Pants                      275,000c - 325,000c
+Motley Pants                      270,000c - 300,000c
 Jester Pack                       15,000c - 20,000c
 Jester's Cane                     70,000c - 80,000c
 Clown Mask                        75,000c - 100,000c
