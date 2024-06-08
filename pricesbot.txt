@@ -411,7 +411,7 @@ Bunny Mask                        3,000c - 5,000c
 Anchor On The Back                3,000c - 5,000c
 Cubit Hat                         1,500c - 2,500c
 Cupid's Halo                      1,900,000c - 2,100,000c
-Cupid's Wings                     95,000c - 105,000c
+Cupid's Wings                     100,000c - 110,000c
 Valentine Wings                   30,000c - 35,000c
 Heart Wings                       3,000c - 4,000c
 Wuvva Scarf                       10,000c - 15,000c
