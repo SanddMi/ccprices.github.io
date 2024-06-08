@@ -717,7 +717,7 @@ Giant Needle                      650c - 1,000c
 Ogre Club                         500c - 1,000c
 Trumpet Hat                       250,000c - 300,000c
 Beard                             430,000c - 450,000c
-Plaid Hunting Cap                 190,000c - 220,000c
+Plaid Hunting Cap                 220,000c - 235,000c
 Turkey Head                       15,000c - 20,000c
 Turkey Bolo                       20,000c - 30,000c
 Pumpkin Hat                       10,000c - 15,000c
