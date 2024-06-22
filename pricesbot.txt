@@ -24,7 +24,7 @@ Princess Cap                      25c - 75c
 Fireman's Hat                     35c - 60c
 Hard Hat                          30c - 60c
 Press Hat                         3,500c - 4,500c
-Tricorn Hat                       2,500c - 3,500c
+Tricorn Hat                       3,000c - 4,000c
 Diving Helmet                     2,000c - 3,000c
 Gas Mask                          2,000c - 2,500c
 BucketHead                        2,000c - 2,500c
@@ -289,7 +289,7 @@ Motley Shirt                      270,000c - 300,000c
 Motley Pants                      270,000c - 300,000c
 Jester Pack                       20,000c - 25,000c
 Jester's Cane                     70,000c - 80,000c
-Clown Mask                        75,000c - 100,000c
+Clown Mask                        120,000c - 150,000c
 Dirt Block Hat                    5,000c - 7,000c
 Banana Split Hat                  10,000c - 12,000c
 Beaglepuss                        8,000c - 12,000c
@@ -319,7 +319,7 @@ Orange Flower Wand                150c - 250c
 Carrot Wand                       2,000c - 3,000c
 Epic Greek Orthodox Easter Crown  8,000c - 10,000c
 Bunny Tophat                      35,000c - 40,000c
-Easter Tophat                     17,500c - 22,500c
+Easter Tophat                     30,000c - 45,000c
 Easter Bonnet                     4,000c - 5,000c
 Easter Hat                        10,000c - 15,000c
 Purple Easter Hat                 10,000c - 13,000c
@@ -411,7 +411,7 @@ Bunny Mask                        3,000c - 5,000c
 Anchor On The Back                3,000c - 5,000c
 Cubit Hat                         1,500c - 2,500c
 Cupid's Halo                      2,000,000c - 2,200,000c
-Cupid's Wings                     100,000c - 110,000c
+Cupid's Wings                     120,000c - 150,000c
 Valentine Wings                   30,000c - 35,000c
 Heart Wings                       3,000c - 4,000c
 Wuvva Scarf                       10,000c - 15,000c
@@ -509,7 +509,7 @@ Blue Heart Lollipop               300c - 800c
 Pink Candy Floss                  300c - 800c
 Blue Candy Floss                  300c - 800c
 Daisy Flower                      1,000c - 1,500c
-Heart Head                        2,000,000c - 2,500,000c
+Heart Head                        4,000,000c - 5,000,000c
 UV Shades                         1,000,000c - 1,100,000c
 Scuba Mask                        150,000c - 200,000c
 Blue Hawaiian Shirt               130,000c - 150,000c
@@ -537,13 +537,13 @@ Camo Backpack                     3,000c - 4,000c
 Blue Backpack                     4,500c - 6,500c
 Devil's Halo                      50,000c - 60,000c
 Red Angel Wings                   8,000c - 12,000c
-Orange Angel Wings                6,000c - 10,000c
-Yellow Angel Wings                6,000c - 10,000c
-Green Angel Wings                 6,000c - 10,000c
-Cyan Angel Wings                  8,000c - 12,000c
-Blue Angel Wings                  6,000c - 10,000c
-Violet Angel Wings                6,000c - 10,000c
-Pink Angel Wings                  8,000c - 12,000c
+Orange Angel Wings                8,000c - 12,000c
+Yellow Angel Wings                8,000c - 12,000c
+Green Angel Wings                 8,000c - 12,000c
+Cyan Angel Wings                  10,000c - 15,000c
+Blue Angel Wings                  8,000c - 12,000c
+Violet Angel Wings                8,000c - 12,000c
+Pink Angel Wings                  10,000c - 15,000c
 Double Sword Back                 1,000c - 1,500c
 Black Beard                       500c - 1,000c
 Walking Cane                      2,000c - 3,000c
@@ -620,7 +620,7 @@ Egyptian Staff                    250c - 450c
 Pitchfork                         250c - 450c
 Wizard's Wand                     150c - 300c
 Nature's Staff                    150c - 350c
-Witch's Broom                     50c - 200c
+Witch's Broom                     400c - 800c
 Head Vampire Outfit               200,000c - 250,000c
 Vampire's Cloak                   5,500c - 6,500c
 Headless                          1,000,000c - 1,200,000c
@@ -773,11 +773,11 @@ Blue Plaid Shirt                  1,000c - 2,000c
 Red Plaid Scarf                   4,000c - 6,000c
 Blue Plaid Scarf                  3,000c - 5,000c
 Fall Scarf                        4,500c - 5,500c
-Hiker's Backpack                  1,500c - 2,000c
+Hiker's Backpack                  1,000c - 1,500c
 Maple Umbrella                    1,500c - 3,000c
 Hatchet                           1,000c - 1,500c
 Mr. Christmas Costume             160,000c - 170,000c
-Snowman Costume                   10,000c - 13,000c
+Snowman Costume                   13,000c - 17,000c
 Christmas Giftbox Costume         1,500c - 2,500c
 Krampus Mask                      1,000,000c - 1,100,000c
 Krampus Mask 2018                 35,000c - 45,000c
@@ -817,7 +817,7 @@ Christmas Outfit                  100c - 200c
 Elf Glasses                       100c - 200c
 Christmas Glasses                 100c - 200c
 Orange & Yellow Scarf             200,000c - 250,000c
-Blue & White Scarf                15,000c - 20,000c
+Blue & White Scarf                25,000c - 40,000c
 Red & Green Scarf                 7,500c - 10,000c
 Starry Scarf                      13,000c - 18,000c
 Purple Scarf                      1,000c - 1,500c
@@ -890,7 +890,7 @@ Cube Balloon                      1,500c - 2,500c
 2024 Premium Cap                  2,000c - 3,000c
 Firework 2024 Hat                 500c - 1,000c
 2024 Celebration Hat              500c - 1,000c
-Golden Dapper Hat                 80,000c - 130,000c
+Golden Dapper Hat                 120,000c - 140,000c
 Slymegood Head                    150c - 250c
 Slyme Safety Helmet 02            2,000c - 2,500c
 Slyme Safety Helmet 01            2,000c - 2,500c
@@ -1038,7 +1038,7 @@ Five Ring Fish                    8,000c - 12,000c
 Pablo Hat                         6,000c - 8,000c
 Crash Headband                    1,000c - 2,000c
 Ice King Mask                     2,500c - 3,500c
-Eggie Bandana Mask                9,000c - 12,000c
+Eggie Bandana Mask                15,000c - 20,000c
 Bad Egg Shirt                     750c - 1,250c
 Pablo Smile Shirt                 3,000c - 5,000c
 Chicken Zombie Head               700c - 1,500c
