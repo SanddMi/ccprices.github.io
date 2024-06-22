@@ -192,7 +192,7 @@ Camo Shirt                        50c - 100c
 Camo Pants                        30c - 50c
 Nurse's Hat                       800,000c - 900,000c
 Doc's Mirror                      300,000c - 350,000c
-Koala Hat                         220,000c - 230,000c
+Koala Hat                         215,000c - 230,000c
 Furry Delivery Hat                3,500c - 4,500c
 Sun Crown                         450c - 750c
 Pharoah's Crown                   300c - 400c
