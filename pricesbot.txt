@@ -719,7 +719,7 @@ Trumpet Hat                       250,000c - 300,000c
 Beard                             430,000c - 450,000c
 Plaid Hunting Cap                 240,000c - 260,000c
 Turkey Head                       15,000c - 20,000c
-Turkey Bolo                       80,000c - 100,000c
+Turkey Bolo                       30,000c - 60,000c
 Pumpkin Hat                       10,000c - 15,000c
 Pumpkin Staff                     2,500c - 4,500c
 Turkey Staff                      4,500c - 7,500c
