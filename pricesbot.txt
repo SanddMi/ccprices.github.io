@@ -1047,7 +1047,7 @@ Chicken Zombie Shirt              700c - 1,500c
 Chicken Zombie Pants              700c - 1,500c
 Blue Bunnyhop Mount               40,000c - 45,000c
 White Bunnyhop Mount              40,000c - 45,000c
-Level 0 Ram Kennel                6,000,000c - 6,500,000c
+Level 0 Ram Kennel                5,750,000c - 6,000,000c
 Level 49 Ram Kennel               5,750,000c - 6,250,000c
 Level 0 Dragon Lair               20,000c - 25,000c
 Level 49 Dragon Lair              30,000c - 35,000c
