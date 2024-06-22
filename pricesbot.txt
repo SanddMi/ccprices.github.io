@@ -308,7 +308,7 @@ RoboSlyme Costume                 500,000c - 1,000,000c
 Red Balloon                       90,000c - 110,000c
 RoboZilla Head                    8,000c - 12,000c
 Easter Umbrella                   1,050,000c - 1,100,000c
-Umbrella                          125,000c - 135,000c
+Umbrella                          150,000c - 200,000c
 New Easter Umbrella               2,000c - 3,000c
 Red Cherry Blossom Umbrella       5,000c - 8,000c
 Pink Cherry Blossom Umbrella      5,000c - 8,000c
