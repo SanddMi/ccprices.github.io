@@ -409,6 +409,7 @@ Sailor Top                        2,500c - 5,000c
 Sailor Pants                      2,500c - 5,000c
 Bunny Balloon                     14,000c - 18,000c
 Lotus Leaf Umbrella               8,000c - 10,000c
+Honey Dipper Wand                 5,000c - 10,000c
 Paper Windmill                    1,500c - 3,000c
 Bunny Mask                        3,000c - 5,000c
 Anchor On The Back                3,000c - 6,000c
