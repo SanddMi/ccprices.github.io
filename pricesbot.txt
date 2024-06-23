@@ -761,7 +761,7 @@ Autumn Umbrella                   3,000c - 4,000c
 Turkey Umbrella                   1,000c - 1,500c
 Pooper Scooper                    200c - 300c
 Amethyst Turkey Tail              5,000c - 7,000c
-Rainbow Turkey Tail               175,000c - 200,000c
+Rainbow Turkey Tail               150,000c - 180,000c
 Monochrome Turkey Tail            500,000c - 550,000c
 Hunting Net                       1c - 5c
 Fox Hood                          1,250c - 1,750c
