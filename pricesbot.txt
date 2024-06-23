@@ -405,6 +405,7 @@ Spilled Ice Cream On Head         3,000c - 4,000c
 Spilled Honey On Head             1,500c - 2,500c
 Paperboat Hat                     2,000c - 3,000c
 Sailor Hat                        2,000c - 3,000c
+Sailor Top                        2,500c - 5,000c
 Sailor Pants                      2,500c - 5,000c
 Bunny Balloon                     14,000c - 18,000c
 Lotus Leaf Umbrella               8,000c - 10,000c
