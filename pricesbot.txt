@@ -410,7 +410,7 @@ Sailor Pants                      2,500c - 5,000c
 Bunny Balloon                     14,000c - 18,000c
 Lotus Leaf Umbrella               8,000c - 10,000c
 Bunny Mask                        3,000c - 5,000c
-Anchor On The Back                3,000c - 5,000c
+Anchor On The Back                3,000c - 6,000c
 Cubit Hat                         1,500c - 2,500c
 Cupid's Halo                      2,250,000c - 2,800,000c
 Cupid's Wings                     120,000c - 150,000c
