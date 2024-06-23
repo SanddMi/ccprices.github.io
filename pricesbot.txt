@@ -310,7 +310,7 @@ RoboZilla Head                    8,000c - 12,000c
 Easter Umbrella                   1,050,000c - 1,100,000c
 Umbrella                          150,000c - 200,000c
 New Easter Umbrella               2,000c - 3,000c
-Red Cherry Blossom Umbrella       5,000c - 8,000c
+Red Cherry Blossom Umbrella       3,000c - 6,000c
 Pink Cherry Blossom Umbrella      5,000c - 8,000c
 Red Traditional Umbrella          10,000c - 15,000c
 Easter Wand                       7,500c - 10,000c
