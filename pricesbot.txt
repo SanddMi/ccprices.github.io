@@ -704,7 +704,7 @@ Knife                             750c - 1,000c
 Flashlight                        800c - 1,500c
 Candle Hat                        150c - 400c
 Third Eye                         750c - 1,250c
-Hair Over Face                    150c - 400c
+Hair Over Face                    200c - 400c
 Ghost Designed Jacket             800c - 1,500c
 Pumpkin Shirt                     300c - 500c
 Pumpkin Pants                     300c - 500c
