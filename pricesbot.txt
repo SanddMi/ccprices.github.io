@@ -1059,7 +1059,7 @@ Level 49 Dragon Lair              30,000c - 35,000c
 Level 0 Bunny Kennel              16,000c - 18,000c
 Level 49 Bunny Kennel             22,500c - 27,500c
 Level 0 Dog Kennel                200c - 500c
-Level 49 Dog Kennel               7,000c - 8,000c
+Level 49 Dog Kennel               1,000c - 2,000c
 Level 0 Kitty Kennel              3,000c - 3,500c
 Level 49 Kitty Kennel             7,000c - 8,000c
 Level 0 Wuvva Pig Kennel          400,000c - 450,000c
