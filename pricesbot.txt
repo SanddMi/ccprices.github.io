@@ -1,4 +1,4 @@
-Top Hat                           80c - 140c
+Top Hat                           10c - 200c
 Feather Hat                       50c - 100c
 Beany                             25c - 75c
 Viking Helm                       40c - 80c
@@ -288,7 +288,7 @@ Least Fool's Cap                  7,000c - 8,000c
 Motley Shirt                      270,000c - 300,000c
 Motley Pants                      270,000c - 300,000c
 Jester Pack                       20,000c - 25,000c
-Jester's Cane                     80,000c - 100,000c
+Jester's Cane                     70,000c - 80,000c
 Clown Mask                        150,000c - 200,000c
 Dirt Block Hat                    5,000c - 7,000c
 Banana Split Hat                  10,000c - 12,000c
@@ -397,7 +397,7 @@ Rainbow Glasses                   27,500c - 32,500c
 Easter Sweater                    3,000c - 8,000c
 Rainbow Backpack                  55,000c - 65,000c
 Carrot Headphones                 3,000c - 7,500c
-Easter Scarf                      30,000c - 40,000c
+Easter Scarf                      17,500c - 22,500c
 Holdable Easter Basket            20,000c - 30,000c
 Rabbit Glasses                    3,000c - 5,000c
 Rabbit Backpack                   3,000c - 5,000c
@@ -451,7 +451,7 @@ Love Wand                         150c - 250c
 Knight's Sword                    1,500c - 2,500c
 Knight's Helmet 2                 13,000c - 16,000c
 Knight's Shield                   250c - 550c
-Teddy Bear Head                   500,000c - 550,000c
+Teddy Bear Head                   450,000c - 500,000c
 Teddy Bear Shirt                  250c - 500c
 Teddy Bear Pants                  250c - 500c
 Rainbow Unicorn Top               700c - 1,200c
@@ -538,7 +538,7 @@ Fishing Vest                      3,000c - 4,000c
 Fishing Pants                     3,000c - 4,000c
 Leather Backpack                  5,000c - 6,000c
 Camo Backpack                     3,000c - 4,000c
-Blue Backpack                     7,000c - 9,000c
+Blue Backpack                     4,500c - 6,500c
 Devil's Halo                      50,000c - 60,000c
 Red Angel Wings                   8,000c - 12,000c
 Orange Angel Wings                8,000c - 12,000c
@@ -615,7 +615,7 @@ Orange Halo                       500c - 750c
 Pink Halo                         500c - 750c
 Black Halo                        1,000c - 1,500c
 Hearth Halo                       750c - 1,250c
-Scythe                            650,000c - 700,000c
+Scythe                            620,000c - 670,000c
 Skull Balloon                     35,000c - 45,000c
 Spiderbrella                      2,000c - 2,500c
 Pumpkin Balloon                   2,000c - 3,000c
@@ -629,12 +629,12 @@ Nature's Staff                    150c - 350c
 Witch's Broom                     400c - 800c
 Head Vampire Outfit               200,000c - 250,000c
 Vampire's Cloak                   5,500c - 6,500c
-Headless                          1,200,000c - 1,400,000c
+Headless                          1,200,000c - 1,500,000c
 Ghost Costume                     670,000c - 700,000c
-Slyme Costume                     400,000c - 500,000c
+Slyme Costume                     500,000c - 600,000c
 Dino Head                         350,000c - 400,000c
 Monster Head                      270,000c - 300,000c
-Shark Head                        140,000c - 160,000c
+Shark Head                        155,000c - 165,000c
 Werewolf Head                     90,000c - 110,000c
 Pyramid Head                      45,000c - 55,000c
 Twobee Head                       10,000c - 20,000c
@@ -822,7 +822,7 @@ Ugly Christmas Sweater            100c - 200c
 Christmas Outfit                  100c - 200c
 Elf Glasses                       100c - 200c
 Christmas Glasses                 100c - 200c
-Orange & Yellow Scarf             275,000c - 325,000c
+Orange & Yellow Scarf             200,000c - 250,000c
 Blue & White Scarf                30,000c - 50,000c
 Red & Green Scarf                 8,000c - 12,000c
 Starry Scarf                      15,000c - 18,000c
@@ -866,7 +866,7 @@ Peppermint Shirt                  500c - 1,000c
 Peppermint Umbrella               750c - 1,500c
 Snowman Balloon                   1,000c - 1,500c
 Snowflake Umbrella                1,200c - 1,500c
-Cup of Cocoa                      10,000c - 12,000c
+Cup of Cocoa                      8,000c - 10,000c
 Holly Top Hat                     800c - 1,300c
 Nutcracker Head                   25,000c - 30,000c
 Coonskin Cap                      1,000c - 1,500c
@@ -886,7 +886,7 @@ Yellow Orange Party Trumpet       1,000c - 1,500c
 Blue Green Party Trumpet          1,000c - 1,500c
 Red Purple Party Trumpet          1,000c - 1,500c
 Firework Backpack                 30,000c - 40,000c
-Premium 2019 New Year's Hat       9,000c - 13,000c
+Premium 2019 New Year's Hat       12,000c - 15,000c
 StrawBerry CakeHat                1,500c - 2,000c
 Vanilla CakeHat                   1,500c - 2,500c
 Chocolate CakeHat                 2,000c - 3,000c
@@ -1071,7 +1071,7 @@ Level 0 Black Cat Kennel          700,000c - 800,000c
 Level 49 Black Cat Kennel         600,000c - 650,000c
 Level 0 Pumpkin Kennel            850,000c - 950,000c
 Level 49 Pumpkin Kennel           575,000c - 625,000c
-Level 0 Spider Den                150,000c - 180,000c
+Level 0 Spider Den                130,000c - 170,000c
 Level 49 Spider Den               120,000c - 150,000c
 Level 0 Mutant Hopper House       25,000c - 35,000c
 Level 49 Mutant Hopper House      40,000c - 50,000c
