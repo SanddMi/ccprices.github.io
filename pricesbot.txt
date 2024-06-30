@@ -615,7 +615,7 @@ Orange Halo                       500c - 750c
 Pink Halo                         500c - 750c
 Black Halo                        1,000c - 1,500c
 Hearth Halo                       750c - 1,250c
-Scythe                            620,000c - 670,000c
+Scythe                            650,000c - 700,000c
 Skull Balloon                     35,000c - 45,000c
 Spiderbrella                      2,000c - 2,500c
 Pumpkin Balloon                   2,000c - 3,000c
