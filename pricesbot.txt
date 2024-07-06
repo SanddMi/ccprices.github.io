@@ -301,6 +301,7 @@ Half Hat                          1,500c - 2,000c
 Turner Head                       4,000c - 6,000c
 Mushroom Umbrella                 1,250c - 1,750c
 Pot Hat                           2,500c - 3,500c
+LongFace                          2,000c - 3,000c
 Lightbulb Hat                     1,250c - 1,750c
 Golden Egg Costume                330,000c - 380,000c
 Rainbow Umbrella                  475,000c - 525,000c
