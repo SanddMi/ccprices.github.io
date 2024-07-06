@@ -519,7 +519,7 @@ Scuba Mask                        150,000c - 200,000c
 Blue Hawaiian Shirt               130,000c - 150,000c
 Black Hawaiian Shirt              30,000c - 35,000c
 Hairy Guy On The Beach Chest      35,000c - 45,000c
-Hairy Guy On The Beach Thong      130,000c - 150,000c
+Hairy Guy On The Beach Thong      200,000c - 220,000c
 Black Bikini Top                  30,000c - 35,000c
 Black Bikini Bottoms              90,000c - 100,000c
 Pink Bikini Top                   3,500c - 4,500c
