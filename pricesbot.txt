@@ -658,7 +658,7 @@ Dragon Head                       4,000c - 6,000c
 Goblin Head                       300c - 500c
 Mouth Head                        500c - 1,000c
 Mad Scientist Wig                 500c - 1,000c
-Lagoon Lurker                     300c - 800c
+Lagoon Lurker                     1,500c - 3,000c
 Anubis Mask                       150c - 300c
 Spider Head                       150c - 250c
 Cleopatra Wig                     150c - 300c
