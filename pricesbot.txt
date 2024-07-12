@@ -507,7 +507,7 @@ Chocolate Wings                   1,000c - 1,500c
 Pink Dress Top                    500c - 1,000c
 Pink Dress Skirt                  500c - 1,000c
 Pink Suit Top                     5,000c - 7,000c
-Pink Suit Pants                   10,000c - 14,000c
+Pink Suit Pants                   10,000c - 13,000c
 Violin Backpack                   7,000c - 10,000c
 Pink Heart Lollipop               300c - 800c
 Blue Heart Lollipop               300c - 800c
