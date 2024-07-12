@@ -897,7 +897,7 @@ Cube Balloon                      1,500c - 2,500c
 2024 Premium Cap                  2,000c - 3,000c
 Firework 2024 Hat                 500c - 1,000c
 2024 Celebration Hat              500c - 1,000c
-Golden Dapper Hat                 130,000c - 170,000c
+Golden Dapper Hat                 140,000c - 180,000c
 Slymegood Head                    150c - 250c
 Slyme Safety Helmet 02            2,000c - 2,500c
 Slyme Safety Helmet 01            2,000c - 2,500c
