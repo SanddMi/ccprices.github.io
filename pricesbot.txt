@@ -600,7 +600,7 @@ Ice Sword                         150c - 250c
 Soda Can (On Hand)                500c - 1,000c
 White Lace Umbrella               2,500c - 3,500c
 Churro                            150c - 250c
-Cheese Backpack                   800c - 1,200c
+Cheese Backpack                   1,500c - 2,500c
 Backpack Calculator               150c - 300c
 Yellow Balloon                    350c - 550c
 Violet Balloon                    350c - 550c
