@@ -649,7 +649,7 @@ Grey Plague Doctor                4,500c - 6,500c
 Plague Doctor                     500c - 1,000c
 Psychic Revalation Cap            1,500c - 2,500c
 Psychic Repulsion Cap             1,500c - 2,500c
-Sub-Vampire Outfit                5,000c - 7,500c
+Sub-Vampire Outfit                8,000c - 12,000c
 Frankenstein Head                 1,500c - 2,500c
 Pumpkin Head                      500c - 1,000c
 Robot Head                        750c - 1,500c
