@@ -254,7 +254,7 @@ Green Explorer Backpack           1,500c - 2,500c
 Green Explorer Top                2,000c - 2,500c
 Green Explorer Pants              2,000c - 2,500c
 Bull Whip                         2,000c - 3,000c
-Machete                           5,500c - 6,500c
+Machete                           4,500c - 5,500c
 Torch                             2,500c - 3,500c
 Walking Stick                     2,000c - 3,000c
 Fishmaster Rod                    6,000c - 8,000c
