@@ -418,7 +418,7 @@ Cubit Hat                         2,500c - 3,500c
 Cupid's Halo                      2,500,000c - 3,000,000c
 Cupid's Wings                     150,000c - 200,000c
 Valentine Wings                   35,000c - 40,000c
-Heart Wings                       3,000c - 4,000c
+Heart Wings                       10,000c - 15,000c
 Wuvva Scarf                       10,000c - 15,000c
 Heart BackPack                    500c - 1,000c
 Mouse BackPack                    750c - 1,250c
