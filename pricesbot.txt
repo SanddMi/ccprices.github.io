@@ -711,7 +711,7 @@ Ghost Designed Jacket             800c - 1,500c
 Pumpkin Shirt                     300c - 500c
 Pumpkin Pants                     300c - 500c
 Demon Mask                        2,000c - 3,000c
-Golden Demon Mask                 500c - 1,000c
+Golden Demon Mask                 1,000c - 2,000c
 Minotaur Head                     6,000c - 8,000c
 Voodoo Doll Head                  2,000c - 3,000c
 Voodoo Shirt                      2,000c - 3,000c
