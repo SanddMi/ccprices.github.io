@@ -644,7 +644,7 @@ Toothbee Head                     5,000c - 8,000c
 Cyclobee Head                     5,000c - 8,000c
 Alien Mask                        15,000c - 18,000c
 Dark Visitor                      15,000c - 25,000c
-Black Plague Doctor               30,000c - 50,000c
+Black Plague Doctor               17,500c - 30,000c
 Grey Plague Doctor                4,500c - 6,500c
 Plague Doctor                     500c - 1,000c
 Psychic Revalation Cap            1,500c - 2,500c
