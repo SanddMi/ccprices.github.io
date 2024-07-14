@@ -660,7 +660,7 @@ Mouth Head                        500c - 1,000c
 Mad Scientist Wig                 500c - 1,000c
 Lagoon Lurker                     1,500c - 3,000c
 Anubis Mask                       150c - 300c
-Spider Head                       150c - 250c
+Spider Head                       500c - 1,000c
 Cleopatra Wig                     150c - 300c
 Bride of Frankenstein Wig         150c - 250c
 Medusa Wig                        150c - 250c
