@@ -293,7 +293,7 @@ Clown Mask                        150,000c - 200,000c
 Dirt Block Hat                    6,500c - 8,000c
 Banana Split Hat                  11,500c - 15,000c
 Beaglepuss                        8,000c - 12,000c
-Hipno Shadez                      25,000c - 35,000c
+Hipno Shadez                      30,000c - 40,000c
 Hipno Shades                      6,000c - 10,000c
 Worn Hat                          3,000c - 5,000c
 Broken Glasses                    1,500c - 2,000c
