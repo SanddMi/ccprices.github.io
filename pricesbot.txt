@@ -200,7 +200,7 @@ Simple Mask                       3,000c - 4,000c
 N95 Mask                          1,250c - 1,750c
 Executioner's Mask                3,750c - 4,500c
 Iron Mask                         2,000c - 2,500c
-Gargoyle Mask                     550c - 850c
+Gargoyle Mask                     350c - 550c
 Farmer's Hat                      10c - 25c
 Farmer's Overalls                 25c - 50c
 Farmer's Jeans                    25c - 50c
