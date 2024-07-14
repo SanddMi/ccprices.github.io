@@ -619,7 +619,7 @@ Hearth Halo                       750c - 1,250c
 Scythe                            850,000c - 950,000c
 Skull Balloon                     45,000c - 55,000c
 Spiderbrella                      1,200c - 1,700c
-Pumpkin Balloon                   2,000c - 3,000c
+Pumpkin Balloon                   2,500c - 4,000c
 Jack-O-Brella                     1,250c - 1,750c
 Trick or Treat Bag                1,000c - 1,500c
 Pumpkin Pack                      150,000c - 200,000c
