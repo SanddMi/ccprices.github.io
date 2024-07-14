@@ -719,7 +719,7 @@ Voodoo Pants                      2,000c - 3,000c
 Button Eyes                       4,000c - 7,000c
 Tombstone Backpack                2,000c - 3,000c
 Pumpkin Basket                    2,500c - 3,500c
-Devil's Pitchfork                 2,000c - 3,000c
+Devil's Pitchfork                 5,000c - 7,000c
 Giant Needle                      650c - 1,000c
 Ogre Club                         500c - 1,000c
 Trumpet Hat                       275,000c - 325,000c
