@@ -995,7 +995,7 @@ Claim 1 Week Bumper               300c - 400c
 Claim 1 Day Bumper                300c - 400c
 Claim 1 Hour Bumper               300c - 400c
 Foundation Block                  2c - 3c
-Warp Crunch Bumper                1,500c - 2,000c
+Warp Crunch Bumper                1,750c - 2,500c
 Trans-Pickle Bumper               650c - 750c
 Telefrank Bumper                  600c - 700c
 Warp Cola Bumper                  550c - 650c
