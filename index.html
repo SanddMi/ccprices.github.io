@@ -21,10 +21,24 @@
 		margin: 0px;
 		padding: 0px;
 		background-color: rgb(23 23 66);
-		background-image: url(stars2.png);
+		/*background-image: url(stars2.png);*/
 		transition-duration: 2s;
 		background-position: 5px
 		user-select: none;
+	}
+
+	body::before {
+	    content: "";
+	    position: absolute;
+	    top: 0;
+	    left: 0;
+	    right: 0;
+	    bottom: 0;
+	    background-image: url('stars2.png');
+	    background-size: 70%;
+	    opacity: 0.1;
+	    z-index: -1;
+	    /*animation: moveBackground 120s linear infinite;*/
 	}
 
 	@media screen and (max-width: 767px) {
